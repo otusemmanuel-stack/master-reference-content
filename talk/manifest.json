@@ -1,6 +1,1158 @@
 {
-  "version": 1,
+  "version": 2,
   "packs": [
+    {
+      "id": "2026-10-gong",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-gong-en.json",
+      "title": "Come to the Lord in His Holy House (Elder GerritÂ W. Gong)"
+    },
+    {
+      "id": "2026-10-gong",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-gong-fr.json",
+      "title": "Venez au Seigneur dans sa sainte maison (GerritÂ W. Gong)"
+    },
+    {
+      "id": "2026-10-runia",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-runia-en.json",
+      "title": "The Sculpting of Our Souls (Sister TamaraÂ W. Runia)"
+    },
+    {
+      "id": "2026-10-runia",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-runia-fr.json",
+      "title": "Il sculpte notre Ã¢me (TamaraÂ W. Runia)"
+    },
+    {
+      "id": "2026-10-causse",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-causse-en.json",
+      "title": "The Gift of Testimony (Elder GÃ©rald CaussÃ©)"
+    },
+    {
+      "id": "2026-10-causse",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-causse-fr.json",
+      "title": "Le don du tÃ©moignage (GÃ©rald CaussÃ©)"
+    },
+    {
+      "id": "2026-10-sikahema",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-sikahema-en.json",
+      "title": "Prophets, Seers, and Revelators (Elder Vaiangina Sikahema)"
+    },
+    {
+      "id": "2026-10-sikahema",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-sikahema-fr.json",
+      "title": "ProphÃ¨tes, voyants et rÃ©vÃ©lateurs (Vaiangina Sikahema)"
+    },
+    {
+      "id": "2026-10-hathaway",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-hathaway-en.json",
+      "title": "Jesus Christ Is the Great Deliverer! (Elder KevinÂ J. Hathaway)"
+    },
+    {
+      "id": "2026-10-hathaway",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-hathaway-fr.json",
+      "title": "JÃ©sus-Christ est le grand libÃ©rateurÂ ! (KevinÂ J. Hathaway)"
+    },
+    {
+      "id": "2026-10-soares",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-soares-en.json",
+      "title": "A Higher and Holier Fast (Elder Ulisses Soares)"
+    },
+    {
+      "id": "2026-10-soares",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-soares-fr.json",
+      "title": "Un jeÃ»ne plus Ã©levÃ© et plus saint (Ulisses Soares)"
+    },
+    {
+      "id": "2026-10-douglas",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-douglas-en.json",
+      "title": "The Hour of Your Mission Is Come (Bishop Sean Douglas)"
+    },
+    {
+      "id": "2026-10-douglas",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-douglas-fr.json",
+      "title": "Lâheure de votre mission est arrivÃ©e (Sean Douglas)"
+    },
+    {
+      "id": "2026-10-christofferson",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-christofferson-en.json",
+      "title": "O Be Wise (President D.Â Todd Christofferson)"
+    },
+    {
+      "id": "2026-10-christofferson",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-christofferson-fr.json",
+      "title": "OhÂ ! ayez de la sagesseÂ ! (D.Â Todd Christofferson)"
+    },
+    {
+      "id": "2026-10-renlund",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-renlund-en.json",
+      "title": "âHow Long Will It Be Ere They Believe Me?â (Elder DaleÂ G. Renlund)"
+    },
+    {
+      "id": "2026-10-renlund",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-renlund-fr.json",
+      "title": "Â«Â JusquâÃ quand ne croira-t-il pas en moiÂ ?Â Â» (DaleÂ G. Renlund)"
+    },
+    {
+      "id": "2026-10-farnes",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-farnes-en.json",
+      "title": "Divine Appointments (President TimothyÂ L. Farnes)"
+    },
+    {
+      "id": "2026-10-farnes",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-farnes-fr.json",
+      "title": "Les rendez-vous divins (TimothyÂ L. Farnes)"
+    },
+    {
+      "id": "2026-10-chigbundu",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-chigbundu-en.json",
+      "title": "Spiritual Immunity (Elder ChristianÂ C. Chigbundu)"
+    },
+    {
+      "id": "2026-10-chigbundu",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-chigbundu-fr.json",
+      "title": "LâimmunitÃ© spirituelle (ChristianÂ C. Chigbundu)"
+    },
+    {
+      "id": "2026-10-giuffra",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-giuffra-en.json",
+      "title": "Trusting the Lord Through Tithes and Offerings (Elder PatricioÂ M. Giuffra)"
+    },
+    {
+      "id": "2026-10-giuffra",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-giuffra-fr.json",
+      "title": "Faire confiance au Seigneur par la dÃ®me et les offrandes (PatricioÂ M. Giuffra)"
+    },
+    {
+      "id": "2026-10-morgan",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-morgan-en.json",
+      "title": "The Infinite Power of God in Our Covenants (Elder JeremiahÂ J. Morgan)"
+    },
+    {
+      "id": "2026-10-morgan",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-morgan-fr.json",
+      "title": "Le pouvoir infini de Dieu dans nos alliances (JeremiahÂ J. Morgan)"
+    },
+    {
+      "id": "2026-10-fale",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-fale-en.json",
+      "title": "I Am a Child of God (Elder HutchÂ U. Fale)"
+    },
+    {
+      "id": "2026-10-fale",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-fale-fr.json",
+      "title": "Je suis enfant de Dieu (HutchÂ U. Fale)"
+    },
+    {
+      "id": "2026-10-kearon",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-kearon-en.json",
+      "title": "Jesus Lives to Lift (Elder Patrick Kearon)"
+    },
+    {
+      "id": "2026-10-kearon",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-kearon-fr.json",
+      "title": "JÃ©sus vit pour nous Ã©lever (Patrick Kearon)"
+    },
+    {
+      "id": "2026-10-dunn",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-dunn-en.json",
+      "title": "The Ninety and Ten (Elder MichaelÂ A. Dunn)"
+    },
+    {
+      "id": "2026-10-dunn",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-dunn-fr.json",
+      "title": "Le principe du Â«Â 90/10Â Â» (MichaelÂ A. Dunn)"
+    },
+    {
+      "id": "2026-10-eyring",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-eyring-en.json",
+      "title": "Comfort from the Holy Ghost (Elder MatthewÂ J. Eyring)"
+    },
+    {
+      "id": "2026-10-eyring",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-eyring-fr.json",
+      "title": "Le rÃ©confort du Saint-Esprit (MatthewÂ J. Eyring)"
+    },
+    {
+      "id": "2026-10-rasband",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-rasband-en.json",
+      "title": "Love Like Jesus (Elder RonaldÂ A. Rasband)"
+    },
+    {
+      "id": "2026-10-rasband",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-rasband-fr.json",
+      "title": "Aimer comme JÃ©sus (RonaldÂ A. Rasband)"
+    },
+    {
+      "id": "2026-10-eyring",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-eyring-en.json",
+      "title": "âFear Not, I Am with Theeâ (President HenryÂ B. Eyring)"
+    },
+    {
+      "id": "2026-10-eyring",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-eyring-fr.json",
+      "title": "Â«Â Ne crains rien car je suis avec toiÂ Â» (HenryÂ B. Eyring)"
+    },
+    {
+      "id": "2026-10-chibota",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-chibota-en.json",
+      "title": "A Child of God (President RosemaryÂ K. Chibota)"
+    },
+    {
+      "id": "2026-10-chibota",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-chibota-fr.json",
+      "title": "Un enfant de Dieu (RosemaryÂ K. Chibota)"
+    },
+    {
+      "id": "2026-10-andersen",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-andersen-en.json",
+      "title": "Courage Born of Our Faith in Jesus Christ (Elder NeilÂ L. Andersen)"
+    },
+    {
+      "id": "2026-10-andersen",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-andersen-fr.json",
+      "title": "Le courage nÃ© de notre foi en JÃ©sus-Christ (NeilÂ L. Andersen)"
+    },
+    {
+      "id": "2026-10-fantone",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-fantone-en.json",
+      "title": "Take Upon Us His Name (Elder JamesÂ G.Â O. Fantone)"
+    },
+    {
+      "id": "2026-10-fantone",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-fantone-fr.json",
+      "title": "Prendre son nom sur nous (JamesÂ G.Â O. Fantone)"
+    },
+    {
+      "id": "2026-10-dube",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-dube-en.json",
+      "title": "Come unto Christ (Elder Edward Dube)"
+    },
+    {
+      "id": "2026-10-dube",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-dube-fr.json",
+      "title": "Venez au Christ (Edward Dube)"
+    },
+    {
+      "id": "2026-10-cook",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-cook-en.json",
+      "title": "Integrity and Virtue Lead to Happiness (Elder QuentinÂ L. Cook)"
+    },
+    {
+      "id": "2026-10-cook",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-cook-fr.json",
+      "title": "LâintÃ©gritÃ© et la vertu mÃ¨nent au bonheur (QuentinÂ L. Cook)"
+    },
+    {
+      "id": "2026-10-kyungu",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-kyungu-en.json",
+      "title": "Using the Language of Peacemakers (Elder Alfred Kyungu)"
+    },
+    {
+      "id": "2026-10-kyungu",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-kyungu-fr.json",
+      "title": "Employer le langage des artisans de paix (Alfred Kyungu)"
+    },
+    {
+      "id": "2026-10-schmeil",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-schmeil-en.json",
+      "title": "Consider Your Ways, and from This Day Will the Lord Bless You (Elder Ciro Schmeil)"
+    },
+    {
+      "id": "2026-10-schmeil",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-schmeil-fr.json",
+      "title": "Â«Â ConsidÃ©rez attentivement votre conduite et, dÃ¨s ce jour je rÃ©pandrai ma bÃ©nÃ©dictionÂ Â» (Ciro Schmeil)"
+    },
+    {
+      "id": "2026-10-oaks",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-oaks-en.json",
+      "title": "The Gospel of Jesus Christ Is for All (President DallinÂ H. Oaks)"
+    },
+    {
+      "id": "2026-10-oaks",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-oaks-fr.json",
+      "title": "LâÃvangile de JÃ©sus-Christ est pour tous (DallinÂ H. Oaks)"
+    },
+    {
+      "id": "2026-10-uchtdorf",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-uchtdorf-en.json",
+      "title": "Christ-Centered Unity (President DieterÂ F. Uchtdorf)"
+    },
+    {
+      "id": "2026-10-uchtdorf",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-uchtdorf-fr.json",
+      "title": "LâunitÃ© centrÃ©e sur le Christ (DieterÂ F. Uchtdorf)"
+    },
+    {
+      "id": "2026-10-munoz-spannaus",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-munoz-spannaus-en.json",
+      "title": "God Is at Your Side (Sister Andrea MuÃ±oz Spannaus)"
+    },
+    {
+      "id": "2026-10-munoz-spannaus",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-munoz-spannaus-fr.json",
+      "title": "Dieu est Ã vos cÃ´tÃ©s (Andrea MuÃ±oz Spannaus)"
+    },
+    {
+      "id": "2026-10-villanueva",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-villanueva-en.json",
+      "title": "âProve Me Now Herewithâ (Elder MoisÃ©s Villanueva)"
+    },
+    {
+      "id": "2026-10-villanueva",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-villanueva-fr.json",
+      "title": "Â«Â Mettez-moi de la sorte Ã lâÃ©preuveÂ Â» (MoisÃ©s Villanueva)"
+    },
+    {
+      "id": "2026-10-bednar",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-bednar-en.json",
+      "title": "Sealed by the Holy Spirit of Promise (Elder DavidÂ A. Bednar)"
+    },
+    {
+      "id": "2026-10-bednar",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-bednar-fr.json",
+      "title": "ScellÃ©s par le Saint-Esprit de promesse (DavidÂ A. Bednar)"
+    },
+    {
+      "id": "2026-10-lebethoa",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-lebethoa-en.json",
+      "title": "Jesus Christ Is the Light and Life of the World (Elder Thabo Lebethoa)"
+    },
+    {
+      "id": "2026-10-lebethoa",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-lebethoa-fr.json",
+      "title": "JÃ©sus-Christ est la lumiÃ¨re et la vie du monde (Thabo Lebethoa)"
+    },
+    {
+      "id": "2026-10-sinclair",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-sinclair-en.json",
+      "title": "Quick to Help, Slow to Judge (Elder PaulÂ H. Sinclair)"
+    },
+    {
+      "id": "2026-10-sinclair",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-sinclair-fr.json",
+      "title": "Prompt Ã aider, lent Ã juger (PaulÂ H. Sinclair)"
+    },
+    {
+      "id": "2026-10-stevenson",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-stevenson-en.json",
+      "title": "Fruit to Make One Happy (Elder GaryÂ E. Stevenson)"
+    },
+    {
+      "id": "2026-10-stevenson",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-stevenson-fr.json",
+      "title": "Le fruit qui rend heureux (GaryÂ E. Stevenson)"
+    },
+    {
+      "id": "2026-10-reid",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-reid-en.json",
+      "title": "You Are Good Enough to Teach (Brother GabrielÂ W. Reid)"
+    },
+    {
+      "id": "2026-10-reid",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-reid-fr.json",
+      "title": "Vous Ãªtes qualifiÃ©s pour enseigner (GabrielÂ W. Reid)"
+    },
+    {
+      "id": "2026-10-gilbert",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-gilbert-en.json",
+      "title": "Teach Truth with Love (Elder ClarkÂ G. Gilbert)"
+    },
+    {
+      "id": "2026-10-gilbert",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-gilbert-fr.json",
+      "title": "Enseigner la vÃ©ritÃ© avec amour (ClarkÂ G. Gilbert)"
+    },
+    {
+      "id": "2026-10-oaks",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-10-oaks-en.json",
+      "title": "Closing Remarks (President DallinÂ H. Oaks)"
+    },
+    {
+      "id": "2026-10-oaks",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-10-oaks-fr.json",
+      "title": "Observations finales (DallinÂ H. Oaks)"
+    },
+    {
+      "id": "2026-04-oaks",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-oaks-en.json",
+      "title": "Introduction (President DallinÂ H. Oaks)"
+    },
+    {
+      "id": "2026-04-oaks",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-oaks-fr.json",
+      "title": "Introduction (DallinÂ H. Oaks)"
+    },
+    {
+      "id": "2026-04-christofferson",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-christofferson-en.json",
+      "title": "Solemn Assembly (Presented by President D.Â Todd Christofferson)"
+    },
+    {
+      "id": "2026-04-christofferson",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-christofferson-fr.json",
+      "title": "AssemblÃ©e solennelle (PrÃ©sentÃ©e par D.Â Todd Christofferson)"
+    },
+    {
+      "id": "2026-04-kearon",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-kearon-en.json",
+      "title": "About His Business (Elder Patrick Kearon)"
+    },
+    {
+      "id": "2026-04-kearon",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-kearon-fr.json",
+      "title": "Au service du PÃ¨re (Patrick Kearon)"
+    },
+    {
+      "id": "2026-04-yee",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-yee-en.json",
+      "title": "MinisteringââThat Ye Love One Another; as I Have Loved Youâ (Sister KristinÂ M. Yee)"
+    },
+    {
+      "id": "2026-04-yee",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-yee-fr.json",
+      "title": "Le service pastoralÂ : Â«Â Aimez-vous les uns les autresÂ ; comme je vous ai aimÃ©sÂ Â» (KristinÂ M. Yee)"
+    },
+    {
+      "id": "2026-04-gilbert",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-gilbert-en.json",
+      "title": "Come Home (Elder ClarkÂ G. Gilbert)"
+    },
+    {
+      "id": "2026-04-gilbert",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-gilbert-fr.json",
+      "title": "RevenezÂ ! (ClarkÂ G. Gilbert)"
+    },
+    {
+      "id": "2026-04-bednar",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-bednar-en.json",
+      "title": "All Who Have Endured Valiantly (Elder DavidÂ A. Bednar)"
+    },
+    {
+      "id": "2026-04-bednar",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-bednar-fr.json",
+      "title": "Tous ceux qui ont persÃ©vÃ©rÃ© vaillamment (DavidÂ A. Bednar)"
+    },
+    {
+      "id": "2026-04-teh",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-teh-en.json",
+      "title": "Follow the Prophet; He Knows the Way (Elder Michael John U. Teh)"
+    },
+    {
+      "id": "2026-04-teh",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-teh-fr.json",
+      "title": "Suivez le prophÃ¨te, car il saura toujours vous guider (MichaelÂ JohnÂ U. Teh)"
+    },
+    {
+      "id": "2026-04-becerra",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-becerra-en.json",
+      "title": "TithingâPutting God First (Elder JorgeÂ T. Becerra)"
+    },
+    {
+      "id": "2026-04-becerra",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-becerra-fr.json",
+      "title": "La dÃ®meÂ : Donner la prioritÃ© Ã Dieu (JorgeÂ T. Becerra)"
+    },
+    {
+      "id": "2026-04-eyring",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-eyring-en.json",
+      "title": "Prayers for Peace (President HenryÂ B. Eyring)"
+    },
+    {
+      "id": "2026-04-eyring",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-eyring-fr.json",
+      "title": "PriÃ¨res pour la paix (HenryÂ B. Eyring)"
+    },
+    {
+      "id": "2026-04-stevenson",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-stevenson-en.json",
+      "title": "Lost Luggage, Redeemed Souls (Elder GaryÂ E. Stevenson)"
+    },
+    {
+      "id": "2026-04-stevenson",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-stevenson-fr.json",
+      "title": "Des bagages perdus, des Ã¢mes rachetÃ©es (GaryÂ E. Stevenson)"
+    },
+    {
+      "id": "2026-04-ortega",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-ortega-en.json",
+      "title": "ChristâAuthor and Finisher of Our Faith (Elder EduardoÂ F. Ortega)"
+    },
+    {
+      "id": "2026-04-ortega",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-ortega-fr.json",
+      "title": "Le Christ, lâauteur et le consommateur de notre foi (EduardoÂ F. Ortega)"
+    },
+    {
+      "id": "2026-04-wu",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-wu-en.json",
+      "title": "âI Will Give Away All My Sins to Know Theeâ (Elder Wan-Liang Wu)"
+    },
+    {
+      "id": "2026-04-wu",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-wu-fr.json",
+      "title": "Â«Â Je dÃ©laisserai tous mes pÃ©chÃ©s pour te connaÃ®treÂ Â» (Wan-Liang Wu)"
+    },
+    {
+      "id": "2026-04-wunderli",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-wunderli-en.json",
+      "title": "Jesus Christ Is Not Our Burden; He Is Our Relief (Brother DavidÂ J. Wunderli)"
+    },
+    {
+      "id": "2026-04-wunderli",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-wunderli-fr.json",
+      "title": "JÃ©sus-Christ nâest pas notre fardeauÂ : il est notre soutien (DavidÂ J. Wunderli)"
+    },
+    {
+      "id": "2026-04-causse",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-causse-en.json",
+      "title": "Love All; Love Each (Elder GÃ©rald CaussÃ©)"
+    },
+    {
+      "id": "2026-04-causse",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-causse-fr.json",
+      "title": "Aimer tout le mondeÂ ; Aimer chacun (GÃ©rald CaussÃ©)"
+    },
+    {
+      "id": "2026-04-holmes",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-holmes-en.json",
+      "title": "Jesus Christ Is the Way (Elder BrianÂ J. Holmes)"
+    },
+    {
+      "id": "2026-04-holmes",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-holmes-fr.json",
+      "title": "JÃ©sus-Christ est le chemin (BrianÂ J. Holmes)"
+    },
+    {
+      "id": "2026-04-matswagothata",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-matswagothata-en.json",
+      "title": "He Knows You by Name (Elder ClementÂ M. Matswagothata)"
+    },
+    {
+      "id": "2026-04-matswagothata",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-matswagothata-fr.json",
+      "title": "Il connaÃ®t votre nom (ClementÂ M. Matswagothata)"
+    },
+    {
+      "id": "2026-04-soares",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-soares-en.json",
+      "title": "Jesus Christâthe True Vine (Elder Ulisses Soares)"
+    },
+    {
+      "id": "2026-04-soares",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-soares-fr.json",
+      "title": "JÃ©sus-Christ est le vrai Cep (Ulisses Soares)"
+    },
+    {
+      "id": "2026-04-uchtdorf",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-uchtdorf-en.json",
+      "title": "Encounter at the Empty Tomb (President DieterÂ F. Uchtdorf)"
+    },
+    {
+      "id": "2026-04-uchtdorf",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-uchtdorf-fr.json",
+      "title": "LâexpÃ©rience du sÃ©pulcre vide (DieterÂ F. Uchtdorf)"
+    },
+    {
+      "id": "2026-04-freeman",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-freeman-en.json",
+      "title": "Best Days and Worst Days (President Emily Belle Freeman)"
+    },
+    {
+      "id": "2026-04-freeman",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-freeman-fr.json",
+      "title": "Dans les bons comme dans les mauvais jours (Emily Belle Freeman)"
+    },
+    {
+      "id": "2026-04-larreal",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-larreal-en.json",
+      "title": "I Feel My Saviorâs Love (Elder PedroÂ X. Larreal)"
+    },
+    {
+      "id": "2026-04-larreal",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-larreal-fr.json",
+      "title": "Je ressens lâamour du Sauveur (PedroÂ X. Larreal)"
+    },
+    {
+      "id": "2026-04-rowe",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-rowe-en.json",
+      "title": "Choose Jesus Christ as Your Guide (Elder EdwardÂ B. Rowe)"
+    },
+    {
+      "id": "2026-04-rowe",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-rowe-fr.json",
+      "title": "Choisissez JÃ©sus-Christ comme guide (EdwardÂ B. Rowe)"
+    },
+    {
+      "id": "2026-04-rasband",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-rasband-en.json",
+      "title": "He Is Risen (Elder RonaldÂ A. Rasband)"
+    },
+    {
+      "id": "2026-04-rasband",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-rasband-fr.json",
+      "title": "Il est ressuscitÃ© (RonaldÂ A. Rasband)"
+    },
+    {
+      "id": "2026-04-renlund",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-renlund-en.json",
+      "title": "Because of Jesus Christ (Elder DaleÂ G. Renlund)"
+    },
+    {
+      "id": "2026-04-renlund",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-renlund-fr.json",
+      "title": "GrÃ¢ce Ã JÃ©sus-Christ (DaleÂ G. Renlund)"
+    },
+    {
+      "id": "2026-04-mutombo",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-mutombo-en.json",
+      "title": "The Joy of a Covenant Relationship with God (Elder ThierryÂ K. Mutombo)"
+    },
+    {
+      "id": "2026-04-mutombo",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-mutombo-fr.json",
+      "title": "La joie dâune relation dâalliance avec Dieu (ThierryÂ K. Mutombo)"
+    },
+    {
+      "id": "2026-04-walker",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-walker-en.json",
+      "title": "A Peculiar Treasure (Elder AlanÂ R. Walker)"
+    },
+    {
+      "id": "2026-04-walker",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-walker-fr.json",
+      "title": "Un trÃ©sor merveilleux (AlanÂ R. Walker)"
+    },
+    {
+      "id": "2026-04-oaks",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-oaks-en.json",
+      "title": "Alive in Christ (President DallinÂ H. Oaks)"
+    },
+    {
+      "id": "2026-04-oaks",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-oaks-fr.json",
+      "title": "Vivants en Christ (DallinÂ H. Oaks)"
+    },
+    {
+      "id": "2026-04-christofferson",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-christofferson-en.json",
+      "title": "The Character of Christ (President D.Â Todd Christofferson)"
+    },
+    {
+      "id": "2026-04-christofferson",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-christofferson-fr.json",
+      "title": "La personnalitÃ© du Christ (D.Â Todd Christofferson)"
+    },
+    {
+      "id": "2026-04-wong",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-wong-en.json",
+      "title": "Remember, Remember (Elder Chi Hong (Sam) Wong)"
+    },
+    {
+      "id": "2026-04-wong",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-wong-fr.json",
+      "title": "Souvenez-vous, souvenez-vous (Chi Hong (Sam) Wong)"
+    },
+    {
+      "id": "2026-04-hall",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-hall-en.json",
+      "title": "I Glory in My Jesus (Elder AaronÂ T. Hall)"
+    },
+    {
+      "id": "2026-04-hall",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-hall-fr.json",
+      "title": "Je mets ma gloire en mon JÃ©sus (AaronÂ T. Hall)"
+    },
+    {
+      "id": "2026-04-porter",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-porter-en.json",
+      "title": "âHere Am I, Send Meâ (President SusanÂ H. Porter)"
+    },
+    {
+      "id": "2026-04-porter",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-porter-fr.json",
+      "title": "Â«Â Me voici, envoie-moiÂ Â» (SusanÂ H. Porter)"
+    },
+    {
+      "id": "2026-04-andersen",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-andersen-en.json",
+      "title": "Eternal Marriage Is an Eternal Journey (Elder NeilÂ L. Andersen)"
+    },
+    {
+      "id": "2026-04-andersen",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-andersen-fr.json",
+      "title": "Le mariage Ã©ternel est un parcours Ã©ternel (NeilÂ L. Andersen)"
+    },
+    {
+      "id": "2026-04-cook",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-cook-en.json",
+      "title": "Keys, Covenants, and Easter (Elder QuentinÂ L. Cook)"
+    },
+    {
+      "id": "2026-04-cook",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-cook-fr.json",
+      "title": "Les clÃ©s, les alliances et PÃ¢ques (QuentinÂ L. Cook)"
+    },
+    {
+      "id": "2026-04-wakolo",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-wakolo-en.json",
+      "title": "Come unto ChristâTogether (Elder TanielaÂ B. Wakolo)"
+    },
+    {
+      "id": "2026-04-wakolo",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-wakolo-fr.json",
+      "title": "Venir au Christ ensemble (TanielaÂ B. Wakolo)"
+    },
+    {
+      "id": "2026-04-gong",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-gong-en.json",
+      "title": "âTis Eastertide: No One Walks Alone (Elder GerritÂ W. Gong)"
+    },
+    {
+      "id": "2026-04-gong",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-gong-fr.json",
+      "title": "Comme Ã PÃ¢ques, personne ne devrait marcher seul (GerritÂ W. Gong)"
+    },
+    {
+      "id": "2026-04-oaks",
+      "kind": "conference",
+      "lang": "en",
+      "version": 1,
+      "file": "conference-2026-04-oaks-en.json",
+      "title": "Closing Remarks (President DallinÂ H. Oaks)"
+    },
+    {
+      "id": "2026-04-oaks",
+      "kind": "conference",
+      "lang": "fr",
+      "version": 1,
+      "file": "conference-2026-04-oaks-fr.json",
+      "title": "Observations finales (DallinÂ H. Oaks)"
+    },
     {
       "id": "testimony",
       "kind": "topic",
