@@ -84,7 +84,7 @@ def fetch(url):
             if r.status_code == 404:
                 return None
             if r.status_code == 200:
-                return r.text
+                return r.content.decode("utf-8", errors="replace")
         except requests.RequestException:
             pass
         time.sleep(3 * (attempt + 1))
@@ -139,15 +139,29 @@ def reference_from_link(href, lang):
     return {"ref": ref, "text": words}
 
 
+def tidy(text):
+    """Normal spaces, no space inside brackets, no space before a comma or full stop."""
+    text = re.sub(r"\s+", " ", text.replace("\u00a0", " ").replace("\u202f", " ")).strip()
+    text = re.sub(r"\(\s+", "(", text)
+    text = re.sub(r"\s+\)", ")", text)
+    return text.replace(" ,", ",").replace(" .", ".").strip()
+
+
 def clean(p):
     for sup in p.find_all("sup"):
         sup.decompose()
-    return re.sub(r"\s+", " ", p.get_text(" ", strip=True)).replace(" ,", ",").replace(" .", ".").strip()
+    return tidy(p.get_text(" ", strip=True))
 
 
 def pick_quotes(paragraphs, count=8):
     """Chooses word-for-word paragraphs spread across the whole talk."""
-    candidates = [p for p in paragraphs if 30 <= len(p.split()) <= 110 and not p.lower().startswith(("amen", "i say these things"))]
+    def usable(p):
+        if not 30 <= len(p.split()) <= 110:
+            return False
+        if p.lower().startswith(("amen", "i say these things")):
+            return False
+        return p[0].isupper() or p[0] in "“\"«"
+    candidates = [p for p in paragraphs if usable(p)]
     if not candidates:
         return []
     keywords = ["jesus christ", "savior", "sauveur", "lord", "seigneur", "god", "dieu", "holy ghost",
@@ -174,7 +188,7 @@ def parse_talk(html, lang):
     body = soup.select_one("div.body-block")
     if not (title and author and body):
         return None
-    speaker = re.sub(r"^(By|Par)\s+", "", author.get_text(" ", strip=True)).strip()
+    speaker = tidy(re.sub(r"^(By|Par)\s+", "", author.get_text(" ", strip=True)))
     paragraphs = [clean(p) for p in body.find_all("p") if p.get("data-aid") or p.get("id")]
     paragraphs = [p for p in paragraphs if p]
     refs, seen = [], set()
@@ -186,7 +200,7 @@ def parse_talk(html, lang):
     return {
         "title": clean(title),
         "speaker": speaker,
-        "role": role.get_text(" ", strip=True) if role else "",
+        "role": tidy(role.get_text(" ", strip=True)) if role else "",
         "paragraphs": paragraphs,
         "scriptures": refs[:10],
     }
@@ -203,24 +217,62 @@ def talk_links(page_html, year, month):
     return result
 
 
+def is_session(slug):
+    return slug.endswith(("-session", "-sessions")) or "session" in slug or "seance" in slug
+
+
+def talks_by_index_order(index_html, year, month, code):
+    """Reads the conference index page from top to bottom. Each talk belongs to the session
+    heading it is listed under. Returns [(slug, session name)]."""
+    soup = BeautifulSoup(index_html, "html.parser")
+    pattern = rf"/study/general-conference/{year}/{month:02d}/([a-z0-9-]+)"
+    current, seen, talks = None, set(), []
+    for a in soup.find_all("a", href=True):
+        m = re.match(pattern, a["href"])
+        if not m:
+            continue
+        slug = m.group(1)
+        if is_session(slug):
+            name = clean(a)
+            if not name:
+                page = fetch(f"{BASE}/study/general-conference/{year}/{month:02d}/{slug}?lang={code}")
+                h1 = BeautifulSoup(page, "html.parser").select_one("h1") if page else None
+                name = clean(h1) if h1 else ""
+            current = name or None
+        elif current and slug not in seen:
+            seen.add(slug)
+            talks.append((slug, current))
+    return talks
+
+
+def talks_by_session_pages(index_html, year, month, code):
+    """Older way: open every session page. Used only if the index page cannot be read in order."""
+    slugs = talk_links(index_html, year, month)
+    sessions = [x for x in slugs if is_session(x)]
+    talks = []
+    for sl in sessions:
+        page = fetch(f"{BASE}/study/general-conference/{year}/{month:02d}/{sl}?lang={code}")
+        if not page:
+            continue
+        soup = BeautifulSoup(page, "html.parser")
+        name = clean(soup.select_one("h1")) if soup.select_one("h1") else sl
+        for slug in talk_links(page, year, month):
+            if slug not in sessions and slug not in [t[0] for t in talks]:
+                talks.append((slug, name))
+    return talks
+
+
 def conference_talks(year, month, lang):
     """Returns [(slug, session name)] in the order of the conference, or None if it is not out yet."""
     code = LANGS[lang]
     index = fetch(f"{BASE}/study/general-conference/{year}/{month:02d}?lang={code}")
     if not index:
         return None
-    slugs = talk_links(index, year, month)
-    sessions = [s for s in slugs if s.endswith("-session") or s.endswith("-sessions") or "session" in s or "seance" in s]
-    talks = []
-    for s in sessions:
-        page = fetch(f"{BASE}/study/general-conference/{year}/{month:02d}/{s}?lang={code}")
-        if not page:
-            continue
-        soup = BeautifulSoup(page, "html.parser")
-        name = clean(soup.select_one("h1")) if soup.select_one("h1") else s
-        for slug in talk_links(page, year, month):
-            if slug not in sessions and slug not in [t[0] for t in talks]:
-                talks.append((slug, name))
+    talks = talks_by_index_order(index, year, month, code)
+    n_sessions = len({t[1] for t in talks})
+    if len(talks) < 8 or n_sessions < 2:
+        print(f"note: index order not usable for {year}-{month:02d} {lang}, using session pages")
+        talks = talks_by_session_pages(index, year, month, code)
     return talks or None
 
 
@@ -244,6 +296,13 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     manifest = load_manifest()
     packs = manifest["packs"]
+    if os.environ.get("REBUILD") == "1":
+        for p in [p for p in packs if p["kind"] == "conference"]:
+            f = os.path.join(OUT, p["file"])
+            if os.path.exists(f):
+                os.remove(f)
+        packs[:] = [p for p in packs if p["kind"] != "conference"]
+        print("rebuild: old conference packs removed")
     have = {(p["kind"], p["lang"], p["id"]) for p in packs}
     existing_topics = {p["id"] for p in packs if p["kind"] == "topic"}
     today = datetime.date.today()
