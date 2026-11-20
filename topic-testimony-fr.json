@@ -1,0 +1,108 @@
+{
+  "id": "testimony",
+  "lang": "fr",
+  "title": "Témoignage",
+  "invitation": {
+    "text": "Je vous invite à chercher votre propre témoignage de Jésus-Christ. Priez Dieu d’un cœur sincère, lisez les Écritures chaque jour et mettez en pratique ce que vous apprenez.",
+    "short": "Je vous invite à chercher votre propre témoignage de Jésus-Christ par la prière, l’étude des Écritures et la mise en pratique de ce que vous apprenez."
+  },
+  "blessing": {
+    "ref": "Moroni 10:4",
+    "text": "Et lorsque vous recevrez ces choses, je vous exhorte à demander à Dieu, le Père éternel, au nom du Christ, si ces choses ne sont pas vraies; et si vous demandez d’un cœur sincère, avec une intention réelle, ayant foi au Christ, il vous en manifestera la vérité par le pouvoir du Saint-Esprit."
+  },
+  "scriptures": [
+    {
+      "ref": "Alma 5:46",
+      "text": "Voici, je vous dis qu’elles me sont révélées par l’Esprit-Saint de Dieu. Voici, j’ai jeûné et prié de nombreux jours afin de connaître ces choses par moi-même. Et maintenant, je sais par moi-même qu’elles sont vraies; car le Seigneur Dieu me les a manifestées par son Esprit-Saint; et c’est là l’esprit de révélation qui est en moi."
+    },
+    {
+      "ref": "Moroni 10:5",
+      "text": "Et par le pouvoir du Saint-Esprit, vous pouvez connaître la vérité de toutes choses."
+    },
+    {
+      "ref": "Doctrine and Covenants 46:13",
+      "text": "Il est donné à certains, par le Saint-Esprit, de savoir que Jésus-Christ est le Fils de Dieu et qu’il a été crucifié pour les péchés du monde."
+    },
+    {
+      "ref": "Doctrine and Covenants 62:3",
+      "text": "Néanmoins, vous êtes bénis, car le témoignage que vous avez rendu est inscrit dans le ciel pour que les anges le contemplent; ils se réjouissent à votre sujet, et vos péchés vous sont pardonnés."
+    },
+    {
+      "ref": "Mosiah 18:9",
+      "text": "oui, et êtes disposés à pleurer avec ceux qui pleurent, oui, et à consoler ceux qui ont besoin de consolation, et à être les témoins de Dieu en tout temps, et en toutes choses, et dans tous les lieux où vous serez, jusqu’à la mort, afin d’être rachetés par Dieu et d’être comptés avec ceux de la première résurrection, afin que vous ayez la vie éternelle —"
+    },
+    {
+      "ref": "Doctrine and Covenants 100:8",
+      "text": "et je vous fais la promesse que si vous faites cela, le Saint-Esprit sera déversé pour rendre témoignage de toutes les choses que vous direz."
+    }
+  ],
+  "quotes": [],
+  "teaching": [
+    {
+      "text": "Un témoignage est un témoignage personnel du Saint-Esprit que Dieu vit et que Jésus-Christ est notre Sauveur. C’est plus qu’un bon sentiment. C’est une connaissance qui vient de Dieu, et elle peut se fortifier.",
+      "short": "Un témoignage est un témoignage du Saint-Esprit que Dieu vit et que Jésus-Christ est notre Sauveur."
+    },
+    {
+      "text": "Un témoignage vient par le pouvoir du Saint-Esprit. Nous ne pouvons pas l’obtenir par la discussion ou par l’étude seule. Nous le recevons lorsque nous demandons à Dieu d’un cœur sincère, avec une intention réelle, ayant foi au Christ.",
+      "short": "Un témoignage vient par le pouvoir du Saint-Esprit, lorsque nous demandons à Dieu d’un cœur sincère et avec foi au Christ."
+    },
+    {
+      "text": "Un témoignage grandit lorsque nous agissons. Le Sauveur a enseigné que si nous choisissons de faire la volonté de Dieu, nous saurons si ses enseignements sont vrais. Chaque fois que nous prions, étudions et obéissons, notre témoignage se fortifie.",
+      "short": "Lorsque nous choisissons de faire la volonté de Dieu, nous apprenons que ses enseignements sont vrais."
+    },
+    {
+      "text": "Chaque disciple de Jésus-Christ est invité à rendre témoignage de lui. Notre témoignage n’a pas besoin d’être long ou puissant. Un témoignage simple et sincère peut toucher un cœur, car le Saint-Esprit porte la vérité jusqu’à celui qui écoute.",
+      "short": "Un témoignage simple et sincère peut toucher un cœur, car le Saint-Esprit porte la vérité jusqu’à celui qui écoute."
+    },
+    {
+      "text": "Un témoignage est un don, et un don demande des soins. Nous le nourrissons par la prière quotidienne, l’étude quotidienne des Écritures, le culte à l’Église et le service des autres. Si nous négligeons ces choses, notre témoignage peut s’affaiblir.",
+      "short": "Un témoignage est un don. Nous le nourrissons par la prière, l’étude des Écritures, le culte et le service."
+    },
+    {
+      "text": "Rendre témoignage fortifie notre témoignage. Quand nous disons à voix haute ce que nous savons, nous le ressentons plus profondément nous-mêmes. Nous donnons aussi aux autres une raison de croire et de chercher leur propre témoignage.",
+      "short": "Quand nous disons à voix haute ce que nous savons, nous le ressentons plus profondément et nous aidons les autres à chercher leur propre témoignage."
+    }
+  ],
+  "application": [
+    {
+      "text": "Cette semaine, prenez quelques minutes chaque jour pour prier et pour lire le Livre de Mormon.",
+      "short": "Cette semaine, priez et lisez le Livre de Mormon chaque jour."
+    },
+    {
+      "text": "Écrivez une expérience qui a fortifié votre foi en Jésus-Christ. Partagez-la avec un membre de votre famille ou un ami.",
+      "short": "Écrivez une expérience qui a fortifié votre foi et partagez-la avec quelqu’un."
+    },
+    {
+      "text": "Cherchez une occasion, cette semaine, de dire avec des mots simples ce que vous savez du Sauveur.",
+      "short": "Cherchez une occasion, cette semaine, de dire avec des mots simples ce que vous savez du Sauveur."
+    },
+    {
+      "text": "Quand les doutes viennent, accrochez-vous à ce que vous savez déjà. Continuez à prier, à lire et à servir.",
+      "short": "Quand les doutes viennent, accrochez-vous à ce que vous savez, et continuez à prier, à lire et à servir."
+    }
+  ],
+  "children": [
+    {
+      "text": "Les enfants peuvent aussi avoir un témoignage. Quand un enfant ressent la paix après avoir prié, c’est le Saint-Esprit. Les parents peuvent l’aider en lui demandant ce qu’il a ressenti et en lui disant que c’est réel."
+    }
+  ],
+  "testimony": [
+    {
+      "text": "Je sais que Dieu vit. Je sais que Jésus-Christ est son Fils et notre Sauveur. Je le sais par le pouvoir du Saint-Esprit, et je suis reconnaissant pour ce témoignage.",
+      "short": "Je sais que Dieu vit et que Jésus-Christ est notre Sauveur."
+    },
+    {
+      "text": "Je sais que le Livre de Mormon est la parole de Dieu. En le lisant et en priant à son sujet, mon témoignage s’est fortifié.",
+      "short": "Je sais que le Livre de Mormon est la parole de Dieu."
+    },
+    {
+      "text": "Je sais que le Sauveur aime chacun de nous et qu’il connaît chacun de nous par son nom.",
+      "short": "Je sais que le Sauveur aime chacun de nous."
+    }
+  ],
+  "closing": [
+    {
+      "text": "Je vous laisse mon amour et ma bénédiction pendant que vous cherchez votre propre témoignage. Je dis ces choses au nom de Jésus-Christ. Amen."
+    }
+  ]
+}

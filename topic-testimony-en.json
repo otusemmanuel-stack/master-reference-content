@@ -1,0 +1,120 @@
+{
+  "id": "testimony",
+  "lang": "en",
+  "title": "Testimony",
+  "invitation": {
+    "text": "I invite you to seek your own testimony of Jesus Christ. Pray to God with a sincere heart, read the scriptures each day, and live what you learn.",
+    "short": "I invite you to seek your own testimony of Jesus Christ through prayer, scripture study, and living what you learn."
+  },
+  "blessing": {
+    "ref": "Moroni 10:4",
+    "text": "And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost."
+  },
+  "scriptures": [
+    {
+      "ref": "Alma 5:46",
+      "text": "Behold, I say unto you they are made known unto me by the Holy Spirit of God. Behold, I have fasted and prayed many days that I might know these things of myself. And now I do know of myself that they are true; for the Lord God hath made them manifest unto me by his Holy Spirit; and this is the spirit of revelation which is in me."
+    },
+    {
+      "ref": "Moroni 10:5",
+      "text": "And by the power of the Holy Ghost ye may know the truth of all things."
+    },
+    {
+      "ref": "John 7:17",
+      "text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+    },
+    {
+      "ref": "Doctrine and Covenants 46:13",
+      "text": "To some it is given by the Holy Ghost to know that Jesus Christ is the Son of God, and that he was crucified for the sins of the world."
+    },
+    {
+      "ref": "Doctrine and Covenants 62:3",
+      "text": "Nevertheless, ye are blessed, for the testimony which ye have borne is recorded in heaven for the angels to look upon; and they rejoice over you, and your sins are forgiven you."
+    },
+    {
+      "ref": "Acts 1:8",
+      "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth."
+    },
+    {
+      "ref": "Mosiah 18:9",
+      "text": "Yea, and are willing to mourn with those that mourn; yea, and comfort those that stand in need of comfort, and to stand as witnesses of God at all times and in all things, and in all places that ye may be in, even until death, that ye may be redeemed of God, and be numbered with those of the first resurrection, that ye may have eternal life--"
+    },
+    {
+      "ref": "Doctrine and Covenants 100:8",
+      "text": "And I give unto you this promise, that inasmuch as ye do this the Holy Ghost shall be shed forth in bearing record unto all things whatsoever ye shall say."
+    },
+    {
+      "ref": "1 Peter 3:15",
+      "text": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:"
+    }
+  ],
+  "quotes": [],
+  "teaching": [
+    {
+      "text": "A testimony is a personal witness from the Holy Ghost that God lives and that Jesus Christ is our Savior. It is more than a good feeling. It is knowledge that comes from God, and it can grow stronger.",
+      "short": "A testimony is a witness from the Holy Ghost that God lives and that Jesus Christ is our Savior."
+    },
+    {
+      "text": "A testimony comes by the power of the Holy Ghost. We cannot get it by argument or by study alone. We receive it when we ask God with a sincere heart and real intent, having faith in Christ.",
+      "short": "A testimony comes by the power of the Holy Ghost, when we ask God with a sincere heart and faith in Christ."
+    },
+    {
+      "text": "A testimony grows when we act. The Savior taught that if we choose to do the will of God, we will know whether His teachings are true. Each time we pray, study, and obey, our witness grows stronger.",
+      "short": "When we choose to do the will of God, we come to know that His teachings are true."
+    },
+    {
+      "text": "Every disciple of Jesus Christ is invited to bear witness of Him. Our testimony does not need to be long or powerful. A simple, sincere witness can touch a heart, because the Holy Ghost carries the truth to the one who listens.",
+      "short": "A simple, sincere witness can touch a heart, because the Holy Ghost carries the truth to the one who listens."
+    },
+    {
+      "text": "A testimony is a gift, and a gift needs care. We nurture it with daily prayer, daily study of the scriptures, worship at church, and service to others. When we neglect these things, our testimony can grow weak.",
+      "short": "A testimony is a gift. We nurture it with prayer, scripture study, worship, and service."
+    },
+    {
+      "text": "Bearing our testimony strengthens it. When we say aloud what we know, we feel it more deeply ourselves. We also give others a reason to believe and to seek their own witness.",
+      "short": "When we say aloud what we know, we feel it more deeply, and we help others seek their own witness."
+    }
+  ],
+  "application": [
+    {
+      "text": "This week, set aside a few minutes each day to pray and to read from the Book of Mormon.",
+      "short": "This week, pray and read from the Book of Mormon each day."
+    },
+    {
+      "text": "Write down one experience that has strengthened your faith in Jesus Christ. Share it with a family member or a friend.",
+      "short": "Write down one experience that strengthened your faith, and share it with someone."
+    },
+    {
+      "text": "Look for one chance this week to say, in simple words, what you know about the Savior.",
+      "short": "Look for one chance this week to say, in simple words, what you know about the Savior."
+    },
+    {
+      "text": "When doubts come, hold on to what you already know. Keep praying, keep reading, and keep serving.",
+      "short": "When doubts come, hold on to what you know, and keep praying, reading, and serving."
+    }
+  ],
+  "children": [
+    {
+      "text": "Children can have a testimony too. When a child feels peace after praying, that is the Holy Ghost. Parents can help by asking what the child felt, and by telling the child that it is real."
+    }
+  ],
+  "testimony": [
+    {
+      "text": "I know that God lives. I know that Jesus Christ is His Son and our Savior. I know this by the power of the Holy Ghost, and I am grateful for this witness.",
+      "short": "I know that God lives and that Jesus Christ is our Savior."
+    },
+    {
+      "text": "I know that the Book of Mormon is the word of God. As I have read it and prayed about it, my testimony has grown.",
+      "short": "I know that the Book of Mormon is the word of God."
+    },
+    {
+      "text": "I know that the Savior loves each of us, and that He knows each of us by name.",
+      "short": "I know that the Savior loves each of us."
+    }
+  ],
+  "closing": [
+    {
+      "text": "I leave you my love and my blessing as you seek your own witness. I say these things in the name of Jesus Christ, amen."
+    }
+  ]
+}

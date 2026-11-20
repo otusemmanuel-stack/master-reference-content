@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "testimony",
+      "kind": "topic",
+      "lang": "en",
+      "version": 1,
+      "file": "topic-testimony-en.json",
+      "title": "Testimony"
+    },
+    {
+      "id": "testimony",
+      "kind": "topic",
+      "lang": "fr",
+      "version": 1,
+      "file": "topic-testimony-fr.json",
+      "title": "Témoignage"
+    }
+  ]
+}
