@@ -162,8 +162,17 @@ def clean(p):
 # Personal stories (the speaker's own family events) are not offered as quotes.
 FIRST_PERSON = re.compile(r"\b(i|my|me|myself|mine)\b|\b(je|moi|mon|ma|mes|me|m’|j’)\b", re.I)
 SENSITIVE = re.compile(
-    r"passed away|funeral|suicide|abuse|cancer|miscarriage|stillborn|divorce|"
-    r"décédé|funérailles|suicide|abus|cancer|fausse couche|mort-né|divorce", re.I)
+    r"passed away|funeral|suicide|abuse|cancer|miscarriage|stillborn|divorce|terminal|"
+    r"death of (our|my|his|her|their|three|four|two|one|a)\b|passing of (our|my|his|her|three|four|two|one)\b|"
+    r"lost (our|my) (son|daughter|child|children|baby|husband|wife|mother|father)|"
+    r"(our|my) (son|daughter|child|baby|husband|wife|mother|father) (died|passed)|"
+    r"décédé|décès de|funérailles|abus|fausse couche|mort-né|"
+    r"perdu (notre|mon|ma|nos|mes) |est mort|sont morts|diagnostic", re.I)
+# "I came", "we went", "j’ai trouvé": the speaker telling what happened to him
+NARRATIVE = re.compile(
+    r"\b(i|we) (came|went|found|told|walked|drove|held|cried|called|woke|left|returned|arrived|entered|saw|heard)\b|"
+    r"\b(je|nous) (suis|sommes) (allé|allés|allée|rentré|rentrés|sorti|sortis|arrivé|arrivés|retourné|retournés)\b|"
+    r"\b(j’ai|nous avons) (trouvé|dit|pleuré|appelé|quitté|vu|entendu|tenu)\b", re.I)
 
 
 QUOTED = re.compile(r"“[^”]*”|«[^»]*»|\"[^\"]*\"")
@@ -172,7 +181,7 @@ QUOTED = re.compile(r"“[^”]*”|«[^»]*»|\"[^\"]*\"")
 def personal_story(p):
     own_words = QUOTED.sub(" ", p)  # words inside quotation marks belong to someone else
     singular = len(FIRST_PERSON.findall(own_words))
-    return singular >= 2 or bool(SENSITIVE.search(p))
+    return singular >= 2 or bool(SENSITIVE.search(p)) or bool(NARRATIVE.search(own_words))
 
 
 def pick_quotes(paragraphs, count=8):
