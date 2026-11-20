@@ -7,6 +7,10 @@ on:
   schedule:
     - cron: "0 6 4-20 4,10 *"
   workflow_dispatch:
+    inputs:
+      rebuild:
+        description: "Rebuild every Conference pack from scratch (yes or no)"
+        default: "no"
 
 permissions:
   contents: write
@@ -21,6 +25,8 @@ jobs:
           python-version: "3.12"
       - run: pip install requests beautifulsoup4
       - run: python tools/build_talk_packs.py
+        env:
+          REBUILD: ${{ github.event.inputs.rebuild == 'yes' && '1' || '0' }}
       - name: Save new packs
         run: |
           git config user.name "talk-packs-bot"
