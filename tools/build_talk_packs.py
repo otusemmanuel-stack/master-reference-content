@@ -150,7 +150,29 @@ def tidy(text):
 def clean(p):
     for sup in p.find_all("sup"):
         sup.decompose()
-    return tidy(p.get_text(" ", strip=True))
+    for a in p.find_all("a"):
+        cls = " ".join(a.get("class", []))
+        if "note-ref" in cls or "footnote" in cls:
+            a.decompose()
+    text = tidy(p.get_text(" ", strip=True))
+    # a footnote number stuck to the last letter of a word, like "hommes8 »" or "men5."
+    return re.sub(r"(?<=[A-Za-zÀ-ÿ])\d{1,2}(?=\s*[»”\"’.,;:?!)]|\s|$)", "", text)
+
+
+# Personal stories (the speaker's own family events) are not offered as quotes.
+FIRST_PERSON = re.compile(r"\b(i|my|me|myself|mine)\b|\b(je|moi|mon|ma|mes|me|m’|j’)\b", re.I)
+SENSITIVE = re.compile(
+    r"passed away|funeral|suicide|abuse|cancer|miscarriage|stillborn|divorce|"
+    r"décédé|funérailles|suicide|abus|cancer|fausse couche|mort-né|divorce", re.I)
+
+
+QUOTED = re.compile(r"“[^”]*”|«[^»]*»|\"[^\"]*\"")
+
+
+def personal_story(p):
+    own_words = QUOTED.sub(" ", p)  # words inside quotation marks belong to someone else
+    singular = len(FIRST_PERSON.findall(own_words))
+    return singular >= 2 or bool(SENSITIVE.search(p))
 
 
 def pick_quotes(paragraphs, count=8):
@@ -162,6 +184,9 @@ def pick_quotes(paragraphs, count=8):
             return False
         return p[0].isupper() or p[0] in "“\"«"
     candidates = [p for p in paragraphs if usable(p)]
+    shared = [p for p in candidates if not personal_story(p)]
+    if len(shared) >= 3:
+        candidates = shared
     if not candidates:
         return []
     keywords = ["jesus christ", "savior", "sauveur", "lord", "seigneur", "god", "dieu", "holy ghost",
