@@ -8,6 +8,12 @@ What it does, in order:
   3. Writes one small pack file per talk and per language into the "talk" folder.
   4. Updates talk/manifest.json, newest Conference first.
 
+Each pack keeps the WHOLE talk, so the app can build a talk of any length from it:
+  * "sections": the speaker's own headings, and under each heading the paragraphs, in order.
+    Every paragraph carries the scriptures it uses, with the verse words.
+  * "closing": the speaker's own closing paragraphs, sorted as invitation, blessing, testimony.
+  * "quotes", "points" and "scriptures" are still written, so older app versions keep working.
+
 Rules it follows:
   * Quotes are word for word from the talk, with the speaker, talk title and session.
     Nothing is rewritten or paraphrased, so nothing can be wrong.
@@ -178,10 +184,32 @@ NARRATIVE = re.compile(
 QUOTED = re.compile(r"“[^”]*”|«[^»]*»|\"[^\"]*\"")
 
 
+# "Nathalie and I", "my wife", "ma femme": the speaker's own family
+FAMILY = re.compile(
+    r"(?-i:\b(?!You\b|God\b|Christ\b|Jesus\b|Father\b|Lord\b|Savior\b)[A-Z][a-z]+ and I\b)|\b(my|our) (wife|husband|mother|father|son|daughter|grandson|granddaughter|"
+    r"grandfather|grandmother|brother|sister|parents|children|family)\b|"
+    r"\b(ma|mon|mes|notre|nos) (femme|mari|mère|père|fils|fille|petit-fils|petite-fille|grand-père|grand-mère|"
+    r"frère|sœur|parents|enfants|famille)\b|(?-i:\b(?!Dieu\b|Christ\b|Jésus\b|Père\b|Seigneur\b|Sauveur\b)[A-ZÉ][a-zéèï]+ et moi\b)", re.I)
+
+
 def personal_story(p):
     own_words = QUOTED.sub(" ", p)  # words inside quotation marks belong to someone else
     singular = len(FIRST_PERSON.findall(own_words))
-    return singular >= 2 or bool(SENSITIVE.search(p)) or bool(NARRATIVE.search(own_words))
+    return (singular >= 2 or bool(SENSITIVE.search(p)) or bool(NARRATIVE.search(own_words))
+            or bool(FAMILY.search(own_words)))
+
+
+# The closing of a talk: an invitation, a promised blessing, a testimony.
+INVITE = re.compile(
+    r"\bI (invite|urge|encourage|challenge|plead|ask you|exhort)\b|\bI\b[^.]{0,40}\binvite you\b|"
+    r"\bj’(invite|exhorte|encourage)\b|\bje vous (invite|encourage|exhorte|demande)\b", re.I)
+BLESS = re.compile(
+    r"\bI (promise|bless|pledge)\b|\bblessings? (will|shall)\b|\bI (can )?promise you\b|"
+    r"\bje (vous )?(promets|bénis)\b|\bje vous donne la promesse\b", re.I)
+TESTIFY = re.compile(
+    r"\bI (testify|bear (my |you )?(solemn |personal |humble )?(witness|testimony)|know that|declare|"
+    r"add my (witness|testimony))\b|\bje (témoigne|sais que|rends témoignage|déclare)\b|"
+    r"\bj’apporte mon témoignage\b", re.I)
 
 
 def pick_quotes(paragraphs, count=8):
@@ -214,6 +242,63 @@ def pick_quotes(paragraphs, count=8):
     return chosen
 
 
+def parse_sections(body, lang):
+    """The whole talk, in order, grouped under the speaker's own headings.
+    Every paragraph keeps its words, its word count and the scriptures it uses (with verse words).
+    A paragraph that tells the speaker's own family story is marked "personal"."""
+    sections = [{"heading": "", "paragraphs": []}]
+    for el in body.find_all(["h2", "h3", "h4", "p"]):
+        if el.name == "p":
+            if not (el.get("data-aid") or el.get("id")):
+                continue
+            refs, seen = [], set()
+            for a in el.select("a.scripture-ref"):
+                r = reference_from_link(a.get("href", ""), lang)
+                if r and r["ref"] not in seen:
+                    seen.add(r["ref"])
+                    refs.append(r)
+            text = clean(el)
+            if not text:
+                continue
+            para = {"text": text, "words": len(text.split())}
+            if refs:
+                para["scriptures"] = refs[:4]
+            if personal_story(text):
+                para["personal"] = True
+            sections[-1]["paragraphs"].append(para)
+        else:
+            heading = clean(el)
+            if not heading:
+                continue
+            if sections[-1]["paragraphs"]:
+                sections.append({"heading": heading, "paragraphs": []})
+            else:
+                sections[-1]["heading"] = heading
+    return [sec for sec in sections if sec["paragraphs"]]
+
+
+def sort_closing(sections):
+    """Looks at the last paragraphs of the talk and sorts the speaker's own words into
+    invitation, blessing and testimony. Each paragraph is used once. Nothing is rewritten."""
+    flat = [p for sec in sections for p in sec["paragraphs"]]
+    closing = {"invitation": [], "blessing": [], "testimony": []}
+    for p in flat[-8:]:
+        text = p["text"]
+        if len(text.split()) < 6 or p.get("personal") and not TESTIFY.search(text):
+            continue
+        if INVITE.search(text):
+            kind = "invitation"
+        elif BLESS.search(text):
+            kind = "blessing"
+        elif TESTIFY.search(text):
+            kind = "testimony"
+        else:
+            continue
+        closing[kind].append({"text": text, "scriptures": p.get("scriptures", [])})
+        p["closing"] = kind
+    return closing
+
+
 def parse_talk(html, lang):
     soup = BeautifulSoup(html, "html.parser")
     title = soup.select_one("h1")
@@ -231,12 +316,16 @@ def parse_talk(html, lang):
         if r and r["ref"] not in seen:
             seen.add(r["ref"])
             refs.append(r)
+    sections = parse_sections(body, lang)
+    closing = sort_closing(sections)
     return {
         "title": clean(title),
         "speaker": speaker,
         "role": tidy(role.get_text(" ", strip=True)) if role else "",
         "paragraphs": paragraphs,
         "scriptures": refs[:10],
+        "sections": sections,
+        "closing": closing,
     }
 
 
@@ -383,17 +472,20 @@ def main():
                 lead = (f"{data['speaker']} spoke about “{data['title']}”." if lang == "en"
                         else f"{data['speaker']} a parlé de « {data['title']} ».")
                 pack = {
+                    "format": 2,
                     "id": talk_id, "lang": lang, "speaker": data["speaker"], "title": data["title"],
                     "session": session, "year": year, "month": month,
                     "topicIds": topic_ids(data, existing_topics),
                     "points": [{"text": lead}],
                     "quotes": quotes,
                     "scriptures": data["scriptures"],
+                    "sections": data["sections"],
+                    "closing": data["closing"],
                 }
                 file_name = f"conference-{talk_id}-{lang}.json"
                 with open(os.path.join(OUT, file_name), "w", encoding="utf-8") as f:
                     json.dump(pack, f, ensure_ascii=False, indent=2)
-                packs.append({"id": talk_id, "kind": "conference", "lang": lang, "version": 1,
+                packs.append({"id": talk_id, "kind": "conference", "lang": lang, "version": 2,
                               "file": file_name, "title": f"{data['title']} ({data['speaker']})"})
                 added += 1
                 print("added", file_name)
