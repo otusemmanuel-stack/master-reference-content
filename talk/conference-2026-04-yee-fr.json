@@ -159,7 +159,7 @@
         {
           "text": "Si vous voulez vous sentir ancrés, obtenir un sentiment d’appartenance divine et faire une réelle différence dans le monde, je vous invite à suivre le Sauveur et à servir en son nom. Il n’a jamais été plus nécessaire qu’aujourd’hui d’édifier, de fortifier et de guérir des âmes grâce à l’expiation de Jésus-Christ. « Beaucoup d’entre nous ont désespérément besoin de ressentir son amour. » En tant que ses disciples, vous et moi avons la bénédiction et la responsabilité par alliance d’apporter l’amour et le secours du Sauveur à tous les enfants de Dieu. Lorsque nous transmettons l’amour et le sentiment d’appartenance du Seigneur, nous l’obtenons nous-mêmes. Le Sauveur a promis : « Celui qui perdra sa vie à cause de moi la trouvera.»",
           "words": 123,
-          "personal": true
+          "closing": "invitation"
         },
         {
           "text": "Le Sauveur n’a pas limité son ministère à sa famille et à ses proches. Il a servi tout le monde et nous invite à faire de même. Nous recevons des affectations de service pastoral pour développer notre capacité d’aimer, et pour nous assurer que personne n’est oublié. Nous prions pour ces personnes, nous veillons à leurs besoins et nous fortifions leur foi en Jésus-Christ.",
@@ -180,7 +180,12 @@
     }
   ],
   "closing": {
-    "invitation": [],
+    "invitation": [
+      {
+        "text": "Si vous voulez vous sentir ancrés, obtenir un sentiment d’appartenance divine et faire une réelle différence dans le monde, je vous invite à suivre le Sauveur et à servir en son nom. Il n’a jamais été plus nécessaire qu’aujourd’hui d’édifier, de fortifier et de guérir des âmes grâce à l’expiation de Jésus-Christ. « Beaucoup d’entre nous ont désespérément besoin de ressentir son amour. » En tant que ses disciples, vous et moi avons la bénédiction et la responsabilité par alliance d’apporter l’amour et le secours du Sauveur à tous les enfants de Dieu. Lorsque nous transmettons l’amour et le sentiment d’appartenance du Seigneur, nous l’obtenons nous-mêmes. Le Sauveur a promis : « Celui qui perdra sa vie à cause de moi la trouvera.»",
+        "scriptures": []
+      }
+    ],
     "blessing": [],
     "testimony": [
       {

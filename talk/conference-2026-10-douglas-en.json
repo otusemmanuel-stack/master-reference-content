@@ -121,7 +121,8 @@
         },
         {
           "text": "To you wonderful young converts of the Church, a mission may not have been on your radar, but it ought to be now. To all the rising generation of the Church, I invite you to place serving a full-time mission high on your list. Don’t be distracted by alternatives of far less worth. Some might be like Amulek of the Book of Mormon, who expressed, “For I was called many times and I would not hear.”",
-          "words": 76
+          "words": 76,
+          "closing": "invitation"
         },
         {
           "text": "Prophets of God today strongly reaffirm “that the Lord has asked every worthy, able young man to prepare for and serve a mission. For [you], missionary service is a priesthood responsibility. … For you young and able sisters, a mission is also a powerful, but optional, opportunity. … Pray to know if the Lord would have you serve a mission.”",
@@ -136,41 +137,20 @@
           "words": 35
         },
         {
-          "text": "I conclude with the words of our Savior given through Joseph Smith to Thomas B. Marsh, who was called to preach the gospel in 1830. I invite each of you to substitute your name for Thomas’s:",
-          "words": 36,
+          "text": "I conclude with the words of our Savior given through Joseph Smith to Thomas B. Marsh, who was called to preach the gospel in 1830. I invite each of you to substitute your name for Thomas’s: “Thomas, my son [or daughter], … “Lift up your heart and rejoice, for the hour of your mission is come; and your tongue shall be loosed, and you shall declare glad tidings of great joy unto this generation. … “Therefore, thrust in your sickle with all your soul, and your sins are forgiven you, and you shall be laden with sheaves upon your back. … Wherefore, your family shall live. “Behold, … go from them only for a little time, and declare my word, and I will prepare a place for them. “… I will open the hearts of the people, and they will receive you. And I will establish a church by your hand.” In the name of Jesus Christ, amen.",
+          "words": 158,
           "personal": true
-        },
-        {
-          "text": "“Thomas, my son [or daughter], …",
-          "words": 6,
-          "personal": true
-        },
-        {
-          "text": "“Lift up your heart and rejoice, for the hour of your mission is come; and your tongue shall be loosed, and you shall declare glad tidings of great joy unto this generation. …",
-          "words": 33
-        },
-        {
-          "text": "“Therefore, thrust in your sickle with all your soul, and your sins are forgiven you, and you shall be laden with sheaves upon your back. … Wherefore, your family shall live.",
-          "words": 31
-        },
-        {
-          "text": "“Behold, … go from them only for a little time, and declare my word, and I will prepare a place for them.",
-          "words": 22,
-          "personal": true
-        },
-        {
-          "text": "“… I will open the hearts of the people, and they will receive you. And I will establish a church by your hand.”",
-          "words": 23
-        },
-        {
-          "text": "In the name of Jesus Christ, amen.",
-          "words": 7
         }
       ]
     }
   ],
   "closing": {
-    "invitation": [],
+    "invitation": [
+      {
+        "text": "To you wonderful young converts of the Church, a mission may not have been on your radar, but it ought to be now. To all the rising generation of the Church, I invite you to place serving a full-time mission high on your list. Don’t be distracted by alternatives of far less worth. Some might be like Amulek of the Book of Mormon, who expressed, “For I was called many times and I would not hear.”",
+        "scriptures": []
+      }
+    ],
     "blessing": [],
     "testimony": []
   }

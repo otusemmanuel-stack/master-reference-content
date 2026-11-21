@@ -159,7 +159,7 @@
         {
           "text": "If you want to feel grounded, gain a sense of divine belonging, and make a real difference in the world, I invite you to follow the Savior and minister in His name. Never was the need greater than now for souls to be lifted, strengthened, and healed through the Atonement of Jesus Christ. “So many of us desperately need to feel of His love.” As His disciples, you and I have the covenant blessing and responsibility to bring the Savior’s love and relief to all of God’s children. When we offer His love and belonging to others, we will find it ourselves. The Savior promised, “Whosoever will lose his life for my sake shall find it.”",
           "words": 116,
-          "personal": true
+          "closing": "invitation"
         },
         {
           "text": "The Savior did not limit His ministering to His family and close associations. He ministered to all and invites us to do the same. We receive ministering assignments to grow our capacity to love others and to ensure no one is forgotten. We pray for them, care for their needs, and strengthen their faith in Jesus Christ.",
@@ -180,7 +180,12 @@
     }
   ],
   "closing": {
-    "invitation": [],
+    "invitation": [
+      {
+        "text": "If you want to feel grounded, gain a sense of divine belonging, and make a real difference in the world, I invite you to follow the Savior and minister in His name. Never was the need greater than now for souls to be lifted, strengthened, and healed through the Atonement of Jesus Christ. “So many of us desperately need to feel of His love.” As His disciples, you and I have the covenant blessing and responsibility to bring the Savior’s love and relief to all of God’s children. When we offer His love and belonging to others, we will find it ourselves. The Savior promised, “Whosoever will lose his life for my sake shall find it.”",
+        "scriptures": []
+      }
+    ],
     "blessing": [],
     "testimony": [
       {

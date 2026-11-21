@@ -153,28 +153,15 @@
           "words": 49
         },
         {
-          "text": "Les alliances que nous contractons nous lient à Jésus-Christ parce qu’il est au centre de chacune d’elles. Dans Matthieu 11, le Sauveur nous lance à tous une belle invitation et nous fait une promesse. Il dit :",
-          "words": 37
-        },
-        {
-          "text": "« Venez à moi, […] et je vous donnerai du repos.",
-          "words": 11,
-          "personal": true
-        },
-        {
-          "text": "« Prenez mon joug sur vous et recevez mes instructions, […] et vous trouverez du repos pour vos âmes.",
-          "words": 19,
-          "personal": true
-        },
-        {
-          "text": "« Car mon joug est doux et mon fardeau léger » (Matthieu 11:28-30).",
-          "words": 13,
+          "text": "Les alliances que nous contractons nous lient à Jésus-Christ parce qu’il est au centre de chacune d’elles. Dans Matthieu 11, le Sauveur nous lance à tous une belle invitation et nous fait une promesse. Il dit : « Venez à moi, […] et je vous donnerai du repos. « Prenez mon joug sur vous et recevez mes instructions, […] et vous trouverez du repos pour vos âmes. « Car mon joug est doux et mon fardeau léger » (Matthieu 11:28-30).",
+          "words": 80,
           "scriptures": [
             {
               "ref": "Matthew 11:28–30",
               "text": "Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos. Prenez mon joug sur vous et recevez mes instructions, car je suis doux et humble de cœur; et vous trouverez du repos pour vos âmes. Car mon joug est doux, et mon fardeau léger."
             }
-          ]
+          ],
+          "personal": true
         },
         {
           "text": "Grâce aux alliances, nous sommes unis au Sauveur Jésus-Christ et nos fardeaux deviennent plus légers.",
@@ -211,24 +198,8 @@
           "words": 35
         },
         {
-          "text": "Le Seigneur avait commandé aux Israélites de reconstruire le temple, mais ils n’en avaient pas fait une priorité. Mécontent d’eux, le Seigneur leur a dit :",
-          "words": 26
-        },
-        {
-          "text": "« Considérez attentivement votre conduite !",
-          "words": 6
-        },
-        {
-          "text": "« Vous semez beaucoup, et vous recueillez peu, […] le salaire de celui qui travaille tombe dans un sac percé.",
-          "words": 20
-        },
-        {
-          "text": "« Ainsi parle l’Éternel des armées : Considérez attentivement votre conduite ! […]",
-          "words": 13
-        },
-        {
-          "text": "« Pourquoi ? […] À cause de ma maison, qui est détruite, Tandis que vous vous empressez chacun pour votre maison » (Aggée 1:5-7, 9).",
-          "words": 25,
+          "text": "Le Seigneur avait commandé aux Israélites de reconstruire le temple, mais ils n’en avaient pas fait une priorité. Mécontent d’eux, le Seigneur leur a dit : « Considérez attentivement votre conduite ! « Vous semez beaucoup, et vous recueillez peu, […] le salaire de celui qui travaille tombe dans un sac percé. « Ainsi parle l’Éternel des armées : Considérez attentivement votre conduite ! […] « Pourquoi ? […] À cause de ma maison, qui est détruite, Tandis que vous vous empressez chacun pour votre maison » (Aggée 1:5-7, 9).",
+          "words": 90,
           "scriptures": [
             {
               "ref": "Haggai 1:5–7",

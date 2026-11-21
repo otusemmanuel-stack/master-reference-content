@@ -178,12 +178,8 @@
           "personal": true
         },
         {
-          "text": "“Yes,” I replied, “I am having financial difficulties in my business. I have fallen behind in my payment of tithes and offerings.”",
-          "words": 22
-        },
-        {
-          "text": "He then asked, “Do you have anything of value?”",
-          "words": 9
+          "text": "“Yes,” I replied, “I am having financial difficulties in my business. I have fallen behind in my payment of tithes and offerings.” He then asked, “Do you have anything of value?”",
+          "words": 31
         },
         {
           "text": "I don’t recall what else he said. I pondered his question for many days. The only thing I had of value was a car that I needed in my efforts to grow my business. However, I concluded that I should at least make an effort to sell my car, so I cleaned and polished it and placed an ad to sell it.",
@@ -196,13 +192,9 @@
           "personal": true
         },
         {
-          "text": "A few days later, a man came to the house to see the car. He seemed interested; he drove it and came back to discuss the details. He gave me his business card, and I realized he represented a car dealership. I was nervous about what would surely happen next—the haggling back and forth over the price.",
-          "words": 57,
+          "text": "A few days later, a man came to the house to see the car. He seemed interested; he drove it and came back to discuss the details. He gave me his business card, and I realized he represented a car dealership. I was nervous about what would surely happen next—the haggling back and forth over the price. He asked me, “How much do you want for the car?”",
+          "words": 68,
           "personal": true
-        },
-        {
-          "text": "He asked me, “How much do you want for the car?”",
-          "words": 11
         },
         {
           "text": "I told him I needed a precise amount. I had calculated what I needed to pay off the loan on the car and pay my tithing.",
@@ -264,8 +256,8 @@
           ]
         },
         {
-          "text": "Elder David A. Bednar observed: “The imagery of the ‘windows’ of heaven used by Malachi is most instructive [see Malachi 3:10 ]. Windows allow natural light to enter into a building. In like manner, spiritual illumination and perspective are poured out through the windows of heaven and into our lives as we honor the law of tithing” (“ The Windows of Heaven,” Liahona, Nov. 2013, 18).",
-          "words": 66,
+          "text": "Elder David A. Bednar observed: “The imagery of the ‘windows’ of heaven used by Malachi is most instructive [see Malachi 3:10 ]. Windows allow natural light to enter into a building. In like manner, spiritual illumination and perspective are poured out through the windows of heaven and into our lives as we honor the law of tithing” (“The Windows of Heaven,” Liahona, Nov. 2013, 18).",
+          "words": 65,
           "scriptures": [
             {
               "ref": "Malachi 3:10",
