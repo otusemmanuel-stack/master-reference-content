@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-wakolo",
   "lang": "fr",
   "speaker": "Taniela B. Wakolo",
@@ -14,13 +15,25 @@
   ],
   "quotes": [
     {
-      "text": "Quand notre fille, Jasmin, avait quatorze ans, elle a décrit la conférence générale comme un rassemblement où « des prophètes, voyants et révélateurs témoignent de Jésus-Christ et enseignent sa doctrine avec une telle simplicité qu’elle ne peut pas être mal comprise ».",
+      "text": "Même les messages les plus simples peuvent être clarifiés. Prenons, par exemple, les panneaux de signalisation que nous voyons lorsque nous conduisons. Lorsque nous voyons un panneau comme celui-ci, nous devrions savoir que nous devons nous arrêter.",
       "speaker": "Taniela B. Wakolo",
       "talk": "Venir au Christ ensemble",
       "session": "Session du dimanche après-midi, Conférence générale d’avril 2026"
     },
     {
       "text": "Combien nous sommes reconnaissants d’avoir des prophètes et des apôtres vivants qui parlent avec simplicité et clarté, et dont les voix unies nous invitent à « venir au Christ » !",
+      "speaker": "Taniela B. Wakolo",
+      "talk": "Venir au Christ ensemble",
+      "session": "Session du dimanche après-midi, Conférence générale d’avril 2026"
+    },
+    {
+      "text": "Dans le livre de Moïse, nous lisons le récit d’une expérience sacrée. Moïse voit « la terre, oui, toute » et de nombreux pays. Il en voit les habitants, « et leur nombre [est] grand, aussi innombrable que le sable au bord de la mer ».",
+      "speaker": "Taniela B. Wakolo",
+      "talk": "Venir au Christ ensemble",
+      "session": "Session du dimanche après-midi, Conférence générale d’avril 2026"
+    },
+    {
+      "text": "Bouleversé par cette vision, Moïse pose deux questions profondes à Dieu : Pourquoi ? Et par quels moyens ? En d’autres termes, il veut comprendre le but de la création.",
       "speaker": "Taniela B. Wakolo",
       "talk": "Venir au Christ ensemble",
       "session": "Session du dimanche après-midi, Conférence générale d’avril 2026"
@@ -44,23 +57,179 @@
       "session": "Session du dimanche après-midi, Conférence générale d’avril 2026"
     },
     {
-      "text": "À un certain moment, Denny, qui était membre de l’Église, a senti qu’il ne pouvait pas continuer à vivre dans un esprit de division. Son père lui a donné un conseil simple : « Continue d’aller à l’église. C’est ta famille. » Il a écouté. Deux ans plus tard, sa femme a choisi de se faire baptiser. Plus tard, ils ont été scellés dans la maison du Seigneur. Ce qui avait commencé dans la tension s’est terminé dans l’unité. Ils ont choisi d’aller au Christ, ensemble.",
-      "speaker": "Taniela B. Wakolo",
-      "talk": "Venir au Christ ensemble",
-      "session": "Session du dimanche après-midi, Conférence générale d’avril 2026"
-    },
-    {
-      "text": "À Farmington en Utah, il y avait un homme bon, du nom de Bob Hasenyager, qui n’était pas encore membre de l’Église. Sa femme, Marlene, était dévouée à l’Évangile. Elle respectait ses alliances calmement et patiemment, sans jamais exercer de pression sur son mari, se contentant simplement de l’aimer. Bob servait et aidait dans la paroisse locale. Un jour, le président de pieu a demandé à Bob : « Savez-vous que votre femme désire vraiment aller au temple, mais qu’elle patiente pour ne pas vous blesser ? »",
-      "speaker": "Taniela B. Wakolo",
-      "talk": "Venir au Christ ensemble",
-      "session": "Session du dimanche après-midi, Conférence générale d’avril 2026"
-    },
-    {
-      "text": "Quand cette femme a reçu sa bénédiction patriarcale, il lui a été promis que, si elle restait loyale et fidèle, le jour viendrait où son mari l’emmènerait au temple, pour être scellée pour le temps et pour toute l’éternité. Plus de huit ans et vingt-quatre missionnaires plus tard, le mari s’est fait baptiser, et le couple a été scellé dans la maison du Seigneur.",
+      "text": "Le temple est un symbole d’espérance, et non une source de pression. L’Évangile de Jésus-Christ n’est pas un instrument de division familiale, mais un lien qui les unit éternellement. Nous devons nous assurer que notre vie de disciple reflète la patience, la douceur et l’amour parfait du Sauveur. Le scellement au temple nous invite à entrer dans l’ordre divin de Dieu. Est-il étonnant que le scellement au temple soit souvent décrit comme l’ordonnance suprême ?",
       "speaker": "Taniela B. Wakolo",
       "talk": "Venir au Christ ensemble",
       "session": "Session du dimanche après-midi, Conférence générale d’avril 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Mes chers frères et sœurs, je me réjouis avec vous de l’Évangile de Jésus-Christ.",
+          "words": 14,
+          "personal": true
+        },
+        {
+          "text": "Quand notre fille, Jasmin, avait quatorze ans, elle a décrit la conférence générale comme un rassemblement où « des prophètes, voyants et révélateurs témoignent de Jésus-Christ et enseignent sa doctrine avec une telle simplicité qu’elle ne peut pas être mal comprise ».",
+          "words": 42,
+          "personal": true
+        },
+        {
+          "text": "Même les messages les plus simples peuvent être clarifiés. Prenons, par exemple, les panneaux de signalisation que nous voyons lorsque nous conduisons. Lorsque nous voyons un panneau comme celui-ci, nous devrions savoir que nous devons nous arrêter.",
+          "words": 37
+        },
+        {
+          "text": "Cependant, aux Philippines, ils ont fait passer le message beaucoup plus directement : « Arrêt complet. »",
+          "words": 17
+        },
+        {
+          "text": "Et au Missouri, ils sont allés encore plus loin : « Vraiment, vous devez vous arrêter. »",
+          "words": 17
+        },
+        {
+          "text": "Combien nous sommes reconnaissants d’avoir des prophètes et des apôtres vivants qui parlent avec simplicité et clarté, et dont les voix unies nous invitent à « venir au Christ » !",
+          "words": 31
+        },
+        {
+          "text": "Dans le livre de Moïse, nous lisons le récit d’une expérience sacrée. Moïse voit « la terre, oui, toute » et de nombreux pays. Il en voit les habitants, « et leur nombre [est] grand, aussi innombrable que le sable au bord de la mer ».",
+          "words": 46
+        },
+        {
+          "text": "Bouleversé par cette vision, Moïse pose deux questions profondes à Dieu : Pourquoi ? Et par quels moyens ? En d’autres termes, il veut comprendre le but de la création.",
+          "words": 30
+        },
+        {
+          "text": "Le Seigneur répond : « J’ai fait ces choses dans un dessein qui m’est propre, [pour] réaliser l’immortalité et la vie éternelle de l’homme. » Plus tard, le prophète Néphi témoigne : « Car […] il ne repousse aucun de ceux qui viennent à lui […] ; et tous sont pareils pour Dieu. » Comment cet objectif est-il atteint ? Grâce à Jésus-Christ, tout le monde peut recevoir le don de la vie éternelle, lequel comprend le fait de vivre éternellement en famille et en présence de Dieu.",
+          "words": 88
+        },
+        {
+          "text": "Il y a six mois, notre prophète, Dallin H. Oaks, a enseigné :",
+          "words": 13
+        },
+        {
+          "text": "« La doctrine de l’Église de Jésus-Christ des saints des derniers jours est centrée sur la famille. Le temple est essentiel à notre doctrine sur la famille. Les ordonnances que nous y recevons nous permettent de retourner en la présence de notre Père céleste au sein d’une famille éternelle. […]",
+          "words": 50,
+          "personal": true
+        },
+        {
+          "text": "« Le plan de l’Évangile […] est mis en œuvre par l’intermédiaire de notre famille dans la condition mortelle et [il] est destiné à exalter les enfants de Dieu dans des familles éternelles. »",
+          "words": 34
+        },
+        {
+          "text": "Le Seigneur a également déclaré que « le mariage est institué par Dieu, […] afin que la terre réponde au but de sa création », et sans l’autorité de scellement nécessaire pour contracter les alliances éternelles qui unissent les familles à jamais, « la terre entière serait complètement dévastée à sa venue ».",
+          "words": 53
+        },
+        {
+          "text": "Le temple est un symbole d’espérance, et non une source de pression. L’Évangile de Jésus-Christ n’est pas un instrument de division familiale, mais un lien qui les unit éternellement. Nous devons nous assurer que notre vie de disciple reflète la patience, la douceur et l’amour parfait du Sauveur. Le scellement au temple nous invite à entrer dans l’ordre divin de Dieu. Est-il étonnant que le scellement au temple soit souvent décrit comme l’ordonnance suprême ?",
+          "words": 75
+        },
+        {
+          "text": "Mes chers frères et sœurs, beaucoup d’entre vous sont issus de familles qui n’ont pas encore été scellées au temple. Certains d’entre vous qui écoutez ne sont pas membres de l’Église. Parmi vous, certains membres de l’Église sont mariés à une personne qui n’est pas de notre religion. Aujourd’hui, je dis à chacun de vous : vous êtes essentiels au plan de Dieu.",
+          "words": 63,
+          "personal": true
+        },
+        {
+          "text": "Permettez-moi de vous raconter quelques histoires sacrées : des histoires qui parlent de patience, de libre arbitre et d’invitation discrète et persistante à venir au Christ, ensemble.",
+          "words": 27
+        },
+        {
+          "text": "En Nouvelle-Zélande, Denny et Alex étaient des amis d’enfance qui fréquentaient différentes églises. Leur amitié s’est changée en relation amoureuse, et cette relation a donné lieu à un mariage. Il n’avait jamais été question de religion pendant les années où ils se fréquentaient, mais une fois mariés, Denny et Alex ont été confrontés à un dilemme : quelle église devaient-ils fréquenter ?",
+          "words": 62
+        },
+        {
+          "text": "À un certain moment, Denny, qui était membre de l’Église, a senti qu’il ne pouvait pas continuer à vivre dans un esprit de division. Son père lui a donné un conseil simple : « Continue d’aller à l’église. C’est ta famille. » Il a écouté. Deux ans plus tard, sa femme a choisi de se faire baptiser. Plus tard, ils ont été scellés dans la maison du Seigneur. Ce qui avait commencé dans la tension s’est terminé dans l’unité. Ils ont choisi d’aller au Christ, ensemble.",
+          "words": 86
+        },
+        {
+          "text": "À Brisbane, en Australie, un garçon de sept ans a supplié son père de devenir membre de l’Église, car il voulait que son père le baptise. Même si son père avait fréquenté l’église pendant plusieurs années et y avait vécu de bonnes expériences, il n’avait pas franchi le pas de se faire baptiser. Quand je les ai rencontrés, j’ai lancé au père l’invitation audacieuse d’accepter la demande aimante de son fils. Il a gentiment refusé. Et pourtant, l’amour demeure. L’invitation demeure. Le libre arbitre demeure. Parfois, la graine reste plantée longtemps dans la terre avant de germer.",
+          "words": 97,
+          "personal": true
+        },
+        {
+          "text": "À Farmington en Utah, il y avait un homme bon, du nom de Bob Hasenyager, qui n’était pas encore membre de l’Église. Sa femme, Marlene, était dévouée à l’Évangile. Elle respectait ses alliances calmement et patiemment, sans jamais exercer de pression sur son mari, se contentant simplement de l’aimer. Bob servait et aidait dans la paroisse locale. Un jour, le président de pieu a demandé à Bob : « Savez-vous que votre femme désire vraiment aller au temple, mais qu’elle patiente pour ne pas vous blesser ? »",
+          "words": 88
+        },
+        {
+          "text": "Quand il a entendu cela, Bob s’est mis à pleurer. Puis, il a apporté tout son soutien à sa femme. Marlene a reçu sa dotation et a commencé à aller régulièrement au temple. Bob a remarqué quelque chose de différent : pas de pression, pas de dispute, seulement la paix. Puis, un jour, un jeune missionnaire a simplement suggéré à Bob de se faire baptiser à une date précise. Voici ce que Bob a dit : « J’ai ressenti le Saint-Esprit. J’ai ressenti de la chaleur, de la joie et de la paix. J’avais enfin ma réponse. » Bob s’est fait baptiser. Plus tard, on lui a diagnostiqué un cancer en phase terminale. Marlene et lui ont été scellés quatre mois avant son décès.",
+          "words": 124,
+          "personal": true
+        },
+        {
+          "text": "Frères et sœurs, le Seigneur honore la foi empreinte de patience. Et les miracles ne viennent jamais trop tard.",
+          "words": 19
+        },
+        {
+          "text": "Aux Fidji, je connais une femme fidèle qui a attendu huit longues années que son mari devienne membre de l’Église. Huit ans à se rendre seule à l’église, tandis que son mari ne montrait pas d’intérêt, ou était hésitant. Et pourtant, elle ne s’est pas découragée. Elle ne s’est pas aigrie. Elle a servi.",
+          "words": 54
+        },
+        {
+          "text": "Quand cette femme a reçu sa bénédiction patriarcale, il lui a été promis que, si elle restait loyale et fidèle, le jour viendrait où son mari l’emmènerait au temple, pour être scellée pour le temps et pour toute l’éternité. Plus de huit ans et vingt-quatre missionnaires plus tard, le mari s’est fait baptiser, et le couple a été scellé dans la maison du Seigneur.",
+          "words": 64
+        },
+        {
+          "text": "Plus précisément, je devrais dire : ma femme Anita et moi avons été scellés dans la maison du Seigneur. Mon seul regret ? J’aurais dû me faire baptiser plus tôt. D’ailleurs, c’est Quentin L. Cook, qui a parlé avant moi, qui m’a appelé comme président de pieu, alors qu’il était président de la région.",
+          "words": 54,
+          "personal": true
+        },
+        {
+          "text": "Frères et sœurs, Dieu tient ses promesses, mais il le fait en son temps. Ces histoires ne parlent pas de statistiques. Elles parlent d’âmes.",
+          "words": 24
+        },
+        {
+          "text": "Je témoigne que notre Père céleste et Jésus-Christ connaissent chaque famille représentée par ces histoires. Ils voient leurs larmes, leur patience et écoutent leurs prières. Ils connaissent les sentiments de chaque conjoint qui attend, de chaque cœur qui prie et de chaque enfant. Ils connaissent toutes les promesses sacrées. Ces choses nous rappellent que la conversion est personnelle. Le moment choisi est personnel. Le libre arbitre est sacré.",
+          "words": 68,
+          "personal": true,
+          "closing": "testimony"
+        },
+        {
+          "text": "Aux familles partiellement membres : ne perdez pas courage.",
+          "words": 9
+        },
+        {
+          "text": "À ceux qui attendent : n’abandonnez pas.",
+          "words": 7
+        },
+        {
+          "text": "Aux personnes qui ont été dotées ou scellées et qui ont besoin de revenir à l’église : venez, revenez au Dieu d’Abraham, d’Isaac et de Jacob.",
+          "words": 26
+        },
+        {
+          "text": "Aux personnes qui ont reçu une invitation, sachez que cette invitation est motivée par l’amour chrétien.",
+          "words": 16
+        },
+        {
+          "text": "À tous les membres de l’Église : continuons de servir autrui, une personne à la fois, et veillons à ce que « personne ne soit assis seul ».",
+          "words": 28
+        },
+        {
+          "text": "Le Sauveur ne force personne. Il invite. Il bénit. Il tient ses promesses selon la foi et la fidélité.",
+          "words": 19
+        },
+        {
+          "text": "Ce mois-ci, tandis que nous célébrons et commémorons la résurrection de notre Sauveur, je vous invite à prendre l’engagement d’aller au Christ, ensemble. L’éternité sera votre récompense. Au nom du Seigneur ressuscité, Jésus-Christ. Amen.",
+          "words": 34,
+          "closing": "invitation"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [
+      {
+        "text": "Ce mois-ci, tandis que nous célébrons et commémorons la résurrection de notre Sauveur, je vous invite à prendre l’engagement d’aller au Christ, ensemble. L’éternité sera votre récompense. Au nom du Seigneur ressuscité, Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je témoigne que notre Père céleste et Jésus-Christ connaissent chaque famille représentée par ces histoires. Ils voient leurs larmes, leur patience et écoutent leurs prières. Ils connaissent les sentiments de chaque conjoint qui attend, de chaque cœur qui prie et de chaque enfant. Ils connaissent toutes les promesses sacrées. Ces choses nous rappellent que la conversion est personnelle. Le moment choisi est personnel. Le libre arbitre est sacré.",
+        "scriptures": []
+      }
+    ]
+  }
 }

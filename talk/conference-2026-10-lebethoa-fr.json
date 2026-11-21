@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-lebethoa",
   "lang": "fr",
   "speaker": "Thabo Lebethoa",
@@ -15,12 +16,6 @@
   "quotes": [
     {
       "text": "Pourtant, un soir, peu après notre mariage, une discussion s’est transformée de façon inattendue en notre premier désaccord sérieux. La conversation a rapidement dégénéré en dispute et le couple joyeux et heureux que nous étions s’est muré dans le silence.",
-      "speaker": "Thabo Lebethoa",
-      "talk": "Jésus-Christ est la lumière et la vie du monde",
-      "session": "Session du dimanche après-midi, Conférence générale d’octobre 2026"
-    },
-    {
-      "text": "Beaucoup d’entre nous ont connu ce genre de moments où une conversation avec notre conjoint, un enfant, un membre de notre famille, un ami, un collègue ou un voisin ne s’est pas terminée comme nous l’espérions. Dans ces moments-là, ce qui a commencé comme un simple échange peut engendrer des sentiments de colère, de déception, de frustration ou même de regret.",
       "speaker": "Thabo Lebethoa",
       "talk": "Jésus-Christ est la lumière et la vie du monde",
       "session": "Session du dimanche après-midi, Conférence générale d’octobre 2026"
@@ -57,6 +52,12 @@
     },
     {
       "text": "Dans un discours adressé aux étudiants de l’université Brigham Young, Dallin H. Oaks a enseigné : « Pour avoir une foi forte, il faut plus qu’un désir fort, il faut chercher à l’acquérir quotidiennement, un pas à la fois, par la prière et l’étude des Écritures » (« Se rapprocher de Jésus-Christ », réunion spirituelle de l’université de Brigham Young, 10 février 2026, p. 2, speeches.byu.edu).",
+      "speaker": "Thabo Lebethoa",
+      "talk": "Jésus-Christ est la lumière et la vie du monde",
+      "session": "Session du dimanche après-midi, Conférence générale d’octobre 2026"
+    },
+    {
+      "text": "Il n’y a pas de méthode unique pour bien étudier les Écritures. Il est possible de les lire de manière chronologique, d’étudier par thème, de se pencher sur une question en particulier, ou de débuter par un passage ou un verset qui suscite notre intérêt. Nous pouvons aussi choisir le moment de la journée qui convient le mieux à notre situation personnelle. Au final, la méthode, le moment choisi et le temps consacré à l’étude des Écritures importent moins que notre constance et la sincérité de nos efforts.",
       "speaker": "Thabo Lebethoa",
       "talk": "Jésus-Christ est la lumière et la vie du monde",
       "session": "Session du dimanche après-midi, Conférence générale d’octobre 2026"
@@ -99,5 +100,170 @@
       "ref": "Matthew 11:28",
       "text": "Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos."
     }
-  ]
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Dans mon pays natal, l’Afrique du Sud, il est de coutume que les parents donnent à leurs enfants un nom qui a une signification particulière. Je m’appelle Thabo. Cela signifie « joie ». Le deuxième prénom de mon épouse est Gadifele. Cela signifie « éternelle ou infinie ». Ensemble, nos prénoms signifient « joie éternelle ». Quelle belle perspective !",
+          "words": 60,
+          "personal": true
+        },
+        {
+          "text": "Pourtant, un soir, peu après notre mariage, une discussion s’est transformée de façon inattendue en notre premier désaccord sérieux. La conversation a rapidement dégénéré en dispute et le couple joyeux et heureux que nous étions s’est muré dans le silence.",
+          "words": 40
+        },
+        {
+          "text": "Beaucoup d’entre nous ont connu ce genre de moments où une conversation avec notre conjoint, un enfant, un membre de notre famille, un ami, un collègue ou un voisin ne s’est pas terminée comme nous l’espérions. Dans ces moments-là, ce qui a commencé comme un simple échange peut engendrer des sentiments de colère, de déception, de frustration ou même de regret.",
+          "words": 61,
+          "personal": true
+        },
+        {
+          "text": "Alors que je réfléchissais à ce qu’il fallait faire, les paroles que Jésus-Christ a prononcées lorsqu’il est apparu au peuple de Néphi dans le Livre de Mormon me sont venues à l’esprit. Il a enseigné :",
+          "words": 36,
+          "personal": true
+        },
+        {
+          "text": "« Car en vérité, en vérité, je vous le dis, celui qui a l’esprit de querelle n’est pas de moi, mais est du diable, qui est le père des querelles, et il excite le cœur des hommes à se quereller avec colère.",
+          "words": 42,
+          "personal": true
+        },
+        {
+          "text": "« Voici, ce n’est pas ma doctrine d’exciter le cœur des hommes à la colère les uns contre les autres ; mais c’est ma doctrine que de telles choses soient abandonnées » (3 Néphi 11:29-30 ; italiques ajoutés).",
+          "words": 38,
+          "scriptures": [
+            {
+              "ref": "3 Nephi 11:29–30",
+              "text": "Car en vérité, en vérité, je vous le dis, celui qui a l’esprit de querelle n’est pas de moi, mais est du diable, qui est le père des querelles, et il excite le cœur des hommes à se quereller avec colère. Voici, ce n’est pas ma doctrine d’exciter le cœur des hommes à la colère les uns contre les autres; mais c’est ma doctrine que de telles choses soient abandonnées."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Jésus-Christ est la lumière et la vie du monde",
+      "paragraphs": [
+        {
+          "text": "Ces paroles tirées des Écritures ont éclairé mon esprit et m’ont permis de savoir comment résoudre la difficulté à laquelle j’étais confronté. Cette lumière vient du Sauveur. Dans 3 Néphi 11:11, le Sauveur dit : « Je suis la lumière et la vie du monde » (italiques ajoutées). Par son Esprit, il éclaire notre esprit (voir Doctrine et Alliances 6:15). Sa lumière se manifeste également à travers sa vie et ses enseignements parfaits. Il a déclaré : « Je suis la lumière ; je vous ai donné l’exemple » (3 Néphi 18:16) et ses paroles sont « une lumière sur [notre] sentier » (Psaumes 119:105).",
+          "words": 105,
+          "scriptures": [
+            {
+              "ref": "3 Nephi 11:11",
+              "text": "Et voici, je suis la lumière et la vie du monde; et j’ai bu à cette coupe amère que le Père m’a donnée, et j’ai glorifié le Père en prenant sur moi les péchés du monde, en quoi j’ai souffert la volonté du Père en tout depuis le commencement."
+            },
+            {
+              "ref": "Doctrine and Covenants 6:15",
+              "text": "Voici, tu sais que tu m’as interrogé et que j’ai éclairé ton esprit; et maintenant je te dis ces choses pour que tu saches que tu as été éclairé par l’Esprit de vérité;"
+            },
+            {
+              "ref": "3 Nephi 18:16",
+              "text": "Et de même que j’ai prié parmi vous, de même vous prierez dans mon Église, parmi mon peuple qui se repent et est baptisé en mon nom. Voici, je suis la lumière; je vous ai donné l’exemple."
+            },
+            {
+              "ref": "Psalms 119:105",
+              "text": "Ta parole est une lampe à mes pieds, Et une lumière sur mon sentier."
+            }
+          ],
+          "personal": true
+        }
+      ]
+    },
+    {
+      "heading": "Comment pouvons-nous recevoir davantage de lumière du Sauveur dans notre vie ?",
+      "paragraphs": [
+        {
+          "text": "Beaucoup d’entre nous se demandent peut-être comment recevoir davantage de lumière du Sauveur tandis que nous traversons les difficultés et les épreuves quotidiennes de la vie. Nous pouvons nous préoccuper de devenir autonomes, des exigences scolaires ou professionnelles, d’un sentiment d’incompétence, de nos peurs et de nos doutes, de la façon de surmonter la perte d’un être cher, ou tout simplement de savoir quoi faire de notre vie. Quelles que soient les inquiétudes, les épreuves et les luttes que nous traversons, la réponse est toujours Jésus-Christ.",
+          "words": 86
+        },
+        {
+          "text": "Jésus-Christ peut illuminer nos moments de ténèbres et raviver l’espoir là où règne le désespoir. Il sait par où nous sommes passés, où nous en sommes aujourd’hui et où nous devons aller. Grâce à lui, aujourd’hui peut marquer un nouveau départ et demain offrir des jours meilleurs.",
+          "words": 47
+        },
+        {
+          "text": "Voici quelques moyens d’accroître la lumière du Sauveur dans notre vie.",
+          "words": 11
+        }
+      ]
+    },
+    {
+      "heading": "Premièrement, fortifier notre foi au Seigneur Jésus-Christ",
+      "paragraphs": [
+        {
+          "text": "Avoir foi en Jésus-Christ, c’est avoir l’assurance qu’il comprend nos épreuves quotidiennes et sait comment nous aider à les surmonter, car il a subi toutes nos souffrances, nos afflictions et nos infirmités (voir Alma 7:11-12). Nous devons avoir l’assurance qu’il est toujours prêt à nous secourir lorsque nous veillons à nous tourner vers lui dans chacune de nos pensées, sans douter ni craindre (voir Doctrine et Alliances 6:36).",
+          "words": 68,
+          "scriptures": [
+            {
+              "ref": "Alma 7:11–12",
+              "text": "Et il ira, subissant des souffrances, et des afflictions, et des tentations de toute espèce; et cela, afin que s’accomplisse la parole qui dit qu’il prendra sur lui les souffrances et les maladies de son peuple. Et il prendra sur lui la mort, afin de détacher les liens de la mort qui lient son peuple; et il prendra sur lui ses infirmités, afin que ses entrailles soient remplies de miséricorde, selon la chair, afin qu’il sache, selon la chair, comment secourir son peuple selon ses infirmités."
+            },
+            {
+              "ref": "Doctrine and Covenants 6:36",
+              "text": "Tournez-vous vers moi dans chacune de vos pensées; ne doutez pas, ne craignez pas."
+            }
+          ]
+        },
+        {
+          "text": "Lors de la conférence générale d’octobre 2024, Dieter F. Uchtdorf a enseigné : « Une foi solide en Jésus-Christ ne naît pas du jour au lendemain. Non, dans ce monde mortel, ce sont les épines et les broussailles du doute qui poussent spontanément. L’arbre sain et fructueux de la foi exige un effort délibéré » (« Nourrissez les racines et les branches pousseront », Le Liahona, novembre 2024, p. 102).",
+          "words": 70
+        },
+        {
+          "text": "Dans un discours adressé aux étudiants de l’université Brigham Young, Dallin H. Oaks a enseigné : « Pour avoir une foi forte, il faut plus qu’un désir fort, il faut chercher à l’acquérir quotidiennement, un pas à la fois, par la prière et l’étude des Écritures » (« Se rapprocher de Jésus-Christ », réunion spirituelle de l’université de Brigham Young, 10 février 2026, p. 2, speeches.byu.edu).",
+          "words": 66
+        }
+      ]
+    },
+    {
+      "heading": "Deuxièmement, étudier les Écritures quotidiennement, en particulier le Livre de Mormon",
+      "paragraphs": [
+        {
+          "text": "Dans Prêchez mon Évangile, nous apprenons : « En lisant le Livre de Mormon et en priant à son sujet, les gens apprendront à mieux connaître le Sauveur et ils feront l’expérience de son amour » (Prêchez mon Évangile : Un guide pour faire connaître l’Évangile de Jésus-Christ, 2023, p. 115).",
+          "words": 51,
+          "personal": true
+        },
+        {
+          "text": "Il n’y a pas de méthode unique pour bien étudier les Écritures. Il est possible de les lire de manière chronologique, d’étudier par thème, de se pencher sur une question en particulier, ou de débuter par un passage ou un verset qui suscite notre intérêt. Nous pouvons aussi choisir le moment de la journée qui convient le mieux à notre situation personnelle. Au final, la méthode, le moment choisi et le temps consacré à l’étude des Écritures importent moins que notre constance et la sincérité de nos efforts.",
+          "words": 88
+        },
+        {
+          "text": "Pendant que nous servions comme dirigeants de mission dans notre pays natal, l’un de nos missionnaires a raconté l’histoire d’un ami de l’Église qui, après avoir lu le Livre de Mormon, s’est muni d’une pelle, a fait un trou dans son jardin, y a vidé une grande boîte de café fraîchement achetée et l’a enterrée. L’Esprit avait éclairé cet homme pour qu’il comprenne les changements qu’il lui fallait faire et il a agi en conséquence. Nous aussi, nous pouvons être éclairés de la même façon en étudiant les Écritures.",
+          "words": 89
+        }
+      ]
+    },
+    {
+      "heading": "Troisièmement, se repentir quotidiennement",
+      "paragraphs": [
+        {
+          "text": "Se repentir signifie changer d’état d’esprit et tourner son cœur vers Dieu. Réfléchissons aux changements que nous devons faire dans notre vie, notamment la façon dont nous utilisons notre temps, ce que nous regardons ou écoutons, ou encore le langage et le ton que nous employons lorsque nous communiquons avec d’autres personnes. Peut-être pouvons-nous commencer par nous demander ce que nous devons changer dans notre vie. Il est essentiel de se rappeler que nous n’avons pas à accomplir cela tout seuls. Le Sauveur est toujours prêt à nous aider parce qu’il voit la fin dès le commencement et comprend parfaitement nos faiblesses. Il est sans cesse prêt à « secourir son peuple selon ses infirmités » (Alma 7:12).",
+          "words": 118,
+          "scriptures": [
+            {
+              "ref": "Alma 7:12",
+              "text": "Et il prendra sur lui la mort, afin de détacher les liens de la mort qui lient son peuple; et il prendra sur lui ses infirmités, afin que ses entrailles soient remplies de miséricorde, selon la chair, afin qu’il sache, selon la chair, comment secourir son peuple selon ses infirmités."
+            }
+          ]
+        },
+        {
+          "text": "Tamara W. Runia a enseigné : « L’invitation au repentir est une expression de l’amour de Dieu. Accepter cette invitation est une expression du nôtre » (« Votre repentir n’est pas un fardeau pour Jésus-Christ, il le remplit de joie »,, mai 2025, p. 91).",
+          "words": 45
+        },
+        {
+          "text": "Je vous témoigne qu’aujourd’hui peut être un nouveau départ et que demain sera un jour meilleur pour toutes les personnes qui vont à Jésus-Christ et reçoivent sa lumière dans leur vie. Il nous invite avec amour : « Venez à moi […] et je vous donnerai du repos » (Matthieu 11:28). Au nom de Jésus-Christ. Amen.",
+          "words": 56,
+          "scriptures": [
+            {
+              "ref": "Matthew 11:28",
+              "text": "Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": []
+  }
 }

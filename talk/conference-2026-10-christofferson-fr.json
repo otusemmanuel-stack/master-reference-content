@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-christofferson",
   "lang": "fr",
   "speaker": "D. Todd Christofferson",
@@ -62,5 +63,133 @@
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Aujourd’hui, je me sens un peu comme Jacob, le prophète du Livre de Mormon, qui s’est senti poussé par l’Esprit à parler de sujets qui n’étaient pas particulièrement édifiants. Selon ses propres termes, il a dû faire preuve de « hardiesse de langage » au lieu de se faire un festin de « la parole agréable de Dieu ». Ainsi, par sens du devoir, je vais parler des jeux d’argent.",
+          "words": 70,
+          "personal": true
+        },
+        {
+          "text": "Lorsqu’il a évoqué ce sujet il y a plus de vingt ans, Gordon B. Hinckley a mentionné une anecdote concernant l’ancien président des États-Unis, Calvin Coolidge, un homme connu pour être peu loquace. Un dimanche, alors qu’il rentrait de l’église, sa femme lui a demandé de quoi le prédicateur avait parlé. Il a répondu : « Du péché. »",
+          "words": 59
+        },
+        {
+          "text": "« Eh bien, qu’en a-t-il dit ? » a-t-elle demandé.",
+          "words": 10
+        },
+        {
+          "text": "« Qu’il était contre », a-t-il répondu.",
+          "words": 7
+        },
+        {
+          "text": "Le président Hinckley a dit : « Je pense que je pourrais répondre tout aussi brièvement à la question des jeux d’argent. Nous sommes contre. »",
+          "words": 26
+        },
+        {
+          "text": "Je suppose que risquer de l’argent ou quelque chose de valeur en pariant sur un résultat ou sur l’issue d’un événement est une pratique qui tourmente l’humanité depuis presque aussi longtemps qu’elle existe. Et le temps ne l’a pas rendue plus valable ni moins dangereuse. Malheureusement, ces dernières années, les jeux d’argent sont devenus incroyablement omniprésents.",
+          "words": 56
+        },
+        {
+          "text": "Les smartphones ont transformé les jeux d’argent, les faisant passer d’une activité occasionnelle nécessitant de se rendre dans un casino, sur un champ de courses ou à un guichet de loterie à une activité accessible en permanence, en privé et pratiquement partout. Cette évolution a conduit à une explosion de la pratique. Des enquêtes mondiales menées sur plusieurs années indiquent que, au cours des douze mois précédant les enquêtes, 46 % des adultes avaient participé à des jeux d’argent, soit environ 2,3 milliards de personnes. En 2025, l’industrie mondiale du jeu a généré des revenus estimés à 758 milliards de dollars. Bien évidemment, les revenus de l’industrie correspondent à ce que les joueurs ont perdu. En termes simples, tout le modèle économique de cette industrie repose sur les pertes financières de ses clients.",
+          "words": 133
+        },
+        {
+          "text": "L’essor des jeux d’argent dans le monde est largement favorisé par trois nouveaux marchés en ligne. Le premier est celui des paris sportifs en ligne, qui impliquent des paris sur les scores, les statistiques ou les événements sportifs. Le deuxième vient des jeux de casino en ligne, que l’on désigne parfois par le terme « iGaming » : machines à sous, roulette, blackjack, poker, etc. Une troisième plate-forme, relativement nouvelle, regroupe ce que l’on appelle les « marchés de prédiction » qui permettent aux participants de parier sur la survenue ou non d’événements futurs et sur le moment où ils se produiront. Ils peuvent concerner tout et n’importe quoi : les taux d’intérêt, les élections, le sport, les feux de forêt, ou même, aussi déconcertant que cela puisse être, le moment de la Seconde Venue. (Je me demande bien où il faut se présenter pour réclamer les gains de ce pari.)",
+          "words": 151,
+          "personal": true
+        },
+        {
+          "text": "Les adolescents et les jeunes adultes sont touchés de manière disproportionnée. Pour ce groupe démographique, l’impulsivité et l’influence des pairs sont aggravées par une exposition précoce, un accès en ligne facile et un marketing intense. L’acceptation sociale généralisée de ces pratiques ne fait qu’ajouter à leur attrait. Les paris sportifs sont particulièrement répandus chez les adolescents et les jeunes adultes. Ils deviennent rapidement envahissants et souvent compulsifs, dérobant du temps qui devrait être consacré aux études, aux relations et à la construction d’une carrière. Ils évincent les choses de valeur pour y substituer la recherche du gain.",
+          "words": 97
+        },
+        {
+          "text": "Aux États-Unis, 36 % des garçons âgés de 11 à 17 ans déclaraient avoir joué à des jeux d’argent l’année dernière, un chiffre passant de 32 % à l’âge de 11 ans à 49 %, soit pratiquement la moitié de tous les garçons, à l’âge de 17 ans. Tout aussi troublant est le pourcentage important de femmes âgées de 18 à 29 ans qui participent maintenant aux jeux d’argent chaque année, en particulier aux paris sportifs sur les applications mobiles, aux machines à sous et aux loteries.",
+          "words": 87
+        },
+        {
+          "text": "Les sondages révèlent que les gens savent que les probabilités sont défavorables aux joueurs et que l’industrie est toujours gagnante. Pourtant, ils ne pensent pas que cela s’applique à eux personnellement. Néanmoins, le risque principal des jeux d’argent n’est pas simplement que les clients perdent de l’argent sur des paris individuels. Le plus grand problème est qu’un accès continu et mobile peut transformer les divertissements occasionnels en comportements répétitifs qui détournent l’épargne, augmentent les dettes et engendrent des coûts familiaux et sociétaux considérables. Je ne peux qu’être d’accord avec George Washington, qui a déclaré au sujet des jeux d’argents : « Ce sont les enfants de la cupidité, les frères de l’iniquité et les pères de la malice », même si parler de « malice » est peut-être trop indulgent.",
+          "words": 130
+        },
+        {
+          "text": "En début d’année, un éminent journaliste a écrit dans le magazine The Atlantic un article au sujet de son expérience planifiée de plusieurs mois dans l’univers des paris sportifs. Entre autres choses, il a fait cette remarque : « Les experts estiment que seuls environ deux à cinq pour cent des joueurs développeront des comportements compulsifs. Mais, […] ce petit pourcentage devient un nombre considérable lorsque des dizaines de millions [de personnes] ont soudainement des casinos dans leurs poches. »",
+          "words": 80
+        },
+        {
+          "text": "Il conclut : « En tant que société, nous faisons le pari extrêmement risqué de pouvoir récolter les fruits d’une industrie du jeu qui s’emballe sans en payer le prix ; [nous faisons le pari] que la litanie des fléaux sociaux depuis longtemps associés à ce vice – la dépendance et l’appauvrissement, l’isolement et les sévices, la tricherie […] et l’oisiveté corrosive – peut, cette fois, être maîtrisée ; [nous faisons le pari] que, contrairement à toutes les civilisations qui nous ont précédés, nous pouvons gagner la partie. »",
+          "words": 89
+        },
+        {
+          "text": "À différentes occasions, Dallin H. Oaks nous a rappelé que « lorsque nous prenons des décisions maintenant, nous devons toujours nous demander : ‘Où cela va-t-il mener ?’ […] Quel effet les décisions que nous prenons aujourd’hui ont-elles sur notre avenir ? » Le président Oaks souligne que chaque choix a un « coût de substitution », c’est-à-dire que « si nous passons du temps à faire une chose, nous ratons l’occasion d’en faire une autre ». Quel est le coût de substitution des jeux d’argent ? À quoi renoncez-vous en termes d’argent, de temps, de relations et d’activités de valeur ? Où cela mène-t-il ?",
+          "words": 106
+        },
+        {
+          "text": "Peut-être pensez-vous que votre volonté et votre engagement envers les alliances divines sont suffisamment forts pour que, pour vous, les paris ne deviennent jamais plus que des amusements occasionnels et sans conséquences. Peut-être. Mais, que vous ayez raison ou non, avez-vous réfléchi à l’influence que votre exemple pourrait avoir sur les autres ?",
+          "words": 53
+        },
+        {
+          "text": "Si votre réputation morale est solidement établie, alors certains vous considèrent sans doute comme un modèle de conduite. C’est certainement le cas de vos enfants, mais aussi d’autres personnes, que vous connaissez ou non, qui vous observent et s’inspirent de votre exemple. Leur foi est peut-être plus jeune ou moins ferme. Une pratique modérée des jeux d’argent qui ne semble avoir qu’un effet mineur sur votre vie peut leur coûter plus cher si elles s’autorisent le même comportement en prenant exemple sur vous.",
+          "words": 83
+        },
+        {
+          "text": "L’apôtre Paul a fait remarquer à son époque que quelqu’un qui croyait fermement au Christ aurait pu manger de la nourriture sacrifiée aux idoles sans que cela ne constitue pour lui un acte d’idolâtrie : ce n’aurait été qu’un repas. Mais il a tout de même recommandé aux disciples de ne pas le faire.",
+          "words": 54
+        },
+        {
+          "text": "« Prenez garde […], a-t-il dit, que votre liberté ne devienne une pierre d’achoppement pour les faibles.",
+          "words": 17
+        },
+        {
+          "text": "« Car si quelqu’un te voit, toi qui as [la connaissance de l’Évangile], assis à table dans un temple d’idoles, sa conscience, à lui qui est faible, ne le portera-t-elle pas à manger des viandes sacrifiées aux idoles ?",
+          "words": 39
+        },
+        {
+          "text": "« Et ainsi le faible périra par ta connaissance, le frère pour lequel Christ est mort ! »",
+          "words": 18,
+          "personal": true
+        },
+        {
+          "text": "Dans le contexte de mon message d’aujourd’hui, Paul nous dit en essence : « Puisque votre pratique récréative des jeux d’argent peut conduire un frère ou une sœur plus faible à la tentation, abstenez-vous-en. Chaque âme est précieuse, et le Christ est mort pour elle, comme il est mort pour vous. »",
+          "words": 52,
+          "personal": true
+        },
+        {
+          "text": "Pour nous, saints des derniers jours, le problème le plus important est que les jeux d’argent sont immoraux. Ils sont fondés sur le désir d’obtenir quelque chose pour rien. Leur principe de fonctionnement est que tout gain se fait aux dépens d’autrui. On peut difficilement concilier cela avec le commandement d’aimer son prochain comme soi-même. De plus, nos ressources sont des intendances. La question n’est donc pas seulement de savoir si un achat est légal, mais s’il contribue à notre édification, à celle de notre famille ou à celle des personnes qui nous entourent. En fin de compte, les jeux d’argent ne produisent rien de valeur et n’enrichissent que ceux qui les organisent.",
+          "words": 113,
+          "personal": true
+        },
+        {
+          "text": "Il y a des années, le président Oaks a clairement exposé les arguments moraux s’opposant aux jeux d’argent en ces termes : « Quelles conséquences les jeux d’argent ont-ils sur ceux qui s’y adonnent ? L’attitude qui consiste à prendre à autrui dans le but d’améliorer sa propre condition (ce qui est l’essence même du jeu) nous éloigne du chemin du Christ, qui enseigne à donner, et nous conduit vers celui de l’adversaire, qui cherche à prendre. L’acte consistant à prendre ou à essayer de prendre quelque chose à quelqu’un sans donner de valeur en retour détruit la sensibilité spirituelle. »",
+          "words": 101
+        },
+        {
+          "text": "Aujourd’hui, je nous supplie tous de vivre à un niveau plus élevé. Dieu a accordé la vie et le libre arbitre à chacun de nous, et chacun de nous est responsable devant lui de la façon dont il mène cette vie. Une partie essentielle d’une vie bien vécue consiste à contribuer au bien-être d’autrui. C’est être productif dans des entreprises louables. C’est être meilleur et faire mieux sans que cela nuise aux autres. Pour cela, il faut soutenir et récompenser le travail plutôt que les activités oisives. Le travail conduit à des sociétés prospères, justes et équitables. Les jeux d’argent, même à titre d’amusement, mènent dans la direction opposée.",
+          "words": 109
+        },
+        {
+          "text": "Ayant à l’esprit les commentaires du président Oaks sur le « coût de substitution » et sur les occasions perdues en consacrant du temps et de l’argent au jeu, je vous exhorte à nouveau non seulement à vous détourner des jeux d’argent, mais aussi à utiliser le temps et les ressources ainsi épargnés pour faire le bien. Le Seigneur nous recommande d’« œuvrer avec zèle à une bonne cause, […] et [de] produire beaucoup de justice ». En effet, « bénis sont tous ceux qui ont faim et soif de justice, car ils seront remplis du Saint-Esprit ». Si nous avons faim et soif de justice, nous rechercherons naturellement beaucoup de bonnes choses et en éliminerons complètement beaucoup d’autres, parce qu’elles sont incompatibles avec la justice.",
+          "words": 126,
+          "closing": "invitation"
+        },
+        {
+          "text": "Je prie pour que vous ne traitiez pas les jeux d’argent à la légère. Ayant commencé ce discours en citant le prophète Jacob, je termine par une autre de ses déclarations : « Oh ! ayez de la sagesse ! Que puis-je dire de plus ? » Au nom de Jésus-Christ. Amen.",
+          "words": 52,
+          "personal": true
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [
+      {
+        "text": "Ayant à l’esprit les commentaires du président Oaks sur le « coût de substitution » et sur les occasions perdues en consacrant du temps et de l’argent au jeu, je vous exhorte à nouveau non seulement à vous détourner des jeux d’argent, mais aussi à utiliser le temps et les ressources ainsi épargnés pour faire le bien. Le Seigneur nous recommande d’« œuvrer avec zèle à une bonne cause, […] et [de] produire beaucoup de justice ». En effet, « bénis sont tous ceux qui ont faim et soif de justice, car ils seront remplis du Saint-Esprit ». Si nous avons faim et soif de justice, nous rechercherons naturellement beaucoup de bonnes choses et en éliminerons complètement beaucoup d’autres, parce qu’elles sont incompatibles avec la justice.",
+        "scriptures": []
+      }
+    ],
+    "blessing": [],
+    "testimony": []
+  }
 }

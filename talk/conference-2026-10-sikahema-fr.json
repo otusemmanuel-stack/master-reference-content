@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-sikahema",
   "lang": "fr",
   "speaker": "Vaiangina Sikahema",
@@ -14,13 +15,19 @@
   ],
   "quotes": [
     {
+      "text": "Compte tenu du nombre limité de visas délivrés aux Américains [pour se rendre aux îles Tonga, N.d.T.], des couples tongiens comme les Wolfgramm étaient régulièrement appelés à servir sur les îles ou dans les villages voisins en tant que couples missionnaires « d’âge mûr ».",
+      "speaker": "Vaiangina Sikahema",
+      "talk": "Prophètes, voyants et révélateurs",
+      "session": "Session du samedi matin, Conférence générale d’octobre 2026"
+    },
+    {
       "text": "Pour les saints dispersés de part et d’autre du Pacifique, recevoir un apôtre du Seigneur parmi eux était la chance de leur vie. Aller à la rencontre de cet apôtre signifiait, pour mes grands-parents, faire un long voyage à travers la plus grande étendue d’eau de la planète jusqu’à l’île principale de Tongatapu, après, toutefois, une première escale à mi-chemin sur leur île natale de Vava’u. Le Pacifique est connu pour ses conditions météorologiques capricieuses, et la semaine de leur voyage n’a pas fait exception.",
       "speaker": "Vaiangina Sikahema",
       "talk": "Prophètes, voyants et révélateurs",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "Les Wolfgramm ont navigué dans la tempête : un voyage qui était censé durer seize heures jusqu’à Vava’u s’est transformé en deux jours et demi d’une traversée en mer éprouvante. Dans son journal, ma grand-mère a écrit : « Nous étions complètement trempés, […] épuisés et malades, […] trop faibles pour manger. […] J’ai tenu Vilimanulea contre mon cœur jusqu’à ce que nous arrivions enfin à Vava’u. »",
+      "text": "Ils naviguaient vers un apôtre qui détenait les clés de la prêtrise et l’autorité d’accomplir les ordonnances qui les scelleraient plus tard pour devenir une famille éternelle. Ils naviguaient pour aller s’asseoir aux pieds d’un apôtre qui leur enseignerait leur devoir, afin qu’ils puissent apporter la bénédiction du message de l’Évangile rétabli de Jésus-Christ aux habitants de leur île.",
       "speaker": "Vaiangina Sikahema",
       "talk": "Prophètes, voyants et révélateurs",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
@@ -38,6 +45,12 @@
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
+      "text": "Ce même prophète de l’Ancien Testament, Amos, a aussi déclaré que « le Seigneur, l’Éternel, ne fait rien sans avoir révélé son secret à ses serviteurs les prophètes » (Amos 3:7).",
+      "speaker": "Vaiangina Sikahema",
+      "talk": "Prophètes, voyants et révélateurs",
+      "session": "Session du samedi matin, Conférence générale d’octobre 2026"
+    },
+    {
       "text": "Le Seigneur a donné ce conseil à Joseph Smith : « Et que tous ceux qui reçoivent les oracles de Dieu prennent garde à la manière dont ils les respectent, de peur qu’ils ne les prennent à la légère » (Doctrine et Alliances 90:5).",
       "speaker": "Vaiangina Sikahema",
       "talk": "Prophètes, voyants et révélateurs",
@@ -45,18 +58,6 @@
     },
     {
       "text": "Je crois que le Seigneur savait que, même lorsque nous disposerions de ces appareils (les téléphones portables) pour voir et entendre facilement ses serviteurs oints, beaucoup d’entre nous continueraient à considérer cela comme acquis.",
-      "speaker": "Vaiangina Sikahema",
-      "talk": "Prophètes, voyants et révélateurs",
-      "session": "Session du samedi matin, Conférence générale d’octobre 2026"
-    },
-    {
-      "text": "Vous comprenez peut-être pourquoi mes grands-parents bien-aimés étaient si désireux de se trouver en présence de l’un des oints du Seigneur. Même au cœur de leur désespoir et pleurant la perte tragique de leur fils unique, ce petit garçon si beau et si joyeux, ils l’ont enterré solennellement et ont déployé des efforts herculéens pour prendre la mer dans le seul but d’écouter un apôtre du Seigneur.",
-      "speaker": "Vaiangina Sikahema",
-      "talk": "Prophètes, voyants et révélateurs",
-      "session": "Session du samedi matin, Conférence générale d’octobre 2026"
-    },
-    {
-      "text": "Cela explique peut-être pourquoi le Sauveur a déclaré : « Ce que moi, le Seigneur, ai dit, je l’ai dit, et je ne m’en excuse pas ; et même si les cieux et la terre passent, ma parole ne passera pas, mais s’accomplira entièrement, que ce soit par ma voix ou par la voix de mes serviteurs, c’est la même chose » (Doctrine et Alliances 1:38 ; italiques ajoutées).",
       "speaker": "Vaiangina Sikahema",
       "talk": "Prophètes, voyants et révélateurs",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
@@ -87,5 +88,188 @@
       "ref": "Doctrine and Covenants 1:38",
       "text": "Ce que moi, le Seigneur, ai dit, je l’ai dit, et je ne m’en excuse pas; et même si les cieux et la terre passent, ma parole ne passera pas, mais s’accomplira entièrement, que ce soit par ma voix ou par la voix de mes serviteurs, c’est la même chose."
     }
-  ]
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "En 1947, mes grands-parents maternels, Sione Tufui et Salote Tongi Wolfgramm, faisaient une mission à plein temps à Niuatoputapu, petite île volcanique isolée du royaume de Tonga, dans le Pacifique Sud. Mes grands-parents étaient des paysans pauvres et sans instruction. Mon grand-père avait alors vingt-huit ans, ma grand-mère en avait vingt-cinq, et ils avaient avec eux leurs trois enfants : ma mère, Potenitila (Ruby), âgée de quatre ans, Makeleta (Maggie), âgée de trois ans, et Vilimanulea, qui avait neuf mois et était à l’époque leur unique fils.",
+          "words": 87,
+          "personal": true
+        },
+        {
+          "text": "Compte tenu du nombre limité de visas délivrés aux Américains [pour se rendre aux îles Tonga, N.d.T.], des couples tongiens comme les Wolfgramm étaient régulièrement appelés à servir sur les îles ou dans les villages voisins en tant que couples missionnaires « d’âge mûr ».",
+          "words": 45
+        },
+        {
+          "text": "En juin de la même année, Matthew Cowley, apôtre qui présidait la région du Pacifique, venait aux îles Tonga. Notre royaume insulaire n’avait reçu la visite que de deux apôtres auparavant : David O. McKay en 1921, puis George Albert Smith en 1938.",
+          "words": 43
+        },
+        {
+          "text": "Pour les saints dispersés de part et d’autre du Pacifique, recevoir un apôtre du Seigneur parmi eux était la chance de leur vie. Aller à la rencontre de cet apôtre signifiait, pour mes grands-parents, faire un long voyage à travers la plus grande étendue d’eau de la planète jusqu’à l’île principale de Tongatapu, après, toutefois, une première escale à mi-chemin sur leur île natale de Vava’u. Le Pacifique est connu pour ses conditions météorologiques capricieuses, et la semaine de leur voyage n’a pas fait exception.",
+          "words": 85
+        },
+        {
+          "text": "Les Wolfgramm ont navigué dans la tempête : un voyage qui était censé durer seize heures jusqu’à Vava’u s’est transformé en deux jours et demi d’une traversée en mer éprouvante. Dans son journal, ma grand-mère a écrit : « Nous étions complètement trempés, […] épuisés et malades, […] trop faibles pour manger. […] J’ai tenu Vilimanulea contre mon cœur jusqu’à ce que nous arrivions enfin à Vava’u. »",
+          "words": 68,
+          "personal": true
+        },
+        {
+          "text": "Leur épreuve n’était pourtant pas terminée. À cause de la tempête, le bébé était gravement déshydraté. Faute de médicaments, le fils bien-aimé des Wolfgramm a succombé aux rigueurs du climat. En l’espace de deux jours, ils ont enterré leur bébé à Vava’u et ont poursuivi leur voyage.",
+          "words": 47
+        },
+        {
+          "text": "Pour les Wolfgramm, enterrer leur nourrisson rappelait le sort des pionniers qui avaient enterré leurs enfants sur le chemin vers Sion. Et tout comme les premiers pionniers, ils désiraient ardemment entendre un apôtre et se trouver en sa présence.",
+          "words": 39
+        },
+        {
+          "text": "Le cœur lourd, les mains vides, mes grands-parents sont remontés à bord du bateau, car leur mission n’était pas encore achevée.",
+          "words": 21
+        },
+        {
+          "text": "Ils naviguaient vers un apôtre qui détenait les clés de la prêtrise et l’autorité d’accomplir les ordonnances qui les scelleraient plus tard pour devenir une famille éternelle. Ils naviguaient pour aller s’asseoir aux pieds d’un apôtre qui leur enseignerait leur devoir, afin qu’ils puissent apporter la bénédiction du message de l’Évangile rétabli de Jésus-Christ aux habitants de leur île.",
+          "words": 59
+        },
+        {
+          "text": "Mes grands-parents comprenaient que l’Évangile rétabli par Joseph Smith révélait des vérités qui leur avaient été cachées jusqu’alors. Joseph avait participé au rétablissement de l’Église du Sauveur avec des prophètes, voyants et révélateurs, qui détenaient les clés de la prêtrise qui lieraient un jour leur famille à jamais.",
+          "words": 48
+        },
+        {
+          "text": "Mes grands-parents se sont ceint les reins, ont repris courage (voir « Venez, venez, sans craindre le devoir », Cantiques, n 18) et ont traversé la mer pour rejoindre Matthew Cowley.",
+          "words": 31
+        },
+        {
+          "text": "Pendant des siècles après la mort des apôtres et des prophètes d’autrefois, jusqu’au jour où le jeune Joseph s’est agenouillé dans un bosquet près de Palmyra, dans l’état de New York, il n’y a eu aucune révélation à des prophètes. Un prophète de l’Ancien Testament a appelé cette période, une famine.",
+          "words": 51
+        },
+        {
+          "text": "« Voici, les jours viennent […] où j’enverrai la famine dans le pays, non pas la disette du pain et la soif de l’eau, mais la faim et la soif d’entendre les paroles de l’Éternel.",
+          "words": 35
+        },
+        {
+          "text": "« Ils seront alors errants d’une mer à l’autre, du nord à l’orient, ils iront çà et là pour chercher la parole de l’Éternel, et ils ne la trouveront pas » (Amos 8:11-12).",
+          "words": 33,
+          "scriptures": [
+            {
+              "ref": "Amos 8:11–12",
+              "text": "Voici, les jours viennent, dit le Seigneur, l'Éternel, Où j'enverrai la famine dans le pays, Non pas la disette du pain et la soif de l'eau, Mais la faim et la soif d'entendre les paroles de l'Éternel. Ils seront alors errants d'une mer à l'autre, Du septentrion à l'orient, Ils iront çà et là pour chercher la parole de l'Éternel, Et ils ne la trouveront pas."
+            }
+          ]
+        },
+        {
+          "text": "Ce même prophète de l’Ancien Testament, Amos, a aussi déclaré que « le Seigneur, l’Éternel, ne fait rien sans avoir révélé son secret à ses serviteurs les prophètes » (Amos 3:7).",
+          "words": 31,
+          "scriptures": [
+            {
+              "ref": "Amos 3:7",
+              "text": "Car le Seigneur, l'Éternel, ne fait rien Sans avoir révélé son secret à ses serviteurs les prophètes."
+            }
+          ]
+        },
+        {
+          "text": "Le Sauveur a prédit que de faux prophètes allaient décimer son Église originelle (voir Matthieu 7:15-23). L’apôtre Paul a également enseigné : « Je sais qu’il s’introduira parmi vous, après mon départ, des loups cruels qui n’épargneront pas le troupeau » (Actes 20:29).",
+          "words": 43,
+          "scriptures": [
+            {
+              "ref": "Acts 20:29",
+              "text": "Je sais qu'il s'introduira parmi vous, après mon départ, des loups cruels qui n'épargneront pas le troupeau,"
+            }
+          ]
+        },
+        {
+          "text": "Au Moyen Âge, des réformateurs recherchaient et désiraient ardemment entendre la voix des prophètes, mais sans y parvenir.",
+          "words": 18
+        },
+        {
+          "text": "À notre époque moderne encore, des gens ont soif d’entendre les directives et les recommandations des prophètes.",
+          "words": 17
+        },
+        {
+          "text": "Le Seigneur a donné ce conseil à Joseph Smith : « Et que tous ceux qui reçoivent les oracles de Dieu prennent garde à la manière dont ils les respectent, de peur qu’ils ne les prennent à la légère » (Doctrine et Alliances 90:5).",
+          "words": 44,
+          "scriptures": [
+            {
+              "ref": "Doctrine and Covenants 90:5",
+              "text": "Et que tous ceux qui reçoivent les oracles de Dieu prennent garde à la manière dont ils les respectent, de peur qu’ils ne les prennent à la légère et ne tombent par là sous la condamnation, ne trébuchent et ne tombent lorsque les tempêtes s’abattront, que les vents souffleront et que les pluies descendront et se jetteront contre cette maison."
+            }
+          ]
+        },
+        {
+          "text": "Je crois que le Seigneur savait que, même lorsque nous disposerions de ces appareils (les téléphones portables) pour voir et entendre facilement ses serviteurs oints, beaucoup d’entre nous continueraient à considérer cela comme acquis.",
+          "words": 34
+        },
+        {
+          "text": "Dans un discours de conférence générale prononcé il y a plus de vingt ans, Jeffrey R. Holland a demandé : « Les cieux sont-ils ouverts ? Dieu révèle-t-il sa volonté à des prophètes et des apôtres comme autrefois ? L’Église de Jésus-Christ des saints des derniers jours déclare avec détermination au monde entier qu’il en est ainsi. Et c’est cette déclaration qui fait l’importance de Joseph Smith, le prophète, depuis maintenant près de deux cents ans » (« Prophètes, voyants et révélateurs », Le Liahona, novembre 2004, p. 8).",
+          "words": 89
+        },
+        {
+          "text": "Joseph a décrit en ces termes le moment où les cieux se sont ouverts : « Quand la lumière se posa sur moi, je vis deux Personnages dont l’éclat et la gloire défient toute description, et qui se tenaient au-dessus de moi dans les airs. L’un d’eux me parla, m’appelant par mon nom, et dit, en me montrant l’autre : Celui-ci est mon fils bien-aimé. Écoute-le ! » (Joseph Smith, Histoire 1:17).",
+          "words": 72,
+          "scriptures": [
+            {
+              "ref": "Joseph Smith-History 1:17",
+              "text": "À peine était-elle apparue que je me sentis délivré de l’ennemi qui m’enserrait. Quand la lumière se posa sur moi, je vis deux Personnages dont l’éclat et la gloire défient toute description, et qui se tenaient au-dessus de moi dans les airs. L’un d’eux me parla, m’appelant par mon nom, et dit, en me montrant l’autre: Celui-ci est mon Fils bien-aimé. Écoute-le!"
+            }
+          ]
+        },
+        {
+          "text": "En se présentant de cette façon claire, simple et sobre, le Père et son Fils, Jésus-Christ, allaient commencer l’œuvre du rétablissement de l’Église originelle du Sauveur, par l’intermédiaire d’un adolescent du nord de l’État de New York.",
+          "words": 37
+        },
+        {
+          "text": "Au cours des années qui ont suivi cet événement capital, de plus grandes vérités, mais aussi l’autorité de la prêtrise, des ordonnances sacrées, des Écritures supplémentaires et la connaissance du plan du salut de Dieu ont toutes été rétablies ou redécouvertes par l’intermédiaire de Joseph Smith.",
+          "words": 46
+        },
+        {
+          "text": "Vous comprenez peut-être pourquoi mes grands-parents bien-aimés étaient si désireux de se trouver en présence de l’un des oints du Seigneur. Même au cœur de leur désespoir et pleurant la perte tragique de leur fils unique, ce petit garçon si beau et si joyeux, ils l’ont enterré solennellement et ont déployé des efforts herculéens pour prendre la mer dans le seul but d’écouter un apôtre du Seigneur.",
+          "words": 67
+        },
+        {
+          "text": "Quelle bénédiction de vivre à une époque où des apôtres et des prophètes sont présents sur la terre ! Alors que s’ouvre cette 196 conférence générale de l’Église, ne nous rendons pas coupables de prendre les « oracles de Dieu […] à la légère » (Doctrine et Alliances 90:5).",
+          "words": 49,
+          "scriptures": [
+            {
+              "ref": "Doctrine and Covenants 90:5",
+              "text": "Et que tous ceux qui reçoivent les oracles de Dieu prennent garde à la manière dont ils les respectent, de peur qu’ils ne les prennent à la légère et ne tombent par là sous la condamnation, ne trébuchent et ne tombent lorsque les tempêtes s’abattront, que les vents souffleront et que les pluies descendront et se jetteront contre cette maison."
+            }
+          ]
+        },
+        {
+          "text": "Il est intéressant de noter que, lorsque l’Église n’avait qu’un an et demi d’existence, certains des premiers dirigeants de l’Église se sont opposés à l’idée de publier les révélations du Seigneur transmises par le prophète Joseph, qui deviendraient ensuite les Doctrine et Alliances. Certains d’entre eux étaient embarrassés par les lacunes du jeune prophète en matière d’écriture.",
+          "words": 57
+        },
+        {
+          "text": "Cela explique peut-être pourquoi le Sauveur a déclaré : « Ce que moi, le Seigneur, ai dit, je l’ai dit, et je ne m’en excuse pas ; et même si les cieux et la terre passent, ma parole ne passera pas, mais s’accomplira entièrement, que ce soit par ma voix ou par la voix de mes serviteurs, c’est la même chose » (Doctrine et Alliances 1:38 ; italiques ajoutées).",
+          "words": 69,
+          "scriptures": [
+            {
+              "ref": "Doctrine and Covenants 1:38",
+              "text": "Ce que moi, le Seigneur, ai dit, je l’ai dit, et je ne m’en excuse pas; et même si les cieux et la terre passent, ma parole ne passera pas, mais s’accomplira entièrement, que ce soit par ma voix ou par la voix de mes serviteurs, c’est la même chose."
+            }
+          ]
+        },
+        {
+          "text": "Je suis profondément reconnaissant envers ces nobles ancêtres qui m’ont laissé, ainsi qu’à ma postérité, un héritage de foi et de courage face aux difficultés et aux obstacles.",
+          "words": 28,
+          "personal": true
+        },
+        {
+          "text": "Je témoigne des vérités de l’Évangile rétabli, ainsi que des prophètes, voyants et révélateurs actuels, au nom sacré de Jésus-Christ. Amen.",
+          "words": 21,
+          "closing": "testimony"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je témoigne des vérités de l’Évangile rétabli, ainsi que des prophètes, voyants et révélateurs actuels, au nom sacré de Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ]
+  }
 }

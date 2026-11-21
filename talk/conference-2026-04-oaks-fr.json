@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-oaks",
   "lang": "fr",
   "speaker": "Dallin H. Oaks",
@@ -38,5 +39,44 @@
       "session": "Session du dimanche après-midi, Conférence générale d’avril 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "The Tabernacle Choir vient de chanter : « Raconte-moi les histoires de Jésus », une prière exprimée en musique. Quel bon résumé des messages entendus au cours de ces deux derniers jours ! Bientôt, nous conclurons cette conférence en chantant « Sauveur d’Israël ». Ces deux cantiques s’inscrivent pleinement dans le thème central de ces deux journées de conférence.",
+          "words": 59
+        },
+        {
+          "text": "L’Esprit du Seigneur nous a tous inspirés à centrer notre culte, à orienter notre apprentissage et à unir notre témoignage autour des enseignements du Seigneur Jésus-Christ et du plan de son Père pour notre accroissement et notre joie éternels.",
+          "words": 39
+        },
+        {
+          "text": "Jésus-Christ est véritablement le chemin qui mène à la paix dans ce monde et à la vie éternelle dans le monde à venir. Il connaît et aime chacun de nous parfaitement, et il nous invite à marcher avec lui, à demeurer en lui et à suivre son exemple en servant les autres, un par un, avec charité et amour. On nous a rappelé le rôle central du mariage et de la famille dans le plan de notre Père céleste pour la destinée éternelle de ses enfants. Puissions-nous tous manifester l’amour pur du Christ au sein de notre famille, dans notre collectivité et dans toutes nos interactions avec les enfants de Dieu.",
+          "words": 111,
+          "personal": true
+        },
+        {
+          "text": "Lorsque les messages de cette conférence seront publiés, nous vous invitons tous à les étudier, à les méditer dans la prière et à agir avec foi selon les principes qu’ils expliquent. Le Seigneur a promis : « À celui qui reçoit, je donnerai davantage. » Si nous chérissons les enseignements de cette conférence et agissons en conséquence, le Seigneur continuera de nous instruire et de nous inspirer par la révélation et l’inspiration personnelles.",
+          "words": 73
+        },
+        {
+          "text": "Je promets ceci à chacun de nous si nous suivons les instructions des serviteurs du Seigneur et veillons à « regarder vers Dieu et à vivre ». Au nom de Jésus-Christ. Amen.",
+          "words": 32,
+          "closing": "blessing"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [
+      {
+        "text": "Je promets ceci à chacun de nous si nous suivons les instructions des serviteurs du Seigneur et veillons à « regarder vers Dieu et à vivre ». Au nom de Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ],
+    "testimony": []
+  }
 }

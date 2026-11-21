@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-andersen",
   "lang": "fr",
   "speaker": "Neil L. Andersen",
@@ -38,12 +39,6 @@
       "session": "Session du dimanche matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "C’est notre foi en Jésus-Christ qui nous donne le courage spirituel de servir autrui, de respecter la Parole de sagesse, d’obéir à la loi de chasteté, d’honorer le jour du sabbat, de payer la dîme honnêtement et de faire confiance à notre Père et à son Fils, lorsque la maladie, les problèmes financiers ou les catastrophes naturelles viennent nous surprendre et bouleverser notre vie.",
-      "speaker": "Neil L. Andersen",
-      "talk": "Le courage né de notre foi en Jésus-Christ",
-      "session": "Session du dimanche matin, Conférence générale d’octobre 2026"
-    },
-    {
       "text": "Pour des dizaines de milliers de jeunes gens et de jeunes filles remarquables à travers le monde, c’est la foi qui leur donne le courage de se lever avant le lever du soleil pour assister au séminaire, faire ensuite une mission et, à leur retour, se marier et fonder une famille. Quant aux personnes qui ne peuvent pas se marier, leur courage leur permet de rester fidèles à leurs alliances.",
       "speaker": "Neil L. Andersen",
       "talk": "Le courage né de notre foi en Jésus-Christ",
@@ -56,11 +51,174 @@
       "session": "Session du dimanche matin, Conférence générale d’octobre 2026"
     },
     {
+      "text": "Récemment, une noble femme, d’une foi profonde, a rendu témoignage à l’église. En toute confidentialité, j’avais appris qu’elle avait énormément souffert de la trahison de son mari. Mais, avec un courage né de sa foi, elle a déclaré avec puissance que, dans les moments de joie aussi bien que dans les moments de chagrin indicible, elle placerait sa confiance dans le roc de son salut, son Sauveur, Jésus-Christ.",
+      "speaker": "Neil L. Andersen",
+      "talk": "Le courage né de notre foi en Jésus-Christ",
+      "session": "Session du dimanche matin, Conférence générale d’octobre 2026"
+    },
+    {
       "text": "Je vous promets que si vous fortifiez votre foi en Jésus-Christ en croyant en lui, en le suivant et en respectant ses commandements, vous recevrez des réponses, votre pouvoir spirituel augmentera et le courage dont vous faites preuve pour lui être fidèle façonnera votre âme éternelle.",
       "speaker": "Neil L. Andersen",
       "talk": "Le courage né de notre foi en Jésus-Christ",
       "session": "Session du dimanche matin, Conférence générale d’octobre 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Nous souhaitons la bienvenue à Rosemary Chibota au sein des dirigeants généraux de l’Église. Son histoire est un exemple de courage né de la foi en Jésus-Christ.",
+          "words": 27
+        },
+        {
+          "text": "À dix-sept ans, Rosemary est tombée sur une brochure sur Joseph Smith que les missionnaires avaient laissée dans la maison de ses parents, au Zimbabwe. Elle l’a lue et a immédiatement reçu le témoignage spirituel que c’était vrai : Joseph avait vu Dieu le Père et son Fils, Jésus-Christ. Elle a été instruite et baptisée, et est devenue un exemple pour ses parents, qui sont devenus membres de l’Église dix-neuf ans plus tard.",
+          "words": 73
+        },
+        {
+          "text": "La foi et le courage sont les caractéristiques des disciples de Jésus-Christ.",
+          "words": 12
+        },
+        {
+          "text": "Jésus-Christ est le Fils divin de Dieu. Il est venu sur terre dans les conditions les plus humbles. Il a mené une vie parfaite. Il nous a appris à vivre dans la condition mortelle et à nous préparer à notre vie éternelle. Parce qu’il aime chacun de nous d’un amour incomparable, il nous a fait don de ce que lui seul pouvait offrir : il a souffert pour nos péchés, nous permettant ainsi de nous repentir et d’être pardonnés. Il a été crucifié sur la croix et, dans la majesté du plan de notre Père céleste, il est ressuscité le troisième jour. Parce qu’il est ressuscité, nous aussi, nous ressusciterons. Comme les desseins de notre Dieu sont beaux et comme notre révérence à l’égard de notre Sauveur est immense !",
+          "words": 130,
+          "personal": true
+        }
+      ]
+    },
+    {
+      "heading": "Courage spirituel",
+      "paragraphs": [
+        {
+          "text": "Être un vrai disciple de Jésus-Christ, vaincre le monde, respecter ses commandements, et avoir confiance en lui et en ses promesses ne sont pas des quêtes anodines. Faire preuve de courage spirituel, c’est triompher des obstacles, du doute et de la peur en choisissant le bien.",
+          "words": 46
+        },
+        {
+          "text": "Il a toujours fallu faire preuve de courage spirituel, né de la foi en Jésus-Christ, pour être son disciple. Moroni a écrit : « Je suis seul. Mon père [et toute ma famille ont] été tué[s] à la bataille, […] et je n’ai pas d’amis ni où aller. »",
+          "words": 49
+        },
+        {
+          "text": "Alors même que ses adversaires mettaient à mort tous ceux qui ne voulaient pas nier le Christ, dans son courage, il a déclaré : « Et moi, Moroni, je ne veux pas nier le Christ. »",
+          "words": 36
+        },
+        {
+          "text": "Notre monde est différent de celui de l’époque de Moroni, mais la vie de disciple requiert toujours du courage. L’apôtre Paul décrit les doutes, les distractions et les tromperies de notre époque en ces termes : « Nous n’avons pas à lutter contre la chair et le sang, mais contre les dominations, contre les autorités, contre les princes de ce monde de ténèbres. »",
+          "words": 64
+        },
+        {
+          "text": "Le monde est en perpétuel tumulte. Notre téléphone est comme attaché à notre main, source d’information, de désinformation et désormais d’information artificielle.",
+          "words": 22
+        },
+        {
+          "text": "J’ai grandi dans une petite ferme laitière. Pendant une saison, notre troupeau de trente-six vaches se trouvait dans un enclos près d’un petit canyon. Presque tous les matins, après la traite, je montais à cheval pour emmener les vaches paître dans une prairie en montagne, sans téléphone portable, sans écouteurs, sans musique, sans SMS. Toute la journée, il n’y avait que les vaches et moi, seul avec mes pensées. Les temps ont changé, mais pas notre esprit. Nous avons besoin de calme pour nourrir notre foi en Christ.",
+          "words": 88,
+          "personal": true
+        }
+      ]
+    },
+    {
+      "heading": "Foi et courage",
+      "paragraphs": [
+        {
+          "text": "Lorsque nous choisissons d’exercer notre foi en Christ, il nous donne le courage de choisir le bien, parfois dans des situations très difficiles. Lorsque nous avons le courage de choisir le bien, notre foi en Christ se fortifie.",
+          "words": 38
+        },
+        {
+          "text": "Nous nous réjouissons de la foi en Jésus-Christ et du courage spirituel que nous voyons en vous, membres de l’Église du monde entier.",
+          "words": 23
+        },
+        {
+          "text": "C’est notre foi en Jésus-Christ qui nous donne le désir de nous agenouiller humblement seuls et de prier notre Père céleste. Dans ces moments paisibles où nous parlons avec notre Père céleste en privé, de manière autonome, nous recevons un plus grand courage pour choisir le bien. Jeune, j’ai entendu David O. McKay dire : « Le plus grand combat de la vie, c’est dans les recoins silencieux de votre âme que vous le menez. » Lorsque nous gagnons courageusement les batailles de notre âme, notre foi en notre Sauveur se multiplie.",
+          "words": 92,
+          "personal": true
+        },
+        {
+          "text": "Chaque semaine, dans un esprit de prière, nous prenons la Sainte-Cène et témoignons devant Dieu, et en présence d’autres personnes, que nous sommes « disposés à prendre sur [nous] le nom de [Jésus-Christ], [nous] souvenir toujours de lui et garder les commandements qu’il [nous] a donnés ». Puis, avec courage, nous sommes fidèles à nos alliances. En retour, le Seigneur nous accorde une foi plus grande.",
+          "words": 66
+        },
+        {
+          "text": "C’est notre foi en Jésus-Christ qui nous donne le courage d’accepter un appel de nos dirigeants de la prêtrise, même lorsque nous ne nous sentons pas à la hauteur ou pensons ne pas avoir assez de temps pour accepter cette responsabilité.",
+          "words": 41
+        },
+        {
+          "text": "Au début de sa carrière, Dallin H. Oaks travaillait d’arrache-pied dans un cabinet d’avocats prestigieux, y compris le soir et le samedi. Son président de pieu l’a appelé comme conseiller dans la présidence de mission de pieu, un appel qui l’occuperait au moins trois ou quatre soirs par semaine. Le président Oaks a raconté : « Rassemblant toute ma foi, j’ai accepté l’appel. » Le président Oaks a qualifié cette décision de très importante dans sa vie. Sa foi a renforcé son courage et sa décision a fait grandir sa foi.",
+          "words": 91
+        },
+        {
+          "text": "C’est notre foi en Jésus-Christ qui nous donne le courage spirituel de servir autrui, de respecter la Parole de sagesse, d’obéir à la loi de chasteté, d’honorer le jour du sabbat, de payer la dîme honnêtement et de faire confiance à notre Père et à son Fils, lorsque la maladie, les problèmes financiers ou les catastrophes naturelles viennent nous surprendre et bouleverser notre vie.",
+          "words": 64,
+          "personal": true
+        },
+        {
+          "text": "Il y a un mois, j’ai accompagné frère Uchtdorf à Spokane, dans l’État de Washington, où des incendies ont détruit plus de huit cents foyers. Nous avons rendu visite à des membres dont le quartier avait été complètement détruit. Cody et Haylee Woodbury m’ont dit : « Notre famille est en sécurité et notre foi est intacte. Nous construirons une autre maison. » Leur foi en Jésus-Christ a élevé leur courage, et leur courage a fait grandir leur foi.",
+          "words": 79,
+          "personal": true
+        },
+        {
+          "text": "Pour des dizaines de milliers de jeunes gens et de jeunes filles remarquables à travers le monde, c’est la foi qui leur donne le courage de se lever avant le lever du soleil pour assister au séminaire, faire ensuite une mission et, à leur retour, se marier et fonder une famille. Quant aux personnes qui ne peuvent pas se marier, leur courage leur permet de rester fidèles à leurs alliances.",
+          "words": 70
+        },
+        {
+          "text": "C’est avec une foi au Christ et un courage remarquable qu’une jeune mère prépare ses jeunes enfants pour l’Église, sachant que certains dimanches ressembleront davantage à une lutte pour la survie qu’à un renouveau spirituel.",
+          "words": 35
+        },
+        {
+          "text": "C’est notre foi en Christ qui nous donne le courage spirituel de parler ouvertement du Sauveur, de contracter des alliances dans la maison de notre Seigneur, de nous repentir et de recevoir le pardon, de suivre les prophètes vivants et d’accroître notre aptitude à être guidés par les impressions discrètes du Saint-Esprit.",
+          "words": 52
+        },
+        {
+          "text": "Récemment, une noble femme, d’une foi profonde, a rendu témoignage à l’église. En toute confidentialité, j’avais appris qu’elle avait énormément souffert de la trahison de son mari. Mais, avec un courage né de sa foi, elle a déclaré avec puissance que, dans les moments de joie aussi bien que dans les moments de chagrin indicible, elle placerait sa confiance dans le roc de son salut, son Sauveur, Jésus-Christ.",
+          "words": 68
+        },
+        {
+          "text": "Grâce à notre espérance vivante en Christ et malgré les difficultés de la vie, nous pouvons, nous aussi, comme l’a dit l’apôtre Paul, être « pressés de toute manière, mais non réduits à l’extrémité ; dans la détresse, mais non dans le désespoir ».",
+          "words": 44
+        }
+      ]
+    },
+    {
+      "heading": "Promesses et témoignage",
+      "paragraphs": [
+        {
+          "text": "Je vous promets que si vous fortifiez votre foi en Jésus-Christ en croyant en lui, en le suivant et en respectant ses commandements, vous recevrez des réponses, votre pouvoir spirituel augmentera et le courage dont vous faites preuve pour lui être fidèle façonnera votre âme éternelle.",
+          "words": 46,
+          "closing": "blessing"
+        },
+        {
+          "text": "Le Sauveur a déclaré : « Si quelqu’un m’aime, il gardera ma parole, et mon Père l’aimera ; nous viendrons à lui, et nous ferons notre demeure chez lui. »",
+          "words": 30
+        },
+        {
+          "text": "Pierre et Jean étaient dans la pièce lorsque le Christ ressuscité est apparu aux apôtres. Jésus a dit : « Voyez mes mains et mes pieds, c’est bien moi ; touchez-moi et voyez. »",
+          "words": 34
+        },
+        {
+          "text": "Peu après cette expérience sacrée, des dirigeants incrédules ont interrogé Pierre et Jean au sujet de la guérison d’un homme qui ne pouvait pas marcher. « Rempli[s] du Saint-Esprit », Pierre et Jean ont déclaré avec le courage né de leur foi : « Puisque nous sommes interrogés aujourd’hui […] afin que nous disions comment il a été guéri, sachez-le tous […], c’est par le nom de Jésus-Christ de Nazareth, que vous avez crucifié et que Dieu a ressuscité des morts, c’est par lui que cet homme se présente en pleine santé devant vous. »",
+          "words": 95
+        },
+        {
+          "text": "Comme Pierre et Jean d’autrefois, je témoigne, moi aussi, de la réalité de « Jésus-Christ de Nazareth ». Il vit. Il dirige cette œuvre sainte, l’Évangile rétabli de Jésus-Christ. Au nom de Jésus-Christ. Amen.",
+          "words": 34,
+          "personal": true,
+          "closing": "testimony"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [
+      {
+        "text": "Je vous promets que si vous fortifiez votre foi en Jésus-Christ en croyant en lui, en le suivant et en respectant ses commandements, vous recevrez des réponses, votre pouvoir spirituel augmentera et le courage dont vous faites preuve pour lui être fidèle façonnera votre âme éternelle.",
+        "scriptures": []
+      }
+    ],
+    "testimony": [
+      {
+        "text": "Comme Pierre et Jean d’autrefois, je témoigne, moi aussi, de la réalité de « Jésus-Christ de Nazareth ». Il vit. Il dirige cette œuvre sainte, l’Évangile rétabli de Jésus-Christ. Au nom de Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ]
+  }
 }

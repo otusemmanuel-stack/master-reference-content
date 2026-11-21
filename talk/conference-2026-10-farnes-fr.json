@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-farnes",
   "lang": "fr",
   "speaker": "Timothy L. Farnes",
@@ -13,6 +14,12 @@
     }
   ],
   "quotes": [
+    {
+      "text": "Frère Oaks a répondu : « Je suis désolé, frère. Je ne m’en souviens pas. » Puis, sentant ma déception, il a ajouté : « Mais, c’est ce que nous faisons. N’est-ce pas ? »",
+      "speaker": "Timothy L. Farnes",
+      "talk": "Les rendez-vous divins",
+      "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
+    },
     {
       "text": "Ces paroles ne m’ont jamais quitté depuis. C’est effectivement ce que nous faisons. En tant que disciples par alliance de Jésus-Christ, nous servons avec compassion tous ceux que Dieu met sur notre chemin. Nous le faisons, parce que c’est ce que le Sauveur a fait. Et nous avons fait alliance de le suivre.",
       "speaker": "Timothy L. Farnes",
@@ -32,6 +39,18 @@
       "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
     },
     {
+      "text": "Quand on a posé à Jésus la question : « Que dois-je faire pour hériter la vie éternelle ? » il a répondu en racontant l’histoire d’un homme qui avait des yeux pour voir. Dans l’histoire, un voyageur gisait blessé sur la route de Jéricho. Là où d’autres voyaient un désagrément ou un contretemps, un homme a vu une occasion de servir, un rendez-vous divin. Ce qu’il a vu a éveillé en lui de la compassion. Cette compassion l’a poussé à agir. Et ses actions ont changé une vie pour toujours.",
+      "speaker": "Timothy L. Farnes",
+      "talk": "Les rendez-vous divins",
+      "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
+    },
+    {
+      "text": "Ce modèle caractérisait le ministère du Sauveur. Il transformait des rencontres ordinaires avec des gens en moments extraordinaires de guérison, d’encouragement et de transformation. Pour Jésus, ces personnes n’interrompaient pas sa mission. Elles étaient sa mission.",
+      "speaker": "Timothy L. Farnes",
+      "talk": "Les rendez-vous divins",
+      "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
+    },
+    {
       "text": "Dieu nous a donné des yeux pour voir. Lorsque nous le faisons, nous commençons à reconnaître les rendez-vous divins tout autour de nous. Ce qui semblait être auparavant des rencontres fortuites devient des invitations du Seigneur à servir avec compassion.",
       "speaker": "Timothy L. Farnes",
       "talk": "Les rendez-vous divins",
@@ -42,25 +61,220 @@
       "speaker": "Timothy L. Farnes",
       "talk": "Les rendez-vous divins",
       "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
-    },
-    {
-      "text": "Pendant que l’avion se remplissait, nous avons guetté anxieusement l’arrivée de notre ami missionnaire, mais nous ne l’avons pas vu. Je craignais que nous ayons commis une grave erreur en embarquant sans lui.",
-      "speaker": "Timothy L. Farnes",
-      "talk": "Les rendez-vous divins",
-      "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
-    },
-    {
-      "text": "Nous avons échangé un sourire, émerveillés de voir que Dieu avait arrangé même un petit détail de ce genre. Puis, après s’être enfin détendu un peu, le missionnaire s’est endormi.",
-      "speaker": "Timothy L. Farnes",
-      "talk": "Les rendez-vous divins",
-      "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
-    },
-    {
-      "text": "Linsey et moi l’avons aidé à descendre de l’avion et l’avons accompagné, épaule contre épaule pour ne plus le perdre de vue, jusqu’à la zone de récupération des bagages. Ses dirigeants de mission l’y attendaient. Sachant que c’est toujours un moment spécial, nous étions ravis de voir ce nouveau missionnaire être accueilli par ses dirigeants pour la toute première fois.",
-      "speaker": "Timothy L. Farnes",
-      "talk": "Les rendez-vous divins",
-      "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "« C’est ce que nous faisons, n’est-ce pas ? »",
+      "paragraphs": [
+        {
+          "text": "Je n’oublierai jamais un samedi, il y a près de 20 ans. Je venais d’être appelé dans une présidence de pieu et je n’avais pas encore été relevé de mon appel d’évêque. Nous avions cinq jeunes enfants, une entreprise à gérer et une journée entière de réunions de l’Église, qui commençait à huit heures du matin et se terminait par une soirée de paroisse au temple. C’était une période chargée et je voulais tout donner au Seigneur, mais je n’étais jamais sûr d’avoir assez à donner.",
+          "words": 86,
+          "personal": true
+        },
+        {
+          "text": "À la mi-journée, lors d’une réunion de dirigeants, l’autorité présidente a demandé si nous avions des questions à poser. J’ai pris mon courage à deux mains et j’ai posé une question sur un problème administratif qui me préoccupait. Au lieu d’obtenir une réponse utile, j’ai eu l’impression qu’on ne tenait pas compte de ma question. Je me suis senti un peu découragé et peu valorisé. Je me suis demandé pourquoi je faisais autant de sacrifices si c’était pour éprouver ces sentiments.",
+          "words": 81,
+          "personal": true
+        },
+        {
+          "text": "J’ai quitté cette réunion dénué du désir d’assister à la soirée de paroisse au temple. J’ai appelé ma femme, je lui ai confié combien j’étais découragé et j’ai dit : « Sortons dîner au lieu d’aller au temple. »",
+          "words": 39,
+          "personal": true
+        },
+        {
+          "text": "Linsey a répondu avec sagesse : « Non, je pense que tu as besoin d’être dans le temple. Nous parlerons après. »",
+          "words": 22
+        },
+        {
+          "text": "Je suis donc allé au temple, mais pas avec la meilleure attitude.",
+          "words": 12
+        },
+        {
+          "text": "Quand je suis entré dans le vestiaire, en ronchonnant intérieurement, j’ai entendu quelqu’un dire : « Comment allez-vous, frère ? »",
+          "words": 21,
+          "personal": true
+        },
+        {
+          "text": "C’était Dallin H. Oaks.",
+          "words": 4
+        },
+        {
+          "text": "Nous ne nous étions encore jamais rencontrés et je n’allais pas dire à un membre du Collège des douze apôtres à quel point j’étais découragé. Alors je me suis forcé à sourire et j’ai dit : « Tout va bien ! »",
+          "words": 42,
+          "personal": true
+        },
+        {
+          "text": "J’ai mis mes vêtements du temple et, en sortant, j’ai été surpris de voir frère Oaks qui m’attendait.",
+          "words": 18,
+          "personal": true
+        },
+        {
+          "text": "Il a dit : « Frère, dites-moi comment vous allez réellement. »",
+          "words": 12
+        },
+        {
+          "text": "Il y avait quelque chose de compatissant dans sa voix qui m’a aidé à m’ouvrir à lui. Frère Oaks a écouté. Il m’a exprimé sa reconnaissance sincère, m’a dit quelques mots d’encouragement et a même répondu à ma question administrative. Puis, il m’a serré très fort dans ses bras et, en un instant, je suis passé de l’envie d’abandonner au sentiment que je pouvais donner toute mon âme au service du Seigneur.",
+          "words": 72,
+          "personal": true
+        },
+        {
+          "text": "Cinq ans plus tard, ma femme et moi avons été invités à rencontrer frère Oaks dans son bureau. Vous pouvez imaginer mon enthousiasme à l’idée d’évoquer nos souvenirs de cette expérience que nous avions vécue ensemble. Je lui ai demandé : « Vous souvenez-vous de la conversation que nous avons eue dans le temple ? »",
+          "words": 56,
+          "personal": true
+        },
+        {
+          "text": "Il a dit : « Cela ne me dit rien. Nous sommes-nous déjà rencontrés ? »",
+          "words": 16
+        },
+        {
+          "text": "Je lui ai raconté l’expérience et lui ai dit à quel point son acte de compassion m’avait remonté le moral et avait changé ma vie.",
+          "words": 25,
+          "personal": true
+        },
+        {
+          "text": "Frère Oaks a répondu : « Je suis désolé, frère. Je ne m’en souviens pas. » Puis, sentant ma déception, il a ajouté : « Mais, c’est ce que nous faisons. N’est-ce pas ? »",
+          "words": 35
+        },
+        {
+          "text": "Ces paroles ne m’ont jamais quitté depuis. C’est effectivement ce que nous faisons. En tant que disciples par alliance de Jésus-Christ, nous servons avec compassion tous ceux que Dieu met sur notre chemin. Nous le faisons, parce que c’est ce que le Sauveur a fait. Et nous avons fait alliance de le suivre.",
+          "words": 53
+        }
+      ]
+    },
+    {
+      "heading": "Une alliance de compassion",
+      "paragraphs": [
+        {
+          "text": "Chaque jour de sabbat, quand vous et moi prenons la Sainte-Cène, nous témoignons à notre Père céleste que nous sommes disposés à prendre sur nous le nom de son Fils, Jésus-Christ. Cela signifie que nous choisissons de voir comme il voit, de ressentir ce qu’il ressent et de faire ce qu’il ferait. Sa vie doit se refléter dans la nôtre. Cela signifie que lorsque nous rencontrons une personne, celle-ci devrait voir en nous une qualité de Jésus-Christ : sa gentillesse, sa patience, son espérance, son amour, sa compassion.",
+          "words": 88,
+          "personal": true
+        },
+        {
+          "text": "En contrepartie de notre bonne disposition, nous recevons la promesse du Seigneur que nous pouvons toujours avoir son Esprit avec nous. Grâce à ce don, nous pouvons servir comme le Sauveur le ferait, avec son pouvoir et son amour bienveillant.",
+          "words": 40
+        },
+        {
+          "text": "Chaque dimanche, au cours d’un moment sacré, nous faisons alliance avec Dieu. Une façon de respecter cette alliance est de servir les enfants de Dieu chaque jour. Souvent, cela se produit lorsque Dieu place quelqu’un sur notre chemin et que nous avons des yeux pour le voir. C’est ce que j’appelle les « rendez-vous divins ».",
+          "words": 56
+        }
+      ]
+    },
+    {
+      "heading": "Des yeux pour voir",
+      "paragraphs": [
+        {
+          "text": "Quand on a posé à Jésus la question : « Que dois-je faire pour hériter la vie éternelle ? » il a répondu en racontant l’histoire d’un homme qui avait des yeux pour voir. Dans l’histoire, un voyageur gisait blessé sur la route de Jéricho. Là où d’autres voyaient un désagrément ou un contretemps, un homme a vu une occasion de servir, un rendez-vous divin. Ce qu’il a vu a éveillé en lui de la compassion. Cette compassion l’a poussé à agir. Et ses actions ont changé une vie pour toujours.",
+          "words": 91
+        },
+        {
+          "text": "Ce modèle caractérisait le ministère du Sauveur. Il transformait des rencontres ordinaires avec des gens en moments extraordinaires de guérison, d’encouragement et de transformation. Pour Jésus, ces personnes n’interrompaient pas sa mission. Elles étaient sa mission.",
+          "words": 36
+        },
+        {
+          "text": "Dieu nous a donné des yeux pour voir. Lorsque nous le faisons, nous commençons à reconnaître les rendez-vous divins tout autour de nous. Ce qui semblait être auparavant des rencontres fortuites devient des invitations du Seigneur à servir avec compassion.",
+          "words": 40
+        },
+        {
+          "text": "C’est ce que faisait le Sauveur. C’est ce que fait son prophète. Et c’est ce que nous faisons, n’est-ce pas ?",
+          "words": 21
+        }
+      ]
+    },
+    {
+      "heading": "Servez la personne que Dieu place sur votre chemin",
+      "paragraphs": [
+        {
+          "text": "Il y a quelques années, ma femme et moi attendions de prendre un vol pour des vacances bien méritées. Nous sommes arrivés tôt à l’aéroport ; j’ai mis mes écouteurs et j’ai commencé à lire un livre, reconnaissant de pouvoir profiter de quelques instants de calme.",
+          "words": 46,
+          "personal": true
+        },
+        {
+          "text": "Peu de temps après, j’ai levé les yeux et j’ai vu un jeune missionnaire assis en face de moi. Il avait l’air effrayé et anxieux. Il avait les yeux fermés, il se balançait d’avant en arrière et des larmes coulaient sur ses joues. Il serrait dans ses mains sa carte d’embarquement et un réveil.",
+          "words": 54,
+          "personal": true
+        },
+        {
+          "text": "Après avoir brièvement imaginé les diverses raisons pour lesquelles un missionnaire pouvait avoir l’air si anxieux, je suis retourné à mon livre. Mais, l’Esprit m’a poussé à regarder à nouveau.",
+          "words": 30,
+          "personal": true
+        },
+        {
+          "text": "Quand je l’ai fait, j’ai vu ses yeux remplis de larmes qui me regardaient, implorant mon aide.",
+          "words": 17,
+          "personal": true
+        },
+        {
+          "text": "« Est-ce que ça va ? » ai-je demandé.",
+          "words": 9
+        },
+        {
+          "text": "Dans un anglais approximatif et timide, il a expliqué qu’il était en route pour le champ de la mission, que c’était la première fois qu’il prenait l’avion seul et qu’il était terrifié. J’ai appris qu’il venait de très loin et qu’il tenait le réveil pour être sûr de ne pas rater l’avion.",
+          "words": 52
+        },
+        {
+          "text": "Honteux d’avoir mis tant de temps à aider ce missionnaire, je lui ai expliqué que ma femme et moi prenions le même avion et que nous veillerions à ce qu’il monte à bord.",
+          "words": 33,
+          "personal": true
+        },
+        {
+          "text": "Linsey et moi l’avons accompagné jusqu’à la porte d’embarquement et lui avons montré la porte par laquelle il devrait passer. Bientôt, notre tour est venu de monter à bord. Nous l’avons laissé à la porte d’embarquement et nous avons rejoint nos places.",
+          "words": 42,
+          "personal": true
+        },
+        {
+          "text": "Pendant que l’avion se remplissait, nous avons guetté anxieusement l’arrivée de notre ami missionnaire, mais nous ne l’avons pas vu. Je craignais que nous ayons commis une grave erreur en embarquant sans lui.",
+          "words": 33
+        },
+        {
+          "text": "Finalement, il est arrivé. Comme tout missionnaire, il était le dernier passager à monter à bord, toujours agrippé à sa carte d’embarquement et à son réveil, se dirigeant vers le seul siège libre, à l’arrière de l’avion.",
+          "words": 37
+        },
+        {
+          "text": "C’était le siège à côté du mien.",
+          "words": 7
+        },
+        {
+          "text": "Nous avons échangé un sourire, émerveillés de voir que Dieu avait arrangé même un petit détail de ce genre. Puis, après s’être enfin détendu un peu, le missionnaire s’est endormi.",
+          "words": 30
+        },
+        {
+          "text": "Quand nous avons atterri, je l’ai réveillé et la panique est revenue sur son visage alors qu’il s’inquiétait de ce qu’il devait faire ensuite. Où devait-il aller ? Et si personne ne l’attendait ?",
+          "words": 34
+        },
+        {
+          "text": "Linsey et moi l’avons aidé à descendre de l’avion et l’avons accompagné, épaule contre épaule pour ne plus le perdre de vue, jusqu’à la zone de récupération des bagages. Ses dirigeants de mission l’y attendaient. Sachant que c’est toujours un moment spécial, nous étions ravis de voir ce nouveau missionnaire être accueilli par ses dirigeants pour la toute première fois.",
+          "words": 60,
+          "personal": true
+        },
+        {
+          "text": "Mais, à notre grande surprise, notre ami n’a pas couru vers ses dirigeants de mission. Au lieu de cela, il a lâché ses valises et nous a gratifiés, Linsey et moi, d’une chaleureuse accolade pleine d’amour et de reconnaissance.",
+          "words": 39,
+          "personal": true
+        },
+        {
+          "text": "Ce que nous avons fait pour ce missionnaire n’exigeait pas grand-chose de nous, mais cette rencontre ordinaire s’est transformée en un rendez-vous divin que nous chérirons toujours. Tout ce que nous avions à faire, c’était de voir la personne que Dieu avait mise sur notre chemin, de la regarder avec compassion plutôt que de la juger, puis d’agir.",
+          "words": 58
+        },
+        {
+          "text": "Frères et sœurs, prions chaque jour pour être capables de voir les rendez-vous divins que Dieu place devant nous ! Mettons la compassion en action et servons la personne qui se trouve en face de nous. C’est ce que Jésus faisait.",
+          "words": 41
+        },
+        {
+          "text": "Et c’est ce que nous faisons.",
+          "words": 6
+        },
+        {
+          "text": "Au nom sacré que nous prenons sur nous par alliance, Jésus-Christ. Amen.",
+          "words": 12
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": []
+  }
 }

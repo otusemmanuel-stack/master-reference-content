@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-fantone",
   "lang": "fr",
   "speaker": "James G. O. Fantone",
@@ -44,12 +45,6 @@
       "session": "Session du dimanche matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "Au cours d’une autre période, c’était la chambre des filles qui était prise par quelqu’un d’autre. Quand la présidente de la Société de secours de la paroisse a parlé d’une famille vulnérable dont les enfants avaient désespérément besoin d’un endroit où vivre, mes parents, sans hésiter, les ont accueillis, et certains des enfants ont emménagé indéfiniment dans la chambre de nos sœurs.",
-      "speaker": "James G. O. Fantone",
-      "talk": "Prendre son nom sur nous",
-      "session": "Session du dimanche matin, Conférence générale d’octobre 2026"
-    },
-    {
       "text": "Marion G. Romney a enseigné cette vérité éternelle : « Le service n’est pas quelque chose que nous endurons sur cette terre afin de pouvoir mériter le droit de vivre dans le royaume céleste. Le service est le tissu même dont est constituée la vie exaltée dans le royaume céleste » (« La nature céleste de l’autonomie », Le Liahona, mars 2009, p. 19).",
       "speaker": "James G. O. Fantone",
       "talk": "Prendre son nom sur nous",
@@ -57,6 +52,12 @@
     },
     {
       "text": "Un an plus tard, ces mêmes missionnaires s’asseyaient dans mon bureau, le visage rayonnant, et disaient : « Président, je suis si heureux ! J’aime les gens et j’aime cette œuvre. Mais le temps passe trop vite, je ne veux pas que ça se termine ! »",
+      "speaker": "James G. O. Fantone",
+      "talk": "Prendre son nom sur nous",
+      "session": "Session du dimanche matin, Conférence générale d’octobre 2026"
+    },
+    {
+      "text": "Lorsque nous prenons sincèrement le nom de Jésus-Christ sur nous, en nous perdant dans le service d’autrui, quelque chose de miraculeux se produit. Nous éprouvons ce qu’Alma le jeune appelle un « grand changement » dans notre cœur (Alma 5:14), le genre de changement qui conduit à la véritable conversion, pas simplement à la joie personnelle. Le roi Benjamin a posé cette question profonde : « Car, comment un homme connaît-il le maître qu’il n’a pas servi, et qui est un étranger pour lui, et est loin des pensées et des intentions de son cœur ? » (Mosiah 5:13).",
       "speaker": "James G. O. Fantone",
       "talk": "Prendre son nom sur nous",
       "session": "Session du dimanche matin, Conférence générale d’octobre 2026"
@@ -103,5 +104,201 @@
       "ref": "Mosiah 5:13",
       "text": "Car, comment un homme connaît-il le maître qu’il n’a pas servi, et qui est un étranger pour lui, et est loin des pensées et des intentions de son cœur?"
     }
-  ]
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Mes chers frères et sœurs, après que mon épouse et moi avons terminé notre service en tant que dirigeants de la mission d’Antipolo (Philippines), notre fille cadette nous a demandé si elle pouvait terminer sa 2 année de secondaire dans le cadre d’un programme d’enseignement à domicile.",
+          "words": 47,
+          "personal": true
+        },
+        {
+          "text": "Mon épouse a trouvé une excellente école et m’a demandé de passer au bureau des inscriptions pour apporter les derniers documents pour notre fille.",
+          "words": 24,
+          "personal": true
+        },
+        {
+          "text": "À mon arrivée, j’ai remis les documents à la cheffe de ce bureau. Elle m’en a rendu un, m’a montré une ligne au bas de la page et m’a demandé d’écrire le nom de ma fille et de signer au-dessus. Distrait, j’ai cru qu’elle m’avait demandé d’écrire mon nom.",
+          "words": 49,
+          "personal": true
+        },
+        {
+          "text": "En toute confiance, j’ai écrit « James Fantone » et j’ai signé. Quelques secondes plus tard, je me suis rendu compte de mon erreur.",
+          "words": 24,
+          "personal": true
+        },
+        {
+          "text": "Je me suis dit : « Ce n’est pas grave, c’est facile à corriger. » Voyez-vous, notre fille s’appelle Amanda James Fantone. J’ai donc simplement ajouté « Amanda » avant mon nom, et l’erreur était corrigée.",
+          "words": 36,
+          "personal": true
+        },
+        {
+          "text": "Plus tard, dans un moment de calme et de réflexion, une question profonde et une écriture familière me sont venues à l’esprit. La question était : Qu’y a-t-il dans un nom ? Dans les Écritures, le roi Benjamin a dit : « Et de plus, je vous dis qu’il n’y aura aucun autre nom donné, ni aucune autre voie ni moyen par lesquels le salut puisse parvenir aux enfants des hommes, si ce n’est dans et par le nom du Christ, le Seigneur Omnipotent » (Mosiah 3:17).",
+          "words": 87,
+          "scriptures": [
+            {
+              "ref": "Mosiah 3:17",
+              "text": "Et de plus, je vous dis qu’il n’y aura aucun autre nom donné, ni aucune autre voie ni moyen par lesquels le salut puisse parvenir aux enfants des hommes, si ce n’est dans et par le nom du Christ, le Seigneur Omnipotent."
+            }
+          ]
+        },
+        {
+          "text": "En méditant, j’ai commencé à voir un contraste spirituel important entre ma solution administrative rapide et l’invitation sacrée de notre Sauveur.",
+          "words": 21,
+          "personal": true
+        },
+        {
+          "text": "Le Sauveur ne nous invite pas simplement à ajouter son nom au nôtre comme un insigne d’appartenance religieuse. Il a averti que « [certaines personnes] s’approchent de moi des lèvres, mais leur cœur est éloigné de moi » (Joseph Smith, Histoire 1:19).",
+          "words": 42,
+          "scriptures": [
+            {
+              "ref": "Joseph Smith-History 1:19",
+              "text": "Il me fut répondu de ne me joindre à aucune, car elles étaient toutes dans l’erreur; et le Personnage qui me parlait dit que tous leurs credo étaient une abomination à ses yeux; que ces docteurs étaient tous corrompus; que: «ils s’approchent de moi des lèvres, mais leur cœur est éloigné de moi; ils enseignent pour doctrine des commandements d’hommes, ayant une forme de piété, mais ils en nient la puissance.»"
+            }
+          ]
+        },
+        {
+          "text": "Il nous invite à prendre son nom sur nous. C’est une invitation à lui ressembler davantage en respectant nos alliances. Le Seigneur ressuscité a demandé : « N’[avez-vous] pas lu les Écritures, qui disent que vous devez prendre sur vous le nom du Christ, qui est mon nom ? » (3 Néphi 27:5 ; voir aussi Mosiah 5:8 ; Mosiah 6:2).",
+          "words": 61,
+          "scriptures": [
+            {
+              "ref": "3 Nephi 27:5",
+              "text": "N’a-t-il pas lu les écritures, qui disent que vous devez prendre sur vous le nom du Christ, qui est mon nom? Car c’est de ce nom que vous serez appelés au dernier jour;"
+            },
+            {
+              "ref": "Mosiah 5:8",
+              "text": "Et, à ce titre, vous êtes affranchis, et il n’y a aucun autre titre auquel vous pouvez être affranchis. Il n’y a aucun autre nom donné par lequel le salut vienne; c’est pourquoi, je voudrais que vous preniez sur vous le nom du Christ, vous tous qui avez conclu avec Dieu l’alliance d’être obéissants jusqu’à la fin de votre vie."
+            },
+            {
+              "ref": "Mosiah 6:2",
+              "text": "Et il arriva qu’il n’y eut pas une seule âme, si ce n’est les petits enfants, qui n’eût conclu l’alliance et n’eût pris sur elle le nom du Christ."
+            }
+          ]
+        },
+        {
+          "text": "Comment nous, enfants de l’alliance de Dieu, prenons-nous vraiment sur nous le nom de Jésus-Christ ? Comment cela se manifeste-t-il dans notre vie quotidienne ?",
+          "words": 25
+        },
+        {
+          "text": "J’aime la réponse simple mais profonde qu’enseigne le prophète Moroni. Il a écrit que nul n’était reçu au baptême « s’il ne prenait sur lui le nom du Christ, décidé à le servir jusqu’à la fin » (Moroni 6:3 ; voir aussi Mosiah 18:13).",
+          "words": 44,
+          "scriptures": [
+            {
+              "ref": "Moroni 6:3",
+              "text": "Et nul n’était reçu au baptême s’il ne prenait sur lui le nom du Christ, décidé de le servir jusqu’à la fin."
+            },
+            {
+              "ref": "Mosiah 18:13",
+              "text": "Et lorsqu’il eut dit ces paroles, l’Esprit du Seigneur fut sur lui, et il dit: Hélam, je te baptise, ayant autorité du Dieu Tout-Puissant, en témoignage que tu as conclu l’alliance de le servir jusqu’à ce que tu sois mort quant au corps mortel; et que l’Esprit du Seigneur soit déversé sur toi; et qu’il t’accorde la vie éternelle, par l’intermédiaire de la rédemption du Christ, qu’il a préparé dès la fondation du monde."
+            }
+          ]
+        },
+        {
+          "text": "Prendre son nom sur nous exige une détermination à le servir tout au long de notre vie. Le roi Benjamin a donné la clé divine : « Lorsque vous êtes au service de vos semblables, vous êtes simplement au service de votre Dieu » (Mosiah 2:17).",
+          "words": 46,
+          "scriptures": [
+            {
+              "ref": "Mosiah 2:17",
+              "text": "Et voici, je vous dis ces choses afin que vous appreniez la sagesse; afin que vous appreniez que lorsque vous êtes au service de vos semblables, vous êtes simplement au service de votre Dieu."
+            }
+          ]
+        },
+        {
+          "text": "J’ai eu la bénédiction de grandir dans un foyer où le service d’autrui était enseigné par l’exemple. Nous vivions dans un modeste bungalow de trois chambres, une pour mon frère et moi, une pour nos deux sœurs aînées et une pour nos parents.",
+          "words": 43,
+          "personal": true
+        },
+        {
+          "text": "Je me souviens très bien d’une période où la chambre des garçons nous était inaccessible. Ma mère enseignait dans une école publique et avait appris que l’un de ses élèves récemment diplômés ne pouvait pas poursuivre ses études professionnelles parce que sa famille n’avait pas les moyens de louer un logement près de l’école. Désireux de l’aider à atteindre son potentiel, mes parents l’ont accueilli et lui ont laissé la chambre des garçons.",
+          "words": 73,
+          "personal": true
+        },
+        {
+          "text": "Au cours d’une autre période, c’était la chambre des filles qui était prise par quelqu’un d’autre. Quand la présidente de la Société de secours de la paroisse a parlé d’une famille vulnérable dont les enfants avaient désespérément besoin d’un endroit où vivre, mes parents, sans hésiter, les ont accueillis, et certains des enfants ont emménagé indéfiniment dans la chambre de nos sœurs.",
+          "words": 62,
+          "personal": true
+        },
+        {
+          "text": "Je crois de tout mon cœur que si mes parents avaient vécu à Bethléem à l’époque où Joseph cherchait un endroit où Marie pourrait accoucher et si, par hasard, ils avaient frappé à notre porte, mes parents auraient volontiers offert leur chambre si celle des garçons et des filles étaient occupées.",
+          "words": 51,
+          "personal": true
+        },
+        {
+          "text": "Marion G. Romney a enseigné cette vérité éternelle : « Le service n’est pas quelque chose que nous endurons sur cette terre afin de pouvoir mériter le droit de vivre dans le royaume céleste. Le service est le tissu même dont est constituée la vie exaltée dans le royaume céleste » (« La nature céleste de l’autonomie », Le Liahona, mars 2009, p. 19).",
+          "words": 64
+        },
+        {
+          "text": "J’ai été témoin de ce service courageux de la part de nos merveilleux missionnaires à plein temps.",
+          "words": 17
+        },
+        {
+          "text": "En tant que président de mission, je les voyais régulièrement en entretien. Au cours des premiers mois, il n’était pas rare que certains s’assoient en face de moi, en larmes, et me disent : « Président, je suis si triste, je me sens seul et j’ai le mal du pays. Les journées paraissent si longues et le temps passe si lentement, je ne sais même pas si je pourrais tenir encore trois mois. » Pourtant, ces vaillants missionnaires s’agenouillaient, mettaient leur badge et partaient quand même servir.",
+          "words": 87,
+          "personal": true
+        },
+        {
+          "text": "Un an plus tard, ces mêmes missionnaires s’asseyaient dans mon bureau, le visage rayonnant, et disaient : « Président, je suis si heureux ! J’aime les gens et j’aime cette œuvre. Mais le temps passe trop vite, je ne veux pas que ça se termine ! »",
+          "words": 47
+        },
+        {
+          "text": "Chaque fois que j’étais témoin de cette transformation, je m’émerveillais. Le temps a-t-il vraiment changé ?",
+          "words": 16,
+          "personal": true
+        },
+        {
+          "text": "Vous et moi connaissons la réponse. Ce n’est pas le temps qui a changé, ce sont les missionnaires.",
+          "words": 18,
+          "personal": true
+        },
+        {
+          "text": "Ce n’est pas l’œuvre qui a changé, ce sont les ouvriers qui ont changé.",
+          "words": 14
+        },
+        {
+          "text": "Nos missionnaires ont changé.",
+          "words": 4
+        },
+        {
+          "text": "Lorsque nous prenons sincèrement le nom de Jésus-Christ sur nous, en nous perdant dans le service d’autrui, quelque chose de miraculeux se produit. Nous éprouvons ce qu’Alma le jeune appelle un « grand changement » dans notre cœur (Alma 5:14), le genre de changement qui conduit à la véritable conversion, pas simplement à la joie personnelle. Le roi Benjamin a posé cette question profonde : « Car, comment un homme connaît-il le maître qu’il n’a pas servi, et qui est un étranger pour lui, et est loin des pensées et des intentions de son cœur ? » (Mosiah 5:13).",
+          "words": 99,
+          "scriptures": [
+            {
+              "ref": "Alma 5:14",
+              "text": "Et maintenant, voici, je vous demande, mes frères de l’Église, êtes-vous nés spirituellement de Dieu? Votre visage est-il empreint de son image? Avez-vous éprouvé ce grand changement dans votre cœur?"
+            },
+            {
+              "ref": "Mosiah 5:13",
+              "text": "Car, comment un homme connaît-il le maître qu’il n’a pas servi, et qui est un étranger pour lui, et est loin des pensées et des intentions de son cœur?"
+            }
+          ]
+        },
+        {
+          "text": "Mes frères et sœurs bien-aimés, le Sauveur ne nous invite pas seulement à ajouter son nom au nôtre. Il nous invite à prendre son nom sur nous par alliance et à le servir de tout notre cœur, de tout notre pouvoir, de tout notre esprit et de toutes nos forces, en édifiant, en aimant et en servant nos semblables.",
+          "words": 59
+        },
+        {
+          "text": "Je me tiens devant vous aujourd’hui pour témoigner de la réalité vivante du Christ. J’ai fait l’alliance sacrée de prendre sur moi le nom de Jésus-Christ et je suis déterminé à m’efforcer de le servir fidèlement jusqu’à la fin.",
+          "words": 39,
+          "personal": true
+        },
+        {
+          "text": "Je témoigne qu’il vit, que cette Église est son Église rétablie et que, en perdant notre vie à son service, nous le trouverons et nous nous trouverons nous-mêmes. Au nom sacré de Jésus-Christ. Amen.",
+          "words": 34,
+          "closing": "testimony"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je témoigne qu’il vit, que cette Église est son Église rétablie et que, en perdant notre vie à son service, nous le trouverons et nous nous trouverons nous-mêmes. Au nom sacré de Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ]
+  }
 }

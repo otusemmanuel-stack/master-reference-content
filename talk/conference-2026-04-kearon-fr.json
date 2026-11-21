@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-kearon",
   "lang": "fr",
   "speaker": "Patrick Kearon",
@@ -56,5 +57,118 @@
       "session": "Session du samedi matin, Conférence générale d’avril 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Je me suis fait baptiser dans l’Église de Jésus-Christ des saints des derniers jours, à Londres, au milieu de ma vingtaine, et j’ai alors intégré un large groupe d’amis jeunes adultes célibataires dans ma foi nouvelle. Lors de la première réunion de Sainte-Cène qui a suivi mon baptême, on m’a demandé de venir à l’avant de la salle de culte, et l’assemblée a été invitée à lever la main pour me souhaiter la bienvenue dans la paroisse et dans l’Église.",
+          "words": 80,
+          "personal": true
+        },
+        {
+          "text": "C’était une pratique que je ne connaissais pas. Mais, j’ai regardé ces visages souriants et j’ai eu l’impression qu’ils m’encourageaient, sincèrement heureux que j’aie découvert la foi en Jésus-Christ et le désir de le suivre. Beaucoup de mes nouveaux amis avaient récemment connu le même accueil et la même transition vers une vie de foi.",
+          "words": 55,
+          "personal": true
+        },
+        {
+          "text": "Une semaine plus tard, l’évêque m’a sollicité pour un entretien. Il avait pris le temps d’apprendre à me connaître pendant que les missionnaires m’instruisaient. Il s’est adossé à son fauteuil et, en faisant claquer une règle dans la paume de sa main, il m’a annoncé que nous avions cet entretien, parce qu’il voulait me proposer un appel. Il m’a dit qu’il avait prié à mon sujet, et que cet appel me serait bénéfique et m’aiderait dans mon service à venir envers le Seigneur, au sein de son Église. Il m’a alors proposé l’appel de greffier adjoint de paroisse. J’ai alors pensé : « Greffier adjoint de paroisse ? Ce n’est pas pour moi ! » Heureusement, aidé par la grâce, j’ai répondu « merci », puis j’ai dit que je m’efforcerais d’apprendre en quoi consistait cet appel. Je n’en avais aucune idée.",
+          "words": 142,
+          "personal": true
+        },
+        {
+          "text": "Le dimanche suivant, à l’église, on m’a demandé de me lever à l’annonce de mon appel. Les membres de ma paroisse ont été invités à lever la main s’ils acceptaient de me soutenir. Cela m’a réconforté de revoir les mêmes mains levées et les mêmes visages souriants tout autour de moi dans l’assemblée. J’ai été rassuré de savoir que ces nouveaux amis me soutiendraient par leur bonne volonté, leur patience et leur foi.",
+          "words": 73,
+          "personal": true
+        },
+        {
+          "text": "Le greffier de paroisse que je devais « aider » est venu me voir à la fin de la réunion et m’a dit : « Viens, Patrick, je vais te montrer comment ça marche. » Au cours des mois qui ont suivi, assis côte à côte dans le petit bureau des greffiers, souvent pendant des heures, il m’a expliqué tout ce que je devais faire. (Je précise que je parle d’un petit bureau pour les greffiers, pas d’un bureau pour les petits greffiers.)",
+          "words": 83,
+          "personal": true
+        },
+        {
+          "text": "D’autres appels ont suivi. Mon évêque a gardé un œil aimant sur moi et m’a dit un jour qu’il s’était senti inspiré par le Seigneur pour me confier des appels qui me feraient progresser, sans toutefois m’accabler. J’en suis venu à percevoir le but et le pouvoir de chaque appel que j’ai reçu et, avec le recul, j’ai toujours fini par comprendre l’inspiration de l’évêque.",
+          "words": 65,
+          "personal": true
+        },
+        {
+          "text": "J’ai également eu l’occasion de soutenir beaucoup d’autres personnes, m’efforçant avec joie de les aider, tandis que nous apprenions tous à servir ensemble. Souvent, l’appel correspondait de manière évidente aux dons et aux talents de la personne. De temps en temps, je me disais : « Tiens, c’est un choix intéressant », surtout lorsque j’étais celui qui avait été choisi !",
+          "words": 61,
+          "personal": true
+        }
+      ]
+    },
+    {
+      "heading": "Consentement commun",
+      "paragraphs": [
+        {
+          "text": "Avec nos mains levées et nos sourires encourageants, nous prenions part au consentement commun, un acte par lequel nous choisissons de soutenir, en levant la main droite, ceux qui sont appelés à servir. Le consentement commun n’est pas une simple formalité, mais une magnifique association de notre libre arbitre, de notre unité et de notre foi. C’est un engagement personnel et volontaire à soutenir et aider les serviteurs et servantes du Seigneur dans leurs responsabilités, qu’il s’agisse d’un membre de l’épiscopat, d’une consultante des Jeunes Filles, d’un instructeur de l’École du dimanche ou de la présidente de la Primaire de pieu. Nous nous soutenons mutuellement par nos prières, notre amour, notre patience et notre foi. Serons-nous toujours d’accord avec les personnes que nous sommes invités à soutenir ? Penserons-nous toujours qu’elles font du bon travail et servent comme le Sauveur le ferait ? Pas forcément, et nous aurons peut-être raison, mais, lorsque nous prions pour elles et qu’elles prient pour nous, nous tissons des liens d’unité importants.",
+          "words": 167
+        },
+        {
+          "text": "J’ai compris pourquoi nous sommes tous appelés à nous servir les uns les autres au sein d’une paroisse ou d’une branche : cela donne à chacun de nous l’occasion de rechercher le Christ et ses vertus, comme la charité, l’humilité, la douceur, le pardon et l’amour, aux côtés de personnes parfois très différentes de nous. J’ai clairement vu comment la foi est fortifiée et comment le corps du Christ est uni. J’ai vu le Seigneur agir par l’intermédiaire de serviteurs imparfaits, y compris moi-même, qui s’efforçaient de discerner sa volonté à l’égard des personnes qu’ils servaient.",
+          "words": 96,
+          "personal": true
+        },
+        {
+          "text": "Certains appels sont très exigeants, tandis que d’autres peuvent nous amener à penser : « Ne pourrait-on pas me demander d’en faire plus ? » Il se peut que vous remplissiez un rôle très visible pendant un certain temps et que vous soyez ensuite appelé à servir de manière discrète, voire invisible, ou à soutenir les personnes qui ont moins d’expériences. Lorsqu’un changement d’appel vous affecte profondément, vous ou votre famille, cela requiert de vous une grande foi et une grande confiance dans le Seigneur durant votre période d’adaptation.",
+          "words": 89
+        },
+        {
+          "text": "Je reconnais également qu’il y a des personnes qui, en raison de circonstances exceptionnelles, ne sont pas en mesure de répondre à un appel à un moment donné. Les dirigeants attentifs y seront sensibles et, si vous priez à ce sujet, le Seigneur vous aidera à savoir quand sera venu le moment pour vous de servir à nouveau.",
+          "words": 58
+        },
+        {
+          "text": "Est-ce parfois contraignant de servir dans un appel qui nous demande des efforts ? Risquons-nous de finir par nous lasser ou manquer d’enthousiasme ? J’ai appris à maintes reprises que, quelle que soit notre offrande, dans l’économie du Seigneur, nous sommes toujours gagnants.",
+          "words": 43
+        },
+        {
+          "text": "Quand le Sauveur a appelé Pierre, André, Jacques et Jean à le suivre, ceux-ci ont immédiatement lâché leurs filets. Si jamais un appel a pu sembler inopportun ou incompréhensible, c’est bien celui-là, lancé sur les rivages de la mer de Galilée. Et pourtant, avec foi, ils ont suivi. Et qu’en est-il du sentiment de découragement ou d’épuisement ? Eh bien, malgré tout ce qu’ils avaient vu, ressenti et vécu, les premiers apôtres ont eu besoin que le Seigneur leur rappelle gentiment de faire paître ses brebis et les invite plusieurs fois à le faire.",
+          "words": 94
+        },
+        {
+          "text": "Notre service est un choix, une offrande à Dieu et une bénédiction. Nous savons tous que la prière, l’étude des Écritures et le culte à l’église et au temple sont essentiels au développement de notre foi. Considérons-nous également que nos appels jouent un rôle fondamental dans l’édification de notre foi ? Les appels du Seigneur sont taillés sur mesure pour notre progression quand nous sommes humbles, tournons nos regards vers l’extérieur et apprenons que lorsque nous sommes au service de nos semblables, nous sommes au service de notre Dieu. Ce n’est pas vraiment l’appel dans lequel nous servons qui compte pour le Seigneur, mais la manière dont nous servons.",
+          "words": 109
+        },
+        {
+          "text": "Et c’est important pour nous aussi. Il n’y avait rien de tiède chez ces amis dont j’ai parlé. Ils vivaient leur foi à plein régime, et c’était contagieux. Je voyais la joie qui découlait de leur entière consécration, ce qui nous amène à aujourd’hui.",
+          "words": 44,
+          "personal": true
+        }
+      ]
+    },
+    {
+      "heading": "Assemblée solennelle",
+      "paragraphs": [
+        {
+          "text": "Nous avons eu l’occasion sacrée de lever la main pour soutenir le président Oaks comme prophète, voyant et révélateur du Seigneur. Je suis sûr que s’il avait passé en revue son service dans l’Église lorsqu’il avait vingt ou trente ans comme je viens de le faire, rien ne lui aurait semblé plus improbable que la pensée de devenir président de l’Église. Ce n’est pas un appel qu’il recherchait ni auquel il aspirait. Le poids de cette responsabilité est colossal et impose le sérieux. Je ne peux m’empêcher de penser à son père, qui est mort quand le jeune Dallin n’avait que sept ans, et à sa mère, fidèle et résolue, qui a élevé un fils résilient et travailleur qui allait plus tard être appelé à quitter une carrière prestigieuse, bien que menée avec humilité, pour devenir membre du Collège des douze apôtres. Aujourd’hui, quarante-deux ans plus tard, nous le soutenons avec joie comme chef des apôtres du Seigneur, tandis qu’encore une fois, il accepte un appel de tout son cœur, sans prétendre à l’infaillibilité, mais en se fiant aux directives du Seigneur.",
+          "words": 182,
+          "personal": true
+        },
+        {
+          "text": "Depuis 1880, nous appelons ce genre d’événement une assemblée solennelle, un rassemblement sacré dans un but saint comme celui-ci. Bien qu’il s’agisse d’une journée très solennelle, c’est aussi un jour de gratitude et de réjouissance, car l’Église tout entière a l’occasion de se rassembler et d’exercer le consentement commun. Nous avons manifesté notre volonté de soutenir le président Oaks par notre confiance, notre foi et nos prières.",
+          "words": 67
+        },
+        {
+          "text": "« [Chaque individu a été] à égalité avec tous les autres dans l’exercice fervent et solennel de son droit de soutenir ou de ne pas soutenir [celui] qui, en vertu du processus inspiré par [la révélation, a] été [choisi] pour diriger. »",
+          "words": 42
+        }
+      ]
+    },
+    {
+      "heading": "Au service du Père",
+      "paragraphs": [
+        {
+          "text": "Quand les parents de Jésus, alors âgé de douze ans, l’ont trouvé en train d’enseigner dans le temple, il leur a dit qu’il s’occupait des affaires de son Père. Nous pouvons faire de même. Chaque appel, quel qu’il soit, est « son affaire » lorsqu’il est accepté d’un cœur humble et bien disposé, avec le désir d’édifier et de réconforter ses enfants, et de faire connaître sa Bonne nouvelle. Nous ne remplissons pas simplement une tâche lorsque nous répondons à un appel inspiré ; nous nous joignons au Sauveur du monde dans son œuvre rédemptrice infinie. Il a besoin de vous et il a besoin de moi. La vie est meilleure, tout est meilleur, quand nous nous occupons des affaires du Seigneur. Au nom de Jésus-Christ. Amen.",
+          "words": 127
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": []
+  }
 }

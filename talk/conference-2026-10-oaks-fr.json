@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-oaks",
   "lang": "fr",
   "speaker": "Dallin H. Oaks",
@@ -44,5 +45,46 @@
       "session": "Session du dimanche après-midi, Conférence générale d’octobre 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Mes chers frères et sœurs, les messages de cette conférence et l’Esprit du Seigneur nous ont tous inspirés à centrer notre culte, axer notre apprentissage et unir notre témoignage autour des enseignements du Seigneur Jésus-Christ et du plan de son Père pour notre progression et notre joie éternelles.",
+          "words": 48
+        },
+        {
+          "text": "Lorsque les discours de cette conférence seront publiés, nous vous invitons tous à les étudier, à les méditer dans la prière et à agir avec foi sur la base des principes qu’ils enseignent. Le Seigneur a promis : « À celui qui reçoit, je donnerai davantage. »",
+          "words": 47
+        },
+        {
+          "text": "Alors que nos regards se tournent vers l’avenir, nous invitons le monde entier, en personne ou à distance, à participer aux célébrations en l’honneur du temple de Salt Lake City. Le 5 avril 2027, le temple ouvrira ses portes au public pour la première fois depuis 1893, il y a cent trente-quatre ans.",
+          "words": 53
+        },
+        {
+          "text": "Pour en savoir plus, rejoignez-nous sur TempleSquare.org ou sur l’application Temple Square.",
+          "words": 12
+        },
+        {
+          "text": "À l’issue de cette session de la conférence générale, le premier épisode d’une série vidéo dynamique intitulée « Consécration » sera diffusé en avant-première dans le monde entier, en plusieurs langues. D’autres suivront dans les mois à venir, notamment une visite virtuelle du temple de Salt Lake City.",
+          "words": 48
+        },
+        {
+          "text": "Tandis que nous allons de l’avant, nous prions le Seigneur de vous bénir, vous et votre famille, en vous accordant la paix et la satisfaction. Soyez bénis dans votre service au Seigneur Jésus-Christ en ces temps difficiles.",
+          "words": 37
+        },
+        {
+          "text": "Je termine par mon témoignage. L’Évangile rétabli de Jésus-Christ se trouve ici, dans son Église, l’Église de Jésus-Christ des saints des derniers jours. C’est là que se trouve la vérité : la vérité sur les enseignements du Seigneur et la vérité sur le chemin des alliances qui nous mènera à notre destinée, la destinée voulue par notre Père céleste. Je vous en témoigne au nom de Jésus-Christ. Amen.",
+          "words": 68,
+          "personal": true
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": []
+  }
 }

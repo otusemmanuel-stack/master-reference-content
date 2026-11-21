@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-reid",
   "lang": "fr",
   "speaker": "Gabriel W. Reid",
@@ -62,5 +63,214 @@
       "session": "Session du dimanche après-midi, Conférence générale d’octobre 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Peu après avoir été soutenu comme membre de la présidence générale de l’École du dimanche, je me suis senti incapable, dépassé et pas du tout à ma place.",
+          "words": 28,
+          "personal": true
+        },
+        {
+          "text": "Par la suite, j’ai compris que je n’étais pas le seul à me poser des questions lorsque j’ai lu ce titre dans un journal : « La nouvelle présidence de l’École du dimanche est composée de professionnels de l’enseignement au sein de l’Église et d’un joueur de la NFL (Ligue nationale de football américain). »",
+          "words": 55,
+          "personal": true
+        },
+        {
+          "text": "Chaque fois que je relis ce titre, je souris et je me dis : « Heureusement que les noms n’étaient pas indiqués. J’espère vraiment que les gens pensent que je suis l’un des érudits ! » C’est particulièrement vrai aujourd’hui.",
+          "words": 40,
+          "personal": true
+        },
+        {
+          "text": "Même si ce titre me fait rire, il n’apaise pas toujours cette petite voix intérieure qui me dit : « Seigneur, je t’aime, mais es-tu vraiment certain d’avoir choisi la bonne personne ? »",
+          "words": 34,
+          "personal": true
+        },
+        {
+          "text": "Peut-être vous est-il arrivé de vous poser des questions comme celles-ci :",
+          "words": 12
+        },
+        {
+          "text": "Est-ce que j’en sais assez ?",
+          "words": 6
+        },
+        {
+          "text": "Suis-je qualifié pour enseigner l’Évangile de Jésus-Christ ?",
+          "words": 8
+        },
+        {
+          "text": "En réfléchissant à l’exemple du Sauveur, le Maître pédagogue, j’ai remarqué un beau modèle. Souvent, lorsqu’il invitait quelqu’un à enseigner son Évangile, il lui faisait aussi une promesse.",
+          "words": 28
+        },
+        {
+          "text": "À un petit groupe de simples pêcheurs sur les rives de Galilée, des hommes au cœur bien disposé, mais peu expérimentés, il a dit : « Suivez-moi et je vous ferai pêcheurs d’hommes. » Il n’attendait pas d’eux qu’ils deviennent des maîtres pédagogues avant de le suivre. Il leur a promis qu’il ferait d’eux les personnes qu’il avait besoin qu’ils soient.",
+          "words": 61
+        },
+        {
+          "text": "Dans le Livre de Mormon, un autre témoignage de Jésus-Christ, les fils de Mosiah étaient encore jeunes lorsqu’ils sont allés enseigner l’Évangile aux Lamanites. Leur passé était marqué par la rébellion, mais leur cœur avait été changé grâce au pouvoir rédempteur du Sauveur. Comme ils désiraient instruire leurs frères, le Seigneur leur a promis : « Je ferai de vous un instrument entre mes mains. »",
+          "words": 66
+        },
+        {
+          "text": "Le Seigneur nous invite tous à enseigner son Évangile. Que nous enseignions en classe, dans le champ de la mission, dans notre foyer ou en tête-à-tête, sa promesse reste la même : il nous aidera à accomplir son œuvre.",
+          "words": 39
+        },
+        {
+          "text": "Le Seigneur n’a jamais voulu que nous accomplissions son œuvre seuls.",
+          "words": 11
+        },
+        {
+          "text": "Avant d’enseigner à ses disciples où aller et quoi enseigner, le Sauveur leur a expliqué ce qu’il fallait qu’ils deviennent. Sa première leçon ne portait pas sur l’enseignement, mais sur la vie de disciple.",
+          "words": 34
+        },
+        {
+          "text": "Et l’amour est au cœur de la vie de disciple et de tout ce que le Sauveur fait.",
+          "words": 18
+        },
+        {
+          "text": "Lorsqu’on lui a demandé quel était le plus grand commandement, le Sauveur a enseigné, premièrement, d’aimer le Seigneur, notre Dieu, de tout notre cœur, de toute notre âme et de toute notre pensée et, deuxièmement, d’aimer notre prochain comme nous-mêmes.",
+          "words": 40
+        },
+        {
+          "text": "Pour chaque instructeur de l’Évangile, pour chaque disciple, ces deux grands commandements se résument à une seule et même invitation : aimez le Seigneur et aimez les personnes que vous instruisez.",
+          "words": 31
+        },
+        {
+          "text": "Mes parents ont été mes premiers instructeurs de l’Évangile. Notre foyer dans le village de Leone, dans les Samoa américaines, a été ma première salle d’apprentissage de l’Évangile. Sous le même toit, treize enfants, deux parents fidèles et, souvent, des membres de la famille élargie ont appris et vécu l’Évangile ensemble.",
+          "words": 51,
+          "personal": true
+        },
+        {
+          "text": "Mon père est devenu membre de l’Église quand il était jeune. Ma mère n’avait pas fait beaucoup d’études. Mais, ensemble, ils possédaient quelque chose de bien plus important : une foi profonde et durable en Jésus-Christ. Ils aimaient le Seigneur de tout leur cœur et, grâce à cela, ils nous ont aimés d’une manière qui nous a permis d’acquérir de l’amour pour le Sauveur à notre tour.",
+          "words": 67,
+          "personal": true
+        },
+        {
+          "text": "Certaines des plus grandes leçons qu’ils nous ont enseignées sont celles que nous avons apprises simplement en les observant.",
+          "words": 19
+        },
+        {
+          "text": "Dans l’église de notre petit village, des instructeurs fidèles nous rappelaient avec amour ces vérités.",
+          "words": 15
+        },
+        {
+          "text": "Bon nombre de mes premières leçons de la Primaire ont eu lieu à l’ombre d’un manguier.",
+          "words": 16
+        },
+        {
+          "text": "Nos instructeurs préparaient fidèlement chaque leçon, mais ce dont je me souviens le plus, c’est de l’amour qu’ils nous portaient. Ils nous connaissaient personnellement, par notre nom. Leur amour nous aidait à ressentir l’amour du Sauveur, et ce sentiment nous aidait à ressentir la véracité de son Évangile. Avec le recul, je me rends compte que mes parents et mes instructeurs de l’Église suivaient le modèle du Maître pédagogue.",
+          "words": 69,
+          "personal": true
+        },
+        {
+          "text": "L’influence d’un instructeur de l’Évangile ne vient pas seulement de son message, mais l’amour de ce messager.",
+          "words": 17
+        },
+        {
+          "text": "Ma femme et moi chérirons toujours les moments que nous avons vécus dans la mission de Sydney, en Australie. Nous sommes tombés amoureux des habitants de Sydney et avons eu la bénédiction de servir aux côtés de plus de cinq cents missionnaires, originaires de plus de trente pays.",
+          "words": 48,
+          "personal": true
+        },
+        {
+          "text": "Nous avons appris que le moyen le plus sûr d’aimer véritablement ceux que nous instruisions était d’approfondir notre amour pour le sujet de notre enseignement : le Christ. À mesure que notre amour pour lui grandissait, le Sauveur nous apprenait à voir les missionnaires comme il les voit et à les aimer comme il les aime.",
+          "words": 56
+        },
+        {
+          "text": "Quand le Sauveur ressuscité est apparu au peuple en Amérique, il n’a pas commencé par faire un sermon à la foule. Il a commencé par porter son attention sur chaque personne. Il a invité chaque personne à venir à lui, une par une, afin qu’elle sache par elle-même qu’il était Jésus-Christ.",
+          "words": 51
+        },
+        {
+          "text": "Ce n’est qu’après cela qu’il leur a enseigné sa doctrine et les ordonnances de son Évangile.",
+          "words": 16
+        },
+        {
+          "text": "Plus tard, après avoir enseigné beaucoup d’autres vérités précieuses, il a invité les gens à rentrer chez eux et à méditer sur ce qu’ils avaient appris. On pourrait dire que la « leçon » du Sauveur était terminée, mais son amour pour le peuple perdurait. Quand il a perçu le désir de leur cœur, il a été rempli de compassion. Il a guéri les malades, béni les enfants et prié pour eux, un par un.",
+          "words": 75
+        },
+        {
+          "text": "Pour le Maître pédagogue, chaque leçon était inspirée par l’amour qu’il portait à ceux qu’il instruisait.",
+          "words": 16
+        },
+        {
+          "text": "Un enseignement centré sur le Christ est ancré dans les relations. Les nouveaux horaires inspirés des réunions du dimanche offrent chaque semaine des occasions de connaître et d’aimer les personnes que nous instruisons, en les aidant à se rapprocher du Sauveur et à approfondir leur conversion.",
+          "words": 46
+        },
+        {
+          "text": "C’est son modèle pour toutes les leçons sur l’Évangile, même les plus courtes.",
+          "words": 13
+        },
+        {
+          "text": "Certains peuvent se demander : « Comment puis-je tout enseigner en vingt-cinq minutes ? »",
+          "words": 15
+        },
+        {
+          "text": "Il faudrait plutôt se demander : « Comment puis-je aider les personnes que j’instruis à se rapprocher du Sauveur plus rapidement ? »",
+          "words": 23
+        },
+        {
+          "text": "Dallin H. Oaks a enseigné : « L’instructeur de l’Évangile n’empêchera jamais [un apprenant] de voir le Maître en se mettant lui-même en travers. »",
+          "words": 25
+        },
+        {
+          "text": "Le but d’une leçon n’est pas que les gens en ressortent en parlant de l’instructeur, mais qu’ils en ressortent en pensant au Sauveur et en ressentant de l’amour pour lui.",
+          "words": 30
+        },
+        {
+          "text": "Les leçons de vingt-cinq minutes ne sont pas une contrainte, mais une invitation à nous concentrer, plus que jamais, sur l’aide à apporter aux gens pour qu’ils viennent au Sauveur.",
+          "words": 30
+        },
+        {
+          "text": "Si, à la fin de la leçon, les membres de la classe se sentent plus proches du Sauveur qu’à leur arrivée, alors notre enseignement a été suffisant.",
+          "words": 27
+        },
+        {
+          "text": "Frères et sœurs, si vous vous demandez si vous êtes vraiment qualifiés pour enseigner l’Évangile de Jésus-Christ, la réponse est « oui ».",
+          "words": 23
+        },
+        {
+          "text": "Pas parce que vous savez tout.",
+          "words": 6
+        },
+        {
+          "text": "Pas parce que vous avez toutes les compétences pédagogiques.",
+          "words": 9
+        },
+        {
+          "text": "Pas parce que vous vous sentez toujours capables ou confiants.",
+          "words": 10
+        },
+        {
+          "text": "Mais, parce que vous pouvez aimer le Maître pédagogue !",
+          "words": 10
+        },
+        {
+          "text": "Si vous approfondissez votre amour pour celui au sujet duquel vous enseignez, il vous instruira, marchera à vos côtés et, progressivement, fera de vous l’instructeur qu’il sait que vous pouvez devenir.",
+          "words": 31
+        },
+        {
+          "text": "Que vous vous considériez comme un érudit, un athlète, un disciple à vie ou quelqu’un qui a récemment commencé, ou recommencé, à suivre le Christ, l’invitation est la même.",
+          "words": 29
+        },
+        {
+          "text": "Venez au Maître pédagogue. Apprenez de lui. Aimez-le. Ce faisant, il vous aidera à aimer les personnes que vous instruisez, et cet amour rendra votre enseignement plus semblable au sien.",
+          "words": 30
+        },
+        {
+          "text": "Pour enseigner à la manière du Sauveur, nous devons aimer à la manière du Sauveur !",
+          "words": 16
+        },
+        {
+          "text": "C’est là ma prière et mon invitation, au nom du Maître pédagogue que nous aimons et qui nous a aimés le premier, Jésus-Christ. Amen.",
+          "words": 24,
+          "personal": true
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": []
+  }
 }

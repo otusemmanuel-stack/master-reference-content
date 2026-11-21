@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-yee",
   "lang": "fr",
   "speaker": "Kristin M. Yee",
@@ -44,12 +45,6 @@
       "session": "Session du samedi matin, Conférence générale d’avril 2026"
     },
     {
-      "text": "Notre Père céleste accomplit son œuvre éternelle en répondant aux besoins individuels de ses enfants, un par un. Le Sauveur a illustré ce modèle au cours de son ministère dans la condition mortelle, bénissant, guérissant et prenant soin de chacun, une personne à la fois. Il nous invite à faire de même et à servir de manière individuelle et personnelle, ce qui nous permet de ressentir l’amour de Dieu. Quand nous sentons qu’il nous aime et qu’il nous voit, cela change tout. Et lorsque nous bénissons une personne, nous les bénissons toutes.",
-      "speaker": "Kristin M. Yee",
-      "talk": "Le service pastoral : « Aimez-vous les uns les autres ; comme je vous ai aimés »",
-      "session": "Session du samedi matin, Conférence générale d’avril 2026"
-    },
-    {
       "text": "Le Sauveur nous montre la dimension profondément personnelle de l’amour de Dieu par son sacrifice expiatoire, et la capacité divine qu’il a de nous guérir et de nous servir à un niveau intime.",
       "speaker": "Kristin M. Yee",
       "talk": "Le service pastoral : « Aimez-vous les uns les autres ; comme je vous ai aimés »",
@@ -60,7 +55,138 @@
       "speaker": "Kristin M. Yee",
       "talk": "Le service pastoral : « Aimez-vous les uns les autres ; comme je vous ai aimés »",
       "session": "Session du samedi matin, Conférence générale d’avril 2026"
+    },
+    {
+      "text": "Nous avons été envoyés ici pour apprendre à aimer Dieu et notre prochain comme le Sauveur l’a fait, à aimer de manière sacrificielle et transformatrice, pour nous apporter notre plus grand bonheur. Grâce à l’expiation du Sauveur, nous pouvons réussir à aimer d’une manière qui peut sembler impossible. Quentin L. Cook a enseigné : « Notre amour pour Dieu et pour notre prochain est le test ultime de l’état de notre esprit. »",
+      "speaker": "Kristin M. Yee",
+      "talk": "Le service pastoral : « Aimez-vous les uns les autres ; comme je vous ai aimés »",
+      "session": "Session du samedi matin, Conférence générale d’avril 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Dans mon premier discours de conférence générale, j’ai brièvement raconté comment le pouvoir transformateur de l’expiation du Sauveur avait changé mon père.",
+          "words": 22,
+          "personal": true
+        },
+        {
+          "text": "Aujourd’hui, j’aimerais vous en dire un peu plus sur la façon dont ce changement a commencé. Alors que mon père était au plus bas dans sa vie, deux frères de service pastoral ont commencé à lui rendre visite. L’un d’eux a invité mon père à se rendre au temple avec lui et son épouse. Il a accepté l’invitation. Chaque semaine, ils venaient chercher mon père, et ils se rendaient ensemble dans la ville voisine pour adorer et servir dans la maison du Seigneur. Cela a duré trois ans, puis mon père a décidé de devenir servant du temple.",
+          "words": 98,
+          "personal": true
+        },
+        {
+          "text": "Je me souviens avoir vu des changements chez mon père pendant cette période. Il a développé une sensibilité et une attention particulières aux besoins d’autrui. Il a mieux pris soin de sa santé. Il s’est mis à accorder de l’importance à sa relation avec Dieu, puis à toutes les autres relations dans sa vie. Le changement était réel. Il avait maintenant l’Esprit avec lui, et je pouvais le ressentir.",
+          "words": 69,
+          "personal": true
+        },
+        {
+          "text": "Que ce couple de service pastoral soit béni pour avoir aidé mon père. Ils ne l’ont pas jugé en fonction de sa situation personnelle à ce moment-là. Ils ont marché avec lui et l’ont aidé à développer sa relation avec Dieu. Ils sont restés les amis les plus proches et les plus chers de mon père.",
+          "words": 56,
+          "personal": true
+        },
+        {
+          "text": "Parce que ces disciples humbles et dévoués du Sauveur ont discrètement pris soin d’un homme apparemment égaré et abattu, ma famille et moi avons reçu des bénédictions éternelles.",
+          "words": 28,
+          "personal": true
+        },
+        {
+          "text": "Lorsque nous choisissons de servir dans le cadre de nos affectations inspirées et de nos interactions quotidiennes, nous apportons des bénédictions au père, à la sœur ou au fils de quelqu’un. Lorsque nous participons au service pastoral, nous contribuons à répondre aux prières de chacun. Nous sommes les mains du Sauveur. Que je suis reconnaissante pour toutes les personnes qui ont été une bénédiction pour des familles comme la mienne en servant avec compassion !",
+          "words": 75
+        },
+        {
+          "text": "Je sais que le Seigneur se soucie de vous et de vos difficultés, alors que vous vous efforcez de respecter vos alliances et de veiller sur autrui. Il a promis des bénédictions et l’aide divine pour vous et votre famille si vous exercez votre foi pour le servir.",
+          "words": 48
+        },
+        {
+          "text": "Nous ne pouvons pas toujours arranger des situations difficiles ou déchirantes comme nous l’espérons : certains changements ne nous appartiennent pas. Mais, nous pouvons choisir d’aimer et de servir à la manière du Sauveur.",
+          "words": 34
+        },
+        {
+          "text": "Le service pastoral par l’Esprit favorise la guérison du Sauveur dans notre vie et dans celle des personnes que nous servons. Le service pastoral apporte souvent davantage de paix, de clarté, de guérison et de sens à ma vie. J’y trouve le Sauveur. Cela fait partie des desseins de Dieu.",
+          "words": 50,
+          "personal": true
+        },
+        {
+          "text": "Le service pastoral consiste à vraiment aimer les gens et à prendre soin d’eux à la manière du Sauveur. C’est une manière d’être ; c’est la manière d’être de notre Sauveur, Jésus-Christ. Il ne s’agit pas d’un programme ou d’une liste de choses à faire : le service pastoral reflète la nature profonde de Dieu et de ce que nous pouvons devenir en le suivant.",
+          "words": 65
+        },
+        {
+          "text": "Nous ne sommes pas appelés ni relevés du service pastoral. Cela fait partie du respect des alliances que nous avons contractées lors du baptême et dans le temple. Nous avons fait alliance de prendre sur nous le nom du Sauveur, et nous devenons comme lui en faisant des sacrifices et en lui consacrant notre vie. Lorsque nous servons à la manière du Sauveur, nous commençons à adopter sa façon de penser, de ressentir et d’aimer.",
+          "words": 75
+        },
+        {
+          "text": "Notre Père céleste accomplit son œuvre éternelle en répondant aux besoins individuels de ses enfants, un par un. Le Sauveur a illustré ce modèle au cours de son ministère dans la condition mortelle, bénissant, guérissant et prenant soin de chacun, une personne à la fois. Il nous invite à faire de même et à servir de manière individuelle et personnelle, ce qui nous permet de ressentir l’amour de Dieu. Quand nous sentons qu’il nous aime et qu’il nous voit, cela change tout. Et lorsque nous bénissons une personne, nous les bénissons toutes.",
+          "words": 92,
+          "personal": true
+        },
+        {
+          "text": "Le Sauveur nous montre la dimension profondément personnelle de l’amour de Dieu par son sacrifice expiatoire, et la capacité divine qu’il a de nous guérir et de nous servir à un niveau intime.",
+          "words": 33
+        },
+        {
+          "text": "Jésus-Christ a choisi de souffrir pour nos péchés et d’expier dans une agonie indescriptible, afin que nous puissions être sauvés et recevoir le secours divin. Et, il a fait tout cela sans avoir l’assurance que nous l’aimerions en retour. « Mais Dieu prouve son amour envers nous, en ce que, lorsque nous étions encore des pécheurs, Christ est mort pour nous. »",
+          "words": 62,
+          "personal": true
+        },
+        {
+          "text": "Voici le genre d’amour qu’il a pour vous et moi. Et voici le genre d’amour qu’il désire que nous ayons les uns pour les autres : « Je vous donne un commandement nouveau : Aimez-vous les uns les autres ; comme je vous ai aimés. » Nous montrons notre amour pour lui en respectant ses commandements et en servant autrui, malgré ses imperfections et les nôtres.",
+          "words": 66
+        },
+        {
+          "text": "Nous avons été envoyés ici pour apprendre à aimer Dieu et notre prochain comme le Sauveur l’a fait, à aimer de manière sacrificielle et transformatrice, pour nous apporter notre plus grand bonheur. Grâce à l’expiation du Sauveur, nous pouvons réussir à aimer d’une manière qui peut sembler impossible. Quentin L. Cook a enseigné : « Notre amour pour Dieu et pour notre prochain est le test ultime de l’état de notre esprit. »",
+          "words": 73
+        },
+        {
+          "text": "Choisir d’œuvrer dans le service pastoral n’est pas toujours pratique ou confortable. Cela demande des sacrifices, de la foi, de la vulnérabilité, et la confiance que tout s’arrangera si nous laissons Dieu prévaloir. Lorsque nous prenons le temps de nous soucier davantage de quelqu’un que de quelque chose, nous permettons à l’Esprit et à l’amour de Dieu de se manifester en nous, et nous obtenons la paix et la perspective dont nous avons vraiment besoin.",
+          "words": 75
+        },
+        {
+          "text": "Une jeune sœur a exprimé qu’elle est souvent stressée à l’idée de prendre part au service pastoral, parce qu’elle ne sait pas comment les personnes vont réagir. Je lui ai demandé comment elle surmontait ce sentiment. Elle a souri et a dit : « J’y vais, et généralement tout se passe beaucoup mieux que ce que j’imaginais. » Elle exerce sa foi, et le Seigneur l’aide.",
+          "words": 66
+        },
+        {
+          "text": "Si nous servons avec foi, nous n’avançons pas seuls. Le Seigneur sera avec nous. Il nous « fournit le moyen par lequel [nous pourrons] accomplir la chose qu’il [nous] a commandée », notamment la bénédiction du pouvoir de la prêtrise de Dieu si nous respectons nos alliances, et l’autorité de sa prêtrise pour le représenter dans le cadre de notre affectation. Le Seigneur connaît le cœur des personnes que nous servons. Il les aime et il vous aime. Il vous aidera à leur apporter des bénédictions de la manière dont ils en ont besoin.",
+          "words": 94
+        },
+        {
+          "text": "Pensez à l’importance de nos affectations de service pastoral. Les présidences de la Société de secours et du collège des anciens reçoivent la révélation du Seigneur pour nous confier, à vous et à moi, des tâches inspirées : les tâches de représenter le Seigneur et d’œuvrer avec lui pour prendre soin des enfants de Dieu. Comme Jeffrey R. Holland l’a enseigné, nous sommes invités à « aider Dieu, notre Père à tous, dans sa tâche immense de répondre aux prières, […] de sécher les larmes et d’affermir les genoux qui chancellent ».",
+          "words": 92
+        },
+        {
+          "text": "Si vous voulez vous sentir ancrés, obtenir un sentiment d’appartenance divine et faire une réelle différence dans le monde, je vous invite à suivre le Sauveur et à servir en son nom. Il n’a jamais été plus nécessaire qu’aujourd’hui d’édifier, de fortifier et de guérir des âmes grâce à l’expiation de Jésus-Christ. « Beaucoup d’entre nous ont désespérément besoin de ressentir son amour. » En tant que ses disciples, vous et moi avons la bénédiction et la responsabilité par alliance d’apporter l’amour et le secours du Sauveur à tous les enfants de Dieu. Lorsque nous transmettons l’amour et le sentiment d’appartenance du Seigneur, nous l’obtenons nous-mêmes. Le Sauveur a promis : « Celui qui perdra sa vie à cause de moi la trouvera.»",
+          "words": 123,
+          "personal": true
+        },
+        {
+          "text": "Le Sauveur n’a pas limité son ministère à sa famille et à ses proches. Il a servi tout le monde et nous invite à faire de même. Nous recevons des affectations de service pastoral pour développer notre capacité d’aimer, et pour nous assurer que personne n’est oublié. Nous prions pour ces personnes, nous veillons à leurs besoins et nous fortifions leur foi en Jésus-Christ.",
+          "words": 64
+        },
+        {
+          "text": "Je crois que notre Père céleste veut que vous soyez heureux. Il vous aime. Son œuvre, notamment le service pastoral, est conçue pour nous apporter, à vous et à moi, la plus grande joie que nous puissions connaître.",
+          "words": 38,
+          "personal": true
+        },
+        {
+          "text": "Je témoigne que le service pastoral apporte non seulement les « faveurs » des cieux, mais que c’est la manière même d’agir des cieux. Je témoigne que Jésus-Christ vit. Si nous imitons son sacrifice en aimant et en servant comme il le ferait, nous aurons la bénédiction de trouver en lui notre joie, notre guérison et notre réconfort. Nous deviendrons semblables à lui. Au nom de Jésus-Christ. Amen.",
+          "words": 68,
+          "personal": true,
+          "closing": "testimony"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je témoigne que le service pastoral apporte non seulement les « faveurs » des cieux, mais que c’est la manière même d’agir des cieux. Je témoigne que Jésus-Christ vit. Si nous imitons son sacrifice en aimant et en servant comme il le ferait, nous aurons la bénédiction de trouver en lui notre joie, notre guérison et notre réconfort. Nous deviendrons semblables à lui. Au nom de Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ]
+  }
 }

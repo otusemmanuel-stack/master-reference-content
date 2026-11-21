@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-stevenson",
   "lang": "fr",
   "speaker": "Gary E. Stevenson",
@@ -38,19 +39,19 @@
       "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
     },
     {
-      "text": "Et pourtant, ce sentiment nous est familier : confier ce qui nous est précieux aux soins d’autres personnes, puis attendre avec impatience qu’il nous revienne sans encombre. Cela évoque des scènes familières : une mère, un père, sur un trottoir ou un quai, faisant leurs adieux à leur enfant étudiant, soldat ou missionnaire. Des années d’enseignement, de préparation et de prières aboutissent à ce moment où ils confient leur bien le plus précieux aux soins d’autrui, faisant confiance à des intendants consciencieux pour veiller sur leur fils ou leur fille tout au long de leur voyage, jusqu’à ce qu’ils soient de nouveau réunis.",
-      "speaker": "Gary E. Stevenson",
-      "talk": "Des bagages perdus, des âmes rachetées",
-      "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
-    },
-    {
       "text": "Sachez que, conformément aux Écritures, vous représentez le Seigneur en servant ceux qui sont « comptés parmi le peuple de l’Église du Christ », dont « le nom [est] pris, pour qu’on se souvînt d’eux et qu’on les nourrît de la bonne parole de Dieu, pour les garder dans la voie droite ». Ils doivent « toujours ‘veiller’ sur les membres de l’Église, […] ‘être avec eux et […] les fortifier’ » (Doctrine et Alliances 20:53). Le plus grand succès dans l’œuvre missionnaire se produit lorsque nous agissons de manière normale et naturelle. Il en va de même pour le service pastoral.",
       "speaker": "Gary E. Stevenson",
       "talk": "Des bagages perdus, des âmes rachetées",
       "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
     },
     {
-      "text": "Dieter F. Uchtdorf a promis que, si nous faisons notre part en enseignant, en accompagnant et en faisant confiance à Dieu pour accomplir ses miracles, « le résultat sera plus beau, plus stupéfiant et plus joyeux que tout ce que [nous pourrions accomplir nous-mêmes]. »",
+      "text": "Considérez votre service pastoral comme le moyen de « prendre soin à la manière du Christ » des biens les plus précieux du Seigneur, qu’il réclamera et rachètera, à la fin de leur voyage dans la condition mortelle. Je vous invite à intégrer de petits actes de bonté et d’attention dans votre service pastoral, afin de devenir de meilleurs serviteurs de Jésus-Christ.",
+      "speaker": "Gary E. Stevenson",
+      "talk": "Des bagages perdus, des âmes rachetées",
+      "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
+    },
+    {
+      "text": "En motivant, en enseignant et en encourageant nos jeunes à recevoir le saint nom de Jésus-Christ dans leur cœur et dans leur esprit, à se charger joyeusement de la croix du Christ et à marcher en sainteté en tant que disciples et émissaires du Seigneur.",
       "speaker": "Gary E. Stevenson",
       "talk": "Des bagages perdus, des âmes rachetées",
       "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
@@ -67,5 +68,239 @@
       "ref": "Doctrine and Covenants 20:53",
       "text": "Le devoir de l’instructeur est de toujours veiller sur les membres de l’Église, d’être avec eux et de les fortifier,"
     }
-  ]
+  ],
+  "sections": [
+    {
+      "heading": "Oubliés, négligés ou perdus",
+      "paragraphs": [
+        {
+          "text": "Vous êtes-vous déjà retrouvé devant le carrousel à bagages vide d’un aéroport, le regardant tourner sans fin, en vous demandant si votre valise n’avait pas été envoyée par erreur à Katmandou ? Vous a-t-on déjà dit que le dernier endroit connu de votre bagage se trouvait quelque part entre « Il finira bien par réapparaître » et « Vous devriez envisager de tout racheter » ? Vous est-il déjà arrivé qu’une valise contenant des documents importants vous fausse compagnie ? Si tel est le cas, ce message pourrait vous intéresser.",
+          "words": 90
+        },
+        {
+          "text": "Aujourd’hui, je vais parler des bagages perdus.",
+          "words": 7
+        },
+        {
+          "text": "En 2024, près de 33 millions de bagages ont été mal acheminés dans les aéroports. Bien que cela ne touche qu’une minorité de voyageurs, et aussi rare que cela puisse être, la peur de perdre des effets personnels importants est quelque chose d’universel.",
+          "words": 43
+        },
+        {
+          "text": "Récemment, lors d’un déplacement le temps d’un weekend, je me suis rendu compte que mon bagage à main ne rentrait pas dans le compartiment au-dessus de mon siège. J’avais besoin de ce bagage. Il contenait des documents importants et indispensables. Avant même que je ne puisse réagir, un membre du personnel de bord a pris mon bagage, y a attaché une étiquette, m’a donné un ticket de dépôt et a emporté mon précieux bien.",
+          "words": 74,
+          "personal": true
+        },
+        {
+          "text": "Tout au long du vol, j’étais stressé. J’espérais que quelqu’un prenait soin de mon bagage et de son contenu. J’espérais qu’il ne serait ni oublié, ni négligé, ni perdu. Je tenais fermement mon ticket, espérant de tout cœur pouvoir récupérer mon bagage.",
+          "words": 42,
+          "personal": true
+        },
+        {
+          "text": "Mon histoire a connu une fin heureuse : j’ai retrouvé mon bagage. Mais, cette expérience m’a fait réfléchir.",
+          "words": 18,
+          "personal": true
+        },
+        {
+          "text": "Peut-être avez-vous entendu parler d’un rapport publié à Osaka (Japon), concernant l’incroyable record mondial que détient l’aéroport international du Kansai. Après trente ans d’activité et le traitement de centaines de millions de colis et de valises en tout genre, cet aéroport n’a jamais perdu un seul bagage.",
+          "words": 47
+        },
+        {
+          "text": "Pas un seul !",
+          "words": 4
+        },
+        {
+          "text": "Comment une telle chose est-elle possible ?",
+          "words": 7
+        },
+        {
+          "text": "Tsuyoshi Habuta, chef du traitement des bagages de l’aéroport, estime que l’on ne doit jamais perdre de bagages, « car ils sont précieux pour les passagers ». On retrouve cette attitude chez tous les membres de son personnel. Selon lui, le succès de l’aéroport résulte entièrement d’un engagement envers « la rigueur et le souci du détail ».",
+          "words": 58
+        },
+        {
+          "text": "Les Japonais ont acquis une réputation bien méritée pour leur souci du détail. Ils suivent un principe appelé kaizen, visant à identifier et mettre en œuvre de petites améliorations de façon continue. Cette pratique nécessite une discipline patiente pour toujours rechercher de petits moyens d’améliorer les procédures au travail. Ils sont fiers que ces améliorations proviennent presque toujours des personnes qui accomplissent les tâches quotidiennes.",
+          "words": 65
+        },
+        {
+          "text": "Au fil des années, le personnel de l’aéroport du Kansai a développé un système qui lui a permis de faire de son objectif de ne jamais perdre les bagages des passagers une réalité. Ils forment rigoureusement les employés et veillent en permanence à ce que chaque bagage soit enregistré, suivi et pris en charge. Ils réalisent des contrôles manuels minutieux et répétés qui viennent compléter un système automatisé sophistiqué.",
+          "words": 69
+        },
+        {
+          "text": "Les objets fragiles, comme les instruments de musique, sont souvent remis en main propre aux passagers. Les membres du personnel se concentrent sur certains détails, comme orienter la poignée des bagages sur les tapis roulants vers l’extérieur, afin que les passagers puissent les récupérer plus facilement.",
+          "words": 46
+        },
+        {
+          "text": "Lorsque vous confiez vos bagages à l’aéroport du Kansai, vous avez le sentiment que l’on vous dit : « Nous veillons sur vos précieux biens. Nous en avons maintenant la responsabilité. Nous vous les restituerons. »",
+          "words": 36
+        }
+      ]
+    },
+    {
+      "heading": "L’amour de notre Père céleste",
+      "paragraphs": [
+        {
+          "text": "En réfléchissant à ces expériences, je me surprends à méditer sur un acte de confiance bien plus sacré que le simple enregistrement d’un bagage.",
+          "words": 24,
+          "personal": true
+        },
+        {
+          "text": "Avec révérence, je me demande ce que cela représente, pour un Père céleste aimant, d’envoyer ce qu’il a de plus précieux, ses enfants, loin de leur foyer céleste, en sachant qu’ils devront traverser les épreuves de la condition mortelle. Je suppose que son plus grand réconfort réside dans le fait de savoir qu’ils ne voyagent pas seuls. Parents, famille, dirigeants, amis, frères et sœurs de service pastoral, vous et moi sommes les intendants de ce qu’il a de plus précieux.",
+          "words": 80,
+          "personal": true
+        },
+        {
+          "text": "Combien il aime ses enfants et combien ils sont précieux à ses yeux !",
+          "words": 14
+        },
+        {
+          "text": "Et combien sont aimées et bénies les personnes qui prennent soin d’autrui et le soutiennent !",
+          "words": 16
+        },
+        {
+          "text": "Et pourtant, ce sentiment nous est familier : confier ce qui nous est précieux aux soins d’autres personnes, puis attendre avec impatience qu’il nous revienne sans encombre. Cela évoque des scènes familières : une mère, un père, sur un trottoir ou un quai, faisant leurs adieux à leur enfant étudiant, soldat ou missionnaire. Des années d’enseignement, de préparation et de prières aboutissent à ce moment où ils confient leur bien le plus précieux aux soins d’autrui, faisant confiance à des intendants consciencieux pour veiller sur leur fils ou leur fille tout au long de leur voyage, jusqu’à ce qu’ils soient de nouveau réunis.",
+          "words": 103
+        },
+        {
+          "text": "D’une manière beaucoup plus sacrée, notre Père céleste aussi revendique un droit sur nous, pas avec une étiquette accrochée à la poignée d’une valise, mais avec une vérité divine gravée dans notre cœur : « Tu es à moi. Je te connais. Tu n’es pas seul. Je ne t’ai pas oublié. J’ai l’intention de te ramener à la maison ».",
+          "words": 60,
+          "personal": true
+        },
+        {
+          "text": "C’est bien plus que de la logistique.",
+          "words": 7
+        },
+        {
+          "text": "C’est de la rédemption.",
+          "words": 4
+        },
+        {
+          "text": "Permettez-moi de présenter deux exemples où, selon moi, le Seigneur est très satisfait de ceux qui magnifient, avec soin et de manière intentionnelle, leur rôle de gardiens de son bien précieux trésor, ses enfants.",
+          "words": 34,
+          "personal": true
+        }
+      ]
+    },
+    {
+      "heading": "Notre appel sacré à servir",
+      "paragraphs": [
+        {
+          "text": "Le premier est le rôle qui nous est assigné en tant que frères et sœurs de service pastoral, que l’on soit un adulte ou un jeune.",
+          "words": 26
+        },
+        {
+          "text": "Sachez que, conformément aux Écritures, vous représentez le Seigneur en servant ceux qui sont « comptés parmi le peuple de l’Église du Christ », dont « le nom [est] pris, pour qu’on se souvînt d’eux et qu’on les nourrît de la bonne parole de Dieu, pour les garder dans la voie droite ». Ils doivent « toujours ‘veiller’ sur les membres de l’Église, […] ‘être avec eux et […] les fortifier’ » (Doctrine et Alliances 20:53). Le plus grand succès dans l’œuvre missionnaire se produit lorsque nous agissons de manière normale et naturelle. Il en va de même pour le service pastoral.",
+          "words": 102,
+          "scriptures": [
+            {
+              "ref": "Doctrine and Covenants 20:53",
+              "text": "Le devoir de l’instructeur est de toujours veiller sur les membres de l’Église, d’être avec eux et de les fortifier,"
+            }
+          ]
+        },
+        {
+          "text": "Je vous invite à réfléchir à la manière dont vous pouvez :",
+          "words": 12
+        },
+        {
+          "text": "Aimer chacun, prendre soin de chacun et le servir à la manière du Christ.",
+          "words": 14
+        },
+        {
+          "text": "Apporter aide et réconfort dans les moments de besoins spirituels ou temporels.",
+          "words": 12
+        },
+        {
+          "text": "Chercher à être guidés par l’Esprit, à l’aide de la prière.",
+          "words": 11
+        },
+        {
+          "text": "Aider les familles à se préparer à contracter et à respecter des alliances sacrées avec Dieu à mesure qu’elles reçoivent les ordonnances.",
+          "words": 22
+        },
+        {
+          "text": "Considérez votre service pastoral comme le moyen de « prendre soin à la manière du Christ » des biens les plus précieux du Seigneur, qu’il réclamera et rachètera, à la fin de leur voyage dans la condition mortelle. Je vous invite à intégrer de petits actes de bonté et d’attention dans votre service pastoral, afin de devenir de meilleurs serviteurs de Jésus-Christ.",
+          "words": 62
+        }
+      ]
+    },
+    {
+      "heading": "Servir la génération montante",
+      "paragraphs": [
+        {
+          "text": "Le second exemple est la responsabilité universelle de fortifier et d’édifier la génération montante, d’élever les enfants « dans la lumière et la vérité ».",
+          "words": 25
+        },
+        {
+          "text": "En ces temps difficiles, la nouvelle génération a besoin d’une défense et d’un refuge contre la tempête. Nous pouvons contribuer à cet effort en y consacrant du temps et en enseignant. Il n’y a pas de plus grand besoin ni de retour sur investissement plus élevé que l’effort consacré aux enfants de la Primaire, aux jeunes gens, aux jeunes filles et aux jeunes adultes.",
+          "words": 64
+        },
+        {
+          "text": "Dieter F. Uchtdorf a promis que, si nous faisons notre part en enseignant, en accompagnant et en faisant confiance à Dieu pour accomplir ses miracles, « le résultat sera plus beau, plus stupéfiant et plus joyeux que tout ce que [nous pourrions accomplir nous-mêmes]. »",
+          "words": 45
+        },
+        {
+          "text": "Comment pouvons-nous y parvenir ?",
+          "words": 5
+        },
+        {
+          "text": "En motivant, en enseignant et en encourageant nos jeunes à recevoir le saint nom de Jésus-Christ dans leur cœur et dans leur esprit, à se charger joyeusement de la croix du Christ et à marcher en sainteté en tant que disciples et émissaires du Seigneur.",
+          "words": 45
+        },
+        {
+          "text": "Nous faisons cela « afin que nos enfants sachent vers quelle source ils peuvent se tourner pour obtenir la rémission de leurs péchés » : Jésus-Christ.",
+          "words": 26
+        },
+        {
+          "text": "Inspirez-les à « [faire] sincèrement et avec persistance les efforts spirituels nécessaires pour acquérir la capacité spirituelle cruciale d’entendre les murmures du Saint-Esprit, [leur donnant] toute l’aide dont [ils] auront besoin dans [leur] vie. »",
+          "words": 35
+        },
+        {
+          "text": "Ces âmes précieuses sont des êtres au potentiel incommensurable, dont la destinée est de marcher à travers l’éternité dans les couloirs de la gloire céleste.",
+          "words": 25
+        },
+        {
+          "text": "Enseignez à la génération montante à connaître, à aimer et à imiter son Sauveur, Jésus-Christ. « Il est la force des jeunes. »",
+          "words": 23
+        },
+        {
+          "text": "Ils réagiront.",
+          "words": 2
+        }
+      ]
+    },
+    {
+      "heading": "Un retour sains et saufs",
+      "paragraphs": [
+        {
+          "text": "Contrairement aux bagages, chacun de nous est responsable de ses décisions, de ses croyances et de ses actions, avec l’aide d’anges célestes et terrestres. C’est pourquoi, en tant que serviteurs et disciples de Jésus-Christ, nous avançons avec une détermination renouvelée de secourir et prendre soin de toutes les personnes que nous rencontrons.",
+          "words": 52
+        },
+        {
+          "text": "En fin de compte, nous formons tous une seule et même famille.",
+          "words": 12
+        },
+        {
+          "text": "Nous avons tous besoin d’aide en cours de route.",
+          "words": 9
+        },
+        {
+          "text": "Nous avons tous une étiquette qui nous désigne comme les enfants d’un Père céleste aimant. Sur cette étiquette est inscrite une promesse spirituelle et une proclamation sacrée qui dit : « Cette âme précieuse a une grande valeur et sera un jour rachetée par celui à qui elle appartient », et ne sera jamais oubliée, négligée ou perdue.",
+          "words": 58
+        },
+        {
+          "text": "Je me réjouis de cette rédemption et je célèbre le grand privilège que nous avons de prendre part à cette œuvre, jusqu’au jour où nous retournerons sains et saufs auprès de celui qui nous a créés et nous aime d’un amour parfait.",
+          "words": 42,
+          "personal": true
+        },
+        {
+          "text": "C’est ma prière que nous remplissions cette mission pour nous-mêmes et que nous prenions soin d’autrui avec diligence, alors qu’il cherche à retourner dans l’étreinte céleste du Sauveur. Au nom de Jésus-Christ. Amen.",
+          "words": 33
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": []
+  }
 }

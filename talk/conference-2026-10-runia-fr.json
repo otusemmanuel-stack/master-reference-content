@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-runia",
   "lang": "fr",
   "speaker": "Tamara W. Runia",
@@ -20,7 +21,7 @@
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "C. S. Lewis a expliqué : « Dieu a l’intention de nous donner ce dont nous avons besoin, et non ce que nous croyons vouloir aujourd’hui. » Mais, parfois, nous sommes perplexes quand nous recevons ce dont nous avons besoin, n’est-ce pas ? Comment notre Père céleste aimant peut-il supporter de nous voir traverser des expériences déchirantes ? Cette question m’a beaucoup fait réfléchir, et peut-être vous aussi.",
+      "text": "L’Évangile n’est pas un parapluie, c’est le roc solide sur lequel nous nous tenons pendant la tempête, la « fondation sûre […] telle que si les hommes construisent sur elle, ils ne peuvent tomber ».",
       "speaker": "Tamara W. Runia",
       "talk": "Il sculpte notre âme",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
@@ -32,13 +33,13 @@
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "C’est précisément parce qu’il nous aime que nous avons ces expériences qui nous fortifient et nous raffinent. Dieu sait, et nous sommes ici pour l’apprendre, que nous devons devenir semblables à lui afin de pouvoir vivre avec lui !",
+      "text": "Et une vie semblable à celle de Dieu est sculptée précisément par ce qui la rend difficile : les événements déchirants qui se produisent et les désirs justes qui restent sans réponse.",
       "speaker": "Tamara W. Runia",
       "talk": "Il sculpte notre âme",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "Je témoigne que, durant ces expériences sanctificatrices, lorsque nous progressons et que Dieu est à l’œuvre, notre vie ne ressemble peut-être pas à une réussite aux yeux des autres. En fait, de l’extérieur, il peut sembler que tout va de mal en pis ou que tout s’effondre, et c’est certainement ce que nous ressentons.",
+      "text": "Votre histoire est personnelle. Il est donc inutile de regarder autour de vous et de vous demander : « Pourquoi ma vie ne ressemble-t-elle pas à celle des autres ? »",
       "speaker": "Tamara W. Runia",
       "talk": "Il sculpte notre âme",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
@@ -50,17 +51,239 @@
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "Puis, Cari a demandé à Jaac : « Que ferais-tu si tu n’avais pas l’image sur la boîte, mais seulement les instructions ? Suivrais-tu quand même le plan ? »",
+      "text": "La veille de sa mort, Ryan a été mis à part comme président du collège des anciens. Cet après-midi-là, il a rendu visite à un voisin dont la femme et les enfants venaient de le quitter. Quand Ryan est rentré chez lui, il a demandé à Cari d’écrire ce qu’il avait dit à cet homme. Il lui avait dit : « Frère, vous avez un choix à faire maintenant, et c’est un choix décisif. Vous pouvez maudire Dieu et lui en vouloir, ou vous pouvez vous tourner vers lui et le laisser vous guérir. »",
       "speaker": "Tamara W. Runia",
       "talk": "Il sculpte notre âme",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "La veille de sa mort, Ryan a été mis à part comme président du collège des anciens. Cet après-midi-là, il a rendu visite à un voisin dont la femme et les enfants venaient de le quitter. Quand Ryan est rentré chez lui, il a demandé à Cari d’écrire ce qu’il avait dit à cet homme. Il lui avait dit : « Frère, vous avez un choix à faire maintenant, et c’est un choix décisif. Vous pouvez maudire Dieu et lui en vouloir, ou vous pouvez vous tourner vers lui et le laisser vous guérir. »",
+      "text": "Je ne prétends pas savoir comment cela se produit, mais cela ressemble à une sorte de réparation divine qui transforme ce que l’on subit en quelque chose qui concourt à notre bien !",
       "speaker": "Tamara W. Runia",
       "talk": "Il sculpte notre âme",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "J’aime beaucoup réparer les choses. S’il y a un nœud dans un lacet ou dans un collier, c’est à moi de le démêler. Je suis aussi douée pour enlever les taches. Je vois cela comme un défi personnel. On m’a surnommée « la femme qui murmurait à l’oreille des taches ».",
+          "words": 51,
+          "personal": true
+        },
+        {
+          "text": "C’est dans la nature humaine de vouloir réparer les choses et d’être frustré lorsque c’est impossible de le faire.",
+          "words": 19
+        },
+        {
+          "text": "Il y a treize ans, Ryan, notre fils aîné, s’est réveillé un lundi matin, a embrassé sa femme et ses quatre jeunes enfants pour leur dire au revoir, puis il est parti au travail. Quelques heures plus tard, il s’est effondré et est décédé des suites d’une cardiomyopathie hypertrophique non diagnostiquée. Son cœur s’est tout simplement arrêté.",
+          "words": 57,
+          "personal": true
+        },
+        {
+          "text": "Le lendemain, c’était l’anniversaire de sa fille de deux ans, Piper. Pendant que nous allumions les bougies sur son gâteau et commencions à chanter, elle cherchait son père et je me suis rendu compte que c’était quelque chose que je ne pourrais pas réparer.",
+          "words": 44,
+          "personal": true
+        },
+        {
+          "text": "Concentrons-nous sur une Écriture qui a changé le prisme à travers lequel je vois ma vie. L’action se déroule dans une cellule de prison où Joseph Smith supplie Dieu de lui accorder du répit, une trêve dans ses épreuves. Au lieu de cela, il reçoit cette réponse : « Toutes ces choses te donneront de l’expérience et seront pour ton bien. »",
+          "words": 62,
+          "personal": true
+        },
+        {
+          "text": "Je me suis souvent demandé si, lorsqu’il a reçu cette révélation, le prophète avait la moindre idée de ce que ces paroles signifieraient pour beaucoup d’entre nous qui nous tournons vers Dieu et le supplions, nous aussi, de nous accorder du répit.",
+          "words": 42,
+          "personal": true
+        },
+        {
+          "text": "La réponse de Dieu sous-entend que l’expérience est précieuse, et j’en retire que la seule façon d’acquérir de l’expérience est de la vivre. Pouvons-nous éviter de passer par là ? Y a-t-il un autre moyen ? Non, il n’y a pas d’autre moyen.",
+          "words": 43
+        },
+        {
+          "text": "C’est comme si nous avions entendu ces leçons dans la vie prémortelle. Nous les avons étudiées là-bas et nous les mettons en pratique ici, dans ce laboratoire qu’est la vie. C’est ici que nous « revêt[ons] Christ ».",
+          "words": 38
+        },
+        {
+          "text": "C. S. Lewis a expliqué : « Dieu a l’intention de nous donner ce dont nous avons besoin, et non ce que nous croyons vouloir aujourd’hui. » Mais, parfois, nous sommes perplexes quand nous recevons ce dont nous avons besoin, n’est-ce pas ? Comment notre Père céleste aimant peut-il supporter de nous voir traverser des expériences déchirantes ? Cette question m’a beaucoup fait réfléchir, et peut-être vous aussi.",
+          "words": 68,
+          "personal": true
+        },
+        {
+          "text": "Puisque je sais que la vie sur terre est une question d’expérience, pourquoi suis-je si surprise chaque fois que je rencontre une épreuve ? C’est peut-être parce que j’ai grandi en entendant ce genre de choses : « Si tu respectes les commandements, tu seras bénie. Paie ta dîme et les écluses des cieux s’ouvriront. Suis la Parole de sagesse, et tu seras en bonne santé et protégée. » Ce sont de belles promesses, n’est-ce pas ?",
+          "words": 77,
+          "personal": true
+        },
+        {
+          "text": "Ainsi, j’avais l’impression que l’Évangile était comme un grand parapluie que je pouvais tenir au-dessus de ma tête pour rester au sec. Mais j’ai appris, par expérience, que nous allons tous être mouillés. Et parfois même trempés jusqu’aux os !",
+          "words": 40,
+          "personal": true
+        },
+        {
+          "text": "L’Évangile n’est pas un parapluie, c’est le roc solide sur lequel nous nous tenons pendant la tempête, la « fondation sûre […] telle que si les hommes construisent sur elle, ils ne peuvent tomber ».",
+          "words": 35
+        },
+        {
+          "text": "Quand un ange a demandé à Néphi « Connais-tu la condescendance de Dieu ? » il a répondu humblement : « Je sais qu’il aime ses enfants ; néanmoins, je ne connais pas la signification de tout. »",
+          "words": 38
+        },
+        {
+          "text": "L’amour de Dieu m’a amenée à remplacer les questions qui commencent par « pourquoi » par des réflexions comme : « Je sais que Dieu m’aime, alors qu’est-ce que cette expérience est censée m’apprendre ? »",
+          "words": 36
+        },
+        {
+          "text": "C’est précisément parce qu’il nous aime que nous avons ces expériences qui nous fortifient et nous raffinent. Dieu sait, et nous sommes ici pour l’apprendre, que nous devons devenir semblables à lui afin de pouvoir vivre avec lui !",
+          "words": 39
+        },
+        {
+          "text": "Et une vie semblable à celle de Dieu est sculptée précisément par ce qui la rend difficile : les événements déchirants qui se produisent et les désirs justes qui restent sans réponse.",
+          "words": 32
+        },
+        {
+          "text": "Je témoigne que, durant ces expériences sanctificatrices, lorsque nous progressons et que Dieu est à l’œuvre, notre vie ne ressemble peut-être pas à une réussite aux yeux des autres. En fait, de l’extérieur, il peut sembler que tout va de mal en pis ou que tout s’effondre, et c’est certainement ce que nous ressentons.",
+          "words": 54
+        },
+        {
+          "text": "Dieu nous façonne pour que nous devenions ce que lui seul sait que nous pouvons être.",
+          "words": 16
+        },
+        {
+          "text": "Pourtant, comme Néphi, je ne connais pas la signification de tout.",
+          "words": 11
+        },
+        {
+          "text": "Quand j’ai pris la parole aux obsèques de Ryan, j’ai regardé sa femme, Cari, et leurs quatre enfants avec le cœur lourd et j’ai dit : « Je ne comprends pas pourquoi c’est arrivé. Vraiment pas. Mais, permettez-moi d’être claire : ne pas comprendre n’est pas la même chose que ne pas croire. »",
+          "words": 54,
+          "personal": true
+        },
+        {
+          "text": "Même si je ne comprends pas tout, je suis absolument convaincue que Dieu vous voit, vous aime et connaît votre histoire.",
+          "words": 21,
+          "personal": true
+        },
+        {
+          "text": "Votre histoire est personnelle. Il est donc inutile de regarder autour de vous et de vous demander : « Pourquoi ma vie ne ressemble-t-elle pas à celle des autres ? »",
+          "words": 31
+        },
+        {
+          "text": "Et votre vie est pleine de sens, car elle a un but. Notre souffrance aussi a une raison d’être. Loin d’être un détour qui nous éloigne du chemin ; elle donne du sens à notre parcours.",
+          "words": 36
+        },
+        {
+          "text": "Dieu sait parfaitement ce que vous traversez et cela fait partie d’un plan. Il en a un pour chacun d’entre nous, même si nous ne pouvons pas le voir aujourd’hui.",
+          "words": 30
+        },
+        {
+          "text": "Lors des funérailles de Ryan, son fils aîné, Jaac, âgé de sept ans, a lu un discours que son père et lui avaient préparé ensemble pour la Primaire à peine deux semaines plus tôt. Jaac a dit : « J’aime les Lego, et quand on m’en offre, j’ouvre la boîte, j’étale toutes les pièces et je suis les instructions. De la même manière, notre Père céleste a un plan. Si nous le suivons, il nous guidera et nous pourrons construire des choses difficiles. »",
+          "words": 84,
+          "personal": true
+        },
+        {
+          "text": "Puis, Cari a demandé à Jaac : « Que ferais-tu si tu n’avais pas l’image sur la boîte, mais seulement les instructions ? Suivrais-tu quand même le plan ? »",
+          "words": 30
+        },
+        {
+          "text": "Il a répondu : « Oui, parce qu’on peut faire confiance à celui qui l’a conçu, et ça fonctionne toujours. »",
+          "words": 21
+        },
+        {
+          "text": "Mais, que faire si vous devez renoncer à l’histoire magnifique que vous aviez imaginée comme récit de votre vie ? La douleur est réelle et la blessure profonde.",
+          "words": 28
+        },
+        {
+          "text": "Il vous faudra toute la force de votre foi en Christ pour continuer d’assembler les pièces, celles qui s’emboîtent facilement, mais aussi celles qui ne semblent pas correspondre.",
+          "words": 28
+        },
+        {
+          "text": "Réfléchissez à ceci : l’œuvre du Christ dans votre vie et son amour pour vous sont plus grands que votre situation actuelle. Et il peut réparer ce qui semble définitivement brisé.",
+          "words": 31
+        },
+        {
+          "text": "La veille de sa mort, Ryan a été mis à part comme président du collège des anciens. Cet après-midi-là, il a rendu visite à un voisin dont la femme et les enfants venaient de le quitter. Quand Ryan est rentré chez lui, il a demandé à Cari d’écrire ce qu’il avait dit à cet homme. Il lui avait dit : « Frère, vous avez un choix à faire maintenant, et c’est un choix décisif. Vous pouvez maudire Dieu et lui en vouloir, ou vous pouvez vous tourner vers lui et le laisser vous guérir. »",
+          "words": 95
+        },
+        {
+          "text": "Nous avons tous un choix à faire maintenant. Choisissons le Christ, qui peut guérir les blessures de ce monde tout en faisant de la place à la joie !",
+          "words": 29
+        },
+        {
+          "text": "Dieu nous dit : « Fais-moi confiance », et nous sommes en train d’apprendre à dire : « oui ».",
+          "words": 20
+        },
+        {
+          "text": "Avec une conviction acquise par l’expérience, je témoigne que c’est la seule et véritable façon de grandir, de progresser et de devenir semblables à nos parents célestes et au Sauveur.",
+          "words": 30,
+          "personal": true
+        },
+        {
+          "text": "Je ne prétends pas savoir comment cela se produit, mais cela ressemble à une sorte de réparation divine qui transforme ce que l’on subit en quelque chose qui concourt à notre bien !",
+          "words": 33
+        },
+        {
+          "text": "Je vais conclure par une dernière image, tirée d’un cours de sculpture que mon frère Kent a suivi à l’université. Il a raconté ce qui suit :",
+          "words": 27,
+          "personal": true
+        },
+        {
+          "text": "« Notre projet final consistait à sculpter un buste de nous-mêmes en argile. Je me suis dit : ‘Ça va être plutôt facile.’",
+          "words": 23,
+          "personal": true
+        },
+        {
+          "text": "« Nous avons commencé, et je me suis rendu compte que ça ne l’était pas du tout ! Les yeux de ma sculpture étaient affreux. J’avais beau essayer, je n’arrivais pas à rendre les yeux réalistes.",
+          "words": 36,
+          "personal": true
+        },
+        {
+          "text": "« J’ai observé mes camarades de classe et j’ai remarqué que notre instructeur les aidait. Il était très doué.",
+          "words": 19,
+          "personal": true
+        },
+        {
+          "text": "« Mais moi, je ne voulais pas d’aide. Je voulais que ce soit mon œuvre. J’ai peiné seul pendant un bon moment, puis j’ai fini par mettre mon orgueil de côté et j’ai demandé de l’aide.",
+          "words": 36,
+          "personal": true
+        },
+        {
+          "text": "« L’instructeur s’est approché et a commencé à sculpter avec adresse ; il l’a fait de manière si énergique et abrupte que cela m’a surpris. Il a creusé dans l’argile beaucoup plus profondément que moi et, en quelques minutes, les yeux ont pris vie. C’était tellement beau ! Je n’aurais jamais pu y arriver seul.",
+          "words": 55,
+          "personal": true
+        },
+        {
+          "text": "« En prenant du recul pour regarder la sculpture, je reconnaissais clairement mon œuvre. Et pourtant, il ne faisait aucun doute qu’une main experte avait façonné ce que la mienne n’avait pas su faire. »",
+          "words": 35
+        },
+        {
+          "text": "Mes amis, une sculpture prend forme en ce moment dans chacune de nos âmes. Ce n’est pas facile d’inviter le Sauveur à participer. Notre orgueil fait parfois obstacle.",
+          "words": 28
+        },
+        {
+          "text": "Le Seigneur nous corrige avec amour pour attirer notre attention, mais il attend notre invitation avant de pouvoir accomplir pleinement son œuvre en nous.",
+          "words": 24
+        },
+        {
+          "text": "Alors, il commencera à sculpter, et nous serons parfois surpris de voir à quel point son travail peut sembler brusque et énergique.",
+          "words": 22
+        },
+        {
+          "text": "Mais, avec le temps, nous commencerons à voir l’œuvre de sa main. Dieu nous façonne pour que nous devenions ce que lui seul sait que nous pouvons être.",
+          "words": 28
+        },
+        {
+          "text": "Et un jour, lorsque toute souffrance et toute solitude auront cessé, et que notre douleur ne sera plus, nous pourrons prendre du recul et regarder dans le miroir de notre âme. Alors, nous dirons : « Oh ! que c’est merveilleux », et nous aurons envie de tomber aux pieds du Sauveur et de le remercier. Nous le remercierons pour toutes ces choses : le modelage, le façonnage, la douleur et l’adversité qui nous ont permis de devenir plus semblables à lui.",
+          "words": 82
+        },
+        {
+          "text": "« Car nous le verrons tel qu’il est » et « nous serons semblables à lui ». J’en témoigne avec joie, au nom de Jésus-Christ. Amen.",
+          "words": 26
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": []
+  }
 }

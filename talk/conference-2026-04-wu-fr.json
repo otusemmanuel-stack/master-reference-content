@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-wu",
   "lang": "fr",
   "speaker": "Wan-Liang Wu",
@@ -62,5 +63,125 @@
       "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Je suis né dans une famille non chrétienne. Enfant, j’accompagnais ma mère dans les temples chinois pour y adorer différents dieux. Nous apportions des gâteaux spéciaux en offrande et y brûlions de l’encens pour demander les bénédictions dont nous avions besoin. Si nous avions besoin d’un emploi, nous invoquions le dieu des richesses ; si nous avions besoin d’être guéris, nous invoquions le Dieu de la guérison. J’aimais y aller avec ma mère parce qu’une fois les rituels, je pouvais manger tous ces délicieux gâteaux.",
+          "words": 85,
+          "personal": true
+        },
+        {
+          "text": "Néanmoins, le grand miracle s’est produit à mes dix ans quand nous avons déménagé en Bolivie. J’ai rencontré les missionnaires. Ils m’ont parlé d’un Dieu dont je n’avais jamais entendu parler auparavant.",
+          "words": 32,
+          "personal": true
+        },
+        {
+          "text": "Ils m’ont enseigné que c’est un Dieu vivant, avec un corps glorifié de chair et d’os, qu’il est mon Père céleste, qu’il m’aime et que je suis littéralement son enfant. Ils m’ont dit que Dieu a envoyé Jésus-Christ sur terre pour m’aider à retourner en sa présence et à obtenir la vie éternelle.",
+          "words": 53,
+          "personal": true
+        },
+        {
+          "text": "J’ai été réellement émerveillé quand ils m’ont raconté l’histoire de Joseph Smith, qui a vu Dieu le Père et son Fils, Jésus-Christ. Je ne parlais pas espagnol et je ne comprenais pas tout ce qui était dit, mais je ressentais de la paix dans mon cœur et je ne sais vraiment pas pourquoi, mais je savais que ce que j’apprenais était bon. Avant qu’ils ne m’invitent à me faire baptiser, j’ai dit à mes deux sœurs aînées, qui étaient déjà membres de l’Église : « J’ai déjà pris ma décision. Je vais me faire baptiser ! »",
+          "words": 97,
+          "personal": true
+        },
+        {
+          "text": "L’Évangile de Jésus-Christ a amélioré ma vie. Il m’a donné un but éternel : me préparer à retourner en la présence de Dieu avec ma famille.",
+          "words": 26,
+          "personal": true
+        },
+        {
+          "text": "Dans le Livre de Mormon, nous lisons l’histoire d’un vieux roi qui, comme moi, ne connaissait pas Dieu. Il avait rencontré un missionnaire et avait été tellement surpris par ce qu’il avait dit qu’il avait insisté pour qu’on l’instruise.",
+          "words": 39
+        },
+        {
+          "text": "Puis Aaron commença à « lire les Écritures au roi, comment Dieu créa l’homme à son image, et que Dieu lui donna des commandements, et qu’à cause de la transgression, l’homme était tombé […]",
+          "words": 34
+        },
+        {
+          "text": "« […] et aussi le plan de rédemption, qui a été préparé dès la fondation du monde, par le Christ, pour tous ceux qui croiraient en son nom […] par la foi et le repentir. […]",
+          "words": 36
+        },
+        {
+          "text": "« […] [Alors] le roi dit : Que ferai-je pour avoir cette vie éternelle dont tu as parlé ? […] Voici […] Je renoncerai à tout ce que je possède, oui, j’abandonnerai mon royaume pour recevoir cette grande joie.",
+          "words": 39,
+          "personal": true
+        },
+        {
+          "text": "« Mais Aaron lui dit : Si tu désires cela, si tu te prosternes devant Dieu, oui, si tu te repens de tous tes péchés, et te prosternes devant Dieu, et invoques son nom avec foi, croyant que tu recevras, alors tu recevras l’espérance que tu désires.",
+          "words": 47
+        },
+        {
+          "text": "« Et il arriva que lorsque Aaron eut dit ces paroles, le roi se prosterna devant le Seigneur, à genoux ; oui, il se jeta même sur le sol, et cria avec force, disant :",
+          "words": 35
+        },
+        {
+          "text": "« Ô Dieu, Aaron m’a dit qu’il y a un Dieu ; et s’il y a un Dieu, et si tu es Dieu, veuille te faire connaître à moi, et je délaisserai tous mes péchés pour te connaître. »",
+          "words": 39
+        },
+        {
+          "text": "L’histoire se termine non seulement avec la conversion du roi, mais aussi avec la conversion de toute sa maison et de plusieurs villes de son royaume.",
+          "words": 26
+        },
+        {
+          "text": "Si nous avons un désir sincère et si nous sommes doux et humbles de cœur, nous pouvons apprendre à connaître le vrai Dieu le Père, et obtenir la vie éternelle par l’intermédiaire de son Fils, Jésus-Christ. Nous en avons le pouvoir si nous choisissons de croire et décidons d’agir en conséquence.",
+          "words": 51
+        },
+        {
+          "text": "Le Sauveur a déclaré : « Or, la vie éternelle c’est qu’ils te connaissent, toi, le seul vrai Dieu, et celui que tu as envoyé, Jésus-Christ. »",
+          "words": 27
+        },
+        {
+          "text": "Comment pouvons-nous parvenir à connaître le seul vrai Dieu et obtenir la vie éternelle ? Le Sauveur lui-même a déclaré : « Je suis le chemin, la vérité et la vie. Nul ne vient au Père que par moi. »",
+          "words": 40
+        },
+        {
+          "text": "La seule façon de connaître notre Père céleste et d’obtenir la vie éternelle est de venir au Christ et de le suivre. Venir au Christ implique bien plus que de simplement apprendre à connaître le Christ. Cela nécessite de la foi et des œuvres ; cela signifie être converti au Christ et à son Évangile rétabli. Ce faisant, nous aurons plus de bonheur, d’espérance, de paix et nous comprendrons mieux le but de notre vie.",
+          "words": 75,
+          "personal": true
+        },
+        {
+          "text": "Le roi n’est pas resté dans son état d’étonnement : il a choisi de croire et d’agir. Il était disposé à abandonner tous ses péchés afin de connaître Dieu. Que sommes-nous prêts à abandonner ou à changer pour vraiment connaître Dieu et être sauvés au dernier jour ?",
+          "words": 48
+        },
+        {
+          "text": "Le président Oaks a enseigné : « L’Évangile de Jésus-Christ nous invite à changer. ‘Repentez-vous’ est son message le plus fréquent, et nous repentir signifie abandonner toutes nos habitudes, qu’elles soient personnelles, familiales, culturelles ou nationales, qui sont contraires aux commandements de Dieu. Le but de l’Évangile est de transformer des êtres ordinaires en citoyens célestes, et cela exige le changement. »",
+          "words": 62
+        },
+        {
+          "text": "Nous ne pouvons pas connaître Dieu sans un désir sincère et une intention réelle. Nous devons avoir foi en lui, nous repentir constamment et nous efforcer d’obéir à ses commandements. Le Sauveur nous aime plus que nous ne pouvons le comprendre et il nous supplie continuellement de venir à lui et de le suivre. Il a donné sa vie pour nous, a payé le prix de nos péchés et est ressuscité des morts. Grâce à lui, nous avons l’espérance d’une existence future avec notre Père céleste.",
+          "words": 86,
+          "personal": true
+        },
+        {
+          "text": "Que vous soyez un enfant ou un roi, et quels que soient vos antécédents ou votre statut, je vous invite à choisir d’avoir foi en Jésus-Christ et de décider de le suivre, car « Il n’y a aucun autre nom donné sous le ciel, si ce n’est ce Jésus-Christ […] par lequel l’homme puisse être sauvé. »",
+          "words": 57,
+          "closing": "invitation"
+        },
+        {
+          "text": "Je témoigne que Jésus-Christ est ressuscité. Il vit ! C’est ce qu’il veut que nous fassions pour nous préparer à la vie éternelle. Au nom de Jésus-Christ. Amen.",
+          "words": 28,
+          "closing": "testimony"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [
+      {
+        "text": "Que vous soyez un enfant ou un roi, et quels que soient vos antécédents ou votre statut, je vous invite à choisir d’avoir foi en Jésus-Christ et de décider de le suivre, car « Il n’y a aucun autre nom donné sous le ciel, si ce n’est ce Jésus-Christ […] par lequel l’homme puisse être sauvé. »",
+        "scriptures": []
+      }
+    ],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je témoigne que Jésus-Christ est ressuscité. Il vit ! C’est ce qu’il veut que nous fassions pour nous préparer à la vie éternelle. Au nom de Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ]
+  }
 }

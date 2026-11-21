@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-uchtdorf",
   "lang": "fr",
   "speaker": "Dieter F. Uchtdorf",
@@ -13,12 +14,6 @@
     }
   ],
   "quotes": [
-    {
-      "text": "Récemment, sœur Uchtdorf et moi avons assisté au baptême de deux de nos arrière-petits-enfants. Nous nous sommes réjouis avec eux lorsqu’ils ont choisi de suivre Jésus-Christ et ont contracté l’alliance sacrée de prendre sur eux le nom du Sauveur, de respecter les commandements de Dieu et de le servir. En entrant dans les eaux du baptême, ils ont suivi non seulement l’exemple du Sauveur, mais aussi celui de leurs frères et sœurs, de leurs cousins, de leurs parents et de nombreux amis de confiance.",
-      "speaker": "Dieter F. Uchtdorf",
-      "talk": "L’unité centrée sur le Christ",
-      "session": "Session du dimanche après-midi, Conférence générale d’octobre 2026"
-    },
     {
       "text": "Puis, à mesure que nous avançons sur le chemin des alliances, notre relation avec Dieu s’approfondit et notre capacité à mener une vie joyeuse s’accroît. La dotation du temple, le service missionnaire, le mariage céleste dans la maison du Seigneur et le service continu dans le royaume de Dieu sont des expériences qui font bien plus que simplement enrichir notre vie de disciple : elles multiplient considérablement notre potentiel de recevoir la compréhension et les bénédictions divines. Le parcours du disciple nous rapproche de notre modèle, Jésus-Christ, et se poursuit éternellement.",
       "speaker": "Dieter F. Uchtdorf",
@@ -60,7 +55,187 @@
       "speaker": "Dieter F. Uchtdorf",
       "talk": "L’unité centrée sur le Christ",
       "session": "Session du dimanche après-midi, Conférence générale d’octobre 2026"
+    },
+    {
+      "text": "Il y a quelque chose de puissant et d’habilitant dans le fait de renouveler nos alliances avec Dieu tout en étant entourés de nos frères et sœurs qui ont contracté ou envisagent de contracter les mêmes alliances. La Sainte-Cène nous rappelle chaque semaine, de manière sacrée, que nous ne sommes pas seuls. Nous pouvons compter sur le Sauveur et nous pouvons compter les uns sur les autres.",
+      "speaker": "Dieter F. Uchtdorf",
+      "talk": "L’unité centrée sur le Christ",
+      "session": "Session du dimanche après-midi, Conférence générale d’octobre 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Quelle joie d’être avec vous aujourd’hui !",
+          "words": 7
+        },
+        {
+          "text": "Récemment, sœur Uchtdorf et moi avons assisté au baptême de deux de nos arrière-petits-enfants. Nous nous sommes réjouis avec eux lorsqu’ils ont choisi de suivre Jésus-Christ et ont contracté l’alliance sacrée de prendre sur eux le nom du Sauveur, de respecter les commandements de Dieu et de le servir. En entrant dans les eaux du baptême, ils ont suivi non seulement l’exemple du Sauveur, mais aussi celui de leurs frères et sœurs, de leurs cousins, de leurs parents et de nombreux amis de confiance.",
+          "words": 84,
+          "personal": true
+        },
+        {
+          "text": "Mon cœur déborde de gratitude quand je repense à mon propre baptême. Je me suis fait baptiser à l’âge de huit ans dans une impressionnante piscine publique couverte. À l’époque, en entrant dans l’eau, mon esprit et mon cœur étaient préoccupés par cette pensée : « La piscine devient de plus en plus profonde et je ne sais pas nager ! »",
+          "words": 62,
+          "personal": true
+        },
+        {
+          "text": "La progression spirituelle commence rarement de manière spectaculaire. À l’instar d’une courbe exponentielle, elle suit souvent un trajet graduel, sous l’influence de parents aimants, de prières simples et de petits actes de foi.",
+          "words": 33
+        },
+        {
+          "text": "Puis, à mesure que nous avançons sur le chemin des alliances, notre relation avec Dieu s’approfondit et notre capacité à mener une vie joyeuse s’accroît. La dotation du temple, le service missionnaire, le mariage céleste dans la maison du Seigneur et le service continu dans le royaume de Dieu sont des expériences qui font bien plus que simplement enrichir notre vie de disciple : elles multiplient considérablement notre potentiel de recevoir la compréhension et les bénédictions divines. Le parcours du disciple nous rapproche de notre modèle, Jésus-Christ, et se poursuit éternellement.",
+          "words": 91
+        },
+        {
+          "text": "Le baptême est la porte par laquelle nous entrons sur « ce sentier étroit et resserré ». Nous devons franchir cette porte un par un. Le baptême est une ordonnance individuelle.",
+          "words": 31
+        },
+        {
+          "text": "Cependant, c’est aussi une ordonnance qui unit. Elle nous relie à une communauté mondiale de saints.",
+          "words": 16
+        },
+        {
+          "text": "Par le baptême, nous devenons non seulement des personnes liées par une alliance, mais aussi membres d’un peuple d’alliance.",
+          "words": 19
+        },
+        {
+          "text": "Lorsque nous nous faisons baptiser, nous témoignons devant Dieu et des témoins que nous « désir[ons] entrer dans la bergerie de Dieu ». Nous montrons que nous ne voulons pas vivre uniquement pour nous-mêmes. Nous désirons faire partie d’un peuple qui « port[e] les fardeaux les uns des autres », « pleur[e] avec ceux qui pleurent » et « consol[e] ceux qui ont besoin de consolation ».",
+          "words": 67
+        },
+        {
+          "text": "En d’autres termes, lorsque nous devenons membres de l’Église de Jésus-Christ, nous disons avec humilité, gratitude et une confiance tranquille que nous voulons suivre notre Sauveur bien-aimé, Jésus-Christ. Et nous voulons parcourir ce chemin ensemble.",
+          "words": 35
+        }
+      ]
+    },
+    {
+      "heading": "Jésus-Christ nous unit",
+      "paragraphs": [
+        {
+          "text": "Quand je lis les Écritures, je suis impressionné par la place importante qu’occupe, dans l’œuvre du Sauveur, le fait de rassembler les gens dans la paix. Prenons, par exemple, le monde dans lequel Jésus-Christ est né. À cette époque et dans cette région, les Juifs et les Samaritains s’évitaient mutuellement. Les Gentils étaient considérés comme impurs. Les pharisiens et les sadducéens ne s’entendaient sur presque rien, si ce n’est leur aversion pour les publicains et les pécheurs. Le peuple était divisé sur toutes sortes de plans, notamment culturel, politique et religieux.",
+          "words": 91,
+          "personal": true
+        },
+        {
+          "text": "Quand on y réfléchit, ce monde n’était pas si différent de celui que nous connaissons aujourd’hui.",
+          "words": 16
+        },
+        {
+          "text": "Mais le Sauveur du monde, le Fils de Dieu, a transcendé les frontières et les divisions du monde. Comme Paul l’a dit, il a « renversé le mur de séparation ». Il a sans cesse tendu la main à ceux qui, d’ordinaire, étaient rejetés parce qu’ils étaient considérés comme des exclus. Il a touché les lépreux. Il a loué les Gentils pour leur foi. Il a pris un Samaritain comme exemple de compassion. Il a rassemblé des personnes de conditions sociales différentes et leur a demandé de servir ensemble à des postes de confiance. Il a servi les pauvres comme les riches. Et aujourd’hui encore, il invite tout le monde à venir à lui.",
+          "words": 114
+        },
+        {
+          "text": "Cependant, alors que Jésus-Christ dépasse les frontières humaines pour unir la famille de notre Père céleste, Satan cherche à nous diviser. Il cherche à affaiblir les enfants de Dieu en nous isolant les uns des autres. Il met l’accent sur nos différences, les faisant passer pour des barrières infranchissables. Les fruits de ses efforts se manifestent dans les querelles, la méfiance et la haine que nous voyons tout autour de nous.",
+          "words": 71,
+          "personal": true
+        },
+        {
+          "text": "Et pourtant, l’œuvre de rassemblement du Sauveur se poursuit, sans faiblir. En fait, elle s’accélère. Et en tant que disciples de Jésus-Christ liés par des alliances, nous reconnaissons que nous sommes tous frères et sœurs, et que nous participons avec joie, aux côtés du Christ, au rassemblement et à l’union de la grande famille de Dieu.",
+          "words": 56
+        }
+      ]
+    },
+    {
+      "heading": "L’unité qu’offre Jésus-Christ",
+      "paragraphs": [
+        {
+          "text": "Tout au long de l’histoire, les gens se sont unis autour d’objectifs divers. Certains se sont unis autour de causes sociales ou d’idées politiques. D’autres se sont unis pour célébrer leur patrimoine culturel. D’autres encore, malheureusement, se sont unis en raison de leur haine envers un autre groupe. Il y a des gens qui s’unissent autour de loisirs, d’intérêts professionnels, voire d’une ferveur partagée pour une équipe de football ou une marque de soda préférée. Souvent, ce désir de s’unir est motivé par des opinions ou des sentiments très forts.",
+          "words": 90
+        },
+        {
+          "text": "Dans l’Église du Sauveur, ce ne sont pas nos opinions politiques, notre culture ou nos intérêts personnels qui nous unissent. C’est notre amour pour Dieu et pour notre prochain, pour les enfants de Dieu. C’est notre engagement envers nos alliances avec Jésus-Christ et envers son Évangile rétabli. Nous sommes « un en Jésus-Christ ».",
+          "words": 54
+        },
+        {
+          "text": "Le Livre de Mormon nous raconte l’histoire de deux nations, les Néphites et les Lamanites, qui étaient engagées dans l’une des plus longues rivalités fraternelles au monde. Les guerres et les querelles ont caractérisé leur histoire pendant des générations. Mais tout cela a changé lorsque Jésus-Christ est apparu, leur a enseigné son Évangile et a établi son Église. Au cours des deux cents années qui ont suivi, l’amour de Dieu a remplacé les querelles et ces ennemis acharnés sont devenus « un ». Ils sont devenus « les enfants du Christ ». Ils sont devenus son peuple d’alliance.",
+          "words": 98
+        },
+        {
+          "text": "Le catalyseur de ce changement a été Jésus-Christ et sa doctrine.",
+          "words": 11
+        },
+        {
+          "text": "Il en a toujours été ainsi et il en sera toujours ainsi.",
+          "words": 12
+        },
+        {
+          "text": "Jésus-Christ a le pouvoir de nous transformer, vous et moi, de nous purifier et de nous unir. Plus nous nous rapprochons de lui, plus nous nous rapprocherons les uns des autres, et plus nous nous rapprocherons de l’unité qu’il souhaite nous voir connaître.",
+          "words": 43
+        },
+        {
+          "text": "Si nous ne sommes pas un, nous ne sommes pas de lui.",
+          "words": 12
+        },
+        {
+          "text": "Lorsque notre attention est entièrement tournée vers le Christ, nous ne prêtons guère attention aux choses superficielles. Nous apprenons à considérer ce qu’il considère, en regardant au cœur plutôt qu’à l’apparence. Lorsque nous avons « l’œil fixé uniquement sur [sa] gloire », nous sommes « rempli[s] de [sa] lumière ». Si nous nous efforçons d’être un peu plus patients, un peu plus gentils, plus enclins à pardonner, plus serviables et plus solidaires, il y aura moins de place pour l’orgueil, les jugements et les querelles. De telles choses ne feront plus obstacle à l’unité centrée sur le Christ, tant entre nous qu’avec notre Père céleste bien-aimé.",
+          "words": 106,
+          "personal": true
+        },
+        {
+          "text": "Cela vous semble-t-il trop ambitieux ? Hors de portée ? Cela peut sembler ainsi. Mais le Sauveur nous exhorte toujours à aller au-delà de ce qui semble possible, car « pour Dieu tout est possible ».",
+          "words": 36
+        },
+        {
+          "text": "Nous n’atteindrons peut-être pas une unité centrée sur le Christ parfaite dans cette vie, mais « l’élan spirituel » que nous construisons ici-bas nous portera jusque dans l’éternité. En d’autres termes, c’est maintenant qu’il faut s’unir. L’unité ne se produira pas d’un coup de baguette magique dans la vie à venir si nous n’avons pas sincèrement essayé de l’apprendre ici-bas. Chaque pas que nous faisons vers l’unité compte, aussi petit soit-il.",
+          "words": 71
+        }
+      ]
+    },
+    {
+      "heading": "Le pouvoir unificateur de la Sainte-Cène",
+      "paragraphs": [
+        {
+          "text": "Sur cette voie qui mène à davantage d’unité, ne négligeons pas le pouvoir unificateur de la Sainte-Cène. Chaque semaine, nous nous réunissons en tant que disciples de Jésus-Christ pour renouveler notre alliance du baptême et nous souvenir de toutes les alliances que nous avons personnellement contractées avec Dieu. Mes chers frères et sœurs, la Sainte-Cène peut être l’occasion d’un nouveau départ dans notre relation personnelle avec Dieu et dans la recherche d’une vie empreinte d’une plus grande unité centrée sur le Christ.",
+          "words": 82
+        },
+        {
+          "text": "Avez-vous déjà remarqué que la Sainte-Cène est la seule ordonnance que nous recevons au cours de laquelle on ne s’adresse pas à nous par notre nom ? Au lieu de cela, elle est accomplie pour « l’âme de tous ceux qui en prennent ». Les seuls noms qui sont utilisés sont ceux de Dieu le Père et de Jésus-Christ. Nous prenons la Sainte-Cène individuellement, mais aussi en tant que groupe.",
+          "words": 70
+        },
+        {
+          "text": "Il y a quelque chose de puissant et d’habilitant dans le fait de renouveler nos alliances avec Dieu tout en étant entourés de nos frères et sœurs qui ont contracté ou envisagent de contracter les mêmes alliances. La Sainte-Cène nous rappelle chaque semaine, de manière sacrée, que nous ne sommes pas seuls. Nous pouvons compter sur le Sauveur et nous pouvons compter les uns sur les autres.",
+          "words": 67
+        }
+      ]
+    },
+    {
+      "heading": "Les bénédictions de l’unité en Christ",
+      "paragraphs": [
+        {
+          "text": "Où que vous soyez, je vous invite à prendre part à l’édification de cette unité centrée sur le Christ que nous nous efforçons de créer. Elle serait incomplète sans vous. S’il vous plaît, venez et voyez, venez et aidez, venez et prenez votre place.",
+          "words": 44,
+          "closing": "invitation"
+        },
+        {
+          "text": "Jésus a promis : « Car là où deux ou trois sont assemblés en mon nom, je suis au milieu d’eux. » Je témoigne que plus nous serons unis en Christ et plus nous désirerons construire des ponts et non des murs, plus notre vie personnelle, notre famille, notre collectivité et notre nation bénéficieront de la présence de Dieu et des bénédictions d’en haut.",
+          "words": 64,
+          "personal": true,
+          "closing": "testimony"
+        },
+        {
+          "text": "Que Dieu nous bénisse afin que nous soyons unis au nom du Sauveur et que nous centrions notre esprit, notre cœur et notre vie sur lui. Au nom de Jésus-Christ. Amen.",
+          "words": 31
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [
+      {
+        "text": "Où que vous soyez, je vous invite à prendre part à l’édification de cette unité centrée sur le Christ que nous nous efforçons de créer. Elle serait incomplète sans vous. S’il vous plaît, venez et voyez, venez et aidez, venez et prenez votre place.",
+        "scriptures": []
+      }
+    ],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Jésus a promis : « Car là où deux ou trois sont assemblés en mon nom, je suis au milieu d’eux. » Je témoigne que plus nous serons unis en Christ et plus nous désirerons construire des ponts et non des murs, plus notre vie personnelle, notre famille, notre collectivité et notre nation bénéficieront de la présence de Dieu et des bénédictions d’en haut.",
+        "scriptures": []
+      }
+    ]
+  }
 }

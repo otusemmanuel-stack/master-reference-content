@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-villanueva",
   "lang": "fr",
   "speaker": "Moisés Villanueva",
@@ -103,5 +104,247 @@
       "ref": "Matthew 6:8",
       "text": "Ne leur ressemblez pas; car votre Père sait de quoi vous avez besoin, avant que vous le lui demandiez."
     }
-  ]
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Lorsque j’avais 10 ans, ma famille et moi nous sommes fait baptiser dans l’Église de Jésus-Christ des saints des derniers jours. Ce premier pas sur le chemin des alliances a apporté de profonds changements dans notre vie. Je n’avais jamais fréquenté d’Église auparavant. Je comprends maintenant que ces changements étaient le fruit de nos efforts sincères pour appliquer la doctrine de Jésus-Christ dans notre vie.",
+          "words": 65,
+          "personal": true
+        },
+        {
+          "text": "Le changement qui a peut-être exigé le plus de foi et de sacrifices a été de payer fidèlement une dîme complète.",
+          "words": 21
+        },
+        {
+          "text": "Ces années ont été difficiles sur le plan financier. Ma mère s’était séparée de mon père et elle travaillait sans relâche pour subvenir aux besoins de notre famille. Élever huit enfants, alors que la plupart d’entre nous étions encore très jeunes, n’était pas une tâche facile. Pourtant, quand les missionnaires nous ont enseigné la loi de la dîme, ma mère a choisi de faire confiance à la promesse du Seigneur rapportée par Malachie : « Apportez à la maison du trésor toutes les dîmes, Afin qu’il y ait de la nourriture dans ma maison ; Mettez-moi de la sorte à l’épreuve, Dit l’Éternel des armées. Et vous verrez si je n’ouvre pas pour vous les écluses des cieux, Si je ne répands pas sur vous la bénédiction en abondance » (Malachie 3:10).",
+          "words": 132,
+          "scriptures": [
+            {
+              "ref": "Malachi 3:10",
+              "text": "Apportez à la maison du trésor toutes les dîmes, Afin qu'il y ait de la nourriture dans ma maison; Mettez-moi de la sorte à l'épreuve, Dit l'Éternel des armées. Et vous verrez si je n'ouvre pas pour vous les écluses des cieux, Si je ne répands pas sur vous la bénédiction en abondance."
+            }
+          ],
+          "personal": true
+        },
+        {
+          "text": "Le Seigneur a enseigné ce principe important :",
+          "words": 8
+        },
+        {
+          "text": "« Il y a une loi, irrévocablement décrétée dans les cieux avant la fondation de ce monde, sur laquelle reposent toutes les bénédictions ;",
+          "words": 24
+        },
+        {
+          "text": "« Et lorsque nous obtenons une bénédiction quelconque de Dieu, c’est par l’obéissance à cette loi sur laquelle elle repose » (Doctrine et Alliances 130:20-21).",
+          "words": 25,
+          "scriptures": [
+            {
+              "ref": "Doctrine and Covenants 130:20–21",
+              "text": "Il y a une loi, irrévocablement décrétée dans les cieux avant la fondation de ce monde, sur laquelle reposent toutes les bénédictions; Et lorsque nous obtenons une bénédiction quelconque de Dieu, c’est par l’obéissance à cette loi sur laquelle elle repose."
+            }
+          ]
+        },
+        {
+          "text": "Je témoigne de cette grande vérité.",
+          "words": 6
+        },
+        {
+          "text": "Le Seigneur a déclaré : « Qui serais-je, dit le Seigneur, si j’avais promis et n’avais pas accompli ? » (Doctrine et Alliances 58:31).",
+          "words": 24,
+          "scriptures": [
+            {
+              "ref": "Doctrine and Covenants 58:31",
+              "text": "Qui serais-je, dit le Seigneur, si j’avais promis et n’avais pas accompli?"
+            }
+          ]
+        },
+        {
+          "text": "Parfois, nous nous attendons à recevoir les bénédictions du Seigneur comme nous le souhaitons, plutôt qu’à sa manière et en son temps.",
+          "words": 22
+        },
+        {
+          "text": "Après une réunion de Sainte-Cène, une sœur fidèle a raconté que son témoignage de la loi de la dîme commençait à faiblir. Elle a expliqué que bien qu’elle ait toujours payé une dîme complète, elle n’avait jamais obtenu la promotion qu’elle espérait, ni même l’augmentation de salaire qu’elle méritait.",
+          "words": 49
+        },
+        {
+          "text": "Le conseil que je lui ai donné est le même que celui que je vous donne aujourd’hui.",
+          "words": 17,
+          "personal": true
+        },
+        {
+          "text": "Dans un discours intitulé « Les écluses des cieux », David A. Bednar a enseigné : « En respectant la loi de la dîme, nous recevons souvent des bénédictions importantes mais subtiles qui ne sont pas toujours celles auxquelles on s’attend et qui peuvent facilement passer inaperçues » (Le Liahona, novembre 2013, p. 17).",
+          "words": 54
+        },
+        {
+          "text": "Les paroles de frère Bednar m’ont poussé à faire la liste des bénédictions que j’ai reçues en payant fidèlement la dîme. Le Saint-Esprit m’a aidé à reconnaître un grand nombre de bénédictions :",
+          "words": 33,
+          "personal": true
+        },
+        {
+          "text": "J’ai eu un emploi stable pendant de nombreuses années.",
+          "words": 9
+        },
+        {
+          "text": "Ma femme, mes enfants et moi avons la bénédiction d’être en bonne santé.",
+          "words": 13,
+          "personal": true
+        },
+        {
+          "text": "Notre maison et nos biens matériels ont été préservés, même dans les moments difficiles.",
+          "words": 14
+        },
+        {
+          "text": "Le Seigneur m’a donné la capacité de gérer mon temps et mes ressources afin que je puisse faire des études.",
+          "words": 20,
+          "personal": true
+        },
+        {
+          "text": "J’ai développé le don de la reconnaissance en apprenant à voir la main du Seigneur dans chacune de ses tendres miséricordes.",
+          "words": 21
+        },
+        {
+          "text": "J’ai appris à reconnaître l’influence du Saint-Esprit lorsque je prends des décisions importantes dans ma vie.",
+          "words": 16,
+          "personal": true
+        },
+        {
+          "text": "Ces bénédictions, temporelles et spirituelles, et bien d’autres, sont la preuve que le Seigneur a effectivement ouvert les écluses des cieux et déversé en abondance les bénédictions promises. J’ai demandé à cette sœur de faire sa propre liste des bénédictions importantes mais subtiles que le Seigneur lui avait données, des bénédictions qu’il est facile de négliger.",
+          "words": 56
+        },
+        {
+          "text": "Plus tard, lors d’une réunion de Sainte-Cène, j’ai entendu une autre sœur fidèle raconter que sa bouteille de propane de vingt litres avait duré bien plus longtemps qu’elle ne l’espérait. C’était presque comme si elle ne s’épuiserait jamais. Elle savait que c’était l’une des tendres miséricordes que le Seigneur lui accordait pour avoir fidèlement payé sa dîme.",
+          "words": 57,
+          "personal": true
+        },
+        {
+          "text": "Je me suis souvenu des paroles du Seigneur aux enfants d’Israël : « Je t’ai conduit pendant quarante années dans les contrées inhabitées ; tes vêtements ne se sont pas usés sur toi et ta sandale ne s’est pas usée à ton pied » (Deutéronome 29:5).",
+          "words": 46,
+          "scriptures": [
+            {
+              "ref": "Deuteronomy 29:5",
+              "text": "Je t'ai conduit pendant quarante années dans le désert; tes vêtements ne se sont point usés sur toi, et ton soulier ne s'est point usé à ton pied;"
+            }
+          ],
+          "personal": true
+        },
+        {
+          "text": "Vous êtes-vous déjà demandé si le Seigneur prolongeait la durée de vie de vos biens matériels parce que vous respectiez fidèlement la loi de la dîme ?",
+          "words": 27
+        },
+        {
+          "text": "J’ai été témoin de ces bénédictions subtiles à de nombreuses reprises dans ma vie.",
+          "words": 14,
+          "personal": true
+        },
+        {
+          "text": "Quand je pense à la foi dont ma mère a fait preuve pendant ces années difficiles, cela me fait aussi penser à la veuve de Sarepta.",
+          "words": 26,
+          "personal": true
+        },
+        {
+          "text": "Le Seigneur a dit à Élie : « Lève-toi, va à Sarepta, […] voici, j’y ai ordonné à une veuve de te nourrir » (1 Rois 17:9).",
+          "words": 27,
+          "scriptures": [
+            {
+              "ref": "1 Kings 17:9",
+              "text": "Lève-toi, va à Sarepta, qui appartient à Sidon, et demeure là. Voici, j'y ai ordonné à une femme veuve de te nourrir."
+            }
+          ]
+        },
+        {
+          "text": "Élie a trouvé la veuve en train de ramasser du bois. Il lui a demandé de l’eau et un morceau de pain. Elle lui a expliqué qu’elle n’avait qu’une poignée de farine et un peu d’huile, juste assez pour préparer un dernier repas pour elle et son fils, avant de mourir.",
+          "words": 51
+        },
+        {
+          "text": "Élie lui a dit : « Ne crains pas, rentre, fais comme tu as dit. Seulement, prépare-moi d’abord avec cela un petit gâteau et tu me l’apporteras ; tu en feras ensuite pour toi et pour ton fils » (1 Rois 17:13).",
+          "words": 42,
+          "scriptures": [
+            {
+              "ref": "1 Kings 17:13",
+              "text": "Élie lui dit: Ne crains point, rentre, fais comme tu as dit. Seulement, prépare-moi d'abord avec cela un petit gâteau, et tu me l'apporteras; tu en feras ensuite pour toi et pour ton fils."
+            }
+          ]
+        },
+        {
+          "text": "Il lui a promis que son pot de farine ne s’épuiserait pas et que sa cruche d’huile ne diminuerait pas avant que le Seigneur envoie de la pluie sur la terre.",
+          "words": 31
+        },
+        {
+          "text": "« Elle alla et elle fit selon la parole d’Élie » (1 Rois 17:15).",
+          "words": 14,
+          "scriptures": [
+            {
+              "ref": "1 Kings 17:15",
+              "text": "Elle alla, et elle fit selon la parole d'Élie. Et pendant longtemps elle eut de quoi manger, elle et sa famille, aussi bien qu'Élie."
+            }
+          ]
+        },
+        {
+          "text": "Élie comprenait que nous ne recevons des bénédictions qu’après la mise à l’épreuve de notre foi. La veuve a fait confiance aux paroles d’Élie et a fait don de tout ce qu’elle possédait (voir aussi Marc 12:41-44).",
+          "words": 37,
+          "scriptures": [
+            {
+              "ref": "Mark 12:41–44",
+              "text": "Jésus, s'étant assis vis-à-vis du tronc, regardait comment la foule y mettait de l'argent. Plusieurs riches mettaient beaucoup. Il vint aussi une pauvre veuve, elle y mit deux petites pièces, faisant un quart de sou. Alors Jésus, ayant appelé ses disciples, leur dit: Je vous le dis en vérité, cette pauvre veuve a donné plus qu'aucun de ceux qui ont mis dans le tronc; car tous ont mis de leur superflu, mais elle a mis de son nécessaire, tout ce qu'elle possédait, tout ce qu'elle avait pour vivre."
+            }
+          ]
+        },
+        {
+          "text": "Alors, la promesse de l’Éternel s’est accomplie : « La farine qui était dans le pot ne manqua pas et l’huile qui était dans la cruche ne diminua pas, selon la parole que l’Éternel avait prononcée par Élie » (1 Rois 17:16).",
+          "words": 42,
+          "scriptures": [
+            {
+              "ref": "1 Kings 17:16",
+              "text": "La farine qui était dans le pot ne manqua point, et l'huile qui était dans la cruche ne diminua point, selon la parole que l'Éternel avait prononcée par Élie."
+            }
+          ]
+        },
+        {
+          "text": "Je suis tout particulièrement reconnaissant à ma mère d’avoir cru aux promesses du Seigneur et d’avoir choisi de respecter la loi de la dîme malgré notre situation difficile.",
+          "words": 28,
+          "personal": true
+        },
+        {
+          "text": "Je témoigne que Dieu est réellement notre Père céleste aimant. Il connaît chacun de nous et il sait de quoi nous avons besoin, avant que nous le lui demandions (voir Matthieu 6:8). Je témoigne que Jésus-Christ est le Fils du Dieu vivant et qu’il dirige son Église aujourd’hui. Il nous donne des commandements car il veut nous bénir.",
+          "words": 58,
+          "scriptures": [
+            {
+              "ref": "Matthew 6:8",
+              "text": "Ne leur ressemblez pas; car votre Père sait de quoi vous avez besoin, avant que vous le lui demandiez."
+            }
+          ],
+          "personal": true,
+          "closing": "testimony"
+        },
+        {
+          "text": "Lorsque nous respectons la loi de la dîme, le Seigneur ouvre véritablement les écluses des cieux et répand ses bénédictions promises « en abondance » (Malachie 3:10). J’en témoigne au nom sacré de Jésus-Christ. Amen.",
+          "words": 35,
+          "scriptures": [
+            {
+              "ref": "Malachi 3:10",
+              "text": "Apportez à la maison du trésor toutes les dîmes, Afin qu'il y ait de la nourriture dans ma maison; Mettez-moi de la sorte à l'épreuve, Dit l'Éternel des armées. Et vous verrez si je n'ouvre pas pour vous les écluses des cieux, Si je ne répands pas sur vous la bénédiction en abondance."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je témoigne que Dieu est réellement notre Père céleste aimant. Il connaît chacun de nous et il sait de quoi nous avons besoin, avant que nous le lui demandions (voir Matthieu 6:8). Je témoigne que Jésus-Christ est le Fils du Dieu vivant et qu’il dirige son Église aujourd’hui. Il nous donne des commandements car il veut nous bénir.",
+        "scriptures": [
+          {
+            "ref": "Matthew 6:8",
+            "text": "Ne leur ressemblez pas; car votre Père sait de quoi vous avez besoin, avant que vous le lui demandiez."
+          }
+        ]
+      }
+    ]
+  }
 }

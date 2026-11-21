@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-dunn",
   "lang": "fr",
   "speaker": "Michael A. Dunn",
@@ -15,12 +16,6 @@
   "quotes": [
     {
       "text": "Parmi les innombrables bénédictions qui dépassent presque l’entendement venant de notre Sauveur Jésus-Christ, il y a sa promesse de porter nos fardeaux. Mais qu’est-ce que cela signifie concrètement, surtout lorsque nous sommes accablés et apparemment sans espoir ?",
-      "speaker": "Michael A. Dunn",
-      "talk": "Le principe du « 90/10 »",
-      "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
-    },
-    {
-      "text": "Environ une semaine plus tard, une photo de la course est arrivée par la poste. Miraculeusement, un ami a immortalisé le moment exact où Ted et moi nous sommes séparés. Mais cela a également révélé un secret surprenant.",
       "speaker": "Michael A. Dunn",
       "talk": "Le principe du « 90/10 »",
       "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
@@ -44,5 +39,121 @@
       "session": "Session du samedi après-midi, Conférence générale d’octobre 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Parmi les innombrables bénédictions qui dépassent presque l’entendement venant de notre Sauveur Jésus-Christ, il y a sa promesse de porter nos fardeaux. Mais qu’est-ce que cela signifie concrètement, surtout lorsque nous sommes accablés et apparemment sans espoir ?",
+          "words": 38
+        },
+        {
+          "text": "Il y a des années, j’ai mieux compris comment le Sauveur nous sert de manière encore plus personnelle, profonde et privée que je ne l’aurais jamais cru possible.",
+          "words": 28,
+          "personal": true
+        },
+        {
+          "text": "Cette prise de conscience est survenue en 1998 quand, dans l’un de mes moments de grande faiblesse, mon partenaire de course, Ted, m’a persuadé de participer à un « ultramarathon » de 100 miles (161 km). De toute évidence, c’était bien au-dessus de mes capacités, et j’avais sans doute manqué de discernement en acceptant. Bien sûr, j’avais déjà couru quelques marathons, mais pas quatre d’affilée.",
+          "words": 65,
+          "personal": true
+        },
+        {
+          "text": "Tout semblait impossible, à une exception près : Ted croyait que j’étais capable de le faire. C’était important parce qu’il avait lui-même terminé cette course plusieurs fois. Il connaissait tous les virages de la piste et m’avait promis que si je m’entraînais, il serait là pour courir avec moi pendant la deuxième moitié de la course, lorsque la fatigue, les ampoules et surtout le doute deviendraient mes pires ennemis.",
+          "words": 69,
+          "personal": true
+        },
+        {
+          "text": "Le jour de la course est arrivé. En partant avant l’aube, je me suis vite rendu compte que c’était hors de mes capacités. Mais tant bien que mal, j’ai continué d’avancer malgré la chaleur étouffante de l’après-midi, un pas à la fois. Puis, avec plus de la moitié de la course devant moi et alors que la lumière du jour et que mes espoirs s’estompaient, Ted est arrivé.",
+          "words": 68,
+          "personal": true
+        },
+        {
+          "text": "Grâce à la patience de Ted, à sa persévérance et à mes prières silencieuses continuelles, nous avons miraculeusement couru jusqu’au mile 90 (145 kilomètre). Le soleil venait à peine de se lever. Il ne restait plus que 10 miles (16 km) à parcourir. Mais j’étais complètement épuisé et à bout de souffle, pour ainsi dire. Effondré à l’ombre d’un arbre, j’ai regardé Ted et j’ai dit doucement : « J’abandonne. »",
+          "words": 71,
+          "personal": true
+        },
+        {
+          "text": "Mais, alors même que mon abandon s’installait, j’ai eu droit à ce que l’on pourrait appeler la toute première « conférence Ted » du monde !",
+          "words": 26,
+          "personal": true
+        },
+        {
+          "text": "D’un ton doux et rassurant, il m’a rappelé les mois de préparation et les courses matinales. Il s’est alors agenouillé, m’a regardé dans les yeux et m’a dit quelque chose que je n’oublierai jamais : « Je sais que tu peux le faire, Mike, et je vais t’aider à y arriver. »",
+          "words": 52,
+          "personal": true
+        },
+        {
+          "text": "Ces mots simples et sincères ont éveillé quelque chose en moi. Au bout de quelques minutes, je me suis levé. Au début, je marchais, puis j’ai commencé à boitiller, jusqu’à finir par avancer péniblement en traînant les pieds. Tant bien que mal, pas à pas, nous avons conquis ensemble ces 10 derniers miles (16 kilomètres).",
+          "words": 55,
+          "personal": true
+        },
+        {
+          "text": "L’impossible semblait désormais possible. Mais à une centaine de mètres de la ligne d’arrivée, Ted m’a soudain tendu la main et a attrapé la mienne :",
+          "words": 26
+        },
+        {
+          "text": "« Félicitations, mon ami, a-t-il dit, tu as réussi ! » Sur ce, il a commencé à partir alors même que je le suppliais de rester finir la course à mes côtés. Mais il a simplement souri et a ajouté : « C’est à toi de finir cette course. » Ce que j’ai réussi à faire.",
+          "words": 56,
+          "personal": true
+        },
+        {
+          "text": "Environ une semaine plus tard, une photo de la course est arrivée par la poste. Miraculeusement, un ami a immortalisé le moment exact où Ted et moi nous sommes séparés. Mais cela a également révélé un secret surprenant.",
+          "words": 38,
+          "personal": true
+        },
+        {
+          "text": "En regardant de plus près, j’ai vu ce que Ted avait vraiment fait pour moi ce jour-là.",
+          "words": 17,
+          "personal": true
+        },
+        {
+          "text": "À mon grand étonnement, j’ai vu qu’il ne portait pas seulement sa propre bouteille d’eau : il portait deux de mes gourdes et mon sac à dos, qu’il a consciencieusement transportés à chaque pas de ces 10 derniers miles (16 km) exténuants.",
+          "words": 42,
+          "personal": true
+        },
+        {
+          "text": "Sans que je ne sache comment, sur le bord du sentier, alors que j’étais dans un profond désespoir et prêt à abandonner, il a discrètement allégé mon fardeau en attachant mon sac d’hydratation à sa taille. Sans tambour ni trompette, il a simplement porté mon fardeau le plus lourd.",
+          "words": 49,
+          "personal": true
+        },
+        {
+          "text": "Émerveillé par sa bienveillance, mes pensées se sont immédiatement tournées vers un Ami porteur de charge infiniment plus extraordinaire, notre Sauveur Jésus-Christ, dont Ésaïe a assuré sans équivoque qu’il a « porté nos souffrances et s’est chargé de nos douleurs », ce qui, selon moi, signifiait que les sentiers que nous emprunterions deviendraient en quelque sorte plus faciles. Mais, comme je l’ai appris pendant cette course, et les hauts et les bas de ma vie, il élève et édifie simultanément, parfois d’une manière invisible, en multipliant et en magnifiant même nos offrandes les plus minuscules. En d’autres termes, le Rédempteur vient à notre secours non pas en raccourcissant notre course mais en nous aidant à allonger la foulée.",
+          "words": 118,
+          "personal": true
+        },
+        {
+          "text": "Chaque fois que nous nous tournons vers le Christ, nous prenons un virage. Par sa grâce, nous pouvons avoir confiance en ses soins constants. Et parce que Dieu connaît nos prières avant même que nous lui demandions son aide, il est raisonnable de supposer que les bénédictions se matérialisent souvent au moment même où nous les verbalisons. Sa grâce, qui est une dualité définie comme étant une « aide ou [une] force divine », peut nous libérer du fardeau que nous aurions dû porter. Et même lorsque nous ne le percevons pas à nos côtés, il sollicite les Ted de ce monde et parfois même ceux de l’au-delà, avec sa promesse encourageante que des anges tout autour de nous nous soutiendront.",
+          "words": 121
+        },
+        {
+          "text": "L’une des raisons principales pour lesquelles j’ai fait confiance à Ted pendant la course est la même que celle pour laquelle nous pouvons faire implicitement confiance à Jésus dans tous les aspects de notre vie. Parce qu’il a « marqué le chemin » et ouvert la voie, il n’y a aucune partie de notre séjour dans la condition mortelle qu’il n’ait pas foulée. Il connaît non seulement la route, mais il vous connaît, et sait de quoi vous, les nobles enfants d’un être divin, êtes capables.",
+          "words": 86
+        },
+        {
+          "text": "À ceux qui ont atteint leur « mile 90 » ou qui s’en approchent, qui sont confrontés à l’inimaginable, ou qui, comme moi autrefois, se sentent à la fois épuisés et vaincus, je vous promets que, même si vous devez puiser dans vos dernières réserves d’énergie pour demander de l’aide, sa main secourable finira par vous donner ce coup de pouce dont vous avez tellement besoin. Et même si le résultat ou le moment choisi ne correspond pas à ce que vous espériez, trouvez du réconfort en sachant que se sentir brisé ne signifie pas que Dieu vous a abandonné.",
+          "words": 100,
+          "personal": true
+        },
+        {
+          "text": "Ou, comme frère Uchtdorf l’a enseigné : « Il arrivera souvent que nous ne comprendrons les vallées profondes de notre présent qu’en nous retournant pour les contempler une fois que nous aurons atteint les sommets de nos expériences à venir. Souvent, nous ne pouvons voir la main du Seigneur dans notre vie que longtemps après que nos expériences sont terminées. »",
+          "words": 61
+        },
+        {
+          "text": "Grâce à « celui qui est puissant à sauver », vous « puiser[ez] en [lui votre] force ». En d’autres termes, ne confondez pas l’apparente invisibilité de la main du Seigneur avec la nature inébranlable du cœur du Seigneur. La paix viendra même lorsque les résultats escomptés ne se produiront pas.",
+          "words": 51
+        },
+        {
+          "text": "Toutes ces années plus tard, quand je jette un coup d’œil à cette photo et que je médite sur les « 10 derniers miles » métaphoriques auxquels je suis encore souvent confronté dans ce séjour qu’on appelle la vie, je me rappelle que parfois le Dieu qui rend possible l’impossible peut diviser les mers et déplacer des montagnes. D’autres fois, il nous envoie simplement un Ted. Mais, le plus souvent, il couronne notre courage, nos capacités et notre confiance en nous donnant le pouvoir de « rejet[er] tout fardeau » afin de pouvoir « cour[ir] avec persévérance dans la carrière qui nous est ouverte ». Au nom de Jésus-Christ. Amen.",
+          "words": 110,
+          "personal": true
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": []
+  }
 }

@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-mutombo",
   "lang": "fr",
   "speaker": "Thierry K. Mutombo",
@@ -20,12 +21,6 @@
       "session": "Session du dimanche matin, Conférence générale d’avril 2026"
     },
     {
-      "text": "C’est bien plus qu’une simple salutation ou déclaration. C’est une célébration du don divin que notre Père céleste nous a offert. La compréhension de ce que Jésus-Christ nous offre par son expiation et sa résurrection apporte à chacun de nous réconfort, paix et assurance. Sans l’expiation infinie de Jésus-Christ, aucun d’entre nous n’aurait l’espoir de retourner auprès de notre Père céleste. Et sans sa résurrection, la mort serait la fin.",
-      "speaker": "Thierry K. Mutombo",
-      "talk": "La joie d’une relation d’alliance avec Dieu",
-      "session": "Session du dimanche matin, Conférence générale d’avril 2026"
-    },
-    {
       "text": "Le Sauveur Jésus-Christ, ressuscité, a confirmé le but divin de son expiation en disant : « Si vous venez à moi, vous aurez la vie éternelle. Voici, le bras de ma miséricorde est étendu vers vous, et celui qui viendra, je le recevrai ; et bénis sont ceux qui viennent à moi. »",
       "speaker": "Thierry K. Mutombo",
       "talk": "La joie d’une relation d’alliance avec Dieu",
@@ -38,25 +33,25 @@
       "session": "Session du dimanche matin, Conférence générale d’avril 2026"
     },
     {
-      "text": "En effet, notre Père céleste éprouve un amour particulier pour chaque personne qui fait alliance avec lui dans les eaux du baptême. Cet amour divin s’approfondit à mesure que nous contractons d’autres alliances dans la maison du Seigneur et que nous les respectons fidèlement.",
-      "speaker": "Thierry K. Mutombo",
-      "talk": "La joie d’une relation d’alliance avec Dieu",
-      "session": "Session du dimanche matin, Conférence générale d’avril 2026"
-    },
-    {
-      "text": "En parlant de notre vie de disciple et de notre relation d’alliance avec notre Père céleste et notre Sauveur Jésus-Christ, notre prophète, Dallin H. Oaks, a dit : « Suivre le Christ n’est pas une pratique désinvolte ou occasionnelle. C’est un engagement et un mode de vie constants qui doivent nous guider en tout temps et en tout lieu. Son exemple et ses enseignements définissent le chemin à suivre pour chaque disciple de Jésus-Christ. »",
-      "speaker": "Thierry K. Mutombo",
-      "talk": "La joie d’une relation d’alliance avec Dieu",
-      "session": "Session du dimanche matin, Conférence générale d’avril 2026"
-    },
-    {
       "text": "Le respect des alliances exige des disciples du Sauveur qu’ils délaissent ce qu’il appelait « ce qui est estimé parmi les hommes » (Luc 16:15) ainsi que la « tradition des hommes » (Marc 7:8).",
       "speaker": "Thierry K. Mutombo",
       "talk": "La joie d’une relation d’alliance avec Dieu",
       "session": "Session du dimanche matin, Conférence générale d’avril 2026"
     },
     {
-      "text": "Le miracle pour lequel Nathalie et moi avons prié s’est produit après que nous avons défendu la vérité et la lumière qui sont en Jésus le Christ. Nous avons reçu une forte confirmation que le Christ accomplit des miracles selon notre foi en lui. Parfois, dans la condition mortelle, les choses ne se passent pas comme nous l’espérons et, parfois, nous devons avoir foi en Jésus-Christ que tout finira par s’arranger.",
+      "text": "Vous vous dites peut-être : « Je ne vis pas la même épreuve, comment cela s’applique-t-il à moi ? » Au cours de cette vie dans la condition mortelle, chacun de nous connaîtra des jours difficiles, des moments où les choses ne se passent pas comme nous l’espérons. Lorsque vous êtes face aux ténèbres du chagrin, souvenez-vous de ce jour sombre où Jésus-Christ a été humilié, meurtri, maltraité, injurié et élevé sur la croix pour vous et moi.",
+      "speaker": "Thierry K. Mutombo",
+      "talk": "La joie d’une relation d’alliance avec Dieu",
+      "session": "Session du dimanche matin, Conférence générale d’avril 2026"
+    },
+    {
+      "text": "Ce jour-là a été rempli d’un chagrin accablant, dévastateur qui a rongé l’âme de ceux qui aimaient et honoraient Jésus-Christ. Mais, le malheur de ce jour-là n’a pas duré éternellement. Le désespoir n’a pas persisté, car, le dimanche, le Sauveur ressuscité a vaincu les liens de la mort. Alors, quelles que soient les ténèbres qui enveloppent vos journées, souvenez-vous que dimanche viendra, si vous respectez fidèlement les alliances que vous avez contractées avec le Seigneur.",
+      "speaker": "Thierry K. Mutombo",
+      "talk": "La joie d’une relation d’alliance avec Dieu",
+      "session": "Session du dimanche matin, Conférence générale d’avril 2026"
+    },
+    {
+      "text": "Nous connaissons le but de l’adversaire. Il cherche à rendre « tous les hommes malheureux comme lui ». Il veut que nous rompions nos alliances pour nous accabler de chagrin. Il est résolu à nous détruire. Le programme de Satan est souvent décrit comme « amusez-vous maintenant et payez plus tard ». Il cherche aussi à nous faire croire qu’il n’y a jamais de conséquences ni de responsabilités pour nos actions.",
       "speaker": "Thierry K. Mutombo",
       "talk": "La joie d’une relation d’alliance avec Dieu",
       "session": "Session du dimanche matin, Conférence générale d’avril 2026"
@@ -71,5 +66,174 @@
       "ref": "Mark 7:8",
       "text": "Vous abandonnez le commandement de Dieu, et vous observez la tradition des hommes."
     }
-  ]
+  ],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Mes frères et sœurs bien-aimés, c’est avec humilité que je m’adresse à vous en ce dimanche de Pâques. Je prie pour que l’Esprit du Seigneur soit avec vous et moi en ce moment sacré, et qu’il continue de nous instruire et de nous inspirer, alors que nous nous sommes rassemblés en tant que disciples de Jésus-Christ pour l’adorer.",
+          "words": 58,
+          "personal": true
+        },
+        {
+          "text": "Dans certaines parties du monde, les gens échangent des salutations uniques et spéciales le matin de Pâques. La salutation pascale, également connue sous le nom d’acclamation pascale ou de salutation du jour de Pâques, est une coutume chez de nombreux chrétiens.",
+          "words": 41
+        },
+        {
+          "text": "La personne qui salue dit : « Le Christ est ressuscité. »",
+          "words": 12
+        },
+        {
+          "text": "L’autre personne répond : « En vérité, il est ressuscité. »",
+          "words": 11
+        },
+        {
+          "text": "C’est bien plus qu’une simple salutation ou déclaration. C’est une célébration du don divin que notre Père céleste nous a offert. La compréhension de ce que Jésus-Christ nous offre par son expiation et sa résurrection apporte à chacun de nous réconfort, paix et assurance. Sans l’expiation infinie de Jésus-Christ, aucun d’entre nous n’aurait l’espoir de retourner auprès de notre Père céleste. Et sans sa résurrection, la mort serait la fin.",
+          "words": 70,
+          "personal": true
+        },
+        {
+          "text": "Le Sauveur Jésus-Christ, ressuscité, a confirmé le but divin de son expiation en disant : « Si vous venez à moi, vous aurez la vie éternelle. Voici, le bras de ma miséricorde est étendu vers vous, et celui qui viendra, je le recevrai ; et bénis sont ceux qui viennent à moi. »",
+          "words": 53
+        },
+        {
+          "text": "« Venez à moi » est une invitation divine qui signifie que, quelle que soit votre situation actuelle et quelles que soient les expériences que vous vivez, vous pouvez ressentir l’amour infini de Dieu manifesté par son Fils, Jésus-Christ.",
+          "words": 39
+        },
+        {
+          "text": "En effet, notre Père céleste éprouve un amour particulier pour chaque personne qui fait alliance avec lui dans les eaux du baptême. Cet amour divin s’approfondit à mesure que nous contractons d’autres alliances dans la maison du Seigneur et que nous les respectons fidèlement.",
+          "words": 44,
+          "personal": true
+        },
+        {
+          "text": "Nathalie et moi avons fait l’expérience de cet amour divin pendant une période très difficile de notre vie, en tant que mari et femme, et compagnons éternels. Nous avons eu la bénédiction d’avoir dix enfants. Quand j’en parle, beaucoup de jeunes me demandent : « Comment est-ce possible ? » Je réponds : « C’est tout simplement arrivé. »",
+          "words": 59,
+          "personal": true
+        },
+        {
+          "text": "Dans les premières années de notre mariage, nous avons vécu le décès de quatre de nos enfants. Après le décès de trois de nos enfants, Nathalie et moi nous sommes posé de nombreuses questions, comme Joseph Smith, le prophète dans la prison de Liberty : « Père céleste, où es-tu ? Entends-tu nos pleurs et nos prières ? »",
+          "words": 59,
+          "personal": true
+        },
+        {
+          "text": "Nous avons vite compris que nous n’étions pas au bout de nos épreuves lorsque notre bébé de neuf mois, Allan Mutombo, est décédé. Je l’ai trouvé dans son berceau. Tenant son corps dans mes bras, j’ai pleuré, implorant un miracle. Cependant, comme vous le savez, le plan de Dieu pour nous est parfait, et ce jour-là, il a décidé de rappeler Allan auprès de lui. Mes prières n’ont pas changé sa volonté.",
+          "words": 72,
+          "personal": true
+        },
+        {
+          "text": "Pour ajouter à cette difficulté, après les funérailles, nos familles élargies se sont réunies et ont décidé, sans nous consulter, que comme nous avions perdu plusieurs enfants, la tradition exigeait que Nathalie et moi nous séparions, et ils m’ont demandé de sortir les affaires de ma femme à l’extérieur de la maison.",
+          "words": 52,
+          "personal": true
+        },
+        {
+          "text": "Je suis allé dans la maison et j’ai prié pour avoir la force d’affronter cette adversité. Les paroles du merveilleux cantique écrit par Emma Lou Thayne me sont venues à l’esprit : « Où pourrais-je chercher ? »",
+          "words": 38,
+          "personal": true
+        },
+        {
+          "text": "Je me suis également souvenu des paroles de notre scellement au temple, et des promesses que nous avons faites à Dieu et l’un à l’autre. J’ai ressenti une grande paix et l’assurance que Nathalie et moi étions la fille et le fils d’un Père céleste aimant et bienveillant.",
+          "words": 48,
+          "personal": true
+        },
+        {
+          "text": "J’ai senti l’amour du Sauveur et sa main qui me relevait.",
+          "words": 11,
+          "personal": true
+        },
+        {
+          "text": "Je suis sorti de la maison les mains vides, et j’ai dit aux personnes présentes : « Je suis désolé, mais Nathalie est ma compagne éternelle. Nous nous efforçons ensemble d’édifier une famille éternelle, et le Sauveur nous aide à y parvenir. »",
+          "words": 43,
+          "personal": true
+        },
+        {
+          "text": "Ils se sont opposés à ma décision, mais le fait d’exercer ma foi en Jésus-Christ m’a rendu plus fort.",
+          "words": 19,
+          "personal": true
+        },
+        {
+          "text": "En parlant de notre vie de disciple et de notre relation d’alliance avec notre Père céleste et notre Sauveur Jésus-Christ, notre prophète, Dallin H. Oaks, a dit : « Suivre le Christ n’est pas une pratique désinvolte ou occasionnelle. C’est un engagement et un mode de vie constants qui doivent nous guider en tout temps et en tout lieu. Son exemple et ses enseignements définissent le chemin à suivre pour chaque disciple de Jésus-Christ. »",
+          "words": 75,
+          "personal": true
+        },
+        {
+          "text": "Le respect des alliances exige des disciples du Sauveur qu’ils délaissent ce qu’il appelait « ce qui est estimé parmi les hommes » (Luc 16:15) ainsi que la « tradition des hommes » (Marc 7:8).",
+          "words": 35,
+          "scriptures": [
+            {
+              "ref": "Luke 16:15",
+              "text": "Jésus leur dit: Vous, vous cherchez à paraître justes devant les hommes, mais Dieu connaît vos cœurs; car ce qui est élevé parmi les hommes est une abomination devant Dieu."
+            },
+            {
+              "ref": "Mark 7:8",
+              "text": "Vous abandonnez le commandement de Dieu, et vous observez la tradition des hommes."
+            }
+          ]
+        },
+        {
+          "text": "Le miracle pour lequel Nathalie et moi avons prié s’est produit après que nous avons défendu la vérité et la lumière qui sont en Jésus le Christ. Nous avons reçu une forte confirmation que le Christ accomplit des miracles selon notre foi en lui. Parfois, dans la condition mortelle, les choses ne se passent pas comme nous l’espérons et, parfois, nous devons avoir foi en Jésus-Christ que tout finira par s’arranger.",
+          "words": 71,
+          "personal": true
+        },
+        {
+          "text": "Vous vous dites peut-être : « Je ne vis pas la même épreuve, comment cela s’applique-t-il à moi ? » Au cours de cette vie dans la condition mortelle, chacun de nous connaîtra des jours difficiles, des moments où les choses ne se passent pas comme nous l’espérons. Lorsque vous êtes face aux ténèbres du chagrin, souvenez-vous de ce jour sombre où Jésus-Christ a été humilié, meurtri, maltraité, injurié et élevé sur la croix pour vous et moi.",
+          "words": 78
+        },
+        {
+          "text": "Ce jour-là a été rempli d’un chagrin accablant, dévastateur qui a rongé l’âme de ceux qui aimaient et honoraient Jésus-Christ. Mais, le malheur de ce jour-là n’a pas duré éternellement. Le désespoir n’a pas persisté, car, le dimanche, le Sauveur ressuscité a vaincu les liens de la mort. Alors, quelles que soient les ténèbres qui enveloppent vos journées, souvenez-vous que dimanche viendra, si vous respectez fidèlement les alliances que vous avez contractées avec le Seigneur.",
+          "words": 75
+        },
+        {
+          "text": "Le plan de notre Père céleste pour nous est le bonheur dès maintenant et la joie à jamais en sa présence. Il nous donne des lois et des commandements et fait des alliances avec nous pour nous bénir. Son désir, son but et sa gloire sont que nous retournions à lui purs, nous étant montrés dignes d’une joie éternelle en sa présence.",
+          "words": 62,
+          "personal": true
+        },
+        {
+          "text": "Nous connaissons le but de l’adversaire. Il cherche à rendre « tous les hommes malheureux comme lui ». Il veut que nous rompions nos alliances pour nous accabler de chagrin. Il est résolu à nous détruire. Le programme de Satan est souvent décrit comme « amusez-vous maintenant et payez plus tard ». Il cherche aussi à nous faire croire qu’il n’y a jamais de conséquences ni de responsabilités pour nos actions.",
+          "words": 71
+        },
+        {
+          "text": "Ezra Taft Benson a enseigné :",
+          "words": 6
+        },
+        {
+          "text": "« La grande épreuve de la vie est l’obéissance à Dieu. [ …]",
+          "words": 13
+        },
+        {
+          "text": "« La grande tâche de la vie est d’apprendre la volonté du Seigneur et ensuite de la faire.",
+          "words": 18
+        },
+        {
+          "text": "« Le grand commandement de la vie est d’aimer le Seigneur. »",
+          "words": 12
+        },
+        {
+          "text": "Nous pouvons développer notre humilité et fortifier notre relation d’alliance avec notre Père céleste et notre Sauveur Jésus-Christ si nous changeons notre nature pour devenir comme un petit enfant, en bâtissant notre vie sur le roc qu’est le Sauveur Jésus-Christ, en nous soumettant avec foi à lui et en suivant les directives du Saint-Esprit pour respecter fidèlement les alliances contractées avec le Seigneur lors de notre baptême et dans la maison du Seigneur.",
+          "words": 73,
+          "personal": true
+        },
+        {
+          "text": "Je sais que Dieu vit et je témoigne que Jésus est le Christ. Je témoigne que Dallin H. Oaks est le prophète de Dieu sur terre.",
+          "words": 26,
+          "personal": true,
+          "closing": "testimony"
+        },
+        {
+          "text": "Le Christ est ressuscité. En vérité, il est ressuscité. Au nom de Jésus-Christ. Amen.",
+          "words": 14
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je sais que Dieu vit et je témoigne que Jésus est le Christ. Je témoigne que Dallin H. Oaks est le prophète de Dieu sur terre.",
+        "scriptures": []
+      }
+    ]
+  }
 }

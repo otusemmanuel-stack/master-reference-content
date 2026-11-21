@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-gong",
   "lang": "fr",
   "speaker": "Gerrit W. Gong",
@@ -26,19 +27,13 @@
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "L’œuvre rédemptrice de Dieu est majestueuse par son ampleur et sa portée. Comme Joseph Smith, le prophète, l’a vu en vision, tout le monde, sauf un très petit nombre de personnes, sera sauvé dans un royaume de gloire. Nous pouvons hériter d’une terre paradisiaque glorifiée et vivre dans le plus haut degré de la gloire céleste avec Dieu notre Père et Jésus-Christ.",
-      "speaker": "Gerrit W. Gong",
-      "talk": "Venez au Seigneur dans sa sainte maison",
-      "session": "Session du samedi matin, Conférence générale d’octobre 2026"
-    },
-    {
-      "text": "Le libre arbitre, la foi et le repentir, ainsi que l’expiation de Jésus-Christ rendent possibles le changement et le pardon. À mesure que nous devenons de nouvelles créatures en Jésus-Christ, nos relations deviennent plus douces. Le service au temple évoque l’expiation de notre Sauveur. Il adoucit les cœurs des deux côtés du voile.",
-      "speaker": "Gerrit W. Gong",
-      "talk": "Venez au Seigneur dans sa sainte maison",
-      "session": "Session du samedi matin, Conférence générale d’octobre 2026"
-    },
-    {
       "text": "Troisième fondement doctrinal : lorsque le Saint-Esprit de promesse témoigne et confirme la validité des ordonnances et des alliances, celles-ci nous lient pour le temps et pour l’éternité. Dans son rôle sacré de Saint-Esprit de promesse, le Saint-Esprit « témoigne au Père que les ordonnances salvatrices ont été correctement accomplies et que les alliances qui y sont associées ont été gardées ».",
+      "speaker": "Gerrit W. Gong",
+      "talk": "Venez au Seigneur dans sa sainte maison",
+      "session": "Session du samedi matin, Conférence générale d’octobre 2026"
+    },
+    {
+      "text": "À l’inverse, nous ne pouvons pas nous attendre à ce que les ordonnances et les alliances que nous n’honorons ni par notre foi ni par nos actions, que nous ne choisissons ni ne désirons, voire que nous négligeons ou tournons en dérision, nous lient ici-bas ou dans les cieux.",
       "speaker": "Gerrit W. Gong",
       "talk": "Venez au Seigneur dans sa sainte maison",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
@@ -50,17 +45,172 @@
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "Dallin H. Oaks exerce toutes les clés de la prêtrise sur la terre, y compris celles relatives aux temples. Dimanche prochain, je suis chargé de consacrer le temple de Miraflores (Guatemala City, Guatemala). Cette année, partout dans le monde, il est prévu que la Première Présidence et le Collège des douze apôtres consacrent vingt et un temples et en reconsacrent un.",
+      "text": "Troisièmement, si chaque temple reflète de manière unique le lieu, la culture et le contexte dans lesquels il se trouve, tout ce qu’il contient rend témoignage de Jésus-Christ. Les dirigeants du temple aiment le Seigneur d’un même cœur et accordent toute leur attention aux usagers et aux servants du temple. Dans chaque temple, par l’autorité et au nom du Seigneur, les ordonnances et les alliances sont accomplies fidèlement et enregistrées correctement. Lorsque les usagers font de leur mieux, notre service est acceptable aux yeux du Seigneur.",
       "speaker": "Gerrit W. Gong",
       "talk": "Venez au Seigneur dans sa sainte maison",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "Troisièmement, si chaque temple reflète de manière unique le lieu, la culture et le contexte dans lesquels il se trouve, tout ce qu’il contient rend témoignage de Jésus-Christ. Les dirigeants du temple aiment le Seigneur d’un même cœur et accordent toute leur attention aux usagers et aux servants du temple. Dans chaque temple, par l’autorité et au nom du Seigneur, les ordonnances et les alliances sont accomplies fidèlement et enregistrées correctement. Lorsque les usagers font de leur mieux, notre service est acceptable aux yeux du Seigneur.",
+      "text": "Quatrièmement, le sacrifice et le service dans le temple s’accompagnent d’un esprit de reconnaissance. Je dis cela avec beaucoup de respect et d’amour. Il arrive que certains membres considèrent la possibilité d’aller au temple davantage comme un droit ou un dû que comme un privilège sacré, manifestant alors de l’impatience ou de l’incompréhension lorsque l’assistance aux usagers qu’ils attendent tarde à venir ou ne répond pas pleinement à leurs attentes.",
+      "speaker": "Gerrit W. Gong",
+      "talk": "Venez au Seigneur dans sa sainte maison",
+      "session": "Session du samedi matin, Conférence générale d’octobre 2026"
+    },
+    {
+      "text": "J’ai répondu : « Cher frère, chère sœur, les ordonnances ne sont ni grandes ni petites. Les alliances ne sont ni grandes ni petites. Je vous en prie, ne parlons jamais d’un temple comme étant grand ou petit, somptueux ou simple. Ne parlons qu’avec amour et reconnaissance pour la ‘Sainteté au Seigneur, la Maison du Seigneur’. »",
       "speaker": "Gerrit W. Gong",
       "talk": "Venez au Seigneur dans sa sainte maison",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Bienvenue à la conférence !",
+          "words": 5
+        },
+        {
+          "text": "Pourquoi les servants du temple ont-ils traversé la route ? Pour aider les gens qui sont de l’autre côté.",
+          "words": 19
+        },
+        {
+          "text": "Dans un monde en proie à l’agitation, aux querelles et aux soucis, le Seigneur nous invite à nous rendre dans un lieu de sécurité spirituelle, d’harmonie et de sainteté : la maison du Seigneur.",
+          "words": 34
+        },
+        {
+          "text": "Il nous y enseigne son plan du bonheur. Il nous dote et nous bénit. Il nous prépare à rentrer à la maison.",
+          "words": 22
+        },
+        {
+          "text": "À notre époque, le Seigneur rapproche de notre foyer et de notre cœur les bénédictions de sa sainte maison et de ses alliances. La doctrine fondamentale peut approfondir notre amour pour le Seigneur. Elle peut accroître notre compréhension du temple et enrichir notre culture personnelle du temple.",
+          "words": 47
+        },
+        {
+          "text": "Premier fondement doctrinal : l’œuvre et la gloire de notre Père céleste, c’est que nous retournions à lui, unis en famille, heureux et pour toujours.",
+          "words": 25,
+          "personal": true
+        },
+        {
+          "text": "Les mariages au temple sont destinés à durer éternellement. L’appartenance à l’alliance unit un mari, une femme et leurs enfants, non pas jusqu’à ce que la mort les sépare ni jusqu’à ce que la commodité ou l’attirance s’estompent, mais par l’engagement, le sacrifice et la consécration acceptés par alliance. La nourriture spirituelle constante que l’on reçoit par la prière, les Écritures, l’assistance à l’Église, le service, etc., bénit et sanctifie notre mariage et nos relations.",
+          "words": 75
+        },
+        {
+          "text": "Deuxième fondement doctrinal : le libre arbitre moral. Les étoiles du matin chantaient de joie. Nous avons choisi le plan d’amour de Dieu, notre Père, pour apprendre par l’expérience personnelle. Jésus-Christ nous rachète du péché, de la mort physique et de la séparation spirituelle.",
+          "words": 44,
+          "personal": true
+        },
+        {
+          "text": "L’œuvre rédemptrice de Dieu est majestueuse par son ampleur et sa portée. Comme Joseph Smith, le prophète, l’a vu en vision, tout le monde, sauf un très petit nombre de personnes, sera sauvé dans un royaume de gloire. Nous pouvons hériter d’une terre paradisiaque glorifiée et vivre dans le plus haut degré de la gloire céleste avec Dieu notre Père et Jésus-Christ.",
+          "words": 62,
+          "personal": true
+        },
+        {
+          "text": "Le libre arbitre signifie que nous choisissons nos relations, directement et indirectement. Dieu n’exigera pas d’une personne qu’elle soit scellée ou qu’elle vive au sein d’une relation éternelle qu’elle n’a pas choisie.",
+          "words": 32
+        },
+        {
+          "text": "Le libre arbitre, la foi et le repentir, ainsi que l’expiation de Jésus-Christ rendent possibles le changement et le pardon. À mesure que nous devenons de nouvelles créatures en Jésus-Christ, nos relations deviennent plus douces. Le service au temple évoque l’expiation de notre Sauveur. Il adoucit les cœurs des deux côtés du voile.",
+          "words": 53
+        },
+        {
+          "text": "En accomplissant des ordonnances du temple pour des membres de notre famille avec lesquels nous avons pu avoir des relations difficiles par le passé, nous trouvons l’espoir et la guérison. Jésus-Christ peut nous aider à réparer, à pardonner et à aller de l’avant. Nous nous exclamons : « Quand j’ai accompli l’œuvre du temple pour un membre de ma famille, mon cœur s’est adouci. » « J’ai pu pardonner. » « Je me suis senti libéré(e). » « La colère et l’amertume ont disparu. » « J’ai ressenti la paix pour la première fois. » Nous pouvons même en arriver à désirer être scellés avec ces membres de notre famille.",
+          "words": 110,
+          "personal": true
+        },
+        {
+          "text": "De grandes bénédictions vous attendent. Je vous en prie, « [ne différez pas] le jour de votre repentir jusqu’à la fin ». Je vous en prie, ne repoussez pas délibérément le moment de goûter la paix spirituelle et la liberté joyeuse que Jésus-Christ veut vous accorder dès maintenant.",
+          "words": 48,
+          "personal": true
+        },
+        {
+          "text": "Troisième fondement doctrinal : lorsque le Saint-Esprit de promesse témoigne et confirme la validité des ordonnances et des alliances, celles-ci nous lient pour le temps et pour l’éternité. Dans son rôle sacré de Saint-Esprit de promesse, le Saint-Esprit « témoigne au Père que les ordonnances salvatrices ont été correctement accomplies et que les alliances qui y sont associées ont été gardées ».",
+          "words": 62
+        },
+        {
+          "text": "Lorsque nous honorons nos alliances, le Saint-Esprit de promesse scelle nos relations avec « validité, vertu [et] force ». Elles sont écrites dans le Livre de Vie de l’Agneau.",
+          "words": 29
+        },
+        {
+          "text": "À l’inverse, nous ne pouvons pas nous attendre à ce que les ordonnances et les alliances que nous n’honorons ni par notre foi ni par nos actions, que nous ne choisissons ni ne désirons, voire que nous négligeons ou tournons en dérision, nous lient ici-bas ou dans les cieux.",
+          "words": 49
+        },
+        {
+          "text": "Sur ce fondement doctrinal, examinons cinq éléments de notre culture personnelle du temple.",
+          "words": 13
+        },
+        {
+          "text": "Premièrement, la consécration d’un temple est un commencement. Il est naturel que nous nous réjouissions lorsqu’un temple est annoncé, que le chantier commence, que la construction avance et que la consécration a lieu. Chacune de ces étapes est importante.",
+          "words": 39
+        },
+        {
+          "text": "Mais, je vous en prie, même si nous sommes reconnaissants pour la beauté physique de nos temples et de tout ce qu’ils contiennent, célébrons et chérissons encore davantage les bénédictions spirituelles qu’ils nous apportent.",
+          "words": 34
+        },
+        {
+          "text": "Dallin H. Oaks exerce toutes les clés de la prêtrise sur la terre, y compris celles relatives aux temples. Dimanche prochain, je suis chargé de consacrer le temple de Miraflores (Guatemala City, Guatemala). Cette année, partout dans le monde, il est prévu que la Première Présidence et le Collège des douze apôtres consacrent vingt et un temples et en reconsacrent un.",
+          "words": 61
+        },
+        {
+          "text": "Deuxièmement, pendant de nombreuses années, lorsque les temples étaient loin de chez eux, des membres fidèles devaient faire des sacrifices pour être scellés dans le temple. Certains membres ne pouvaient aller au temple qu’une ou deux fois au cours de leur vie. D’autres pouvaient s’y rendre une fois par an.",
+          "words": 50
+        },
+        {
+          "text": "Aujourd’hui, les temples étant plus proches dans de nombreuses régions, nous pouvons manifester le précieux esprit de sacrifice propre au temple de nouvelles façons. Nous pouvons nous rendre au temple plus souvent. Nous pouvons rechercher davantage de noms d’ancêtres et les apporter au temple afin d’être une source de bénédictions pour nos êtres chers décédés. Lorsque les circonstances de notre vie le permettent, nous pouvons servir régulièrement dans la maison du Seigneur, à la fois comme usager et comme servant des ordonnances du temple.",
+          "words": 84,
+          "personal": true
+        },
+        {
+          "text": "Troisièmement, si chaque temple reflète de manière unique le lieu, la culture et le contexte dans lesquels il se trouve, tout ce qu’il contient rend témoignage de Jésus-Christ. Les dirigeants du temple aiment le Seigneur d’un même cœur et accordent toute leur attention aux usagers et aux servants du temple. Dans chaque temple, par l’autorité et au nom du Seigneur, les ordonnances et les alliances sont accomplies fidèlement et enregistrées correctement. Lorsque les usagers font de leur mieux, notre service est acceptable aux yeux du Seigneur.",
+          "words": 86
+        },
+        {
+          "text": "Quatrièmement, le sacrifice et le service dans le temple s’accompagnent d’un esprit de reconnaissance. Je dis cela avec beaucoup de respect et d’amour. Il arrive que certains membres considèrent la possibilité d’aller au temple davantage comme un droit ou un dû que comme un privilège sacré, manifestant alors de l’impatience ou de l’incompréhension lorsque l’assistance aux usagers qu’ils attendent tarde à venir ou ne répond pas pleinement à leurs attentes.",
+          "words": 70
+        },
+        {
+          "text": "Il arrive également que certains membres trouvent qu’un temple est plus petit ou moins orné qu’ils ne l’avaient imaginé. Un jour, on m’a dit : « Frère Gong, nous sommes heureux d’avoir un temple, mais déçus qu’il soit petit. »",
+          "words": 40
+        },
+        {
+          "text": "J’ai répondu : « Cher frère, chère sœur, les ordonnances ne sont ni grandes ni petites. Les alliances ne sont ni grandes ni petites. Je vous en prie, ne parlons jamais d’un temple comme étant grand ou petit, somptueux ou simple. Ne parlons qu’avec amour et reconnaissance pour la ‘Sainteté au Seigneur, la Maison du Seigneur’. »",
+          "words": 57
+        },
+        {
+          "text": "Mes chers frères et sœurs, quel que soit l’endroit où nous vivons, veillons à être toujours reconnaissants pour les dons de l’éternité qu’apportent les temples sacrés. Recherchez les miracles. Les nouveaux convertis témoignent parfois que des membres de leur famille de l’autre côté du voile ont guidé les missionnaires pour qu’ils trouvent et baptisent des membres de leur famille de ce côté du voile, afin que leur famille puisse être unie.",
+          "words": 71
+        },
+        {
+          "text": "Certains nouveaux convertis se sentent seuls. Mais vous faites partie de la famille de notre Père céleste. Et lorsque vous emportez des noms de membres de votre famille au temple, votre famille éternelle s’étend des deux côtés du voile. Quand mon père et ma mère sont devenus membres de notre Église, ils étaient les seuls membres de leurs familles respectives. Aujourd’hui, l’œuvre de l’histoire familiale et la généalogie nous permettent de relier de nombreuses générations de la famille Gong et de la famille Char. Quelle que soit la génération à laquelle vous appartenez dans l’Église, je vous en prie, soyez un lien fort dans la chaîne de votre famille éternelle.",
+          "words": 110,
+          "personal": true
+        },
+        {
+          "text": "Cinquièmement, si votre situation le permet, mettez de l’argent de côté afin d’acheter vos propres vêtements de cérémonie du temple : la toque ou le voile, la tunique, la ceinture et le tablier. Lorsque nous prenons soin de nos vêtements du temple et les portons avec respect, nos enfants et petits-enfants voient que nous aimons le Seigneur et nos alliances du temple.",
+          "words": 62,
+          "personal": true
+        },
+        {
+          "text": "Je connais une famille aux moyens modestes. À la demande de leur mère veuve, les enfants ont économisé pour lui acheter ses propres vêtements de cérémonie du temple. Leur mère s’est rendue régulièrement au temple pendant de nombreuses années. Elle chérissait le fait de porter ses propres vêtements du temple. Quand elle est décédée, sa famille a honoré sa demande en l’ensevelissant dans ses vêtements du temple. Cette chère mère était prête à entrer dans l’éternité, préparée pour la glorieuse résurrection.",
+          "words": 81,
+          "personal": true
+        },
+        {
+          "text": "Chers frères et sœurs, venez adorer le Seigneur et vous réjouir avec lui dans sa maison, en trouvant de la joie dans la doctrine du temple et dans votre culture personnelle du temple.",
+          "words": 33
+        },
+        {
+          "text": "Alors, pourquoi les servants du temple ont-ils traversé la route ? Pour que Dieu et les ordonnances du temple les protègent, les bénissent, les inspirent, leur apportent le pardon, la guérison et la paix, et qu’ils unissent nos êtres chers ici-bas et dans l’au-delà. Je prie pour que ces bénédictions de l’éternité soient les nôtres en plus grande abondance. Au nom sacré de Jésus-Christ. Amen.",
+          "words": 65
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": []
+  }
 }

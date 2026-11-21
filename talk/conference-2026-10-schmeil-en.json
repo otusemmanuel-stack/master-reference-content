@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-schmeil",
   "lang": "en",
   "speaker": "Elder Ciro Schmeil",
@@ -13,12 +14,6 @@
     }
   ],
   "quotes": [
-    {
-      "text": "God is our Father in Heaven, and He prepared a plan for us to return to His presence. The scriptures call this the plan of salvation or “the great plan of happiness” (Alma 42:8). According to this plan, “this life is the time for [us] to prepare to meet God” (Alma 34:32).",
-      "speaker": "Elder Ciro Schmeil",
-      "talk": "Consider Your Ways, and from This Day Will the Lord Bless You",
-      "session": "Sunday Morning Session, October 2026 General Conference"
-    },
     {
       "text": "And God did not leave us alone in this journey. As President Dallin H. Oaks has taught, God gave us “divine helps for mortality” that can help us back to His presence. I will mention two of these divine helps: the Savior Jesus Christ and our covenants.",
       "speaker": "Elder Ciro Schmeil",
@@ -57,6 +52,12 @@
     },
     {
       "text": "Elder Dale G. Renlund has reminded and warned us that “the time will come, in each of your lives, when there will be a hesitation to go to church and partake of the sacrament. If it hasn’t happened yet, it will. But know this: if you follow the Savior’s direction and go and partake of the sacrament, with a broken heart and a contrite spirit, blessings will pour upon you that will keep you firm, that will keep you solid, that will keep you established on that firm foundation that is Jesus Christ.”",
+      "speaker": "Elder Ciro Schmeil",
+      "talk": "Consider Your Ways, and from This Day Will the Lord Bless You",
+      "session": "Sunday Morning Session, October 2026 General Conference"
+    },
+    {
+      "text": "In Preach My Gospel we also learn that “as we make our Sabbath activities compatible with God’s intent for the day, we will feel joy and peace. We will be spiritually nourished and physically refreshed.” What a blessing it is for us to partake of the sacrament each week.",
       "speaker": "Elder Ciro Schmeil",
       "talk": "Consider Your Ways, and from This Day Will the Lord Bless You",
       "session": "Sunday Morning Session, October 2026 General Conference"
@@ -99,5 +100,215 @@
       "ref": "Mosiah 2:41",
       "text": "And moreover, I would desire that ye should consider on the blessed and happy state of those that keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual; and if they hold out faithful to the end they are received into heaven, that thereby they may dwell with God in a state of never-ending happiness. O remember, remember that these things are true; for the Lord God hath spoken it."
     }
-  ]
+  ],
+  "sections": [
+    {
+      "heading": "The Plan of Happiness",
+      "paragraphs": [
+        {
+          "text": "God is our Father in Heaven, and He prepared a plan for us to return to His presence. The scriptures call this the plan of salvation or “the great plan of happiness” (Alma 42:8). According to this plan, “this life is the time for [us] to prepare to meet God” (Alma 34:32).",
+          "words": 52,
+          "scriptures": [
+            {
+              "ref": "Alma 42:8",
+              "text": "Now behold, it was not expedient that man should be reclaimed from this temporal death, for that would destroy the great plan of happiness."
+            },
+            {
+              "ref": "Alma 34:32",
+              "text": "For behold, this life is the time for men to prepare to meet God; yea, behold the day of this life is the day for men to perform their labors."
+            }
+          ],
+          "personal": true
+        },
+        {
+          "text": "And God did not leave us alone in this journey. As President Dallin H. Oaks has taught, God gave us “divine helps for mortality” that can help us back to His presence. I will mention two of these divine helps: the Savior Jesus Christ and our covenants.",
+          "words": 47
+        }
+      ]
+    },
+    {
+      "heading": "Jesus Christ",
+      "paragraphs": [
+        {
+          "text": "Our Savior, Jesus Christ, and our covenants are essential to guide us through the covenant path and help us overcome our challenges and weaknesses. Jesus Christ knows us individually, and He will help us if we seek Him: “And if men come unto me I will show unto them their weakness. … For if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them” (Ether 12:27).",
+          "words": 76,
+          "scriptures": [
+            {
+              "ref": "Ether 12:27",
+              "text": "And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them."
+            }
+          ]
+        },
+        {
+          "text": "According to this scripture, we need to be humble and have faith in Christ for the weak things to become strong. A central feature of humility is having a broken heart, which means to be receptive to the will of God. To be receptive to the will of God, we must have faith in Christ, which means that we trust Him even when we don’t have all the answers. President Oaks said: “By far, God’s strongest mortal help was His provision of a Savior, Jesus Christ, who would suffer to pay the price and provide forgiveness for repented sins. That merciful and glorious Atonement explains why faith in the Lord Jesus Christ is the first principle of the gospel.”",
+          "words": 119,
+          "personal": true
+        }
+      ]
+    },
+    {
+      "heading": "Covenants",
+      "paragraphs": [
+        {
+          "text": "We show our faith in Christ by making and keeping covenants with God. “A covenant is a sacred promise between God and His children. God gives the conditions for the covenant, and His children agree to obey those conditions. God promises to bless His children as they fulfill the covenant.”",
+          "words": 50
+        },
+        {
+          "text": "Covenants bind us to Jesus Christ because He is central to every covenant we make. In Matthew 11, the Savior extends a beautiful invitation and a promise to all of us. He said:",
+          "words": 33
+        },
+        {
+          "text": "“Come unto me, … and I will give you rest.",
+          "words": 10,
+          "personal": true
+        },
+        {
+          "text": "“Take my yoke upon you, and learn of me; … and ye shall find rest unto your souls.",
+          "words": 18,
+          "personal": true
+        },
+        {
+          "text": "“For my yoke is easy, and my burden is light” (Matthew 11:28–30).",
+          "words": 12,
+          "scriptures": [
+            {
+              "ref": "Matthew 11:28–30",
+              "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light."
+            }
+          ]
+        },
+        {
+          "text": "It is through covenants that we become yoked with the Savior Jesus Christ and our burdens become lighter.",
+          "words": 18
+        },
+        {
+          "text": "The baptismal covenant is the first covenant we make with God. We then make a new covenant with Him each week as we partake of the sacrament during our Sunday worship wherein we renew promises made at baptism and covenant to always remember the Savior. Jesus Christ instituted the sacrament to help us remember Him with the promise that if we do so, we will have His Spirit with us (see Luke 22:19–20 ; 3 Nephi 18:11).",
+          "words": 77,
+          "scriptures": [
+            {
+              "ref": "Luke 22:19–20",
+              "text": "And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me. Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you."
+            },
+            {
+              "ref": "3 Nephi 18:11",
+              "text": "And this shall ye always do to those who repent and are baptized in my name; and ye shall do it in remembrance of my blood, which I have shed for you, that ye may witness unto the Father that ye do always remember me. And if ye do always remember me ye shall have my Spirit to be with you."
+            }
+          ]
+        },
+        {
+          "text": "In the sacrament prayer we have a good reminder that we do not need to be perfect to partake of the sacrament. We need to be willing to take upon us His name, remember Him, and keep His commandments, and in return we have the promise to always have His Spirit with us. The sacrament is essential to have the Spirit and the strength to continue on the covenant path.",
+          "words": 70
+        },
+        {
+          "text": "Elder Dale G. Renlund has reminded and warned us that “the time will come, in each of your lives, when there will be a hesitation to go to church and partake of the sacrament. If it hasn’t happened yet, it will. But know this: if you follow the Savior’s direction and go and partake of the sacrament, with a broken heart and a contrite spirit, blessings will pour upon you that will keep you firm, that will keep you solid, that will keep you established on that firm foundation that is Jesus Christ.”",
+          "words": 93
+        },
+        {
+          "text": "In Preach My Gospel we also learn that “as we make our Sabbath activities compatible with God’s intent for the day, we will feel joy and peace. We will be spiritually nourished and physically refreshed.” What a blessing it is for us to partake of the sacrament each week.",
+          "words": 49
+        },
+        {
+          "text": "The sacrament also prepares us to make and keep temple covenants. We can draw insight about the importance and the blessings of the temple covenants as we read the account of the prophet Haggai in the Old Testament.",
+          "words": 38
+        },
+        {
+          "text": "The Lord had commanded the Israelites to rebuild the temple, but they did not make it a priority. Displeased with them, the Lord said:",
+          "words": 24
+        },
+        {
+          "text": "“Consider your ways.",
+          "words": 3
+        },
+        {
+          "text": "“Ye have sown much, and bring in little; … and he that earneth wages earneth wages to put it into a bag with holes.",
+          "words": 24
+        },
+        {
+          "text": "“Thus saith the Lord of hosts; Consider your ways.",
+          "words": 9
+        },
+        {
+          "text": "“… Why? … Because of mine house that is waste, and ye run every man unto his own house” (Haggai 1:5–7, 9).",
+          "words": 22,
+          "scriptures": [
+            {
+              "ref": "Haggai 1:5–7",
+              "text": "Now therefore thus saith the LORD of hosts; Consider your ways. Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes. Thus saith the LORD of hosts; Consider your ways."
+            }
+          ]
+        },
+        {
+          "text": "We learn from this account that the Lord could not magnify their efforts because their actions were not aligned with God’s will. Although they were doing much, they were not accomplishing much because God’s holy house was not a priority in their lives.",
+          "words": 43
+        },
+        {
+          "text": "As they considered their ways, they repented and followed God’s direction. As soon as they started to rebuild the temple, the Lord said, “From this day will I bless you” (Haggai 2:19).",
+          "words": 32,
+          "scriptures": [
+            {
+              "ref": "Haggai 2:19",
+              "text": "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you."
+            }
+          ],
+          "closing": "blessing"
+        }
+      ]
+    },
+    {
+      "heading": "Blessings",
+      "paragraphs": [
+        {
+          "text": "May we also consider our ways. Heavenly Father is not asking us to physically build the temple, but He is asking us to build a strong relationship with Him and His Son, Jesus Christ, through our covenants. He will magnify our efforts as we consider our ways and make the proper adjustments to make and keep covenants with Him. God knows what is best for us and is eager to bless us. Remember what He said to the Israelites: “From this day will I bless you” (Haggai 2:19). I know that God keeps His promises. I have seen it in my life. He gave me spiritual and physical strength when I needed it most.",
+          "words": 114,
+          "scriptures": [
+            {
+              "ref": "Haggai 2:19",
+              "text": "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you."
+            }
+          ],
+          "personal": true,
+          "closing": "blessing"
+        },
+        {
+          "text": "The sacrament has helped me to keep my baptismal and temple covenants. It is a weekly reminder of what the Savior Jesus Christ has done for me and how much I need Him in my life as I walk the covenant path back to His presence.",
+          "words": 46,
+          "personal": true
+        },
+        {
+          "text": "May we consider our ways and remember the words of King Benjamin when he said: “Consider on the blessed and happy state of those that keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual; and if they hold out faithful to the end they are received into heaven, that thereby they may dwell with God in a state of never-ending happiness” (Mosiah 2:41). This is possible only as we make and keep covenants. In the name of Jesus Christ, amen.",
+          "words": 88,
+          "scriptures": [
+            {
+              "ref": "Mosiah 2:41",
+              "text": "And moreover, I would desire that ye should consider on the blessed and happy state of those that keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual; and if they hold out faithful to the end they are received into heaven, that thereby they may dwell with God in a state of never-ending happiness. O remember, remember that these things are true; for the Lord God hath spoken it."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [
+      {
+        "text": "As they considered their ways, they repented and followed God’s direction. As soon as they started to rebuild the temple, the Lord said, “From this day will I bless you” (Haggai 2:19).",
+        "scriptures": [
+          {
+            "ref": "Haggai 2:19",
+            "text": "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you."
+          }
+        ]
+      },
+      {
+        "text": "May we also consider our ways. Heavenly Father is not asking us to physically build the temple, but He is asking us to build a strong relationship with Him and His Son, Jesus Christ, through our covenants. He will magnify our efforts as we consider our ways and make the proper adjustments to make and keep covenants with Him. God knows what is best for us and is eager to bless us. Remember what He said to the Israelites: “From this day will I bless you” (Haggai 2:19). I know that God keeps His promises. I have seen it in my life. He gave me spiritual and physical strength when I needed it most.",
+        "scriptures": [
+          {
+            "ref": "Haggai 2:19",
+            "text": "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you."
+          }
+        ]
+      }
+    ],
+    "testimony": []
+  }
 }

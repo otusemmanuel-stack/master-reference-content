@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-bednar",
   "lang": "fr",
   "speaker": "David A. Bednar",
@@ -32,13 +33,13 @@
       "session": "Session du samedi matin, Conférence générale d’avril 2026"
     },
     {
-      "text": "Mormon a témoigné que « la charité est l’amour pur du Christ » et « ce qu’il y a de plus grand » parmi les dons spirituels. Il est important de noter que le verbe persévérer est employé dans les Écritures pour définir et décrire la charité.",
+      "text": "Lorsque nous avons la bénédiction de recevoir ce don divin, une transformation se produit dans notre nature et notre personnalité spirituelles. Le fait de « posséder » le don spirituel de la charité se rapporte en partie à la progression et au développement spirituels qui sont les objectifs fondamentaux de l’Évangile du Sauveur.",
       "speaker": "David A. Bednar",
       "talk": "Tous ceux qui ont persévéré vaillamment",
       "session": "Session du samedi matin, Conférence générale d’avril 2026"
     },
     {
-      "text": "Lorsque nous avons la bénédiction de recevoir ce don divin, une transformation se produit dans notre nature et notre personnalité spirituelles. Le fait de « posséder » le don spirituel de la charité se rapporte en partie à la progression et au développement spirituels qui sont les objectifs fondamentaux de l’Évangile du Sauveur.",
+      "text": "Pour les disciples du Sauveur, la charité englobe à la fois ce que nous faisons et ce que nous pouvons devenir lorsque ce don spirituel finit par nous posséder. À un niveau fondamental, la charité comprend assurément des actes de compassion, de bonté et de générosité envers autrui. Mais à un niveau plus élevé et encore plus sacré, la charité est l’essence même de la « fin » jusqu’à laquelle nous persévérons : devenir de nouvelles créatures en Christ.",
       "speaker": "David A. Bednar",
       "talk": "Tous ceux qui ont persévéré vaillamment",
       "session": "Session du samedi matin, Conférence générale d’avril 2026"
@@ -50,17 +51,210 @@
       "session": "Session du samedi matin, Conférence générale d’avril 2026"
     },
     {
-      "text": "En suivant, en aimant et en servant le Sauveur, progressivement nous nous concentrons moins sur nos désirs et nos centres d’intérêt, et nous nous efforçons davantage de comprendre les besoins d‘autrui et d’y répondre. Nous ne nous contentons pas d’accomplir des actes bienveillants ; notre être s‘en trouve transformé et nous ressemblons de plus en plus au Christ. Ainsi, la charité finit par nous posséder.",
+      "text": "Le modèle de développement spirituel mis en évidence dans la vie du Sauveur dans la condition mortelle s’applique également à chacun de nous. Jésus-Christ était « au commencement avec le Père ». Nous aussi.",
       "speaker": "David A. Bednar",
       "talk": "Tous ceux qui ont persévéré vaillamment",
       "session": "Session du samedi matin, Conférence générale d’avril 2026"
     },
     {
-      "text": "Le modèle de développement spirituel mis en évidence dans la vie du Sauveur dans la condition mortelle s’applique également à chacun de nous. Jésus-Christ était « au commencement avec le Père ». Nous aussi.",
+      "text": "Il « vint demeurer dans la chair » et « il ne reçut pas la plénitude dès l’abord, mais continua de grâce en grâce, jusqu’à ce qu’il reçût une plénitude ». En tant qu’enfants de Dieu, nous pouvons aussi recevoir sa plénitude « en temps voulu », suivant le même modèle, « grâce sur grâce », comme le Sauveur.",
       "speaker": "David A. Bednar",
       "talk": "Tous ceux qui ont persévéré vaillamment",
       "session": "Session du samedi matin, Conférence générale d’avril 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Je pratique l’athlétisme de compétition depuis mon plus jeune âge et la course à pied a toujours été un élément essentiel de ma préparation physique. Au fil des ans, j’ai développé un rapport amour-haine avec la course à pied. J’apprécie les bienfaits physiques et l’euphorie mentale que les entraînements réguliers procurent. Mais je déteste les courbatures, les poumons qui me brûlent et l’épuisement. À l‘approche de l’arrivée de bon nombre de mes courses de fond, je m’exhorte à continuer, à m’accrocher et à persévérer jusqu’à la fin.",
+          "words": 87,
+          "personal": true
+        },
+        {
+          "text": "Dans le contexte de l’exercice physique, le terme persévérer suggère de maintenir un effort physique et mental intense sur une longue période. Beaucoup d’entre nous associent peut-être aussi le terme persévérer à la corvée désagréable du travail routinier et des responsabilités. Mais, dans un contexte spirituel, il s’agit de bien plus que simplement s’accrocher avec ténacité pour accomplir des tâches ou relever des défis exigeants.",
+          "words": 65
+        },
+        {
+          "text": "Les Écritures mettent en évidence des usages instructifs du verbe persévérer. Par exemple, le Seigneur a déclaré aux Néphites : « Regardez vers moi et persévérez jusqu’à la fin, et vous vivrez ; car à celui qui persévère jusqu’à la fin, je donnerai la vie éternelle. »",
+          "words": 47
+        },
+        {
+          "text": "Et le Sauveur a révélé, par l’intermédiaire de Joseph Smith, le prophète : « Si tu gardes mes commandements et persévères jusqu’à la fin, tu auras la vie éternelle, don qui est le plus grand de tous les dons de Dieu. »",
+          "words": 42
+        },
+        {
+          "text": "Je prie pour que le Saint-Esprit nous aide à avoir une compréhension plus élevée et plus sainte de ce que signifie persévérer jusqu’à la fin en tant que disciples à vie du Seigneur Jésus-Christ.",
+          "words": 34
+        }
+      ]
+    },
+    {
+      "heading": "Devenir des nouvelles créatures en Christ",
+      "paragraphs": [
+        {
+          "text": "L’Évangile rétabli du Sauveur nous invite à être transformés spirituellement, pas seulement à améliorer notre comportement. Si nous conformons plus étroitement notre personnalité, nos désirs, nos actions et ce que nous aimons vraiment à la volonté de Dieu, le Sauveur peut opérer en nous un changement complet et profond.",
+          "words": 49
+        },
+        {
+          "text": "En nous efforçant de nous dépouiller de l’homme naturel et de devenir des saints grâce à l’expiation du Sauveur, nous devons venir à lui, « naître de nouveau », nous lier au Père et au Fils par des alliances et des ordonnances sacrées, nous engager à prendre sur nous le nom du Sauveur, recevoir « une plénitude du Saint-Esprit », éprouver un grand changement de cœur et servir le Seigneur « de tout [notre] cœur, de tout [notre] pouvoir, de tout [notre] esprit et de toutes [nos] forces.» Nous devons devenir de nouvelles créatures en Christ.",
+          "words": 96
+        },
+        {
+          "text": "Ce grand changement spirituel n’est possible que « par les mérites, […] la miséricorde, et la grâce du Saint Messie ». En tant qu’êtres mortels, nous avons un besoin absolu et constant de l’aide de notre Père céleste et du Sauveur pour réaliser notre destinée éternelle.",
+          "words": 46,
+          "personal": true
+        }
+      ]
+    },
+    {
+      "heading": "Le rôle et l’importance des dons spirituels",
+      "paragraphs": [
+        {
+          "text": "Les dons spirituels sont des bénédictions et des capacités que Dieu accorde à ses enfants par le pouvoir du Saint-Esprit. Toutes les personnes qui reçoivent le don du Saint-Esprit par l’autorité de la prêtrise appropriée et par l’imposition des mains sont qualifiées pour recevoir des dons spirituels prévus « pour la bénédiction et le profit des personnes qui aiment le Seigneur et s’efforcent de respecter ses commandements ». Les dons spirituels sont des conditions préalables essentielles pour venir au Sauveur, acquérir ses vertus et, à terme, devenir plus semblables à lui.",
+          "words": 91
+        },
+        {
+          "text": "L‘expression même « dons spirituels » nous enseigne une leçon essentielle. Dieu accorde tous ces dons selon sa volonté et son calendrier ; ce ne sont pas des résultats que nous obtenons uniquement par des efforts soutenus et une discipline personnelle.",
+          "words": 41
+        }
+      ]
+    },
+    {
+      "heading": "Le don spirituel de la charité et de la persévérance jusqu’à la fin",
+      "paragraphs": [
+        {
+          "text": "Mormon a témoigné que « la charité est l’amour pur du Christ » et « ce qu’il y a de plus grand » parmi les dons spirituels. Il est important de noter que le verbe persévérer est employé dans les Écritures pour définir et décrire la charité.",
+          "words": 47
+        },
+        {
+          "text": "Par exemple : « La charité […] subsiste à jamais », « est patiente, […] ne cherche pas son intérêt, […] excuse tout, supporte tout. Et, comme vous le savez bien, mes sœurs, « la charité ne périt jamais ».",
+          "words": 40
+        },
+        {
+          "text": "Mormon a aussi enseigné que « tout ira bien pour quiconque sera trouvé […] possédant [le don spirituel de la charité] au dernier jour ». Remarquez le double sens du mot de dans ce verset. Nous pouvons posséder la charité, mais en fin de compte, c’est la charité qui devrait nous posséder.",
+          "words": 52
+        },
+        {
+          "text": "Lorsque nous avons la bénédiction de recevoir ce don divin, une transformation se produit dans notre nature et notre personnalité spirituelles. Le fait de « posséder » le don spirituel de la charité se rapporte en partie à la progression et au développement spirituels qui sont les objectifs fondamentaux de l’Évangile du Sauveur.",
+          "words": 53
+        }
+      ]
+    },
+    {
+      "heading": "Plus élevés et plus saints",
+      "paragraphs": [
+        {
+          "text": "Pour les disciples du Sauveur, la charité englobe à la fois ce que nous faisons et ce que nous pouvons devenir lorsque ce don spirituel finit par nous posséder. À un niveau fondamental, la charité comprend assurément des actes de compassion, de bonté et de générosité envers autrui. Mais à un niveau plus élevé et encore plus sacré, la charité est l’essence même de la « fin » jusqu’à laquelle nous persévérons : devenir de nouvelles créatures en Christ.",
+          "words": 79
+        },
+        {
+          "text": "Réfléchissez à la façon dont le treizième article de foi décrit ces deux dimensions fondamentales de la charité. La première moitié de la déclaration met l’accent sur les actes charitables et bienveillants : « Nous croyons que nous devons être honnêtes, fidèles, chastes, bienveillants et vertueux, et que nous devons faire du bien à tous les hommes. »",
+          "words": 58
+        },
+        {
+          "text": "La deuxième moitié met l’accent sur la nature continue de notre transformation spirituelle : « Nous croyons tout, nous espérons tout, nous avons supporté beaucoup et nous espérons être capables de supporter tout. Nous recherchons tout ce qui est vertueux ou aimable, tout ce qui mérite l’approbation ou est digne de louange. »",
+          "words": 53
+        },
+        {
+          "text": "Ce dernier article de foi nous exhorte à faire le bien, à être bons et à persévérer jusqu’à la fin en venant au Sauveur, en le suivant et en recevant le don divin d’aimer comme il aime.",
+          "words": 37
+        },
+        {
+          "text": "La nature divine et la personnalité sublime du Sauveur ont été la source d’une compassion parfaite pendant son ministère ici-bas. Le Rédempteur du monde s’est tourné vers autrui dans l’amour et le service lorsqu’il a rencontré l’adversité spirituelle ou la douleur physique, contrairement à l’homme naturel en chacun de nous qui se replie sur lui-même, dans l’égocentrisme et l’égoïsme. Lorsque nous vivons comme il nous y invite et avec son aide, notre nature et notre personnalité deviennent, au fil du temps, de plus en plus semblables aux siennes.",
+          "words": 88
+        },
+        {
+          "text": "En suivant, en aimant et en servant le Sauveur, progressivement nous nous concentrons moins sur nos désirs et nos centres d’intérêt, et nous nous efforçons davantage de comprendre les besoins d‘autrui et d’y répondre. Nous ne nous contentons pas d’accomplir des actes bienveillants ; notre être s‘en trouve transformé et nous ressemblons de plus en plus au Christ. Ainsi, la charité finit par nous posséder.",
+          "words": 65
+        },
+        {
+          "text": "« C’est pourquoi, […] priez le Père de toute l’énergie de votre cœur, afin d’être remplis de cet amour, […] afin que lorsqu’il apparaîtra, nous soyons semblables à lui, car nous le verrons tel qu’il est. »",
+          "words": 37
+        }
+      ]
+    },
+    {
+      "heading": "Grâce pour grâce",
+      "paragraphs": [
+        {
+          "text": "La perspective d’avoir la bénédiction, dans la condition mortelle, de recevoir ne serait-ce qu’une petite partie de la personnalité et des attributs de Jésus peut nous sembler totalement impossible. Mais les pas du Rédempteur « ont marqué le chemin ». Le pouvoir de sa doctrine, de ses alliances et ses ordonnances, et de son exemple peut être une bénédiction pour nous dans tous les aspects de notre vie.",
+          "words": 68
+        },
+        {
+          "text": "Le modèle de développement spirituel mis en évidence dans la vie du Sauveur dans la condition mortelle s’applique également à chacun de nous. Jésus-Christ était « au commencement avec le Père ». Nous aussi.",
+          "words": 34
+        },
+        {
+          "text": "Il « vint demeurer dans la chair » et « il ne reçut pas la plénitude dès l’abord, mais continua de grâce en grâce, jusqu’à ce qu’il reçût une plénitude ». En tant qu’enfants de Dieu, nous pouvons aussi recevoir sa plénitude « en temps voulu », suivant le même modèle, « grâce sur grâce », comme le Sauveur.",
+          "words": 59
+        }
+      ]
+    },
+    {
+      "heading": "Exemples tirés des Écritures",
+      "paragraphs": [
+        {
+          "text": "Je vais maintenant lire trois Écritures qui contiennent l’expression « persévérer jusqu’à la fin ». J’insérerai l’expression « possède l’amour pur du Christ » dans chaque verset afin que nous puissions apprendre une leçon essentielle et éternelle.",
+          "words": 37,
+          "personal": true
+        },
+        {
+          "text": "Le Sauveur a enseigné à ses apôtres d’autrefois : « Celui qui persévère jusqu’à la fin [ou possède l’amour pur du Christ] sera sauvé. »",
+          "words": 25
+        },
+        {
+          "text": "Néphi a témoigné : « J’entendis une voix venant du Père, qui disait : Oui, les paroles de mon Bien-aimé sont vraies et dignes de foi. Celui qui persévère jusqu’à la fin [ou possède l’amour pur du Christ], celui-là sera sauvé. »",
+          "words": 42
+        },
+        {
+          "text": "Alma a déclaré : « Celui qui trouve miséricorde et persévère jusqu’à la fin [ou possède l’amour pur du Christ], celui-là sera sauvé. »",
+          "words": 24
+        },
+        {
+          "text": "La persévérance jusqu’à la fin est indissociablement liée au don spirituel de la charité. La persévérance jusqu’à la fin n’est pas simplement la détermination inébranlable de serrer les dents, de tenir jusqu‘aux limites de nos forces physiques et de nos capacités mentales, et de surmonter les difficultés et l’adversité de la condition mortelle. C’est bien plus que cela.",
+          "words": 58
+        },
+        {
+          "text": "La persévérance jusqu’à la fin est la quête joyeuse de toute une vie : c‘est aller de l’avant avec foi en Jésus-Christ dans un processus graduel consistant à faire confiance à notre Sauveur et à recevoir son aide pour devenir plus semblables à lui. À mesure que notre amour pour lui devient de plus en plus fort et profond, nous aurons la bénédiction de recevoir une perspective spirituelle, la grâce habilitante du Seigneur, et une joie extrêmement grande et indescriptible.",
+          "words": 80
+        }
+      ]
+    },
+    {
+      "heading": "Promesse et témoignage",
+      "paragraphs": [
+        {
+          "text": "L’expression scripturaire « venez à moi » est l’invitation du Sauveur à apprendre et à mettre en pratique sa doctrine, et à entamer un processus de renaissance spirituelle.",
+          "words": 28
+        },
+        {
+          "text": "L’expression scripturaire « persévérer jusqu’à la fin » est un rappel renouvelé du grand changement spirituel dans notre cœur qui doit se produire tout au long de notre vie. C’est aussi sa promesse de ce que nous sommes à même de devenir si nous possédons vraiment l’amour pur du Christ.",
+          "words": 50
+        },
+        {
+          "text": "Le Seigneur a révélé à Joseph Smith, le prophète : « Tous les trônes et les dominations, les principautés et les puissances seront révélés et conférés à tous ceux qui ont persévéré vaillamment pour l’Évangile de Jésus-Christ. »",
+          "words": 38
+        },
+        {
+          "text": "Je témoigne avec joie que chacun de nous, avec la grâce et la miséricorde du Seigneur, peut croire tout, espérer tout et supporter tout vaillamment. J’en témoigne au nom sacré du Seigneur Jésus-Christ. Amen.",
+          "words": 34,
+          "personal": true,
+          "closing": "testimony"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je témoigne avec joie que chacun de nous, avec la grâce et la miséricorde du Seigneur, peut croire tout, espérer tout et supporter tout vaillamment. J’en témoigne au nom sacré du Seigneur Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ]
+  }
 }

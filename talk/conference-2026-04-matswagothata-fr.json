@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-matswagothata",
   "lang": "fr",
   "speaker": "Clement M. Matswagothata",
@@ -13,12 +14,6 @@
     }
   ],
   "quotes": [
-    {
-      "text": "Nous avons tous besoin de rappels de ce genre tout au long de notre parcours dans la condition mortelle. C’est peut-être la raison pour laquelle notre Père céleste aimant nous donne chaque semaine l’occasion de contracter une alliance avec lui dans le cadre de l’ordonnance de la Sainte-Cène. Il nous invite à prendre sur nous le nom de son Fils, à nous souvenir toujours de lui et à garder ses commandements, et il nous donne le pouvoir de nous élever au-dessus des défis de la condition mortelle.",
-      "speaker": "Clement M. Matswagothata",
-      "talk": "Il connaît votre nom",
-      "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
-    },
     {
       "text": "Il vous connaît et vous appelle aussi par votre nom, que ce soit dans une ville surpeuplée ou un village tranquille, et ce quelle que soit la langue que vous parlez. Il vous entend, vous voit et vous connaît.",
       "speaker": "Clement M. Matswagothata",
@@ -60,7 +55,195 @@
       "speaker": "Clement M. Matswagothata",
       "talk": "Il connaît votre nom",
       "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
+    },
+    {
+      "text": "N’oubliez pas que votre douleur n’est pas un signe que Dieu ne vous aime pas. Il vous aime vraiment. Donc, comme D. Todd Christofferson l’a enseigné : « Au milieu du feu du fondeur, au lieu de nous mettre en colère contre Dieu, approchons-nous de lui. »",
+      "speaker": "Clement M. Matswagothata",
+      "talk": "Il connaît votre nom",
+      "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Il y a des années, alors que je marchais nerveusement pour prendre la parole lors d’une conférence de pieu, ma fille, essayant de me rassurer, m’a dit : « Papa, ne t’inquiète pas de faire une erreur. De toute façon, personne ici ne se souviendra de notre long nom de famille. »",
+          "words": 52,
+          "personal": true
+        },
+        {
+          "text": "Mon nom de famille, Matswagothata, est originaire du Botswana. Dans ma langue, il signifie « se sortir d’une situation difficile » ou « quelqu’un qui peut faire des choses difficiles ». Bien que je n’aie pas toujours eu l’impression d’être capable de faire des choses difficiles, mon nom de famille me rappelle que le Sauveur est à même de nous guider et nous guidera à toutes les époques de notre vie, en particulier dans les moments difficiles.",
+          "words": 77,
+          "personal": true
+        },
+        {
+          "text": "Nous avons tous besoin de rappels de ce genre tout au long de notre parcours dans la condition mortelle. C’est peut-être la raison pour laquelle notre Père céleste aimant nous donne chaque semaine l’occasion de contracter une alliance avec lui dans le cadre de l’ordonnance de la Sainte-Cène. Il nous invite à prendre sur nous le nom de son Fils, à nous souvenir toujours de lui et à garder ses commandements, et il nous donne le pouvoir de nous élever au-dessus des défis de la condition mortelle.",
+          "words": 87,
+          "personal": true
+        }
+      ]
+    },
+    {
+      "heading": "Rappelez-vous qui vous êtes",
+      "paragraphs": [
+        {
+          "text": "Mon nom de famille a apporté de l’espoir et de la résilience à ma famille, mais je me réjouis davantage du nom de Jésus-Christ, car en son nom et par son nom toute personne qui vient à lui peut être sauvée. De même que Jésus-Christ nous invite à toujours nous souvenir de lui et à prendre son nom sur nous, il se souvient de nous et connaît chacun par son nom.",
+          "words": 71,
+          "personal": true
+        },
+        {
+          "text": "Dans l’Ancien Testament, le Seigneur a enseigné à Moïse cette vérité rassurante : « Je te connais par ton nom. »",
+          "words": 21
+        },
+        {
+          "text": "Dans le jardin d’Éden, il a appelé Adam.",
+          "words": 8
+        },
+        {
+          "text": "Devant le tombeau vide, il a appelé Marie.",
+          "words": 8
+        },
+        {
+          "text": "Sur le chemin de Damas, il a appelé Saul",
+          "words": 9
+        },
+        {
+          "text": "Et dans le Bosquet sacré, il a appelé Joseph.",
+          "words": 9
+        },
+        {
+          "text": "Chacun par leur nom.",
+          "words": 4
+        },
+        {
+          "text": "Il vous connaît et vous appelle aussi par votre nom, que ce soit dans une ville surpeuplée ou un village tranquille, et ce quelle que soit la langue que vous parlez. Il vous entend, vous voit et vous connaît.",
+          "words": 39
+        },
+        {
+          "text": "Il connaît vos joies et il se réjouit avec vous. Il connaît vos peines et se tient prêt à vous secourir et à vous relever. Grâce à son expiation, il connaît vos fardeaux, votre douleur et vos larmes silencieuses. Le prophète Alma a enseigné que, grâce à son expiation, Jésus-Christ prendrait « sur lui les péchés de son peuple ».",
+          "words": 60
+        },
+        {
+          "text": "Alma a également enseigné : « Et il ira, subissant des souffrances, et des afflictions, et des tentations de toute espèce ; et […] il prendra sur lui les souffrances et les maladies de son peuple […] afin qu’il sache […] comment secourir son peuple selon ses infirmités. ».",
+          "words": 49
+        }
+      ]
+    },
+    {
+      "heading": "Il placera d’autres personnes sur votre chemin",
+      "paragraphs": [
+        {
+          "text": "Frères et sœurs, beaucoup portent des fardeaux en silence : le chagrin, la maladie, la solitude, l’anxiété ou les prières qui semblent sans réponse. D’autres font face à des conflits ou à un isolement que peu d’entre nous comprennent pleinement.",
+          "words": 40
+        },
+        {
+          "text": "Quand la vie semble injuste et déroutante, dans ces moments sombres où vous êtes tenté de demander : « Ô Dieu, où es-tu ? », je vous prie de vous souvenir de cette vérité puissante : il vous connaît. Celui qui est « descendu au-dessous de tout » sait comment panser votre cœur brisé et vous guérir. Faites confiance à sa promesse que le soleil se lèvera à nouveau pour vous et que demain sera meilleur qu’aujourd’hui.",
+          "words": 77
+        },
+        {
+          "text": "J’ai appris cela plus pleinement lors d’une période difficile de ma vie. Au début de mon service en tant que jeune président de pieu, alors que ma femme, Busi, et moi élevions nos enfants, j’avais l’impression que les difficultés se succédaient. Nous venions d’enterrer ma mère. Deux semaines plus tard, nous nous sommes de nouveau réunis au bord d’une tombe, cette fois avec mon conseiller, qui pleurait son fils adolescent. Je trouvais la pression professionnelle écrasante et j’ai commencé à me demander si j’étais à la hauteur, dans mon foyer, au travail et aux yeux du Seigneur.",
+          "words": 97,
+          "personal": true
+        },
+        {
+          "text": "La meilleure expression de mes prières se trouvait dans le chant de la Primaire qui dit : « Père céleste, es-tu vraiment là ? Et entends-tu prier les enfants chaque fois ? »",
+          "words": 33
+        },
+        {
+          "text": "La réponse m’est venue d’une manière inattendue.",
+          "words": 7
+        },
+        {
+          "text": "Un dimanche, alors que je me rendais en voiture à une conférence de paroisse, j’ai épanché mon cœur au Seigneur. Quand je suis arrivé à l’église, un garçon de la Primaire aux yeux brillants m’a arrêté et m’a dit : « Il faut qu’on se parle. » L’air très sérieux, il a demandé, presque sur un ton de réprimande : « Quand allez-vous arrêter d’être un vilain garçon ? » Je savais que j’allais avoir des ennuis. Avant que je puisse répondre, il a ajouté : « Tous les matins et tous les soirs, mes parents nous demandent de prier pour vous. »",
+          "words": 103,
+          "personal": true
+        },
+        {
+          "text": "Je ne pourrai jamais décrire pleinement ce que j’ai ressenti pendant que je me tenais là. Je sentais que l’on me voyait. Je sentais que l’on m’aimait. Je sentais que l’on me connaissait. Je sentais que je n’étais pas seul. Et alors que je regardais cet enfant dans les yeux, j’ai ressenti la chaleur de l’amour du Sauveur.",
+          "words": 58,
+          "personal": true
+        },
+        {
+          "text": "Pour le Sauveur, nous ne sommes jamais perdus dans la foule. Il sait comment nous toucher : par un cantique, par un sourire, par un mot gentil et parfois par l’intermédiaire de personnes auxquelles on s’attend le moins. Tout comme cette famille a prié pour moi, de même quelqu’un prie pour vous.",
+          "words": 52
+        },
+        {
+          "text": "N’oubliez pas que votre douleur n’est pas un signe que Dieu ne vous aime pas. Il vous aime vraiment. Donc, comme D. Todd Christofferson l’a enseigné : « Au milieu du feu du fondeur, au lieu de nous mettre en colère contre Dieu, approchons-nous de lui. »",
+          "words": 47
+        }
+      ]
+    },
+    {
+      "heading": "Nous sommes invités à marcher avec lui",
+      "paragraphs": [
+        {
+          "text": "En réalité, non seulement le Sauveur vous connaît, mais il veut aussi que vous parveniez à le connaître, lui et son Père. Dans sa grande prière d’intercession, il a déclaré : « La vie éternelle, c’est qu’ils te connaissent, toi, le seul vrai Dieu, et celui que tu as envoyé, Jésus-Christ. »",
+          "words": 52
+        },
+        {
+          "text": "Il est le bon Berger, qui nous conduit vers de verts pâturages et des eaux paisibles. Il est la lumière du monde, qui éclaire notre chemin afin que nous ne marchions pas dans les ténèbres.",
+          "words": 35
+        },
+        {
+          "text": "La question ne devrait jamais être : « Le Sauveur marchera-t-il avec moi ? » Il le fera. La vraie question est : « Marcherai-je avec lui ? »",
+          "words": 29
+        },
+        {
+          "text": "Lorsque nous choisissons de marcher avec Jésus-Christ, tout commence à changer. Il n’est plus une simple connaissance, mais un ami céleste de confiance. Je vous invite à choisir de vous souvenir de lui et à le suivre, pas avec désinvolture ni occasionnellement, mais délibérément et toujours. Puissions-nous devenir le genre de disciple qui remarque, tend la main et édifie, comme le Sauveur l’a fait.",
+          "words": 64,
+          "closing": "invitation"
+        },
+        {
+          "text": "Je témoigne qu’en écoutant sa voix dans les Écritures, en suivant les enseignements des prophètes et des apôtres vivants, en nous repentant quotidiennement et en obéissant à son invitation à le suivre, nous trouverons la paix dans ce monde toujours plus tumultueux.",
+          "words": 42,
+          "closing": "testimony"
+        },
+        {
+          "text": "Nous ressentirons son Esprit et la joie, même dans les moments les plus éprouvants. Nous trouverons la force de lui faire confiance et d’avoir foi en ses promesses d’un avenir meilleur.",
+          "words": 31
+        },
+        {
+          "text": "« Se sortir d’une situation difficile » est plus qu’un nom de famille pour moi. C’est le témoignage d’une réalité éternelle : par la foi en Jésus-Christ et en prenant son nom sur nous grâce aux alliances contractées lors du baptême, de la Sainte-Cène et dans sa sainte maison, nous avons accès à son pouvoir habilitant, un pouvoir qui peut changer et qui changera notre vie. Je sais que selon son calendrier et à sa manière, il y a toujours un moyen d’aller de l’avant. Parce que non seulement il connaît le chemin, mais il est le chemin.",
+          "words": 98,
+          "personal": true,
+          "closing": "testimony"
+        },
+        {
+          "text": "Que votre nom représente la première génération de membre de l’Église ou un héritage de foi sur plusieurs générations, le seul nom que nous recevons qui est capable de façonner notre éternité est le nom sacré de Jésus-Christ. Nous honorons ceux qui nous ont précédés, mais par-dessus tout, nous honorons Jésus-Christ, car en son nom et par le biais de nos alliances, nous sommes liés à notre identité divine.",
+          "words": 69
+        },
+        {
+          "text": "Je témoigne que Jésus-Christ a rétabli son Église, à savoir l’Église de Jésus-Christ des saints des derniers jours. Elle porte son nom et contient la plénitude de son Évangile et les ordonnances et les alliances qui nous lient à lui. Je témoigne que Jésus est le Christ, le Prince de la paix. Il renouvellera notre force et nous apportera la joie, car il vient avec la guérison sous ses ailes. Il nous tend la main encore et encore parce qu’il désire nous ramener à notre foyer céleste, un par un, en nous appelant par notre nom. Au nom sacré de Jésus-Christ. Amen.",
+          "words": 102,
+          "personal": true,
+          "closing": "testimony"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [
+      {
+        "text": "Lorsque nous choisissons de marcher avec Jésus-Christ, tout commence à changer. Il n’est plus une simple connaissance, mais un ami céleste de confiance. Je vous invite à choisir de vous souvenir de lui et à le suivre, pas avec désinvolture ni occasionnellement, mais délibérément et toujours. Puissions-nous devenir le genre de disciple qui remarque, tend la main et édifie, comme le Sauveur l’a fait.",
+        "scriptures": []
+      }
+    ],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je témoigne qu’en écoutant sa voix dans les Écritures, en suivant les enseignements des prophètes et des apôtres vivants, en nous repentant quotidiennement et en obéissant à son invitation à le suivre, nous trouverons la paix dans ce monde toujours plus tumultueux.",
+        "scriptures": []
+      },
+      {
+        "text": "« Se sortir d’une situation difficile » est plus qu’un nom de famille pour moi. C’est le témoignage d’une réalité éternelle : par la foi en Jésus-Christ et en prenant son nom sur nous grâce aux alliances contractées lors du baptême, de la Sainte-Cène et dans sa sainte maison, nous avons accès à son pouvoir habilitant, un pouvoir qui peut changer et qui changera notre vie. Je sais que selon son calendrier et à sa manière, il y a toujours un moyen d’aller de l’avant. Parce que non seulement il connaît le chemin, mais il est le chemin.",
+        "scriptures": []
+      },
+      {
+        "text": "Je témoigne que Jésus-Christ a rétabli son Église, à savoir l’Église de Jésus-Christ des saints des derniers jours. Elle porte son nom et contient la plénitude de son Évangile et les ordonnances et les alliances qui nous lient à lui. Je témoigne que Jésus est le Christ, le Prince de la paix. Il renouvellera notre force et nous apportera la joie, car il vient avec la guérison sous ses ailes. Il nous tend la main encore et encore parce qu’il désire nous ramener à notre foyer céleste, un par un, en nous appelant par notre nom. Au nom sacré de Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ]
+  }
 }

@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-ortega",
   "lang": "fr",
   "speaker": "Eduardo F. Ortega",
@@ -34,12 +35,6 @@
       "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
     },
     {
-      "text": "L’invitation à chercher, à connaître, à agir, puis à persévérer sur le chemin des alliances est la même pour chacun de nous, que l’Évangile soit dans notre famille depuis des générations ou que nous ayons été baptisés la semaine dernière. Et nous la recevons individuellement lorsque nous la recherchons diligemment et que nous sommes « nourris de la bonne parole de Dieu, pour [nous] garder dans la voie droite, pour [nous] garder continuellement attentifs à la prière, [nous] reposant uniquement sur les mérites du Christ, qui [est] l’auteur et le consommateur de [notre] foi ».",
-      "speaker": "Eduardo F. Ortega",
-      "talk": "Le Christ, l’auteur et le consommateur de notre foi",
-      "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
-    },
-    {
       "text": "Le prophète Néphi a enseigné : « C’est pourquoi, vous devez marcher résolument, avec constance dans le Christ, ayant une espérance d’une pureté parfaite et l’amour de Dieu et de tous les hommes ; c’est pourquoi, si vous marchez résolument, vous faisant un festin de la parole du Christ, et persévérez jusqu’à la fin, voici, ainsi dit le Père : Vous aurez la vie éternelle. »",
       "speaker": "Eduardo F. Ortega",
       "talk": "Le Christ, l’auteur et le consommateur de notre foi",
@@ -58,5 +53,105 @@
       "session": "Session du samedi après-midi, Conférence générale d’avril 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "Certains pensent peut-être que la foi est héréditaire. Cependant, la véritable vie de disciple commence toujours par une décision personnelle.",
+          "words": 20
+        },
+        {
+          "text": "Quand je suis arrivé aux États-Unis l’année dernière, l’une des choses qui m’a le plus marqué a été de voir la force spirituelle de nombreux saints fidèles, des familles de descendants des pionniers de l’Église sur plusieurs générations, qui continuent de marcher sur le chemin des alliances. Le plus inspirant, c’est que leur fidélité ne dépend pas seulement de leur héritage spirituel, mais aussi de leur décision personnelle de suivre le Sauveur.",
+          "words": 72,
+          "personal": true
+        },
+        {
+          "text": "Notre héritage familial est une grande bénédiction, mais cela ne remplace pas notre recherche diligente et délibérée pour acquérir un témoignage personnel du Seigneur Jésus-Christ et des vérités de son Évangile rétabli.",
+          "words": 32
+        },
+        {
+          "text": "Notre héritage familial et nos traditions sont d’une aide inestimable, mais elles ne sont pas suffisantes pour nous permettre de bâtir sur le roc de notre Sauveur.",
+          "words": 27
+        },
+        {
+          "text": "Le Seigneur a enseigné ce principe lorsqu’il a dit à Pierre : « Tu es heureux, Simon, fils de Jonas ; car ce ne sont pas la chair et le sang qui t’ont révélé cela, mais c’est mon Père qui est dans les cieux. »",
+          "words": 45
+        },
+        {
+          "text": "Nous recevons un témoignage personnel en réponse à notre quête sincère et diligente pour savoir par nous-mêmes, et à notre détermination à agir en fonction des impressions et de la connaissance reçues. Ce modèle se répète dans de nombreuses familles membres fidèles de l’Église de Jésus-Christ des saints des derniers jours à travers le monde.",
+          "words": 55
+        },
+        {
+          "text": "Ma famille n’est pas une exception. Ma grand-mère Mercedes était la pionnière de notre famille. Elle est devenue membre de l’Église en août 1957 à Mendoza en Argentine, trente-deux ans après la consécration de l’Amérique du Sud à la prédication de l’Évangile. Mon père, qui est ici avec nous aujourd’hui, n’avait que six ans.",
+          "words": 54,
+          "personal": true
+        },
+        {
+          "text": "Je suis profondément reconnaissant de la foi et du courage dont ma grand-mère a fait preuve en suivant l’exemple du Sauveur, bien que sa situation n’ait pas été parfaite ou idéale. Sa décision a été une source de bénédictions non seulement pour elle, mais aussi pour beaucoup d’entre nous.",
+          "words": 49,
+          "personal": true
+        },
+        {
+          "text": "J’ai grandi dans un foyer où nous vivions activement les enseignements de notre Sauveur, Jésus-Christ, et participions aux réunions et aux programmes de l’Église. Mais cela ne suffisait pas : j’avais besoin d’avoir un témoignage personnel. Ce n’est que lorsque j’étais jeune missionnaire en Colombie que j’ai obtenu un témoignage personnel et indéniable de Jésus-Christ et de son Évangile, « jusqu’à faire l’expérience de [ses] paroles », tout en m’efforçant « d’inviter [et d’aider] les autres à venir au Christ ».",
+          "words": 81,
+          "personal": true
+        },
+        {
+          "text": "Au fil des ans, j’ai vu la main du Seigneur et son Évangile agir en moi pour me perfectionner et me rafiner quand j’ai placé ma confiance en lui et que je me suis efforcé de « marcher résolument avec constance ».",
+          "words": 42,
+          "personal": true
+        },
+        {
+          "text": "J’aimerais maintenant m’adresser à ceux qui sont récemment devenus membres de l’Église. Nous sommes très heureux et nous nous réjouissons de votre décision de suivre le Sauveur. Nous voulons que vous vous sentiez les bienvenus dans cette grande famille en tant que frères et sœurs, et enfants d’un Père céleste aimant. Le fait que vous soyez ici atteste que vous êtes venus « par la parole du Christ, avec une foi ferme en lui, vous reposant entièrement sur les mérites de celui qui est puissant à sauver ».",
+          "words": 88,
+          "personal": true
+        },
+        {
+          "text": "Quand je pense à vous, je me souviens de ma grand-mère Mercedes. Vous avez peut-être l’impression que votre situation n’est pas parfaite ou idéale, tout comme elle ne l’était pas pour ma grand-mère. Mais il y a de l’espoir en Christ et en son Évangile rétabli. Vous pouvez devenir pour vos familles et vos descendants ce qu’elle était pour nous.",
+          "words": 60,
+          "personal": true
+        },
+        {
+          "text": "En plus des changements que vous avez peut-être déjà connus dans votre vie et votre cœur, vous avez un chemin à parcourir pour « marcher résolument, avec constance dans le Christ » tandis que vous persévérez sur le chemin des alliances. Ce faisant, vous aurez peut-être la même expérience que moi ; parfois, j’ai besoin du recul du temps pour voir la main de notre Sauveur, Jésus-Christ, qui raffine et perfectionne ma vie et celle de ma famille.",
+          "words": 78,
+          "personal": true
+        },
+        {
+          "text": "L’invitation à chercher, à connaître, à agir, puis à persévérer sur le chemin des alliances est la même pour chacun de nous, que l’Évangile soit dans notre famille depuis des générations ou que nous ayons été baptisés la semaine dernière. Et nous la recevons individuellement lorsque nous la recherchons diligemment et que nous sommes « nourris de la bonne parole de Dieu, pour [nous] garder dans la voie droite, pour [nous] garder continuellement attentifs à la prière, [nous] reposant uniquement sur les mérites du Christ, qui [est] l’auteur et le consommateur de [notre] foi ».",
+          "words": 95,
+          "personal": true
+        },
+        {
+          "text": "Le prophète Néphi a enseigné : « C’est pourquoi, vous devez marcher résolument, avec constance dans le Christ, ayant une espérance d’une pureté parfaite et l’amour de Dieu et de tous les hommes ; c’est pourquoi, si vous marchez résolument, vous faisant un festin de la parole du Christ, et persévérez jusqu’à la fin, voici, ainsi dit le Père : Vous aurez la vie éternelle. »",
+          "words": 66
+        },
+        {
+          "text": "Devenir un disciple du Christ à vie est un processus : c’est la somme de multiples petits événements personnels et spirituels quotidiens. Le président Dallin H. Oaks a enseigné : « Nous devons être patients […], même avec nous-mêmes. Surmonter le doute […] peut être un long processus, tout comme pour édifier la foi. »",
+          "words": 55
+        },
+        {
+          "text": "Le chemin du disciple ressemble souvent à l’ascension d’une montagne. Le chemin le plus court vers le sommet n’est pas toujours le plus approprié et souvent pas le plus sûr non plus. Ainsi, nous devons choisir le chemin ferme et sûr, même si c’est parfois le plus long et le plus exigeant. Jésus-Christ et son Évangile rétabli constituent ce chemin sûr qui nous conduit au véritable sommet.",
+          "words": 67
+        },
+        {
+          "text": "Je témoigne du pouvoir de Jésus-Christ, qui guérit, raffine et perfectionne. Je sais que Jésus-Christ vit, qu’il est ressuscité le troisième jour et que le tombeau vide est un symbole de sa victoire. Je témoigne qu’il est l’auteur et le consommateur de notre foi, au nom sacré de notre Sauveur, Jésus-Christ. Amen.",
+          "words": 52,
+          "personal": true,
+          "closing": "testimony"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je témoigne du pouvoir de Jésus-Christ, qui guérit, raffine et perfectionne. Je sais que Jésus-Christ vit, qu’il est ressuscité le troisième jour et que le tombeau vide est un symbole de sa victoire. Je témoigne qu’il est l’auteur et le consommateur de notre foi, au nom sacré de notre Sauveur, Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ]
+  }
 }

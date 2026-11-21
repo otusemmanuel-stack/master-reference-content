@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-10-douglas",
   "lang": "fr",
   "speaker": "Sean Douglas",
@@ -38,12 +39,6 @@
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     },
     {
-      "text": "Sœur Douglas et moi avons été dirigeants de mission à Lima (Pérou). L’un de nos formidables missionnaires s’appelait Merlin Sanchez. Merlin s’est fait baptiser alors qu’il avait près de vingt-quatre ans. Comme cela arrive à certains, il a cessé d’être pratiquant pendant un temps. Alors que Merlin n’avait pas encore pris la décision de faire une mission, un ami fidèle l’a encouragé à remplir un dossier missionnaire et à prendre rendez-vous pour un examen médical.",
-      "speaker": "Sean Douglas",
-      "talk": "L’heure de votre mission est arrivée",
-      "session": "Session du samedi matin, Conférence générale d’octobre 2026"
-    },
-    {
       "text": "Avec l’aide de ses amis et de ses dirigeants, Merlin est revenu à l’Église à l’âge de vingt-cinq ans. Le désir de faire une mission s’est soudainement emparé de son cœur. Heureusement, son dossier missionnaire était déjà bien avancé. Une fois sa décision prise, le Seigneur a miraculeusement écarté, un à un, des obstacles qui semblaient insurmontables. Lorsque je lui ai demandé pourquoi il souhaitait partir en mission, il a répondu : « Je veux simplement être proche de Jésus-Christ et le suivre. »",
       "speaker": "Sean Douglas",
       "talk": "L’heure de votre mission est arrivée",
@@ -60,7 +55,125 @@
       "speaker": "Sean Douglas",
       "talk": "L’heure de votre mission est arrivée",
       "session": "Session du samedi matin, Conférence générale d’octobre 2026"
+    },
+    {
+      "text": "Aujourd’hui, Merlin et Gali ont une belle famille, avec trois enfants, et Merlin est président de pieu. Il leur est impossible d’imaginer ce qu’aurait été leur vie si Merlin n’avait pas fait de mission.",
+      "speaker": "Sean Douglas",
+      "talk": "L’heure de votre mission est arrivée",
+      "session": "Session du samedi matin, Conférence générale d’octobre 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "En tant que membre de l’Épiscopat président, j’ai le privilège de servir au sein du conseil exécutif de l’œuvre missionnaire de l’Église. J’éprouve un amour profond pour les missionnaires de l’Église. Ils sont mis à part du monde d’une manière unique et ont reçu du Sauveur une mission divine. Comme l’a enseigné Dallin H. Oaks : « Nous invitons [tous les enfants de Dieu] à venir au Christ par le repentir, le baptême et la confirmation pour ouvrir les portes du royaume céleste aux fils et aux filles de Dieu. Personne d’autre ne peut le faire. » Les missionnaires sont appelés à participer à cette grande œuvre.",
+          "words": 107,
+          "personal": true
+        },
+        {
+          "text": "Aujourd’hui, il y a plus de missionnaires qui servent dans plus de missions et plus d’enfants de Dieu qui choisissent d’entrer dans l’Église du Seigneur par le baptême qu’à aucune autre époque de cette dispensation.",
+          "words": 35
+        },
+        {
+          "text": "Nous aimons les missionnaires de tous âges. Vous formez une armée de justice dont l’objectif est de répandre la doctrine du Christ. Vous incarnez une force de foi, de pouvoir, d’amour et de joie. Vous vivez ce que vous prêchez. Vous êtes non seulement des messagers, mais aussi des exemples vivants du message. N’en doutez pas : vous accomplissez l’œuvre la plus importante que vous puissiez accomplir. Nous vous remercions d’édifier le royaume de Dieu sur la terre.",
+          "words": 78
+        },
+        {
+          "text": "Il y a quelques mois, j’ai assisté à une réunion de Sainte-Cène au cours de laquelle mes deux petits-neveux, qui sont frères, ont pris la parole avant de partir en mission. Ils rayonnaient d’enthousiasme et avaient hâte de commencer. Peut-être était-ce parce que leurs affectations les conduiraient à des milliers de kilomètres de chez eux, aux deux extrémités de la terre. Mais, en vérité, leur désir de servir le Seigneur était indéniable.",
+          "words": 72,
+          "personal": true
+        },
+        {
+          "text": "Ils m’ont rappelé les fils de Mosiah dans le Livre de Mormon, qui « désiraient que le salut [soit] annoncé à toute la création, car ils ne pouvaient pas supporter qu’une seule âme humaine [périsse] ».",
+          "words": 36
+        },
+        {
+          "text": "Leur désir de servir le Seigneur l’emportait sur toute autre ambition personnelle. C’est ce qui rend les missionnaires si uniques ; c’est ce qui leur permet de rayonner de la lumière du Christ et d’enseigner avec une force convaincante. Pendant cette période, tout le reste passe au second plan : les études, les sorties en couple, la vie professionnelle, le temps passé en famille et même les grasses matinées du samedi matin. Oui, le Seigneur attend beaucoup de vous ! Mais, comme cela en vaut la peine ! Russell M. Nelson a enseigné : « Rien d’autre n’est comparable en magnitude, rien d’autre n’est comparable en importance, rien d’autre n’est comparable en majesté. »",
+          "words": 114
+        },
+        {
+          "text": "Dieu vous a gardés en réserve pour cette époque. Avant même votre naissance, vous avez été instruits et préparés à inviter les enfants de Dieu à venir au Christ. On peut dire que cela fait partie de votre ADN spirituel. Veillez à ne pas vous laisser distraire. Donnez la priorité à votre objectif ; ne laissez rien vous en détourner. On a besoin de vous !",
+          "words": 66
+        },
+        {
+          "text": "Sœur Douglas et moi avons été dirigeants de mission à Lima (Pérou). L’un de nos formidables missionnaires s’appelait Merlin Sanchez. Merlin s’est fait baptiser alors qu’il avait près de vingt-quatre ans. Comme cela arrive à certains, il a cessé d’être pratiquant pendant un temps. Alors que Merlin n’avait pas encore pris la décision de faire une mission, un ami fidèle l’a encouragé à remplir un dossier missionnaire et à prendre rendez-vous pour un examen médical.",
+          "words": 75,
+          "personal": true
+        },
+        {
+          "text": "Avec l’aide de ses amis et de ses dirigeants, Merlin est revenu à l’Église à l’âge de vingt-cinq ans. Le désir de faire une mission s’est soudainement emparé de son cœur. Heureusement, son dossier missionnaire était déjà bien avancé. Une fois sa décision prise, le Seigneur a miraculeusement écarté, un à un, des obstacles qui semblaient insurmontables. Lorsque je lui ai demandé pourquoi il souhaitait partir en mission, il a répondu : « Je veux simplement être proche de Jésus-Christ et le suivre. »",
+          "words": 84
+        },
+        {
+          "text": "Merlin est devenu un excellent missionnaire, converti à Jésus-Christ et à sa doctrine. Chacune de ses expériences, de ses épreuves et de ses interactions avec ses collègues ont été consacrées à son avantage. Fait intéressant, Elder Sanchez a servi deux fois avec le même collègue, pour un total de huit mois. Bien que très différents par leur personnalité, ils sont devenus unis dans leur objectif, ayant été affectés à servir ensemble selon un dessein divin.",
+          "words": 75
+        },
+        {
+          "text": "Merlin a rencontré son épouse, Gali, quelques mois seulement après sa mission. Le jour de leur mariage, il a été appelé comme évêque : quel cadeau de mariage ! Rien n’a pu interrompre son parcours de disciple ni affaiblir sa foi. Après tout, la mission n’est qu’une des nombreuses étapes importantes sur le chemin d’un disciple à vie.",
+          "words": 58
+        },
+        {
+          "text": "Aujourd’hui, Merlin et Gali ont une belle famille, avec trois enfants, et Merlin est président de pieu. Il leur est impossible d’imaginer ce qu’aurait été leur vie si Merlin n’avait pas fait de mission.",
+          "words": 34
+        },
+        {
+          "text": "À vous, merveilleux jeunes convertis de l’Église, vous n’aviez peut-être pas envisagé de faire une mission, mais je vous invite maintenant à le faire. À toute la génération montante de l’Église, je lance l’invitation de placer la mission à plein temps en tête de vos priorités. Ne vous laissez pas séduire par des alternatives de bien moindre valeur. Certains pourraient avoir la même expérience qu’Amulek, dans le Livre de Mormon, qui a déclaré : « Car j’ai été appelé de nombreuses fois et je n’ai pas voulu entendre. »",
+          "words": 89,
+          "personal": true
+        },
+        {
+          "text": "Les prophètes de Dieu réaffirment aujourd’hui avec force : « Le Seigneur a demandé à chaque jeune homme digne et apte, de se préparer pour une mission, et d’en faire une. Pour [vous], le service missionnaire est une responsabilité de la prêtrise. […] Pour vous, sœurs jeunes et capables, une mission est aussi une possibilité puissante, mais facultative. […] Priez pour savoir si le Seigneur désire que vous fassiez une mission. »",
+          "words": 72
+        },
+        {
+          "text": "Nous nous réjouissons énormément de votre réponse fidèle à l’appel à l’action lancé par le prophète. Un nombre record de missionnaires de tous âges éprouvent une grande joie en se consacrant humblement au service du Seigneur et en œuvrant parmi les enfants de notre Père céleste. De tout cœur, je tiens à ajouter qu’il y a encore beaucoup de place dans les rangs missionnaires et qu’un rôle spécial est réservé à chacun d’entre vous ! Nous avons besoin de vous ! « [Rejoignez] les rangs ! »",
+          "words": 87,
+          "personal": true
+        },
+        {
+          "text": "Votre témoignage de Jésus-Christ et de son expiation sera une source de bénédictions pour un monde qui souffre, parce qu’il ne connaît pas la mission divine du Sauveur. Je prie pour que vous fassiez vôtre la grande mission que le Sauveur nous a confiée.",
+          "words": 44
+        },
+        {
+          "text": "Je terminerai par les paroles de notre Sauveur transmises par l’intermédiaire de Joseph Smith à Thomas B. Marsh, qui avait été appelé à prêcher l’Évangile en 1830. Je vous invite chacun à remplacer le nom de Thomas par le vôtre :",
+          "words": 41,
+          "personal": true
+        },
+        {
+          "text": "« Thomas, mon fils [ou ma fille],",
+          "words": 7,
+          "personal": true
+        },
+        {
+          "text": "« Élève ton cœur et réjouis-toi, car l’heure de ta mission est venue ; ta langue sera déliée, et tu annonceras la bonne nouvelle d’une grande joie à cette génération. […]",
+          "words": 31
+        },
+        {
+          "text": "« C’est pourquoi, lance ta faucille de toute ton âme, et tes péchés te sont pardonnés, et ton dos sera chargé de gerbes. […] C’est pourquoi ta famille vivra.",
+          "words": 29
+        },
+        {
+          "text": "« Voici, […] ne la quitte que pour un peu de temps, et annonce ma parole, et je préparerai un lieu pour elle. […]",
+          "words": 24,
+          "personal": true
+        },
+        {
+          "text": "« J’ouvrirai le cœur des gens, et ils te recevront. Et j’établirai une Église par ta main. »",
+          "words": 18
+        },
+        {
+          "text": "Au nom de Jésus-Christ. Amen.",
+          "words": 5
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": []
+  }
 }

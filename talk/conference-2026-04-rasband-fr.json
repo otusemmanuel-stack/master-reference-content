@@ -1,4 +1,5 @@
 {
+  "format": 2,
   "id": "2026-04-rasband",
   "lang": "fr",
   "speaker": "Ronald A. Rasband",
@@ -46,12 +47,6 @@
       "session": "Session du dimanche matin, Conférence générale d’avril 2026"
     },
     {
-      "text": "Jésus-Christ est plus qu’un simple mortel né dans une étable, plus qu’un ami, un instructeur, un rabbin, un ministre ou un prophète. Il est le Fils unique du Père. Par dessein divin, sa résurrection, réalisée par son propre pouvoir divin, a réuni son corps et son esprit. Quel acte monumental et majestueux dans le plan éternel de notre Père céleste !",
-      "speaker": "Ronald A. Rasband",
-      "talk": "Il est ressuscité",
-      "session": "Session du dimanche matin, Conférence générale d’avril 2026"
-    },
-    {
       "text": "Le Christ ressuscité est d’abord apparu à Marie et, avec tendresse, a prononcé son nom. Il est apparu à ses apôtres et leur a dit : « Touchez-moi et voyez : un esprit n’a ni chair ni os, comme vous voyez que j’ai. » Il a marché sur le chemin d’Emmaüs avec deux de ses disciples qui lui ont demandé avec supplication : « Reste avec nous. » Le Seigneur ressuscité, « Infini et Éternel », est apparu à des centaines de personnes en Terre sainte.",
       "speaker": "Ronald A. Rasband",
       "talk": "Il est ressuscité",
@@ -62,7 +57,134 @@
       "speaker": "Ronald A. Rasband",
       "talk": "Il est ressuscité",
       "session": "Session du dimanche matin, Conférence générale d’avril 2026"
+    },
+    {
+      "text": "« Et voici ils virent un Homme descendre du ciel ; et il était vêtu d’une robe blanche ; et il descendit et se tint au milieu d’eux. » Et « il étendit la main ». J’aime cette image du Seigneur étendant la main. Il déclara : « Voici, je suis Jésus-Christ, dont les prophètes ont témoigné qu’il viendrait au monde. »",
+      "speaker": "Ronald A. Rasband",
+      "talk": "Il est ressuscité",
+      "session": "Session du dimanche matin, Conférence générale d’avril 2026"
     }
   ],
-  "scriptures": []
+  "scriptures": [],
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        {
+          "text": "En ce dimanche de Pâques, nous tous chrétiens, frères et sœurs dans le Seigneur, honorons et célébrons la résurrection de notre Rédempteur, Jésus-Christ. Sa résurrection et son expiation constituent les événements les plus puissants, les plus déterminants et les plus sacrés de toute l’histoire humaine.",
+          "words": 45
+        },
+        {
+          "text": "Jésus-Christ et sa résurrection sont au cœur même de la doctrine de l’Église de Jésus-Christ des saints des derniers jours. Joseph Smith, le premier prophète du Rétablissement, qui a vu Dieu le Père et son Fils bien-aimé, et s’est entretenu avec eux, a enseigné : « Les principes fondamentaux de notre religion sont le témoignage des apôtres et des prophètes concernant Jésus-Christ, qu’il est mort, a été enseveli et est ressuscité le troisième jour, et est monté au ciel. » En tant qu’apôtre appelé de Jésus-Christ, je témoigne de cette vérité au monde entier.",
+          "words": 94,
+          "personal": true
+        },
+        {
+          "text": "Jésus-Christ est le « Dieu d’Abraham, d’Isaac et de Jacob », le « Dieu tout-puissant » de l’Ancien Testament, la « Lumière du monde » du Nouveau Testament, le « Messie » et le « Sauveur du monde » du Livre de Mormon et d’autres révélations modernes. Il est venu sur terre, a été crucifié et est ressuscité.",
+          "words": 58
+        },
+        {
+          "text": "Après avoir passé trois jours dans un tombeau d’emprunt, Jésus-Christ a rompu les liens de la mort imposés par la Chute. Par sa résurrection, il a sauvé de la mort physique tous les enfants de Dieu à travers les âges. Cela inclut les justes qui le proclament comme étant le Fils de Dieu, et les injustes qui le reconnaîtront un jour comme le « roi des rois », car il est prophétisé : « tout genou fléchira, et toute langue confessera » que Jésus est le Christ.",
+          "words": 87
+        },
+        {
+          "text": "Lorsque Marie et d’autres femmes fidèles se sont rendues au jardin du tombeau pour prendre soin du corps de leur Seigneur, elles ont trouvé deux anges qui leur ont annoncé : « Il n’est pas ici, mais il est ressuscité. »",
+          "words": 41
+        },
+        {
+          "text": "Ces paroles glorieuses, « il est ressuscité », sont, depuis des siècles, à l’origine de célébrations religieuses, de sentiments de gratitude, et de foi en Jésus-Christ et en ses promesses. Dallin H. Oaks, président de l’Église, a enseigné : « La résurrection est un pilier de notre foi. Elle donne un sens à notre doctrine, motive notre comportement et nous apporte de l’espoir pour l’avenir. »",
+          "words": 66
+        },
+        {
+          "text": "Jésus-Christ est plus qu’un simple mortel né dans une étable, plus qu’un ami, un instructeur, un rabbin, un ministre ou un prophète. Il est le Fils unique du Père. Par dessein divin, sa résurrection, réalisée par son propre pouvoir divin, a réuni son corps et son esprit. Quel acte monumental et majestueux dans le plan éternel de notre Père céleste !",
+          "words": 61,
+          "personal": true
+        },
+        {
+          "text": "Le Christ ressuscité est d’abord apparu à Marie et, avec tendresse, a prononcé son nom. Il est apparu à ses apôtres et leur a dit : « Touchez-moi et voyez : un esprit n’a ni chair ni os, comme vous voyez que j’ai. » Il a marché sur le chemin d’Emmaüs avec deux de ses disciples qui lui ont demandé avec supplication : « Reste avec nous. » Le Seigneur ressuscité, « Infini et Éternel », est apparu à des centaines de personnes en Terre sainte.",
+          "words": 86
+        },
+        {
+          "text": "Les récits du Livre de Mormon, un autre témoignage de Jésus-Christ, témoignent également de sa résurrection. Lors d’un rassemblement dans un temple du Nouveau Monde, au pays d’Abondance, une voix venue des cieux s’est fait entendre, disant : « Voici mon Fils bien-aimé, en qui je me complais, en qui j’ai glorifié mon nom : écoutez-le. »",
+          "words": 57
+        },
+        {
+          "text": "« Et voici ils virent un Homme descendre du ciel ; et il était vêtu d’une robe blanche ; et il descendit et se tint au milieu d’eux. » Et « il étendit la main ». J’aime cette image du Seigneur étendant la main. Il déclara : « Voici, je suis Jésus-Christ, dont les prophètes ont témoigné qu’il viendrait au monde. »",
+          "words": 62
+        },
+        {
+          "text": "Cette main tendue était bien connue durant son ministère terrestre. C’est sa main qui a sauvé Pierre alors qu’il commençait à sombrer dans les vagues agitées de la mer de Galilée. C’est sa main qui a fait signe à l’homme infirme près de la piscine de Bethesda de se lever et de marcher. Ce sont ses mains qui ont lavé les pieds de ses disciples, et ce sont ses mains qui ont pris du pain, et, ayant rendu grâces, l’ont rompu, instituant ainsi la Sainte-Cène en souvenir de lui. Il a promis au prophète Ésaïe : « Ne crains rien car je suis avec toi, […] car je suis ton Dieu. […] Je te soutiens de ma droite triomphante. » Cette promesse vaut pour chacun de nous.",
+          "words": 127
+        },
+        {
+          "text": "Après sa résurrection, il s’est tenu devant les Néphites et leur a dit : « Levez-vous et venez à moi, afin de mettre la main dans mon côté, et aussi afin de toucher la marque des clous dans mes mains et dans mes pieds, afin que vous sachiez que je suis le Dieu d’Israël et le Dieu de toute la terre, et que j’ai été mis à mort pour les péchés du monde. »",
+          "words": 74
+        },
+        {
+          "text": "La multitude de deux mille cinq cents âmes s’est avancée « jusqu’à ce qu’ils […] eussent vu de leurs yeux, et touché de leurs mains, et connussent avec certitude et eussent témoigné qu’il était celui [qui] viendrait ».",
+          "words": 38
+        },
+        {
+          "text": "Le Sauveur a invité le peuple à lui amener les petits enfants. Et les prenant un par un, « il les bénit, et pria le Père pour eux ».",
+          "words": 29
+        },
+        {
+          "text": "Cette scène où, ressuscité, il tend ses mains autrefois clouées à une croix, me touche profondément.",
+          "words": 16
+        },
+        {
+          "text": "Il y a quelques années, lors d’une conférence générale, j’ai parlé de notre petit-fils Paxton, qui est né avec une délétion chromosomique très rare. Ses parents l’auraient porté vers le Sauveur s’ils avaient été présents lorsqu’il a appelé tous les « affligés de toute autre manière » à venir afin qu’il les guérisse.",
+          "words": 53,
+          "personal": true
+        },
+        {
+          "text": "Paxton a vécu trois années précieuses. Il ne pouvait ni parler, ni ramper, ni marcher ni courir après ses frères, mais le petit Paxton tendait les mains vers nous et vers notre Sauveur avec amour et affection.",
+          "words": 37
+        },
+        {
+          "text": "Je me souviens que, la première fois que le père de Paxton et moi lui avons donné une bénédiction de la prêtrise, j’ai ressenti que, comme le disent les Écritures, « les œuvres de Dieu [seraient] manifestées en lui ». Et c’est ce qui s’est produit. Il a apporté une immense joie à notre famille. Les familles qui comptent un membre aussi précieux savent quel privilège c’est d’avoir la chance d’accueillir parmi elles une personne ayant des besoins particuliers. En passant du temps avec Paxton, toute notre famille a acquis une confiance accrue, profonde et durable dans le Seigneur. Puis, Dieu a étendu la main et l’a rappelé à lui.",
+          "words": 110,
+          "personal": true
+        },
+        {
+          "text": "Les paroles du psalmiste résument bien cette expérience : « Le soir arrivent les pleurs, Et le matin l’allégresse. »",
+          "words": 20
+        },
+        {
+          "text": "Cette allégresse provient de la promesse du Sauveur : « Car je vis et vous vivrez aussi. »",
+          "words": 18
+        },
+        {
+          "text": "Je sais que le tendre esprit de Paxton et son corps « seront de nouveau réunis sous leur forme parfaite ». Par le pouvoir de l’expiation de Jésus-Christ, l’allégresse de Paxton consistera non seulement en un corps ressuscité, mais en un corps ressuscité saint et parfait. Tous ceux qui vivent ou ont jamais vécu, qui viennent au Christ et vivent conformément à son Évangile, éprouverons une réjouissance qui dépasse toute expression terrestre lorsqu’ils seront réunis, après la résurrection, à notre Père céleste et à Jésus-Christ, ainsi qu’à leurs parents, grands-parents, frères et sœurs, tantes, oncles, cousins et ancêtres.",
+          "words": 98,
+          "personal": true,
+          "closing": "testimony"
+        },
+        {
+          "text": "Soyons en paix, frères et sœurs, car le Seigneur a promis : « Là où je suis vous y [serez] aussi. » Croyons aux paroles du Seigneur dans Ésaïe : « Je t’ai grav[é] sur mes mains. » Témoignons de lui par la manière dont nous vivons et par ce que nous aimons. Ressentons au plus profond de notre âme ces paroles émouvantes : « Chantons tous pleins d’allégresse, Car il est ressuscité ! […] Que nos hymnes le proclament, Jésus est ressuscité ! »",
+          "words": 85
+        },
+        {
+          "text": "En ma qualité de témoin spécial du nom de Jésus-Christ, le Roi de gloire, le Messie triomphant, l’Étoile brillante du matin, et, en ce matin de Pâques, la Résurrection et la Vie, je rends témoignage de lui avec révérence et gratitude, au nom de Jésus-Christ. Amen.",
+          "words": 46,
+          "personal": true,
+          "closing": "testimony"
+        }
+      ]
+    }
+  ],
+  "closing": {
+    "invitation": [],
+    "blessing": [],
+    "testimony": [
+      {
+        "text": "Je sais que le tendre esprit de Paxton et son corps « seront de nouveau réunis sous leur forme parfaite ». Par le pouvoir de l’expiation de Jésus-Christ, l’allégresse de Paxton consistera non seulement en un corps ressuscité, mais en un corps ressuscité saint et parfait. Tous ceux qui vivent ou ont jamais vécu, qui viennent au Christ et vivent conformément à son Évangile, éprouverons une réjouissance qui dépasse toute expression terrestre lorsqu’ils seront réunis, après la résurrection, à notre Père céleste et à Jésus-Christ, ainsi qu’à leurs parents, grands-parents, frères et sœurs, tantes, oncles, cousins et ancêtres.",
+        "scriptures": []
+      },
+      {
+        "text": "En ma qualité de témoin spécial du nom de Jésus-Christ, le Roi de gloire, le Messie triomphant, l’Étoile brillante du matin, et, en ce matin de Pâques, la Résurrection et la Vie, je rends témoignage de lui avec révérence et gratitude, au nom de Jésus-Christ. Amen.",
+        "scriptures": []
+      }
+    ]
+  }
 }
