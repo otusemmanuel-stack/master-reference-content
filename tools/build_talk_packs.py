@@ -150,6 +150,8 @@ def tidy(text):
     text = re.sub(r"\s+", " ", text.replace("\u00a0", " ").replace("\u202f", " ")).strip()
     text = re.sub(r"\(\s+", "(", text)
     text = re.sub(r"\s+\)", ")", text)
+    text = re.sub(r"“\s+", "“", text)
+    text = re.sub(r"\s+”", "”", text)
     return text.replace(" ,", ",").replace(" .", ".").strip()
 
 
@@ -194,6 +196,7 @@ FAMILY = re.compile(
 
 def personal_story(p):
     own_words = QUOTED.sub(" ", p)  # words inside quotation marks belong to someone else
+    own_words = re.sub(r"\b(you|us|him|her|them) and (me|I)\b|\b(toi|vous) et moi\b", " ", own_words, flags=re.I)
     singular = len(FIRST_PERSON.findall(own_words))
     return (singular >= 2 or bool(SENSITIVE.search(p)) or bool(NARRATIVE.search(own_words))
             or bool(FAMILY.search(own_words)))
@@ -242,6 +245,40 @@ def pick_quotes(paragraphs, count=8):
     return chosen
 
 
+def merge_blocks(paras):
+    """Puts a quoted block back together ("President X taught:" and the lines he is quoted on),
+    and joins very short lines to the paragraph before them."""
+    out, i = [], 0
+    while i < len(paras):
+        cur = dict(paras[i])
+        i += 1
+        if cur["text"].endswith(":"):
+            while (i < len(paras) and paras[i]["text"][:1] in "“«\""
+                   and not cur["text"].endswith(("”", "»", "\""))):
+                cur = join_two(cur, paras[i])
+                i += 1
+        elif out and cur["words"] <= 12 and not out[-1]["text"].endswith(":"):
+            out[-1] = join_two(out[-1], cur)
+            continue
+        out.append(cur)
+    return out
+
+
+def join_two(a, b):
+    text = a["text"] + " " + b["text"]
+    joined = {"text": text, "words": len(text.split())}
+    refs, seen = [], set()
+    for r in a.get("scriptures", []) + b.get("scriptures", []):
+        if r["ref"] not in seen:
+            seen.add(r["ref"])
+            refs.append(r)
+    if refs:
+        joined["scriptures"] = refs[:4]
+    if a.get("personal") or b.get("personal"):
+        joined["personal"] = True
+    return joined
+
+
 def parse_sections(body, lang):
     """The whole talk, in order, grouped under the speaker's own headings.
     Every paragraph keeps its words, its word count and the scriptures it uses (with verse words).
@@ -274,6 +311,8 @@ def parse_sections(body, lang):
                 sections.append({"heading": heading, "paragraphs": []})
             else:
                 sections[-1]["heading"] = heading
+    for sec in sections:
+        sec["paragraphs"] = merge_blocks(sec["paragraphs"])
     return [sec for sec in sections if sec["paragraphs"]]
 
 
