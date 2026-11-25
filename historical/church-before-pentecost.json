@@ -1,5 +1,5 @@
 {
- "v": 6,
+ "v": 7,
  "en": {
   "title": "The Church before Pentecost",
   "intro": "Before He ascended, Jesus Christ had already ordained apostles, called the seventy and given Peter the keys. The Church had its order and authority.",
@@ -30,6 +30,10 @@
    {
     "label": "Matthew 16:18–19",
     "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 1",
+    "note": "The calling of the twelve and the seventy (paragraphs 13–15)"
    }
   ]
  },
@@ -63,6 +67,10 @@
    {
     "label": "Matthieu 16:18–19",
     "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 1",
+    "note": "L’appel des douze et des soixante-dix (paragraphes 13–15)"
    }
   ]
  }

@@ -1,5 +1,5 @@
 {
- "v": 7,
+ "v": 8,
  "en": {
   "title": "How worship changed",
   "intro": "The first Saints worshipped in spirit and in truth, and kept it simple. Over the next centuries, worship took on forms the apostles had not taught.",
@@ -26,6 +26,10 @@
    {
     "label": "Matthew 15:8–9",
     "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 8",
+    "note": "Changes in the form of worship (paragraphs 5–7)"
    }
   ]
  },
@@ -55,6 +59,10 @@
    {
     "label": "Matthieu 15:8–9",
     "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 8",
+    "note": "Changements dans la forme du culte (paragraphes 5–7)"
    }
   ]
  }

@@ -1,5 +1,5 @@
 {
- "v": 6,
+ "v": 7,
  "en": {
   "title": "Divisions were foretold",
   "intro": "Christ built one Church. The apostles warned that men would rise up and draw disciples away, and that divisions would follow.",
@@ -26,6 +26,10 @@
    {
     "label": "Ephesians 4:4–5",
     "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 2",
+    "note": "The apostasy predicted (paragraphs 26–28)"
    }
   ]
  },
@@ -55,6 +59,10 @@
    {
     "label": "Éphésiens 4:4–5",
     "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 2",
+    "note": "L’apostasie annoncée (paragraphes 26–28)"
    }
   ]
  }

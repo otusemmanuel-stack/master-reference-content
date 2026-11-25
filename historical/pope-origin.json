@@ -1,5 +1,5 @@
 {
- "v": 6,
+ "v": 7,
  "en": {
   "title": "How Rome came to lead",
   "intro": "In the first churches, no church ruled over the others. Over time, rank and councils grew, and the bishop of Rome claimed supremacy.",
@@ -26,6 +26,10 @@
    {
     "label": "Matthew 16:18–19",
     "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Early church government and the bishops of Rome (paragraphs 4–8)"
    }
   ]
  },
@@ -55,6 +59,10 @@
    {
     "label": "Matthieu 16:18–19",
     "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Le gouvernement de l’Église primitive et les évêques de Rome (paragraphes 4–8)"
    }
   ]
  }

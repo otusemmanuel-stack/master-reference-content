@@ -1,5 +1,5 @@
 {
- "v": 6,
+ "v": 7,
  "en": {
   "title": "Authority comes by call, not by choice",
   "intro": "No one takes priesthood authority on his own. God gives it through those who already hold it.",
@@ -26,6 +26,14 @@
    {
     "label": "Acts 8:18–21",
     "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 7",
+    "note": "Simon and the purchase of authority (paragraphs 1–2)"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The sequel of the apostasy (paragraphs 32–33)"
    }
   ]
  },
@@ -55,6 +63,14 @@
    {
     "label": "Actes 8:18–21",
     "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 7",
+    "note": "Simon et l’achat de l’autorité (paragraphes 1–2)"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La suite de l’apostasie (paragraphes 32–33)"
    }
   ]
  }

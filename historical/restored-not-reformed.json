@@ -1,5 +1,5 @@
 {
- "v": 6,
+ "v": 7,
  "en": {
   "title": "Restored, not reformed",
   "intro": "Reform can correct what exists. Authority that has been lost cannot be repaired by people. It has to be given again by God.",
@@ -26,6 +26,10 @@
    {
     "label": "Doctrine and Covenants 13",
     "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The sequel of the apostasy (paragraphs 30–32)"
    }
   ]
  },
@@ -55,6 +59,10 @@
    {
     "label": "Doctrine et Alliances 13",
     "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La suite de l’apostasie (paragraphes 30–32)"
    }
   ]
  }

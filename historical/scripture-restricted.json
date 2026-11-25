@@ -1,5 +1,5 @@
 {
- "v": 7,
+ "v": 8,
  "en": {
   "title": "Scripture kept from the people",
   "intro": "Rules were made that limited who could read and explain scripture. This describes a practice of the past, and not every church today.",
@@ -26,6 +26,14 @@
    {
     "label": "Acts 17:11",
     "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Restrictions on reading scripture (paragraphs 21)"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "John Wycliffe (paragraphs 3)"
    }
   ]
  },
@@ -55,6 +63,14 @@
    {
     "label": "Actes 17:11",
     "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Restrictions sur la lecture des Écritures (paragraphes 21)"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "John Wycliffe (paragraphes 3)"
    }
   ]
  }

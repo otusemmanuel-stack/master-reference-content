@@ -1,5 +1,5 @@
 {
- "v": 7,
+ "v": 8,
  "en": {
   "title": "What followed the apostasy",
   "intro": "When the apostles and prophets were gone, the Church lost its authority and much of its truth. Reformers later prepared the way, but authority had to be restored.",
@@ -26,6 +26,10 @@
    {
     "label": "Doctrine and Covenants 1:15",
     "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "Results of the apostasy and its sequel (paragraphs 1–6, 32)"
    }
   ]
  },
@@ -55,6 +59,10 @@
    {
     "label": "Doctrine et Alliances 1:15",
     "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "Résultats de l’apostasie et sa suite (paragraphes 1–6, 32)"
    }
   ]
  }

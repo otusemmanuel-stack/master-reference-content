@@ -1,5 +1,5 @@
 {
- "v": 6,
+ "v": 7,
  "en": {
   "title": "The answer that settled the question",
   "intro": "A boy’s question showed that the Church had to be restored with authority from heaven.",
@@ -26,6 +26,10 @@
    {
     "label": "Joseph Smith—History 1:18–19",
     "note": "Pearl of Great Price"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The sequel of the apostasy (paragraphs 31–32)"
    }
   ]
  },
@@ -55,6 +59,10 @@
    {
     "label": "Joseph Smith, Histoire 1:18–19",
     "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La suite de l’apostasie (paragraphes 31–32)"
    }
   ]
  }

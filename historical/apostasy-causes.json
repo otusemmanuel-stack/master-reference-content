@@ -1,5 +1,5 @@
 {
- "v": 6,
+ "v": 7,
  "en": {
   "title": "How the apostasy came",
   "intro": "God does not force people to stay faithful. The apostles warned that the Church would be pressed from outside and changed from within.",
@@ -26,6 +26,10 @@
    {
     "label": "2 Timothy 4:3–4",
     "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 4–9",
+    "note": "Causes of the apostasy, outside and within (paragraphs various)"
    }
   ]
  },
@@ -55,6 +59,10 @@
    {
     "label": "2 Timothée 4:3–4",
     "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 4–9",
+    "note": "Causes de l’apostasie, extérieures et intérieures (paragraphes various)"
    }
   ]
  }

@@ -1,8 +1,8 @@
 {
- "v": 6,
+ "v": 7,
  "en": {
   "title": "Reverence that grew into worship",
-  "intro": "Early Christians honored the martyrs. Over time, that respect grew into a devotion that became worship.",
+  "intro": "Early Christians honored the martyrs. Over time, that respect grew into a devotion that Talmage describes as worship.",
   "pointsLabel": "KEY POINTS",
   "points": [
    {
@@ -26,12 +26,16 @@
    {
     "label": "John 16:23",
     "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 8",
+    "note": "Reverence for martyrs (paragraphs 5)"
    }
   ]
  },
  "fr": {
   "title": "Le respect devenu adoration",
-  "intro": "Les premiers chrétiens honoraient les martyrs. Avec le temps, ce respect est devenu une dévotion qui est devenue de l’adoration.",
+  "intro": "Les premiers chrétiens honoraient les martyrs. Avec le temps, ce respect est devenu une dévotion que Talmage décrit comme de l’adoration.",
   "pointsLabel": "POINTS CLÉS",
   "points": [
    {
@@ -55,6 +59,10 @@
    {
     "label": "Jean 16:23",
     "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 8",
+    "note": "La vénération des martyrs (paragraphes 5)"
    }
   ]
  }
