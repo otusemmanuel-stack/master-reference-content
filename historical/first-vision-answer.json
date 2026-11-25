@@ -1,0 +1,69 @@
+{
+ "v": 5,
+ "en": {
+  "title": "The answer that settled the question",
+  "intro": "A boy’s question showed that the Church had to be restored with authority from heaven.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE QUESTION",
+    "text": "Joseph Smith asked God which of the churches was right."
+   },
+   {
+    "label": "THE REPLY",
+    "text": "He was told to join none of them."
+   },
+   {
+    "label": "THE SEQUEL",
+    "text": "The Father and the Son appeared, and the holy priesthood with all its powers was brought again to earth."
+   }
+  ],
+  "chips": [
+   {
+    "label": "James 1:5",
+    "note": "New Testament"
+   },
+   {
+    "label": "Joseph Smith—History 1:18–19",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The sequel of the apostasy (paragraphs 31–32)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "La réponse qui a réglé la question",
+  "intro": "La question d’un garçon a montré que l’Église devait être rétablie avec une autorité venue du ciel.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LA QUESTION",
+    "text": "Joseph Smith a demandé à Dieu laquelle des Églises était la vraie."
+   },
+   {
+    "label": "LA RÉPONSE",
+    "text": "On lui a dit de n’en rejoindre aucune."
+   },
+   {
+    "label": "LA SUITE",
+    "text": "Le Père et le Fils sont apparus, et la sainte prêtrise avec tous ses pouvoirs a été rapportée sur la terre."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Jacques 1:5",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Joseph Smith, Histoire 1:18–19",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La suite de l’apostasie (paragraphes 31–32)"
+   }
+  ]
+ }
+}

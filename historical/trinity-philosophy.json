@@ -1,0 +1,61 @@
+{
+ "v": 5,
+ "en": {
+  "title": "Greek philosophy and the Godhead",
+  "intro": "John wrote that the Word was with God and was God. Later teachers read this through Greek philosophy, and a long dispute about the Son began.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE IDEA",
+    "text": "The philosophy of the day described a Deity and a Logos. Christians enlarged this to three members, adding the Holy Ghost."
+   },
+   {
+    "label": "THE DISPUTE",
+    "text": "Bitter and lasting arguments followed about the power of each member, above all the Son."
+   },
+   {
+    "label": "THE COUNCIL",
+    "text": "A council settled the matter by a creed. Even so, the Church was not united in purpose or action."
+   }
+  ],
+  "chips": [
+   {
+    "label": "John 1:1, 14",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 7",
+    "note": "Philosophy mixed with the gospel, and the council (paragraphs 12–20)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "La philosophie grecque et la Divinité",
+  "intro": "Jean a écrit que la Parole était avec Dieu et était Dieu. Plus tard, des docteurs ont lu ce verset à travers la philosophie grecque, et une longue dispute sur le Fils a commencé.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "L’IDÉE",
+    "text": "La philosophie de l’époque décrivait une Divinité et un Logos. Les chrétiens ont élargi cette idée à trois membres, en y ajoutant le Saint-Esprit."
+   },
+   {
+    "label": "LA DISPUTE",
+    "text": "De vives et longues querelles ont suivi sur le pouvoir de chaque membre, surtout celui du Fils."
+   },
+   {
+    "label": "LE CONCILE",
+    "text": "Un concile a réglé la question par un credo. Malgré cela, l’Église n’était pas unie dans son but ni dans son action."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Jean 1:1, 14",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 7",
+    "note": "La philosophie mêlée à l’Évangile, et le concile (paragraphes 12–20)"
+   }
+  ]
+ }
+}
