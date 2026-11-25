@@ -1,0 +1,77 @@
+{
+ "v": 6,
+ "en": {
+  "title": "Scripture kept from the people",
+  "intro": "Rules were made that limited who could read and explain scripture. This describes a practice of the past, and not every church today.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE RULES",
+    "text": "The Council of Trent limited reading of scripture. Only the church was said to have the right to decide its meaning."
+   },
+   {
+    "label": "WYCLIFFE",
+    "text": "John Wycliffe opposed the limits and translated the Bible into English."
+   },
+   {
+    "label": "THE SCRIPTURES SAY",
+    "text": "The Savior said, “Search the scriptures.” The Bereans searched them daily."
+   }
+  ],
+  "chips": [
+   {
+    "label": "John 5:39",
+    "note": "New Testament"
+   },
+   {
+    "label": "Acts 17:11",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Restrictions on reading scripture (paragraphs 21)"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "John Wycliffe (paragraphs 3)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Les Écritures tenues loin du peuple",
+  "intro": "Des règles ont limité qui pouvait lire et expliquer les Écritures. Cela décrit une pratique du passé, et pas toutes les Églises aujourd’hui.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LES RÈGLES",
+    "text": "Le concile de Trente a limité la lecture des Écritures. On disait que seule l’Église avait le droit d’en décider le sens."
+   },
+   {
+    "label": "WYCLIFFE",
+    "text": "John Wycliffe s’est opposé à ces limites et a traduit la Bible en anglais."
+   },
+   {
+    "label": "CE QUE DISENT LES ÉCRITURES",
+    "text": "Le Sauveur a dit : « Sondez les Écritures. » Les Béréens les examinaient chaque jour."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Jean 5:39",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Actes 17:11",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Restrictions sur la lecture des Écritures (paragraphes 21)"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "John Wycliffe (paragraphes 3)"
+   }
+  ]
+ }
+}

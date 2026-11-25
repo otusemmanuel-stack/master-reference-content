@@ -1,0 +1,77 @@
+{
+ "v": 6,
+ "en": {
+  "title": "Forgiveness for sale",
+  "intro": "An indulgence was a pardon given for the merits of another person. It came to be sold for money.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE PRACTICE",
+    "text": "The sins of one person were said to be forgiven because of the merits of another, and this could be bought."
+   },
+   {
+    "label": "TETZEL",
+    "text": "In sixteenth-century Germany, John Tetzel sold indulgences. People were told that once they paid, their salvation was certain."
+   },
+   {
+    "label": "LUTHER",
+    "text": "In 1517 Martin Luther wrote ninety-five theses against the practice."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Acts 8:20",
+    "note": "New Testament"
+   },
+   {
+    "label": "Ezekiel 18:20",
+    "note": "Old Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Papal indulgences (paragraphs 15–17)"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The Reformation (paragraphs 6)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le pardon à vendre",
+  "intro": "Une indulgence était un pardon accordé pour les mérites d’une autre personne. Elle en est venue à être vendue contre de l’argent.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LA PRATIQUE",
+    "text": "On disait que les péchés d’une personne étaient pardonnés grâce aux mérites d’une autre, et cela pouvait s’acheter."
+   },
+   {
+    "label": "TETZEL",
+    "text": "Dans l’Allemagne du seizième siècle, John Tetzel vendait des indulgences. On disait aux gens qu’une fois payé, leur salut était certain."
+   },
+   {
+    "label": "LUTHER",
+    "text": "En 1517, Martin Luther a écrit quatre-vingt-quinze thèses contre cette pratique."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Actes 8:20",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Ézéchiel 18:20",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Les indulgences papales (paragraphes 15–17)"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La Réforme (paragraphes 6)"
+   }
+  ]
+ }
+}

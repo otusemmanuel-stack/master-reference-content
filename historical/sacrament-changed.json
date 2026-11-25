@@ -1,0 +1,69 @@
+{
+ "v": 6,
+ "en": {
+  "title": "How the sacrament changed",
+  "intro": "Jesus Christ gave the sacrament as bread and a cup in remembrance of Him. After the apostles were gone, it was changed.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE BEGINNING",
+    "text": "Bread and a cup, taken in remembrance of Him."
+   },
+   {
+    "label": "THE CHANGES",
+    "text": "Long prayers, pomp and costly vessels were added, and some people were shut out of the service."
+   },
+   {
+    "label": "LATER",
+    "text": "Belief that the bread and wine become actual flesh and blood was made binding. In time only the bread was given to the people."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luke 22:19–20",
+    "note": "New Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 20:77, 79",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 8",
+    "note": "The sacrament perverted (paragraphs 15–18)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Comment la Sainte-Cène a changé",
+  "intro": "Jésus-Christ a donné la Sainte-Cène sous la forme de pain et d’une coupe, en souvenir de Lui. Après la disparition des apôtres, elle a été changée.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "AU DÉBUT",
+    "text": "Du pain et une coupe, pris en souvenir de Lui."
+   },
+   {
+    "label": "LES CHANGEMENTS",
+    "text": "De longues prières, de la pompe et des vases coûteux ont été ajoutés, et certains ont été exclus du service."
+   },
+   {
+    "label": "PLUS TARD",
+    "text": "La croyance que le pain et le vin deviennent la chair et le sang mêmes a été rendue contraignante. Avec le temps, seul le pain a été donné au peuple."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luc 22:19–20",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 20:77, 79",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 8",
+    "note": "La Sainte-Cène altérée (paragraphes 15–18)"
+   }
+  ]
+ }
+}

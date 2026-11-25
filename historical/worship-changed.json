@@ -1,0 +1,69 @@
+{
+ "v": 6,
+ "en": {
+  "title": "How worship changed",
+  "intro": "The first Saints worshipped in spirit and in truth, and kept it simple. Over the next centuries, worship took on forms the apostles had not taught.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "EARLY WORSHIP",
+    "text": "They continued in the apostles’ doctrine, fellowship, the breaking of bread and prayers."
+   },
+   {
+    "label": "THE CHANGES",
+    "text": "Philosophic speeches replaced fervent testimony. Applause was allowed, and incense became common."
+   },
+   {
+    "label": "LATER",
+    "text": "Images were adored in worship, and respect for the martyrs grew into something close to worship."
+   }
+  ],
+  "chips": [
+   {
+    "label": "John 4:23",
+    "note": "New Testament"
+   },
+   {
+    "label": "Matthew 15:8–9",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 8",
+    "note": "Changes in the form of worship (paragraphs 5–7)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Comment le culte a changé",
+  "intro": "Les premiers saints adoraient en esprit et en vérité, et gardaient le culte simple. Au cours des siècles suivants, le culte a pris des formes que les apôtres n’avaient pas enseignées.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "CULTE PRIMITIF",
+    "text": "Ils persévéraient dans l’enseignement des apôtres, la communion fraternelle, la fraction du pain et les prières."
+   },
+   {
+    "label": "LES CHANGEMENTS",
+    "text": "Des discours philosophiques ont remplacé le témoignage fervent. Les applaudissements ont été admis, et l’encens est devenu courant."
+   },
+   {
+    "label": "PLUS TARD",
+    "text": "Des images ont été adorées dans le culte, et le respect envers les martyrs est devenu proche de l’adoration."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Jean 4:23",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Matthieu 15:8–9",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 8",
+    "note": "Changements dans la forme du culte (paragraphes 5–7)"
+   }
+  ]
+ }
+}

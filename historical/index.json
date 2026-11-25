@@ -176,6 +176,70 @@
         "en",
         "fr"
       ]
+    },
+    "How Was the Sacrament Changed After the Apostles?": {
+      "id": "sacrament-changed",
+      "v": 6,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "How Did Christian Worship Change After the Apostles?": {
+      "id": "worship-changed",
+      "v": 6,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Did the Apostasy Begin While the Apostles Were Still Alive?": {
+      "id": "apostasy-began",
+      "v": 6,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "What Were the Results of the Great Apostasy?": {
+      "id": "apostasy-results",
+      "v": 6,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "How Did Persecution Affect the Early Church?": {
+      "id": "persecution-effect",
+      "v": 6,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "What Were Indulgences, and Why Did They Become a Problem in the Church?": {
+      "id": "indulgences",
+      "v": 6,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Why Was Reading Scripture Forbidden to Ordinary People for Centuries?": {
+      "id": "scripture-restricted",
+      "v": 6,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "How Did Greek Philosophy Change Early Christianity?": {
+      "id": "trinity-philosophy",
+      "v": 5,
+      "langs": [
+        "en",
+        "fr"
+      ]
     }
   }
 }

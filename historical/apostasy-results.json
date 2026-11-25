@@ -1,0 +1,69 @@
+{
+ "v": 6,
+ "en": {
+  "title": "What followed the apostasy",
+  "intro": "When the apostles and prophets were gone, the Church lost its authority and much of its truth. Reformers later prepared the way, but authority had to be restored.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE FAMINE",
+    "text": "A famine of hearing the words of the Lord. No one spoke for God, and pure doctrine and ordinances were lost."
+   },
+   {
+    "label": "A DARK TIME",
+    "text": "Long centuries of ignorance, with limits placed on reading scripture."
+   },
+   {
+    "label": "THE REFORMERS",
+    "text": "Wycliffe, Huss and Luther spoke out. Only the Restoration brought back priesthood authority."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Amos 8:11",
+    "note": "Old Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 1:15",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "Results of the apostasy and its sequel (paragraphs 1–6, 32)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Ce qui a suivi l’apostasie",
+  "intro": "Quand les apôtres et les prophètes ont disparu, l’Église a perdu son autorité et une grande partie de sa vérité. Des réformateurs ont ensuite préparé la voie, mais l’autorité devait être rétablie.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LA FAMINE",
+    "text": "Une famine d’entendre les paroles du Seigneur. Personne ne parlait pour Dieu, et la doctrine pure et les ordonnances ont été perdues."
+   },
+   {
+    "label": "UNE ÉPOQUE SOMBRE",
+    "text": "De longs siècles d’ignorance, avec des limites à la lecture des Écritures."
+   },
+   {
+    "label": "LES RÉFORMATEURS",
+    "text": "Wycliffe, Hus et Luther ont pris la parole. Seul le Rétablissement a rendu l’autorité de la prêtrise."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Amos 8:11",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 1:15",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "Résultats de l’apostasie et sa suite (paragraphes 1–6, 32)"
+   }
+  ]
+ }
+}

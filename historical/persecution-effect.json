@@ -1,0 +1,69 @@
+{
+ "v": 6,
+ "en": {
+  "title": "Persecution from outside, harm from within",
+  "intro": "The early Church was persecuted hard, and many stood firm. The deeper damage came when the leaders fell and false teachers were freed to spread their ideas.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "TWO SIDES",
+    "text": "The Church was persecuted by the Jews and by the pagans."
+   },
+   {
+    "label": "THE LEADERS",
+    "text": "The blows fell first on the apostles and leaders. The strong men who stood for Christ were the first to fall."
+   },
+   {
+    "label": "WITHIN",
+    "text": "With them gone, false teachers inside the Church were free to spread their ideas."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthew 24:9",
+    "note": "New Testament"
+   },
+   {
+    "label": "Acts 20:29–30",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 4",
+    "note": "Persecution as an external cause (paragraphs 4–7)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "La persécution du dehors, le mal du dedans",
+  "intro": "L’Église primitive a été durement persécutée, et beaucoup sont restés fermes. Le plus grand dommage est venu quand les dirigeants sont tombés et que les faux docteurs ont été libres de répandre leurs idées.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "DEUX CÔTÉS",
+    "text": "L’Église était persécutée par les Juifs et par les païens."
+   },
+   {
+    "label": "LES DIRIGEANTS",
+    "text": "Les coups sont tombés d’abord sur les apôtres et les dirigeants. Les hommes forts qui défendaient le Christ ont été les premiers à tomber."
+   },
+   {
+    "label": "DU DEDANS",
+    "text": "Eux disparus, les faux docteurs à l’intérieur de l’Église étaient libres de répandre leurs idées."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthieu 24:9",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Actes 20:29–30",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 4",
+    "note": "La persécution comme cause extérieure (paragraphes 4–7)"
+   }
+  ]
+ }
+}
