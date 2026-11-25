@@ -1,0 +1,69 @@
+{
+ "v": 1,
+ "en": {
+  "title": "To whom the Sermon on the Mount was given",
+  "intro": "Jesus Christ gave this sermon on a mountain side. His disciples gathered about Him as He taught. Some parts were for those called to the ministry. Others are for everyone.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE SETTING",
+    "text": "Jesus Christ went up the mountain and sat down. The disciples came to Him, and He taught them."
+   },
+   {
+    "label": "TWO AUDIENCES",
+    "text": "Talmage taught that some parts were directed to the disciples called to renounce worldly interests for the ministry. Other parts were and are of general application."
+   },
+   {
+    "label": "GIVEN AGAIN",
+    "text": "After His Resurrection Jesus Christ gave the Nephites a version of the same sermon, recorded in 3 Nephi 12–14."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthew 5:1–2",
+    "note": "New Testament"
+   },
+   {
+    "label": "3 Nephi 12–14",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 17",
+    "note": "The Sermon on the Mount and its audience (pp. 230)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "À qui s’adressait le Sermon sur la montagne",
+  "intro": "Jésus-Christ a donné ce sermon sur le flanc d’une montagne. Ses disciples se sont rassemblés autour de lui pendant qu’il enseignait. Certaines parties s’adressaient à ceux qui étaient appelés au ministère. D’autres sont pour tous.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LE CADRE",
+    "text": "Jésus-Christ est monté sur la montagne et s’est assis. Les disciples sont venus à lui, et il les a enseignés."
+   },
+   {
+    "label": "DEUX AUDITOIRES",
+    "text": "Talmage a enseigné que certaines parties s’adressaient aux disciples appelés à renoncer à leurs intérêts du monde pour le ministère. D’autres parties étaient et sont d’application générale."
+   },
+   {
+    "label": "DONNÉ DE NOUVEAU",
+    "text": "Après sa résurrection, Jésus-Christ a donné aux Néphites une version du même sermon, consignée dans 3 Néphi 12–14."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthieu 5:1–2",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "3 Néphi 12–14",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 17",
+    "note": "Le Sermon sur la montagne et ses auditeurs (p. 230)"
+   }
+  ]
+ }
+}

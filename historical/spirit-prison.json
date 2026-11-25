@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Paradise and the spirit prison",
+  "intro": "Between His death and Resurrection, Jesus Christ went to the spirit world. Talmage describes two conditions there, paradise and prison.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "PARADISE",
+    "text": "Jesus Christ told the repentant thief, “To day shalt thou be with me in paradise.” Talmage taught that paradise is where the righteous rest between death and resurrection."
+   },
+   {
+    "label": "PRISON",
+    "text": "Peter wrote that Christ preached to the spirits in prison. Alma taught that the wicked wait in darkness for the resurrection."
+   },
+   {
+    "label": "THE GOSPEL PREACHED",
+    "text": "Peter said the gospel was preached to the dead, that they might live according to God in the spirit."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luke 23:43",
+    "note": "New Testament"
+   },
+   {
+    "label": "1 Peter 3:18–20",
+    "note": "New Testament"
+   },
+   {
+    "label": "1 Peter 4:6",
+    "note": "New Testament"
+   },
+   {
+    "label": "Alma 40:11–14",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 36",
+    "note": "The Savior in the realm of disembodied spirits (pp. 670–675)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le paradis et la prison des esprits",
+  "intro": "Entre sa mort et sa résurrection, Jésus-Christ est allé dans le monde des esprits. Talmage décrit deux conditions qui s’y trouvent, le paradis et la prison.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LE PARADIS",
+    "text": "Jésus-Christ a dit au malfaiteur repentant : « Aujourd’hui tu seras avec moi dans le paradis. » Talmage a enseigné que le paradis est le lieu où les justes se reposent entre la mort et la résurrection."
+   },
+   {
+    "label": "LA PRISON",
+    "text": "Pierre a écrit que le Christ a prêché aux esprits en prison. Alma a enseigné que les méchants attendent la résurrection dans les ténèbres."
+   },
+   {
+    "label": "L’ÉVANGILE PRÊCHÉ",
+    "text": "Pierre a dit que l’Évangile a été prêché aux morts afin qu’ils vivent selon Dieu quant à l’esprit."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luc 23:43",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "1 Pierre 3:18–20",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "1 Pierre 4:6",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Alma 40:11–14",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 36",
+    "note": "Le Sauveur dans le monde des esprits (p. 670–675)"
+   }
+  ]
+ }
+}

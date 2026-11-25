@@ -1,0 +1,93 @@
+{
+ "v": 1,
+ "en": {
+  "title": "What the record says about the apostles’ deaths",
+  "intro": "Scripture records only a few deaths among the apostles. Talmage says most of them died as martyrs.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "JAMES AND JUDAS",
+    "text": "Herod killed James, the brother of John, with the sword. Judas ended his own life, and Matthias was chosen to take his place."
+   },
+   {
+    "label": "MOST WERE MARTYRS",
+    "text": "Talmage taught that most of the apostles entered the gates of martyrdom. Scripture does not tell how each one died."
+   },
+   {
+    "label": "JOHN",
+    "text": "John was banished to the isle of Patmos for the word of God. The Lord said John would tarry until He comes."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Acts 12:1–2",
+    "note": "New Testament"
+   },
+   {
+    "label": "Matthew 27:3–5",
+    "note": "New Testament"
+   },
+   {
+    "label": "Acts 1:23–26",
+    "note": "New Testament"
+   },
+   {
+    "label": "Revelation 1:9",
+    "note": "New Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 7:1–3",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 38",
+    "note": "The close of the apostolic ministry (pp. 717)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Ce que le récit dit de la mort des apôtres",
+  "intro": "Les Écritures ne rapportent que quelques morts parmi les apôtres. Talmage dit que la plupart sont morts en martyrs.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "JACQUES ET JUDAS",
+    "text": "Hérode a fait mourir Jacques, frère de Jean, par l’épée. Judas s’est donné la mort, et Matthias a été choisi pour prendre sa place."
+   },
+   {
+    "label": "LA PLUPART, MARTYRS",
+    "text": "Talmage a enseigné que la plupart des apôtres sont entrés par la porte du martyre. Les Écritures ne disent pas comment chacun est mort."
+   },
+   {
+    "label": "JEAN",
+    "text": "Jean a été exilé dans l’île de Patmos à cause de la parole de Dieu. Le Seigneur a dit que Jean resterait jusqu’à son retour."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Actes 12:1–2",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Matthieu 27:3–5",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Actes 1:23–26",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Apocalypse 1:9",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 7:1–3",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 38",
+    "note": "La fin du ministère apostolique (p. 717)"
+   }
+  ]
+ }
+}

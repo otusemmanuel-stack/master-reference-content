@@ -1,0 +1,69 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Why Jesus Christ was baptized",
+  "intro": "John the Baptist knew that Jesus Christ was sinless. Jesus Christ was baptized anyway, to fulfil all righteousness.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "JOHN OBJECTED",
+    "text": "John said, “I have need to be baptized of thee.” Jesus Christ answered, “Suffer it to be so now: for thus it becometh us to fulfil all righteousness.”"
+   },
+   {
+    "label": "FOR EVERYONE",
+    "text": "Talmage taught that baptism is not only for the remission of sins. It is also an ordinance required of all as a condition for membership in the kingdom of God."
+   },
+   {
+    "label": "THREE WITNESSES",
+    "text": "Jesus Christ was baptized by immersion. The Holy Ghost descended like a dove, and the Father’s voice came from heaven."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthew 3:13–17",
+    "note": "New Testament"
+   },
+   {
+    "label": "2 Nephi 31:5–7",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 10",
+    "note": "The baptism of Jesus to fulfil all righteousness (pp. 125–126)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Pourquoi Jésus-Christ a été baptisé",
+  "intro": "Jean-Baptiste savait que Jésus-Christ était sans péché. Jésus-Christ a pourtant été baptisé, afin d’accomplir toute justice.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "JEAN S’EST OPPOSÉ",
+    "text": "Jean a dit : « C’est moi qui ai besoin d’être baptisé par toi. » Jésus-Christ a répondu : « Laisse faire maintenant, car il est convenable que nous accomplissions ainsi tout ce qui est juste. »"
+   },
+   {
+    "label": "POUR TOUS",
+    "text": "Talmage a enseigné que le baptême n’est pas seulement pour la rémission des péchés. C’est aussi une ordonnance exigée de tous comme condition pour entrer dans le royaume de Dieu."
+   },
+   {
+    "label": "TROIS TÉMOINS",
+    "text": "Jésus-Christ a été baptisé par immersion. Le Saint-Esprit est descendu comme une colombe, et la voix du Père s’est fait entendre du ciel."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthieu 3:13–17",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "2 Néphi 31:5–7",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 10",
+    "note": "Le baptême de Jésus pour accomplir toute justice (p. 125–126)"
+   }
+  ]
+ }
+}

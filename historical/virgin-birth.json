@@ -1,0 +1,69 @@
+{
+ "v": 1,
+ "en": {
+  "title": "The birth of Jesus Christ",
+  "intro": "The angel Gabriel told Mary she would bear a Son. She asked how, since she knew not a man.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE ANGEL’S ANSWER",
+    "text": "Gabriel said the Holy Ghost would come upon her and the power of the Highest would overshadow her. He added, “with God nothing shall be impossible.”"
+   },
+   {
+    "label": "HIS FATHER",
+    "text": "Talmage taught that the Child was begotten of Elohim, the Eternal Father. This was not against natural law, but in keeping with a higher manifestation of it."
+   },
+   {
+    "label": "JOSEPH’S DREAM",
+    "text": "An angel told Joseph that what was conceived in Mary was of the Holy Ghost. Joseph took Mary as his wife."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luke 1:26–38",
+    "note": "New Testament"
+   },
+   {
+    "label": "Matthew 1:18–25",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 7",
+    "note": "The annunciation to Mary (pp. 79–84)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "La naissance de Jésus-Christ",
+  "intro": "L’ange Gabriel a dit à Marie qu’elle mettrait au monde un fils. Elle a demandé comment cela se ferait, puisqu’elle ne connaissait point d’homme.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LA RÉPONSE DE L’ANGE",
+    "text": "Gabriel a dit que le Saint-Esprit viendrait sur elle et que la puissance du Très-Haut la couvrirait de son ombre. Il a ajouté que rien n’est impossible à Dieu."
+   },
+   {
+    "label": "SON PÈRE",
+    "text": "Talmage a enseigné que l’Enfant a été engendré par Élohim, le Père éternel. Cela n’allait pas contre la loi naturelle, mais s’accordait avec une manifestation supérieure de cette loi."
+   },
+   {
+    "label": "LE SONGE DE JOSEPH",
+    "text": "Un ange a dit à Joseph que ce qui avait été engendré en Marie venait du Saint-Esprit. Joseph a pris Marie pour épouse."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luc 1:26–38",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Matthieu 1:18–25",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 7",
+    "note": "L’annonciation à Marie (p. 79–84)"
+   }
+  ]
+ }
+}

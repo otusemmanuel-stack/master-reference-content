@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Why the Fall needed a Redeemer",
+  "intro": "Adam and Eve’s choice brought mortality. God had already prepared a Redeemer. The Fall and the Atonement belong to one plan.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE FALL",
+    "text": "Adam and Eve broke the commandment they were given. The mortal state began, and death became part of it."
+   },
+   {
+    "label": "PREPARED BEFORE",
+    "text": "The Savior was chosen before the earth was made. Satan’s effort to make death final was answered before the first man was created."
+   },
+   {
+    "label": "ONE FOR ALL",
+    "text": "Death came through one man, so the Atonement came through One. Paul wrote that in Adam all die, and in Christ all shall be made alive."
+   }
+  ],
+  "chips": [
+   {
+    "label": "1 Corinthians 15:21–22",
+    "note": "New Testament"
+   },
+   {
+    "label": "Romans 5:12",
+    "note": "New Testament"
+   },
+   {
+    "label": "Moses 1:39",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 3",
+    "note": "The Fall of man and the need of a Redeemer (pp. 18–21)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Pourquoi la chute exigeait un Rédempteur",
+  "intro": "Le choix d’Adam et Ève a amené la condition mortelle. Dieu avait déjà préparé un Rédempteur. La chute et l’expiation font partie d’un seul plan.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LA CHUTE",
+    "text": "Adam et Ève ont transgressé le commandement qui leur avait été donné. L’état mortel a commencé, et la mort en fait partie."
+   },
+   {
+    "label": "PRÉPARÉ D’AVANCE",
+    "text": "Le Sauveur avait été choisi avant la création de la terre. Ce que Satan voulait faire pour rendre la mort définitive a été contré avant la création du premier homme."
+   },
+   {
+    "label": "UN POUR TOUS",
+    "text": "La mort est venue par un seul homme, et l’expiation est donc venue par un seul. Paul a écrit qu’en Adam tous meurent, et qu’en Christ tous revivront."
+   }
+  ],
+  "chips": [
+   {
+    "label": "1 Corinthiens 15:21–22",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Romains 5:12",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Moïse 1:39",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 3",
+    "note": "La chute de l’homme et le besoin d’un Rédempteur (p. 18–21)"
+   }
+  ]
+ }
+}

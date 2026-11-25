@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "How the sacrament began",
+  "intro": "Jesus Christ instituted the sacrament at His last supper with the Twelve. It is done in remembrance of Him.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "INSTITUTED",
+    "text": "He blessed bread and gave it to the apostles. Then He blessed a cup and gave it to them. He said, “this do in remembrance of me.”"
+   },
+   {
+    "label": "THE EMBLEMS",
+    "text": "Talmage describes a cup of wine at the Last Supper. In this dispensation the Lord revealed that it matters not what is eaten or drunk, if it is done with an eye single to His glory."
+   },
+   {
+    "label": "KEPT ALIVE",
+    "text": "The Savior also instituted it among the Nephites. Early disciples came together on the first day of the week to break bread."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luke 22:19–20",
+    "note": "New Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 27:2",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Acts 20:7",
+    "note": "New Testament"
+   },
+   {
+    "label": "3 Nephi 18:6–11",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 33",
+    "note": "The sacrament of the Lord’s Supper (pp. 596–597)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Comment la Sainte-Cène a commencé",
+  "intro": "Jésus-Christ a institué la Sainte-Cène lors de son dernier repas avec les Douze. On la prend en souvenir de lui.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "INSTITUÉE",
+    "text": "Il a béni du pain et l’a donné aux apôtres. Puis il a béni une coupe et la leur a donnée. Il a dit : « Faites ceci en mémoire de moi. »"
+   },
+   {
+    "label": "LES EMBLÈMES",
+    "text": "Talmage décrit une coupe de vin lors de la dernière Cène. Dans cette dispensation, le Seigneur a révélé que peu importe ce que l’on mange ou boit, si on le fait avec les yeux fixés uniquement sur sa gloire."
+   },
+   {
+    "label": "PERPÉTUÉE",
+    "text": "Le Sauveur l’a aussi instituée parmi les Néphites. Les premiers disciples se réunissaient le premier jour de la semaine pour rompre le pain."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luc 22:19–20",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 27:2",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Actes 20:7",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "3 Néphi 18:6–11",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 33",
+    "note": "La Sainte-Cène du Seigneur (p. 596–597)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "en": {
+  "title": "The sin against the Holy Ghost",
+  "intro": "Jesus Christ warned that all manner of sin and blasphemy can be forgiven, except blasphemy against the Holy Ghost.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE SETTING",
+    "text": "The Pharisees saw Jesus Christ cast out a devil. They said He did it by the power of Satan. He answered that a tree is known by its fruit."
+   },
+   {
+    "label": "THE WARNING",
+    "text": "A word spoken against the Son of Man can be forgiven. Speaking against the Holy Ghost cannot be forgiven in this world or in the world to come."
+   },
+   {
+    "label": "MORE LIGHT",
+    "text": "Talmage points to Doctrine and Covenants 76:31–48 for a fuller explanation of those who commit this sin."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthew 12:22–32",
+    "note": "New Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 76:31–48",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Hebrews 6:4–6",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 18",
+    "note": "The unpardonable sin (pp. 268–269, 278)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le péché contre le Saint-Esprit",
+  "intro": "Jésus-Christ a averti que tout péché et tout blasphème peuvent être pardonnés, sauf le blasphème contre le Saint-Esprit.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LE CADRE",
+    "text": "Les pharisiens ont vu Jésus-Christ chasser un démon. Ils ont dit qu’il le faisait par la puissance de Satan. Il a répondu qu’on reconnaît l’arbre à son fruit."
+   },
+   {
+    "label": "L’AVERTISSEMENT",
+    "text": "Une parole contre le Fils de l’homme peut être pardonnée. Une parole contre le Saint-Esprit ne sera pardonnée ni dans ce monde ni dans le monde à venir."
+   },
+   {
+    "label": "PLUS DE LUMIÈRE",
+    "text": "Talmage renvoie à Doctrine et Alliances 76:31–48 pour une explication plus complète de ceux qui commettent ce péché."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthieu 12:22–32",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 76:31–48",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Hébreux 6:4–6",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 18",
+    "note": "Le péché impardonnable (p. 268–269, 278)"
+   }
+  ]
+ }
+}

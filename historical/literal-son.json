@@ -1,0 +1,69 @@
+{
+ "v": 1,
+ "en": {
+  "title": "The Only Begotten Son of God",
+  "intro": "Mary’s Son was begotten of God the Eternal Father. The scriptures call Him the Only Begotten.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE ANGEL’S WORDS",
+    "text": "Mary asked how she would have a son. Gabriel answered, “The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee.”"
+   },
+   {
+    "label": "BOTH NATURES",
+    "text": "Talmage taught that Jesus Christ received mortality from His mother and power over death from His Father."
+   },
+   {
+    "label": "THE FATHER’S WITNESS",
+    "text": "At the baptism of Jesus Christ the Father said, “This is my beloved Son, in whom I am well pleased.”"
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luke 1:34–35",
+    "note": "New Testament"
+   },
+   {
+    "label": "Matthew 3:17",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 7",
+    "note": "The Only Begotten Son of God (pp. 80–82)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le Fils unique de Dieu",
+  "intro": "Le Fils de Marie a été engendré par Dieu le Père éternel. Les Écritures l’appellent le Fils unique.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LES PAROLES DE L’ANGE",
+    "text": "Marie a demandé comment elle aurait un fils. Gabriel a répondu que le Saint-Esprit viendrait sur elle et que la puissance du Très-Haut la couvrirait de son ombre."
+   },
+   {
+    "label": "DEUX NATURES",
+    "text": "Talmage a enseigné que Jésus-Christ a reçu de sa mère la condition mortelle, et de son Père le pouvoir sur la mort."
+   },
+   {
+    "label": "LE TÉMOIGNAGE DU PÈRE",
+    "text": "Lors du baptême de Jésus-Christ, le Père a dit : « Celui-ci est mon Fils bien-aimé, en qui j’ai mis toute mon affection. »"
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luc 1:34–35",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Matthieu 3:17",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 7",
+    "note": "Le Fils unique de Dieu (p. 80–82)"
+   }
+  ]
+ }
+}

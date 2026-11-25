@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Chosen before birth, free to choose",
+  "intro": "God knows what each person will choose. Knowing is not the same as causing. Agency is protected because mortality is a test.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "FOREORDAINED",
+    "text": "Abraham was told that many noble and great spirits were chosen before they were born. Peter wrote that Christ was foreordained before the foundation of the world."
+   },
+   {
+    "label": "KNOWING IS NOT CAUSING",
+    "text": "Talmage, an Apostle, taught that God’s foreknowledge does not decide what a person does. God sees the end from the beginning because He knows each child."
+   },
+   {
+    "label": "FREE TO CHOOSE",
+    "text": "God impels no one toward sin and compels no one to righteousness. Agency is needed to prove whether we will do all that the Lord commands."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Abraham 3:22–23",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "1 Peter 1:19–20",
+    "note": "New Testament"
+   },
+   {
+    "label": "Abraham 3:25",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 3",
+    "note": "God’s foreknowledge and man’s free agency (pp. 17–18, 28–29)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Choisis avant la naissance, libres de choisir",
+  "intro": "Dieu sait ce que chacun choisira. Savoir n’est pas causer. Le libre arbitre est protégé, car la vie mortelle est une épreuve.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "PRÉORDONNÉS",
+    "text": "On a dit à Abraham que de nombreux esprits nobles et grands avaient été choisis avant de naître. Pierre a écrit que le Christ avait été préordonné avant la fondation du monde."
+   },
+   {
+    "label": "SAVOIR N’EST PAS CAUSER",
+    "text": "Talmage, apôtre, a enseigné que la prescience de Dieu ne décide pas de ce que fait une personne. Dieu voit la fin dès le commencement parce qu’il connaît chacun de ses enfants."
+   },
+   {
+    "label": "LIBRES DE CHOISIR",
+    "text": "Dieu ne pousse personne vers le péché et ne force personne à la justice. Le libre arbitre est nécessaire pour voir si nous ferons tout ce que le Seigneur commande."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Abraham 3:22–23",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "1 Pierre 1:19–20",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Abraham 3:25",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 3",
+    "note": "La prescience de Dieu et le libre arbitre de l’homme (p. 17–18, 28–29)"
+   }
+  ]
+ }
+}

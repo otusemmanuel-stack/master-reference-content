@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Jehovah and Elohim",
+  "intro": "Jesus Christ is Jehovah, the God of the Old Testament. Elohim is the name-title of God the Eternal Father.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "JEHOVAH",
+    "text": "Jehovah means the Self-existent or Eternal One. Most English Bibles print it as LORD in capital letters."
+   },
+   {
+    "label": "I AM",
+    "text": "Jesus Christ said, “Before Abraham was, I am.” Talmage showed that “I Am” is tied to the name Jehovah. His hearers understood this and took up stones."
+   },
+   {
+    "label": "ELOHIM",
+    "text": "Elohim is a Hebrew plural of excellence and power. It is the name-title of the Eternal Father, whose firstborn Son in the spirit is Jehovah, Jesus Christ."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Exodus 3:14",
+    "note": "Old Testament"
+   },
+   {
+    "label": "John 8:58",
+    "note": "New Testament"
+   },
+   {
+    "label": "3 Nephi 11:13–14",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 4",
+    "note": "Jesus Christ is Jehovah (pp. 36–38)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Jéhovah et Élohim",
+  "intro": "Jésus-Christ est Jéhovah, le Dieu de l’Ancien Testament. Élohim est le nom-titre de Dieu le Père éternel.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "JÉHOVAH",
+    "text": "Jéhovah signifie l’Être existant par lui-même, l’Éternel. La plupart des Bibles françaises l’impriment en petites capitales : l’Éternel."
+   },
+   {
+    "label": "JE SUIS",
+    "text": "Jésus-Christ a dit : « Avant qu’Abraham fût, je suis. » Talmage a montré que « Je suis » est lié au nom de Jéhovah. Ses auditeurs l’ont compris et ont pris des pierres."
+   },
+   {
+    "label": "ÉLOHIM",
+    "text": "Élohim est un pluriel hébreu qui exprime l’excellence et la puissance. C’est le nom-titre du Père éternel, dont le Fils premier-né en esprit est Jéhovah, Jésus-Christ."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Exode 3:14",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "Jean 8:58",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "3 Néphi 11:13–14",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 4",
+    "note": "Jésus-Christ est Jéhovah (p. 36–38)"
+   }
+  ]
+ }
+}

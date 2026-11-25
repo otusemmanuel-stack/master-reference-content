@@ -1,0 +1,69 @@
+{
+ "v": 1,
+ "en": {
+  "title": "How priesthood authority was restored",
+  "intro": "Joseph Smith and Oliver Cowdery were both present when heavenly messengers conferred the priesthood. Both bore witness of it.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE AARONIC PRIESTHOOD",
+    "text": "On May 15, 1829, John the Baptist laid his hands on them and conferred the Aaronic Priesthood. He said he acted under the direction of Peter, James, and John."
+   },
+   {
+    "label": "THE MELCHIZEDEK PRIESTHOOD",
+    "text": "Shortly afterward Peter, James, and John conferred the Melchizedek Priesthood on them and ordained them to the apostleship."
+   },
+   {
+    "label": "THE LORD’S WORDS",
+    "text": "In a later revelation the Lord said that He sent John, and Peter, James, and John, to ordain them."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine and Covenants 13",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 27:12",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 41",
+    "note": "The priesthood conferred by John the Baptist and by Peter, James, and John (pp. 767–769)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Comment l’autorité de la prêtrise a été rétablie",
+  "intro": "Joseph Smith et Oliver Cowdery étaient tous deux présents lorsque des messagers célestes ont conféré la prêtrise. Tous deux en ont témoigné.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LA PRÊTRISE D’AARON",
+    "text": "Le 15 mai 1829, Jean-Baptiste leur a imposé les mains et leur a conféré la Prêtrise d’Aaron. Il a dit qu’il agissait sous la direction de Pierre, Jacques et Jean."
+   },
+   {
+    "label": "LA PRÊTRISE DE MELCHISÉDEK",
+    "text": "Peu après, Pierre, Jacques et Jean leur ont conféré la Prêtrise de Melchisédek et les ont ordonnés à l’apostolat."
+   },
+   {
+    "label": "LES PAROLES DU SEIGNEUR",
+    "text": "Dans une révélation ultérieure, le Seigneur a dit qu’il avait envoyé Jean, ainsi que Pierre, Jacques et Jean, pour les ordonner."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine et Alliances 13",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 27:12",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "James E. Talmage, Jesus the Christ, ch. 41",
+    "note": "La prêtrise conférée par Jean-Baptiste et par Pierre, Jacques et Jean (p. 767–769)"
+   }
+  ]
+ }
+}
