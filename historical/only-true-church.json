@@ -1,5 +1,5 @@
 {
- "v": 5,
+ "v": 6,
  "en": {
   "title": "The Lord’s own words about His Church",
   "intro": "The Lord Himself spoke these words. What sets the Church apart is the priesthood authority restored to it.",
@@ -22,10 +22,6 @@
    {
     "label": "Doctrine and Covenants 1:30",
     "note": "Doctrine and Covenants"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 10",
-    "note": "The sequel of the apostasy (paragraphs 32–33)"
    }
   ]
  },
@@ -51,10 +47,6 @@
    {
     "label": "Doctrine et Alliances 1:30",
     "note": "Doctrine et Alliances"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 10",
-    "note": "La suite de l’apostasie (paragraphes 32–33)"
    }
   ]
  }

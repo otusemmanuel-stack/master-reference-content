@@ -1,5 +1,5 @@
 {
- "v": 5,
+ "v": 6,
  "en": {
   "title": "Succession or restoration",
   "intro": "The Catholic Church teaches that authority passed in an unbroken line from Peter. The restored gospel teaches that authority returned from heaven.",
@@ -26,14 +26,6 @@
    {
     "label": "Doctrine and Covenants 27:12",
     "note": "Doctrine and Covenants"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 9",
-    "note": "Rome claims supremacy (paragraphs 7)"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 10",
-    "note": "The sequel of the apostasy (paragraphs 33)"
    }
   ]
  },
@@ -63,14 +55,6 @@
    {
     "label": "Doctrine et Alliances 27:12",
     "note": "Doctrine et Alliances"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 9",
-    "note": "Rome revendique la suprématie (paragraphes 7)"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 10",
-    "note": "La suite de l’apostasie (paragraphes 33)"
    }
   ]
  }

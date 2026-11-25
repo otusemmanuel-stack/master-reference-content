@@ -1,5 +1,5 @@
 {
- "v": 5,
+ "v": 6,
  "en": {
   "title": "A restoration, not a repair",
   "intro": "In 1820 a boy asked which church was right. He was told to join none of them. Heavenly messengers then restored what was missing.",
@@ -30,10 +30,6 @@
    {
     "label": "Revelation 14:6–7",
     "note": "New Testament"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 10",
-    "note": "The sequel of the apostasy (paragraphs 31–33)"
    }
   ]
  },
@@ -67,10 +63,6 @@
    {
     "label": "Apocalypse 14:6–7",
     "note": "Nouveau Testament"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 10",
-    "note": "La suite de l’apostasie (paragraphes 31–33)"
    }
   ]
  }

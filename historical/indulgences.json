@@ -1,5 +1,5 @@
 {
- "v": 6,
+ "v": 7,
  "en": {
   "title": "Forgiveness for sale",
   "intro": "An indulgence was a pardon given for the merits of another person. It came to be sold for money.",
@@ -26,14 +26,6 @@
    {
     "label": "Ezekiel 18:20",
     "note": "Old Testament"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 9",
-    "note": "Papal indulgences (paragraphs 15–17)"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 10",
-    "note": "The Reformation (paragraphs 6)"
    }
   ]
  },
@@ -63,14 +55,6 @@
    {
     "label": "Ézéchiel 18:20",
     "note": "Ancien Testament"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 9",
-    "note": "Les indulgences papales (paragraphes 15–17)"
-   },
-   {
-    "label": "James E. Talmage, The Great Apostasy, ch. 10",
-    "note": "La Réforme (paragraphes 6)"
    }
   ]
  }
