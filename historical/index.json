@@ -1,9 +1,65 @@
 {
   "version": 1,
   "pieces": {
+    "Why is baptism by immersion needed?": {
+      "id": "baptism-immersion-changed",
+      "v": 3,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Is the Melchizedek Priesthood still on the earth today?": {
+      "id": "melchizedek-restored",
+      "v": 3,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Is there only one right priesthood authority from God?": {
+      "id": "one-priesthood-authority",
+      "v": 3,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Did Jesus Christ Establish an Organized Church, or Is Personal Faith Enough?": {
+      "id": "christ-organized-church",
+      "v": 3,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "If God Was Protecting His Church, How Could the Great Apostasy Happen?": {
+      "id": "apostasy-causes",
+      "v": 3,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "If Other Churches Teach Truth, Why Is the Fullness of the Gospel Found in One Church?": {
+      "id": "fullness-restored",
+      "v": 3,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Why Does the Church Claim to Be the Only True and Living Church?": {
+      "id": "only-true-church",
+      "v": 3,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
     "Did Christ's Original Church Really Fall Away? What About His Promise?": {
       "id": "great-apostasy-falling-away",
-      "v": 2,
+      "v": 3,
       "langs": [
         "en",
         "fr"

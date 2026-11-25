@@ -1,0 +1,77 @@
+{
+ "v": 3,
+ "en": {
+  "title": "A restoration, not a repair",
+  "intro": "In 1820 a boy asked which church was right. He was told to join none of them. Heavenly messengers then restored what was missing.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE QUESTION",
+    "text": "Joseph Smith asked God which church to join. He was told to join none."
+   },
+   {
+    "label": "WHAT RETURNED",
+    "text": "The priesthood came back with its authority, by heavenly ministration."
+   },
+   {
+    "label": "THE FULLNESS",
+    "text": "God planned to gather all things in one in the dispensation of the fulness of times."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Joseph Smith—History 1:18–19",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "Ephesians 1:10",
+    "note": "New Testament"
+   },
+   {
+    "label": "Revelation 14:6–7",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The sequel of the apostasy (paragraphs 31–33)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Un rétablissement, pas une réparation",
+  "intro": "En 1820, un garçon a demandé quelle Église était la vraie. On lui a dit de n’en rejoindre aucune. Des messagers célestes ont ensuite rétabli ce qui manquait.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LA QUESTION",
+    "text": "Joseph Smith a demandé à Dieu quelle Église rejoindre. On lui a dit de n’en rejoindre aucune."
+   },
+   {
+    "label": "CE QUI EST REVENU",
+    "text": "La prêtrise est revenue avec son autorité, par ministère céleste."
+   },
+   {
+    "label": "LA PLÉNITUDE",
+    "text": "Dieu avait prévu de réunir toutes choses en un dans la dispensation de la plénitude des temps."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Joseph Smith, Histoire 1:18–19",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "Éphésiens 1:10",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Apocalypse 14:6–7",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La suite de l’apostasie (paragraphes 31–33)"
+   }
+  ]
+ }
+}

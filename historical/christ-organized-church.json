@@ -1,0 +1,77 @@
+{
+ "v": 3,
+ "en": {
+  "title": "A Church with apostles and authority",
+  "intro": "Jesus Christ did not leave only a message. He organized a Church. He ordained twelve apostles, then seventy more, and gave them real authority.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE TWELVE",
+    "text": "He chose twelve and ordained them to preach and to heal."
+   },
+   {
+    "label": "THE SEVENTY",
+    "text": "He sent seventy out in pairs. They returned saying that even devils were subject to them in His name."
+   },
+   {
+    "label": "ITS PURPOSE",
+    "text": "Apostles and prophets were given until all come to the unity of the faith."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luke 6:13",
+    "note": "New Testament"
+   },
+   {
+    "label": "Luke 10:1, 17",
+    "note": "New Testament"
+   },
+   {
+    "label": "Ephesians 4:11–13",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 1",
+    "note": "The calling of the twelve and the seventy (paragraphs 13–15)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Une Église avec des apôtres et de l’autorité",
+  "intro": "Jésus-Christ n’a pas laissé seulement un message. Il a organisé une Église. Il a ordonné douze apôtres, puis soixante-dix autres, et leur a donné une autorité réelle.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LES DOUZE",
+    "text": "Il en a choisi douze et les a ordonnés pour prêcher et pour guérir."
+   },
+   {
+    "label": "LES SOIXANTE-DIX",
+    "text": "Il a envoyé soixante-dix disciples deux par deux. Ils sont revenus en disant que même les démons leur étaient soumis en son nom."
+   },
+   {
+    "label": "SON BUT",
+    "text": "Des apôtres et des prophètes ont été donnés jusqu’à ce que tous parviennent à l’unité de la foi."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luc 6:13",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Luc 10:1, 17",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Éphésiens 4:11–13",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 1",
+    "note": "L’appel des douze et des soixante-dix (paragraphes 13–15)"
+   }
+  ]
+ }
+}

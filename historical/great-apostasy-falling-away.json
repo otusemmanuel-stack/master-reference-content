@@ -1,5 +1,5 @@
 {
- "v": 2,
+ "v": 3,
  "en": {
   "title": "The apostles saw it coming",
   "intro": "Before they died, the apostles warned the early Saints about a turning away from the truth. Paul, Peter and Jude each wrote about it while the Church was still growing.",
@@ -34,6 +34,10 @@
    {
     "label": "Jude 1:17–19",
     "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 2",
+    "note": "The apostasy predicted (paragraphs 26–33)"
    }
   ]
  },
@@ -71,6 +75,10 @@
    {
     "label": "Jude 1:17–19",
     "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 2",
+    "note": "L’apostasie annoncée (paragraphes 26–33)"
    }
   ]
  }

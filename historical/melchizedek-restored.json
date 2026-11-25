@@ -1,0 +1,77 @@
+{
+ "v": 3,
+ "en": {
+  "title": "The priesthood lost and restored",
+  "intro": "The priesthood is the authority to act in God’s name. The apostles held it. It was lost from among men after them, and it was returned in the last days.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "PROMISED",
+    "text": "Prophets saw that God would set up His kingdom in the last days."
+   },
+   {
+    "label": "LOST",
+    "text": "Once it was taken from among men, no human power could restore it."
+   },
+   {
+    "label": "RESTORED",
+    "text": "In 1829 John the Baptist conferred the Aaronic Priesthood on Joseph Smith and Oliver Cowdery. Later Peter, James and John conferred the Melchizedek Priesthood."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Daniel 2:44",
+    "note": "Old Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 13",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 27:12",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The sequel of the apostasy (paragraphs 30–33)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "La prêtrise perdue puis rétablie",
+  "intro": "La prêtrise est l’autorité d’agir au nom de Dieu. Les apôtres la détenaient. Elle a disparu du milieu des hommes après eux, puis elle a été rendue dans les derniers jours.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "PROMIS",
+    "text": "Les prophètes ont vu que Dieu établirait son royaume dans les derniers jours."
+   },
+   {
+    "label": "PERDUE",
+    "text": "Une fois retirée du milieu des hommes, aucune puissance humaine ne pouvait la rétablir."
+   },
+   {
+    "label": "RÉTABLIE",
+    "text": "En 1829, Jean-Baptiste a conféré la Prêtrise d’Aaron à Joseph Smith et à Oliver Cowdery. Plus tard, Pierre, Jacques et Jean ont conféré la Prêtrise de Melchisédek."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Daniel 2:44",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 13",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 27:12",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La suite de l’apostasie (paragraphes 30–33)"
+   }
+  ]
+ }
+}

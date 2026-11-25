@@ -1,0 +1,61 @@
+{
+ "v": 3,
+ "en": {
+  "title": "The Lord’s own words about His Church",
+  "intro": "The Lord Himself spoke these words. What sets the Church apart is the priesthood authority restored to it.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE LORD’S WORDS",
+    "text": "He called it “the only true and living church upon the face of the whole earth.”"
+   },
+   {
+    "label": "HOW IT IS MEANT",
+    "text": "He added that He is well pleased with it, speaking of the Church collectively and not individually."
+   },
+   {
+    "label": "WHY ONLY",
+    "text": "The priesthood did not pass down from the apostles. It was brought again from heaven."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine and Covenants 1:30",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The sequel of the apostasy (paragraphs 32–33)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Les paroles du Seigneur sur son Église",
+  "intro": "C’est le Seigneur lui-même qui a dit ces paroles. Ce qui distingue l’Église, c’est l’autorité de la prêtrise qui lui a été rendue.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LES PAROLES DU SEIGNEUR",
+    "text": "Il l’a appelée « la seule Église vraie et vivante sur toute la surface de la terre »."
+   },
+   {
+    "label": "SENS DE CES PAROLES",
+    "text": "Il a ajouté qu’il s’en réjouit, en parlant de l’Église collectivement et non individuellement."
+   },
+   {
+    "label": "POURQUOI SEULE",
+    "text": "La prêtrise ne s’est pas transmise depuis les apôtres. Elle a été rapportée du ciel."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine et Alliances 1:30",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La suite de l’apostasie (paragraphes 32–33)"
+   }
+  ]
+ }
+}

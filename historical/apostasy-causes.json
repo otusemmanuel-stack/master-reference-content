@@ -1,0 +1,69 @@
+{
+ "v": 3,
+ "en": {
+  "title": "How the apostasy came",
+  "intro": "God does not force people to stay faithful. The apostles warned that the Church would be pressed from outside and changed from within.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "FORETOLD",
+    "text": "Paul told the Ephesian elders that grievous wolves would enter in, and that men would rise from among them speaking perverse things."
+   },
+   {
+    "label": "FROM OUTSIDE",
+    "text": "Persecution pressed hard on the Saints."
+   },
+   {
+    "label": "FROM INSIDE",
+    "text": "Gospel truths were mixed with human philosophy. Ordinances and Church organization were changed without authority."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Acts 20:29–30",
+    "note": "New Testament"
+   },
+   {
+    "label": "2 Timothy 4:3–4",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 4–9",
+    "note": "Causes of the apostasy, outside and within (paragraphs various)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Comment l’apostasie est arrivée",
+  "intro": "Dieu ne force personne à rester fidèle. Les apôtres ont averti que l’Église serait pressée du dehors et changée du dedans.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "ANNONCÉ",
+    "text": "Paul a dit aux anciens d’Éphèse que des loups cruels entreraient parmi eux, et que des hommes se lèveraient du milieu d’eux en enseignant des choses pernicieuses."
+   },
+   {
+    "label": "DU DEHORS",
+    "text": "La persécution a pesé lourdement sur les saints."
+   },
+   {
+    "label": "DU DEDANS",
+    "text": "Les vérités de l’Évangile ont été mêlées à la philosophie humaine. Les ordonnances et l’organisation de l’Église ont été changées sans autorité."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Actes 20:29–30",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "2 Timothée 4:3–4",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 4–9",
+    "note": "Causes de l’apostasie, extérieures et intérieures (paragraphes various)"
+   }
+  ]
+ }
+}
