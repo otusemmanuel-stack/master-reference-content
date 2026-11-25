@@ -1,0 +1,77 @@
+{
+ "v": 4,
+ "en": {
+  "title": "Succession or restoration",
+  "intro": "The Catholic Church teaches that authority passed in an unbroken line from Peter. The restored gospel teaches that authority returned from heaven.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE CLAIM",
+    "text": "Bishops of Rome came to claim the apostleship by lineal succession from Peter."
+   },
+   {
+    "label": "THE TEACHING",
+    "text": "The priesthood is not an inheritance from the apostolic age. It was an endowment of a new dispensation, brought by heavenly ministration."
+   },
+   {
+    "label": "THE MESSENGERS",
+    "text": "John the Baptist, then Peter, James and John conferred the priesthood on Joseph Smith and Oliver Cowdery."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine and Covenants 13",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 27:12",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Rome claims supremacy (paragraphs 7)"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The sequel of the apostasy (paragraphs 33)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Succession ou rétablissement",
+  "intro": "L’Église catholique enseigne que l’autorité s’est transmise sans interruption depuis Pierre. L’Évangile rétabli enseigne que l’autorité est revenue du ciel.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LA PRÉTENTION",
+    "text": "Les évêques de Rome en sont venus à revendiquer l’apostolat par succession directe depuis Pierre."
+   },
+   {
+    "label": "L’ENSEIGNEMENT",
+    "text": "La prêtrise n’est pas un héritage de l’âge apostolique. Elle a été le don d’une nouvelle dispensation, apportée par un ministère céleste."
+   },
+   {
+    "label": "LES MESSAGERS",
+    "text": "Jean-Baptiste, puis Pierre, Jacques et Jean ont conféré la prêtrise à Joseph Smith et à Oliver Cowdery."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine et Alliances 13",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 27:12",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Rome revendique la suprématie (paragraphes 7)"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La suite de l’apostasie (paragraphes 33)"
+   }
+  ]
+ }
+}

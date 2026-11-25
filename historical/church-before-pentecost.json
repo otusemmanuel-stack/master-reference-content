@@ -1,0 +1,77 @@
+{
+ "v": 4,
+ "en": {
+  "title": "The Church before Pentecost",
+  "intro": "Before He ascended, Jesus Christ had already ordained apostles, called the seventy and given Peter the keys. The Church had its order and authority.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE TWELVE",
+    "text": "He chose twelve and ordained them to preach and to heal."
+   },
+   {
+    "label": "THE SEVENTY",
+    "text": "He sent seventy out in pairs, with authority."
+   },
+   {
+    "label": "THE KEYS",
+    "text": "He promised Peter the keys of the kingdom of heaven."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luke 6:13",
+    "note": "New Testament"
+   },
+   {
+    "label": "Luke 10:1",
+    "note": "New Testament"
+   },
+   {
+    "label": "Matthew 16:18–19",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 1",
+    "note": "The calling of the twelve and the seventy (paragraphs 13–15)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "L’Église avant la Pentecôte",
+  "intro": "Avant de monter au ciel, Jésus-Christ avait déjà ordonné des apôtres, appelé les soixante-dix et donné les clés à Pierre. L’Église avait déjà son ordre et son autorité.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LES DOUZE",
+    "text": "Il en a choisi douze et les a ordonnés pour prêcher et pour guérir."
+   },
+   {
+    "label": "LES SOIXANTE-DIX",
+    "text": "Il a envoyé soixante-dix disciples deux par deux, avec autorité."
+   },
+   {
+    "label": "LES CLÉS",
+    "text": "Il a promis à Pierre les clés du royaume des cieux."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luc 6:13",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Luc 10:1",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Matthieu 16:18–19",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 1",
+    "note": "L’appel des douze et des soixante-dix (paragraphes 13–15)"
+   }
+  ]
+ }
+}

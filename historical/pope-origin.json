@@ -1,0 +1,69 @@
+{
+ "v": 4,
+ "en": {
+  "title": "How Rome came to lead",
+  "intro": "In the first churches, no church ruled over the others. Over time, rank and councils grew, and the bishop of Rome claimed supremacy.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "EARLY CHURCHES",
+    "text": "Each church stood on its own. Bishops were equal, and any deference to older churches was voluntary."
+   },
+   {
+    "label": "RANK GREW",
+    "text": "Bishops of large cities took higher titles. Church councils began to give orders."
+   },
+   {
+    "label": "ROME",
+    "text": "The bishop of Rome claimed to be the successor of Peter. Scripture names the Church’s officers and shows Peter given the keys."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Ephesians 4:11",
+    "note": "New Testament"
+   },
+   {
+    "label": "Matthew 16:18–19",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Early church government and the bishops of Rome (paragraphs 4–8)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Comment Rome en est venue à diriger",
+  "intro": "Dans les premières Églises, aucune Église ne dominait les autres. Avec le temps, le rang et les conciles ont grandi, et l’évêque de Rome a revendiqué la suprématie.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "PREMIÈRES ÉGLISES",
+    "text": "Chaque Église tenait debout seule. Les évêques étaient égaux, et la déférence envers les Églises plus anciennes était volontaire."
+   },
+   {
+    "label": "LE RANG A GRANDI",
+    "text": "Les évêques des grandes villes ont pris des titres plus élevés. Les conciles ont commencé à donner des ordres."
+   },
+   {
+    "label": "ROME",
+    "text": "L’évêque de Rome a prétendu être le successeur de Pierre. L’Écriture nomme les responsables de l’Église et montre que les clés ont été données à Pierre."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Éphésiens 4:11",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Matthieu 16:18–19",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 9",
+    "note": "Le gouvernement de l’Église primitive et les évêques de Rome (paragraphes 4–8)"
+   }
+  ]
+ }
+}

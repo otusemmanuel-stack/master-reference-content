@@ -1,0 +1,69 @@
+{
+ "v": 4,
+ "en": {
+  "title": "Restored, not reformed",
+  "intro": "Reform can correct what exists. Authority that has been lost cannot be repaired by people. It has to be given again by God.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE NEED",
+    "text": "Once the priesthood was taken from among men, no human power could restore it."
+   },
+   {
+    "label": "THE ANSWER",
+    "text": "Joseph Smith asked which church to join. He was told to join none."
+   },
+   {
+    "label": "THE RESULT",
+    "text": "The Father and the Son appeared, and the priesthood came back with all its authority."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Joseph Smith—History 1:18–19",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "Doctrine and Covenants 13",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The sequel of the apostasy (paragraphs 30–32)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Rétabli, pas réformé",
+  "intro": "Une réforme peut corriger ce qui existe. Une autorité perdue ne peut pas être réparée par les hommes. Dieu doit la donner de nouveau.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LE BESOIN",
+    "text": "Une fois la prêtrise retirée du milieu des hommes, aucune puissance humaine ne pouvait la rétablir."
+   },
+   {
+    "label": "LA RÉPONSE",
+    "text": "Joseph Smith a demandé quelle Église rejoindre. On lui a dit de n’en rejoindre aucune."
+   },
+   {
+    "label": "LE RÉSULTAT",
+    "text": "Le Père et le Fils sont apparus, et la prêtrise est revenue avec toute son autorité."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Joseph Smith, Histoire 1:18–19",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "Doctrine et Alliances 13",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La suite de l’apostasie (paragraphes 30–32)"
+   }
+  ]
+ }
+}

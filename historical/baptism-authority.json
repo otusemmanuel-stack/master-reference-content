@@ -1,0 +1,69 @@
+{
+ "v": 4,
+ "en": {
+  "title": "Baptism needs authority",
+  "intro": "Baptism is an ordinance of God. It was performed by one invested with priesthood authority, not by anyone who chose to.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "CHRIST’S EXAMPLE",
+    "text": "Jesus Christ came to John to be baptized, and John baptized Him."
+   },
+   {
+    "label": "IN THE EARLY CHURCH",
+    "text": "Baptism was by immersion, at the hands of one holding the needed authority."
+   },
+   {
+    "label": "EPHESUS",
+    "text": "Disciples there had not received the Holy Ghost. Paul baptized them again and laid his hands on them."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthew 3:13–17",
+    "note": "New Testament"
+   },
+   {
+    "label": "Acts 19:1–7",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 8",
+    "note": "Baptism in the early Church (paragraphs 10)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le baptême demande de l’autorité",
+  "intro": "Le baptême est une ordonnance de Dieu. Il était accompli par quelqu’un qui détenait l’autorité de la prêtrise, et non par n’importe qui.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "L’EXEMPLE DU CHRIST",
+    "text": "Jésus-Christ est venu à Jean pour être baptisé, et Jean l’a baptisé."
+   },
+   {
+    "label": "DANS L’ÉGLISE PRIMITIVE",
+    "text": "Le baptême se faisait par immersion, de la main de quelqu’un qui détenait l’autorité nécessaire."
+   },
+   {
+    "label": "ÉPHÈSE",
+    "text": "Des disciples n’y avaient pas reçu le Saint-Esprit. Paul les a baptisés de nouveau et leur a imposé les mains."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthieu 3:13–17",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Actes 19:1–7",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 8",
+    "note": "Le baptême dans l’Église primitive (paragraphes 10)"
+   }
+  ]
+ }
+}

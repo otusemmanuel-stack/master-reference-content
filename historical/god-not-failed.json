@@ -1,0 +1,69 @@
+{
+ "v": 4,
+ "en": {
+  "title": "God foreknew, and allowed agency",
+  "intro": "The apostasy did not catch God by surprise. People were free to choose, and God had a plan to bring the gospel back.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "FOREKNOWN",
+    "text": "The persecutions and the rise of an apostate church were foreknown to the Lord."
+   },
+   {
+    "label": "AGENCY",
+    "text": "God permitted full scope to human agency. That does not mean the evil was His will."
+   },
+   {
+    "label": "THE PROMISE",
+    "text": "He foretold a famine of hearing His words, and then the gospel returning."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Amos 8:11–12",
+    "note": "Old Testament"
+   },
+   {
+    "label": "Revelation 14:6–7",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "The overruling power in the apostasy (paragraphs 19)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Dieu le savait et a laissé le libre arbitre",
+  "intro": "L’apostasie n’a pas pris Dieu par surprise. Les gens étaient libres de choisir, et Dieu avait un plan pour rapporter l’Évangile.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "PRÉVU",
+    "text": "Les persécutions et la naissance d’une Église apostate étaient connues du Seigneur d’avance."
+   },
+   {
+    "label": "LE LIBRE ARBITRE",
+    "text": "Dieu a laissé libre cours au libre arbitre des hommes. Cela ne veut pas dire que le mal était sa volonté."
+   },
+   {
+    "label": "LA PROMESSE",
+    "text": "Il a annoncé une famine d’entendre ses paroles, puis le retour de l’Évangile."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Amos 8:11–12",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "Apocalypse 14:6–7",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 10",
+    "note": "La puissance qui domine l’apostasie (paragraphes 19)"
+   }
+  ]
+ }
+}

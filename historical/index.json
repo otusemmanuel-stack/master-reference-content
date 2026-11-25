@@ -1,25 +1,25 @@
 {
   "version": 1,
   "pieces": {
-    "Why is baptism by immersion needed?": {
+    "How did sprinkling and pouring come to replace immersion in Christian baptism?": {
       "id": "baptism-immersion-changed",
-      "v": 3,
+      "v": 4,
       "langs": [
         "en",
         "fr"
       ]
     },
-    "Is the Melchizedek Priesthood still on the earth today?": {
+    "Is the Melchizedek Priesthood Still on the Earth, and How Was It Restored?": {
       "id": "melchizedek-restored",
-      "v": 3,
+      "v": 4,
       "langs": [
         "en",
         "fr"
       ]
     },
-    "Is there only one right priesthood authority from God?": {
+    "Is Priesthood Authority from God Found in Only One Church?": {
       "id": "one-priesthood-authority",
-      "v": 3,
+      "v": 4,
       "langs": [
         "en",
         "fr"
@@ -27,7 +27,7 @@
     },
     "Did Jesus Christ Establish an Organized Church, or Is Personal Faith Enough?": {
       "id": "christ-organized-church",
-      "v": 3,
+      "v": 4,
       "langs": [
         "en",
         "fr"
@@ -35,7 +35,7 @@
     },
     "If God Was Protecting His Church, How Could the Great Apostasy Happen?": {
       "id": "apostasy-causes",
-      "v": 3,
+      "v": 4,
       "langs": [
         "en",
         "fr"
@@ -43,7 +43,7 @@
     },
     "If Other Churches Teach Truth, Why Is the Fullness of the Gospel Found in One Church?": {
       "id": "fullness-restored",
-      "v": 3,
+      "v": 4,
       "langs": [
         "en",
         "fr"
@@ -51,7 +51,87 @@
     },
     "Why Does the Church Claim to Be the Only True and Living Church?": {
       "id": "only-true-church",
-      "v": 3,
+      "v": 4,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "How did infant baptism begin, and is it supported by scripture?": {
+      "id": "infant-baptism",
+      "v": 4,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Why Is Baptism by Priesthood Authority Necessary?": {
+      "id": "baptism-authority",
+      "v": 4,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Was Christ's Church Already Organized Before the Day of Pentecost?": {
+      "id": "church-before-pentecost",
+      "v": 4,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Why Does Christ's Church Need Apostles and Prophets Today?": {
+      "id": "apostles-prophets-needed",
+      "v": 4,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Did the Loss of Christ's Original Church Mean That God Had Failed?": {
+      "id": "god-not-failed",
+      "v": 4,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "What is the origin of the Pope, and does this office have a biblical foundation?": {
+      "id": "pope-origin",
+      "v": 4,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "How Does the Restoration Explain the Question of Catholic Apostolic Authority?": {
+      "id": "catholic-authority",
+      "v": 4,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Why Was the Gospel Restored Rather Than Reformed?": {
+      "id": "restored-not-reformed",
+      "v": 4,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "If Christ Established One Church, Why Are There So Many Churches Today?": {
+      "id": "many-churches",
+      "v": 4,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    "Why did Christianity split into so many different churches?": {
+      "id": "many-churches",
+      "v": 4,
       "langs": [
         "en",
         "fr"
@@ -59,7 +139,7 @@
     },
     "Did Christ's Original Church Really Fall Away? What About His Promise?": {
       "id": "great-apostasy-falling-away",
-      "v": 3,
+      "v": 4,
       "langs": [
         "en",
         "fr"

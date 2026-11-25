@@ -1,0 +1,69 @@
+{
+ "v": 4,
+ "en": {
+  "title": "Divisions were foretold",
+  "intro": "Christ built one Church. The apostles warned that men would rise up and draw disciples away, and that divisions would follow.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "FORETOLD",
+    "text": "Paul told the Ephesian elders that men would rise from among them and draw disciples after themselves."
+   },
+   {
+    "label": "ONE FAITH",
+    "text": "The Church was meant to have one Lord, one faith and one baptism."
+   },
+   {
+    "label": "THE REMEDY",
+    "text": "Authority returned from heaven, so that the Church could be established again."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Acts 20:29–30",
+    "note": "New Testament"
+   },
+   {
+    "label": "Ephesians 4:4–5",
+    "note": "New Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 2",
+    "note": "The apostasy predicted (paragraphs 26–28)"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Les divisions avaient été annoncées",
+  "intro": "Le Christ a bâti une seule Église. Les apôtres ont averti que des hommes se lèveraient pour entraîner des disciples à leur suite, et que des divisions suivraient.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "ANNONCÉ",
+    "text": "Paul a dit aux anciens d’Éphèse que des hommes se lèveraient du milieu d’eux pour entraîner des disciples après eux."
+   },
+   {
+    "label": "UNE SEULE FOI",
+    "text": "L’Église devait avoir un seul Seigneur, une seule foi et un seul baptême."
+   },
+   {
+    "label": "LE REMÈDE",
+    "text": "L’autorité est revenue du ciel, afin que l’Église puisse être établie de nouveau."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Actes 20:29–30",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Éphésiens 4:4–5",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "James E. Talmage, The Great Apostasy, ch. 2",
+    "note": "L’apostasie annoncée (paragraphes 26–28)"
+   }
+  ]
+ }
+}
