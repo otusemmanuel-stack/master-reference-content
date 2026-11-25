@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Jesus Christ, the Firstborn",
+  "intro": "All people lived as spirit children of God before birth. Jesus Christ is the Firstborn of the Father. Lucifer was also a spirit son of the morning, who rebelled.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE FIRSTBORN",
+    "text": "Jesus Christ said, “I was in the beginning with the Father, and am the Firstborn.” Joseph Fielding Smith taught that He is the Only Begotten in the flesh and the Firstborn in the spirit."
+   },
+   {
+    "label": "LUCIFER’S CHOICE",
+    "text": "Revelation to Joseph Smith calls Lucifer “a son of the morning,” who rebelled against the Only Begotten Son. Joseph Fielding Smith taught that he sought to destroy the agency of man."
+   },
+   {
+    "label": "A DIFFERENCE IN KIND",
+    "text": "Jesus Christ was chosen and faithful, and He is the Savior. Lucifer was cast out and became Perdition. The difference lies in what each chose."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine and Covenants 93:21",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 76:25–27",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Moses 4:1–4",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "Hebrews 12:9",
+    "note": "New Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 1",
+    "note": "Christ our Elder Brother"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Jésus-Christ, le Premier-Né",
+  "intro": "Tous les êtres humains ont vécu comme enfants d’esprit de Dieu avant leur naissance. Jésus-Christ est le Premier-Né du Père. Lucifer était aussi un fils d’esprit, un fils du matin, qui s’est rebellé.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LE PREMIER-NÉ",
+    "text": "Jésus-Christ a dit : « J’étais au commencement avec le Père, et je suis le Premier-Né. » Joseph Fielding Smith a enseigné qu’il est le Fils unique dans la chair et le Premier-Né dans l’esprit."
+   },
+   {
+    "label": "LE CHOIX DE LUCIFER",
+    "text": "La révélation donnée à Joseph Smith appelle Lucifer « un fils du matin », qui s’est rebellé contre le Fils unique. Joseph Fielding Smith a enseigné qu’il cherchait à détruire le libre arbitre de l’homme."
+   },
+   {
+    "label": "UNE DIFFÉRENCE DE NATURE",
+    "text": "Jésus-Christ a été choisi et est resté fidèle : il est le Sauveur. Lucifer a été rejeté et est devenu Perdition. La différence tient à ce que chacun a choisi."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine et Alliances 93:21",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 76:25–27",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Moïse 4:1–4",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "Hébreux 12:9",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 1",
+    "note": "Le Christ, notre frère aîné"
+   }
+  ]
+ }
+}

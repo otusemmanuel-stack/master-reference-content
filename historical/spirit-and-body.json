@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "The spirit and the body",
+  "intro": "Scripture shows that each person has a spirit that lives in a body of flesh. Together they make up the soul.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "A SPIRIT IN MAN",
+    "text": "Job said there is a spirit in man. James wrote that the body without the spirit is dead. At death the spirit returns to God who gave it."
+   },
+   {
+    "label": "THE SOUL",
+    "text": "The Lord revealed that the spirit and the body are the soul of man. He also taught that spirit is matter, but more fine and pure."
+   },
+   {
+    "label": "BEFORE BIRTH",
+    "text": "Joseph Fielding Smith taught that we lived as spirit beings before this life, and came to earth to gain experiences that the spirit world could not give."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Job 32:8",
+    "note": "Old Testament"
+   },
+   {
+    "label": "James 2:26",
+    "note": "New Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 88:15",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 131:7",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 4",
+    "note": "We lived as spirit beings"
+   }
+  ]
+ },
+ "fr": {
+  "title": "L’esprit et le corps",
+  "intro": "Les Écritures montrent que chaque personne a un esprit qui vit dans un corps de chair. Ensemble, ils forment l’âme.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "UN ESPRIT DANS L’HOMME",
+    "text": "Job a dit qu’il y a un esprit dans l’homme. Jacques a écrit que le corps sans l’esprit est mort. À la mort, l’esprit retourne à Dieu qui l’a donné."
+   },
+   {
+    "label": "L’ÂME",
+    "text": "Le Seigneur a révélé que l’esprit et le corps constituent l’âme de l’homme. Il a aussi enseigné que l’esprit est de la matière, mais plus fine et plus pure."
+   },
+   {
+    "label": "AVANT LA NAISSANCE",
+    "text": "Joseph Fielding Smith a enseigné que nous avons vécu comme êtres d’esprit avant cette vie, et que nous sommes venus sur la terre pour acquérir des expériences que le monde des esprits ne pouvait donner."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Job 32:8",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "Jacques 2:26",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 88:15",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 131:7",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 4",
+    "note": "Nous avons vécu comme êtres d’esprit"
+   }
+  ]
+ }
+}

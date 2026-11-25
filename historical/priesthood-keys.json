@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Keys and the covenant of the priesthood",
+  "intro": "Priesthood is the authority to act for God. Keys direct how and when that authority is used. Receiving the priesthood is a covenant.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "WHAT KEYS ARE",
+    "text": "Joseph F. Smith taught that the power of directing priesthood labor constitutes the keys. In their fulness one man holds them at a time, the President of the Church, who may delegate them."
+   },
+   {
+    "label": "WHY KEYS MATTER",
+    "text": "Joseph Fielding Smith taught that no one has the right to officiate in ordinances without the sanction of the one who holds the keys. Jesus Christ gave Peter the keys of the kingdom."
+   },
+   {
+    "label": "THE OATH AND COVENANT",
+    "text": "The Lord promised that those faithful in both priesthoods are sanctified and receive all that the Father hath. Joseph Fielding Smith taught that this is the promise of exaltation."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthew 16:19",
+    "note": "New Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 84:33–42",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 107:8–9",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 3, ch. 7",
+    "note": "Keys and covenant of priesthood"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Les clés et l’alliance de la prêtrise",
+  "intro": "La prêtrise est l’autorité d’agir pour Dieu. Les clés dirigent comment et quand cette autorité est utilisée. Recevoir la prêtrise est une alliance.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "CE QUE SONT LES CLÉS",
+    "text": "Joseph F. Smith a enseigné que le pouvoir de diriger l’œuvre de la prêtrise constitue les clés. Dans leur plénitude, un seul homme les détient à la fois, le président de l’Église, qui peut en déléguer une partie."
+   },
+   {
+    "label": "POURQUOI LES CLÉS COMPTENT",
+    "text": "Joseph Fielding Smith a enseigné que personne n’a le droit d’officier dans les ordonnances sans l’accord de celui qui détient les clés. Jésus-Christ a donné à Pierre les clés du royaume."
+   },
+   {
+    "label": "LE SERMENT ET L’ALLIANCE",
+    "text": "Le Seigneur a promis que ceux qui sont fidèles dans les deux prêtrises sont sanctifiés et reçoivent tout ce que le Père a. Joseph Fielding Smith a enseigné que c’est la promesse de l’exaltation."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthieu 16:19",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 84:33–42",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 107:8–9",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 3, ch. 7",
+    "note": "Les clés et l’alliance de la prêtrise"
+   }
+  ]
+ }
+}

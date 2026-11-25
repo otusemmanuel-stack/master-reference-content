@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "en": {
+  "title": "The gift of the Holy Ghost",
+  "intro": "Baptism by water is completed when the gift of the Holy Ghost is conferred by the laying on of hands. The gift is the right to the constant companionship of the Holy Ghost.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "TWO PARTS OF ONE BIRTH",
+    "text": "Jesus Christ taught that a person must be born of water and of the Spirit. Joseph Fielding Smith taught that baptism is completed by confirmation, and that the gift can come no other way."
+   },
+   {
+    "label": "BY THE LAYING ON OF HANDS",
+    "text": "In Samaria, Peter and John prayed and laid their hands on the baptized, and they received the Holy Ghost. The Lord told the elders to confirm those who are baptized, by the laying on of hands."
+   },
+   {
+    "label": "A CONSTANT COMPANION",
+    "text": "Joseph Fielding Smith taught that the gift is nothing less than the right to the companionship of the Holy Ghost, if the person remains worthy."
+   }
+  ],
+  "chips": [
+   {
+    "label": "John 3:5",
+    "note": "New Testament"
+   },
+   {
+    "label": "Acts 8:14–17",
+    "note": "New Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 20:41",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 3",
+    "note": "The gift of the Holy Ghost defined"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le don du Saint-Esprit",
+  "intro": "Le baptême d’eau est achevé quand le don du Saint-Esprit est conféré par l’imposition des mains. Ce don est le droit à la compagnie constante du Saint-Esprit.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "DEUX PARTIES D’UNE SEULE NAISSANCE",
+    "text": "Jésus-Christ a enseigné qu’il faut naître d’eau et d’Esprit. Joseph Fielding Smith a enseigné que le baptême est achevé par la confirmation, et que le don ne peut venir autrement."
+   },
+   {
+    "label": "PAR L’IMPOSITION DES MAINS",
+    "text": "En Samarie, Pierre et Jean ont prié et imposé les mains aux baptisés, qui ont reçu le Saint-Esprit. Le Seigneur a dit aux anciens de confirmer ceux qui sont baptisés par l’imposition des mains."
+   },
+   {
+    "label": "UN COMPAGNON CONSTANT",
+    "text": "Joseph Fielding Smith a enseigné que le don est le droit à la compagnie du Saint-Esprit, tant que la personne reste digne."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Jean 3:5",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Actes 8:14–17",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 20:41",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 3",
+    "note": "Le don du Saint-Esprit défini"
+   }
+  ]
+ }
+}

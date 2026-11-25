@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "The Holy Spirit of Promise and the everlasting covenant",
+  "intro": "Every ordinance carries a promise from God. The Holy Spirit confirms it when it is received and kept in faithfulness.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "A SEAL ON EVERY ORDINANCE",
+    "text": "Paul wrote that believers are sealed with that Holy Spirit of promise. Joseph Fielding Smith taught that this applies to baptism, confirmation, ordination and marriage, not marriage alone."
+   },
+   {
+    "label": "KEPT BY FAITHFULNESS",
+    "text": "He taught that the Spirit withdraws its approval when covenants are broken, so the promised blessings are not received."
+   },
+   {
+    "label": "THE EVERLASTING COVENANT",
+    "text": "The Lord called baptism a new and everlasting covenant, even that which was from the beginning. Joseph Fielding Smith taught that it is the sum of all gospel covenants and obligations."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Ephesians 1:13",
+    "note": "New Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 132:7",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 22:1",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 66:2",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 10",
+    "note": "Everlasting covenants"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le Saint-Esprit de promesse et l’alliance éternelle",
+  "intro": "Chaque ordonnance porte une promesse de Dieu. Le Saint-Esprit la confirme quand elle est reçue et observée avec fidélité.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "UN SCEAU SUR CHAQUE ORDONNANCE",
+    "text": "Paul a écrit que les croyants sont scellés du Saint-Esprit de la promesse. Joseph Fielding Smith a enseigné que cela s’applique au baptême, à la confirmation, à l’ordination et au mariage, et pas seulement au mariage."
+   },
+   {
+    "label": "MAINTENU PAR LA FIDÉLITÉ",
+    "text": "Il a enseigné que l’Esprit retire son approbation quand les alliances sont rompues, de sorte que les bénédictions promises ne sont pas reçues."
+   },
+   {
+    "label": "L’ALLIANCE ÉTERNELLE",
+    "text": "Le Seigneur a appelé le baptême une alliance nouvelle et éternelle, celle qui existait dès le commencement. Joseph Fielding Smith a enseigné qu’elle est l’ensemble de toutes les alliances et obligations de l’Évangile."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Éphésiens 1:13",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 132:7",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 22:1",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 66:2",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 10",
+    "note": "Les alliances éternelles"
+   }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "The gospel was taught from the beginning",
+  "intro": "The gospel is not new to the New Testament. God taught Adam the same plan of salvation.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "GIVEN TO ADAM",
+    "text": "An angel told Adam that the Only Begotten Son would redeem him, and that he should repent and call on God in the name of the Son. Adam was baptized and received the Holy Ghost."
+   },
+   {
+    "label": "KNOWN BY THE ANCIENTS",
+    "text": "Paul wrote that the scripture foresaw that God would justify the heathen through faith, and preached the gospel beforehand to Abraham."
+   },
+   {
+    "label": "NEVER CHANGING",
+    "text": "Joseph Fielding Smith taught that these principles were taught from the beginning among Adam’s children. Some believed, and many rejected them."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Moses 5:58–59",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "Moses 6:51–68",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "Galatians 3:8",
+    "note": "New Testament"
+   },
+   {
+    "label": "Hebrews 4:2",
+    "note": "New Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 10",
+    "note": "The gospel taught from the beginning"
+   }
+  ]
+ },
+ "fr": {
+  "title": "L’Évangile a été enseigné dès le commencement",
+  "intro": "L’Évangile n’est pas nouveau dans le Nouveau Testament. Dieu a enseigné à Adam le même plan de salut.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "DONNÉ À ADAM",
+    "text": "Un ange a dit à Adam que le Fils unique le rachèterait et qu’il devait se repentir et invoquer Dieu au nom du Fils. Adam a été baptisé et a reçu le Saint-Esprit."
+   },
+   {
+    "label": "CONNU DES ANCIENS",
+    "text": "Paul a écrit que l’Écriture a prévu que Dieu justifierait les païens par la foi, et qu’elle a d’avance annoncé l’Évangile à Abraham."
+   },
+   {
+    "label": "QUI NE CHANGE PAS",
+    "text": "Joseph Fielding Smith a enseigné que ces principes ont été enseignés dès le commencement parmi les enfants d’Adam. Certains les ont crus, et beaucoup les ont rejetés."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Moïse 5:58–59",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "Moïse 6:51–68",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "Galates 3:8",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Hébreux 4:2",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 10",
+    "note": "L’Évangile enseigné dès le commencement"
+   }
+  ]
+ }
+}

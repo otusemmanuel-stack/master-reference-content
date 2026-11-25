@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Patriarchal blessings",
+  "intro": "A patriarchal blessing follows the pattern of the ancient patriarchs. Jacob blessed his sons, and the order was handed down from father to son.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "A PATH TO FOLLOW",
+    "text": "Joseph Fielding Smith taught that a blessing is meant to point out the path the person should travel. It is given by the spirit of revelation, as comfort and encouragement to be faithful to the end."
+   },
+   {
+    "label": "CONDITIONAL ON FAITHFULNESS",
+    "text": "He taught that the blessing is sealed on the head of the person to be enjoyed if the person proves faithful. It is not a prediction that happens regardless of choices."
+   },
+   {
+    "label": "LINEAGE IN ISRAEL",
+    "text": "He taught that a patriarch may declare literal descent by inspiration. Paul wrote that those who belong to Christ are Abraham’s seed, and heirs according to the promise."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Genesis 49:1–28",
+    "note": "Old Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 107:39–57",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Galatians 3:27–29",
+    "note": "New Testament"
+   },
+   {
+    "label": "Abraham 2:10–11",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 3, ch. 9",
+    "note": "Nature and purpose of patriarchal blessings"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Les bénédictions patriarcales",
+  "intro": "Une bénédiction patriarcale suit le modèle des anciens patriarches. Jacob a béni ses fils, et l’ordre s’est transmis de père en fils.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "UN CHEMIN À SUIVRE",
+    "text": "Joseph Fielding Smith a enseigné qu’une bénédiction est destinée à montrer le chemin que la personne doit suivre. Elle est donnée par l’esprit de révélation, comme un réconfort et un encouragement à rester fidèle jusqu’à la fin."
+   },
+   {
+    "label": "SOUMISE À LA FIDÉLITÉ",
+    "text": "Il a enseigné que la bénédiction est scellée sur la tête de la personne pour qu’elle en jouisse si elle se montre fidèle. Ce n’est pas une prédiction qui se réalise quels que soient les choix."
+   },
+   {
+    "label": "LE LIGNAGE EN ISRAËL",
+    "text": "Il a enseigné qu’un patriarche peut déclarer la descendance littérale par inspiration. Paul a écrit que ceux qui appartiennent au Christ sont la postérité d’Abraham et héritiers selon la promesse."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Genèse 49:1–28",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 107:39–57",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Galates 3:27–29",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Abraham 2:10–11",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 3, ch. 9",
+    "note": "Nature et but des bénédictions patriarcales"
+   }
+  ]
+ }
+}

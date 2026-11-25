@@ -1,0 +1,93 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Three persons, one purpose",
+  "intro": "Scripture shows the Father, the Son and the Holy Ghost as three distinct persons. They are one in purpose, not one person.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE FATHER AND THE SON HAVE BODIES",
+    "text": "God created man in His own image. Paul wrote that Jesus Christ is the express image of the Father’s person. The risen Jesus Christ had flesh and bones."
+   },
+   {
+    "label": "DISTINCT PERSONS",
+    "text": "At the baptism of Jesus Christ the Son stood in the water, the Father spoke from heaven and the Holy Ghost descended. Jesus Christ said, “My Father is greater than I,” and prayed to Him."
+   },
+   {
+    "label": "ONE IN PURPOSE",
+    "text": "Jesus Christ prayed that His disciples may be one, as He and the Father are one. Joseph Fielding Smith taught that the three are the governing council, united in perfect harmony."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Genesis 1:26–27",
+    "note": "Old Testament"
+   },
+   {
+    "label": "Hebrews 1:3",
+    "note": "New Testament"
+   },
+   {
+    "label": "Matthew 3:16–17",
+    "note": "New Testament"
+   },
+   {
+    "label": "John 17:20–23",
+    "note": "New Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 130:22",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 1",
+    "note": "The Godhead"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Trois personnes, un seul but",
+  "intro": "Les Écritures montrent le Père, le Fils et le Saint-Esprit comme trois personnes distinctes. Ils sont un dans le but, non une seule personne.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LE PÈRE ET LE FILS ONT UN CORPS",
+    "text": "Dieu a créé l’homme à son image. Paul a écrit que Jésus-Christ est l’empreinte de la personne du Père. Jésus-Christ ressuscité avait de la chair et des os."
+   },
+   {
+    "label": "DES PERSONNES DISTINCTES",
+    "text": "Au baptême de Jésus-Christ, le Fils était dans l’eau, le Père parlait depuis le ciel et le Saint-Esprit est descendu. Jésus-Christ a dit : « Mon Père est plus grand que moi », et il a prié le Père."
+   },
+   {
+    "label": "UN DANS LE BUT",
+    "text": "Jésus-Christ a prié pour que ses disciples soient un, comme lui et le Père sont un. Joseph Fielding Smith a enseigné que les trois forment le conseil dirigeant, unis dans une parfaite harmonie."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Genèse 1:26–27",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "Hébreux 1:3",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Matthieu 3:16–17",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Jean 17:20–23",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 130:22",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 1",
+    "note": "La Divinité"
+   }
+  ]
+ }
+}

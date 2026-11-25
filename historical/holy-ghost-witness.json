@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "en": {
+  "title": "A witness before baptism",
+  "intro": "Cornelius received a witness of the truth before he was baptized. The Holy Ghost can testify to anyone who asks God with a sincere heart.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE PROMISE",
+    "text": "Moroni promised that God will manifest the truth by the power of the Holy Ghost to those who ask with a sincere heart, with real intent, having faith in Christ."
+   },
+   {
+    "label": "WITNESS AND GIFT",
+    "text": "Joseph Fielding Smith taught that a person can be convinced by the Holy Ghost before baptism, but cannot receive the gift of the Holy Ghost until he is baptized and confirmed."
+   },
+   {
+    "label": "MORE THAN A FEELING",
+    "text": "Joseph Fielding Smith taught that this witness differs from other manifestations. It is renewed day after day, year after year, if the person lives worthy of it."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Moroni 10:4–5",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Acts 10:44–48",
+    "note": "New Testament"
+   },
+   {
+    "label": "1 Corinthians 12:3",
+    "note": "New Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 3",
+    "note": "Testimony comes from the Holy Ghost"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Un témoignage avant le baptême",
+  "intro": "Corneille a reçu un témoignage de la vérité avant d’être baptisé. Le Saint-Esprit peut rendre témoignage à quiconque demande à Dieu avec un cœur sincère.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LA PROMESSE",
+    "text": "Moroni a promis que Dieu manifestera la vérité par le pouvoir du Saint-Esprit à ceux qui demandent avec un cœur sincère, avec une réelle intention, ayant foi au Christ."
+   },
+   {
+    "label": "TÉMOIGNAGE ET DON",
+    "text": "Joseph Fielding Smith a enseigné qu’une personne peut être convaincue par le Saint-Esprit avant le baptême, mais ne peut recevoir le don du Saint-Esprit qu’après avoir été baptisée et confirmée."
+   },
+   {
+    "label": "PLUS QU’UN SENTIMENT",
+    "text": "Joseph Fielding Smith a enseigné que ce témoignage diffère des autres manifestations. Il est renouvelé jour après jour, année après année, si la personne vit de manière à en être digne."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Moroni 10:4–5",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Actes 10:44–48",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "1 Corinthiens 12:3",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 3",
+    "note": "Le témoignage vient du Saint-Esprit"
+   }
+  ]
+ }
+}

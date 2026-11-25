@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Two priesthoods, one purpose",
+  "intro": "Revelation to Joseph Smith describes two priesthoods. The higher presides over the lesser. All offices serve the same work.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "THE MELCHIZEDEK PRIESTHOOD",
+    "text": "The Lord revealed that it holds the right of presidency and power over all offices in the Church, to administer in spiritual things. Its offices are elder, seventy and high priest."
+   },
+   {
+    "label": "THE AARONIC PRIESTHOOD",
+    "text": "It holds the keys of the ministering of angels and the preparatory gospel of repentance and baptism. Joseph Fielding Smith taught that Israel was given this lesser priesthood after the higher was withdrawn."
+   },
+   {
+    "label": "OFFICES ARE FOR SERVICE",
+    "text": "The Lord said all other offices are appendages to the priesthood. Each man must learn his duty and act in his office in all diligence."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine and Covenants 107:1–20",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 107:99–100",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Hebrews 7:11–12",
+    "note": "New Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 3, ch. 5",
+    "note": "Priesthood: God’s eternal power"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Deux prêtrises, un seul but",
+  "intro": "La révélation donnée à Joseph Smith décrit deux prêtrises. La plus élevée préside la moindre. Toutes les fonctions servent la même œuvre.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "LA PRÊTRISE DE MELCHISÉDEK",
+    "text": "Le Seigneur a révélé qu’elle détient le droit de présidence et le pouvoir sur toutes les fonctions de l’Église, pour administrer les choses spirituelles. Ses fonctions sont celles d’ancien, de soixante-dix et de grand prêtre."
+   },
+   {
+    "label": "LA PRÊTRISE D’AARON",
+    "text": "Elle détient les clés du ministère d’anges et de l’Évangile préparatoire de repentir et de baptême. Joseph Fielding Smith a enseigné qu’Israël a reçu cette prêtrise moindre après le retrait de la plus élevée."
+   },
+   {
+    "label": "LES FONCTIONS SONT UN SERVICE",
+    "text": "Le Seigneur a dit que toutes les autres fonctions sont des appendices de la prêtrise. Chaque homme doit apprendre son devoir et agir dans sa fonction avec toute diligence."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine et Alliances 107:1–20",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 107:99–100",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Hébreux 7:11–12",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 3, ch. 5",
+    "note": "La prêtrise : le pouvoir éternel de Dieu"
+   }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Little children and the age of accountability",
+  "intro": "Little children are redeemed through the Atonement of Jesus Christ. They are not under condemnation, and baptism begins when they become accountable.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "REDEEMED THROUGH CHRIST",
+    "text": "Mormon wrote that little children need no repentance, neither baptism. Revelation to Joseph Smith says children who die before the years of accountability are saved in the celestial kingdom."
+   },
+   {
+    "label": "NO ORIGINAL SIN",
+    "text": "Joseph Fielding Smith taught that little children are not tainted with sin. They are not subject to sin until they begin to know right from wrong."
+   },
+   {
+    "label": "EIGHT YEARS OLD",
+    "text": "The Lord said that children shall be baptized for the remission of their sins when eight years old. Joseph Fielding Smith taught that God appointed this age."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Moroni 8:8–12",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Doctrine and Covenants 137:10",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 68:25–27",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Mosiah 3:16–18",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 2, ch. 3",
+    "note": "Children and salvation"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Les petits enfants et l’âge de responsabilité",
+  "intro": "Les petits enfants sont rachetés par l’expiation de Jésus-Christ. Ils ne sont pas sous la condamnation, et le baptême commence quand ils deviennent responsables.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "RACHETÉS PAR LE CHRIST",
+    "text": "Mormon a écrit que les petits enfants n’ont besoin ni de repentir ni de baptême. La révélation donnée à Joseph Smith dit que les enfants qui meurent avant l’âge de responsabilité sont sauvés dans le royaume céleste."
+   },
+   {
+    "label": "PAS DE PÉCHÉ ORIGINEL",
+    "text": "Joseph Fielding Smith a enseigné que les petits enfants ne sont pas souillés par le péché. Ils n’y sont pas soumis tant qu’ils ne commencent pas à discerner le bien du mal."
+   },
+   {
+    "label": "HUIT ANS",
+    "text": "Le Seigneur a dit que les enfants seront baptisés pour la rémission de leurs péchés à l’âge de huit ans. Joseph Fielding Smith a enseigné que Dieu a fixé cet âge."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Moroni 8:8–12",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Doctrine et Alliances 137:10",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 68:25–27",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Mosiah 3:16–18",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 2, ch. 3",
+    "note": "Les enfants et le salut"
+   }
+  ]
+ }
+}

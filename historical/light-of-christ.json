@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "The Light of Christ and the Holy Ghost",
+  "intro": "The Light of Christ is given to every person born into the world. The Holy Ghost is a member of the Godhead and a separate gift.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "GIVEN TO EVERYONE",
+    "text": "John wrote that Jesus Christ is “the true Light, which lighteth every man that cometh into the world.” Mormon wrote that the Spirit of Christ is given to every person, to know good from evil."
+   },
+   {
+    "label": "A POWER, NOT A PERSON",
+    "text": "Joseph Fielding Smith taught that it is not a personage and has no body. It fills the immensity of space, gives life to all things and acts as our conscience."
+   },
+   {
+    "label": "THE HOLY GHOST IS A PERSON",
+    "text": "He taught that the Light leads a sincere person toward the gospel. After baptism and confirmation, the person may have the companionship of the Holy Ghost, a personage of Spirit."
+   }
+  ],
+  "chips": [
+   {
+    "label": "John 1:9",
+    "note": "New Testament"
+   },
+   {
+    "label": "Moroni 7:15–19",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Doctrine and Covenants 84:44–46",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Doctrine and Covenants 88:7–13",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 3",
+    "note": "The Light of Christ"
+   }
+  ]
+ },
+ "fr": {
+  "title": "La lumière du Christ et le Saint-Esprit",
+  "intro": "La lumière du Christ est donnée à toute personne qui naît dans le monde. Le Saint-Esprit est un membre de la Divinité et un don distinct.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "DONNÉE À CHACUN",
+    "text": "Jean a écrit que Jésus-Christ est « la vraie lumière, qui éclaire tout homme venant dans le monde ». Mormon a écrit que l’Esprit du Christ est donné à chacun, pour discerner le bien du mal."
+   },
+   {
+    "label": "UNE PUISSANCE, NON UNE PERSONNE",
+    "text": "Joseph Fielding Smith a enseigné qu’elle n’est pas un personnage et n’a pas de corps. Elle remplit l’immensité de l’espace, donne la vie à toutes choses et agit comme notre conscience."
+   },
+   {
+    "label": "LE SAINT-ESPRIT EST UNE PERSONNE",
+    "text": "Il a enseigné que la lumière conduit une personne sincère vers l’Évangile. Après le baptême et la confirmation, elle peut avoir la compagnie du Saint-Esprit, personnage d’Esprit."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Jean 1:9",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Moroni 7:15–19",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Doctrine et Alliances 84:44–46",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Doctrine et Alliances 88:7–13",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 3",
+    "note": "La lumière du Christ"
+   }
+  ]
+ }
+}

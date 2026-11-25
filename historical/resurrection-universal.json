@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "A physical resurrection for all",
+  "intro": "The risen Jesus Christ showed that resurrection is real and physical. Scripture also teaches that it comes to everyone.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "A BODY OF FLESH AND BONES",
+    "text": "Jesus Christ told His disciples, “Handle me, and see; for a spirit hath not flesh and bones, as ye see me have.” Then He ate before them."
+   },
+   {
+    "label": "FOR EVERY PERSON",
+    "text": "Paul wrote, “As in Adam all die, even so in Christ shall all be made alive.” Jesus Christ said all that are in the graves shall hear His voice and come forth."
+   },
+   {
+    "label": "WHY IT IS FAIR",
+    "text": "Joseph Fielding Smith taught that no one chose death, so no one is held responsible for it. Justice requires that all be redeemed from it."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luke 24:36–43",
+    "note": "New Testament"
+   },
+   {
+    "label": "John 5:28–29",
+    "note": "New Testament"
+   },
+   {
+    "label": "1 Corinthians 15:21–22",
+    "note": "New Testament"
+   },
+   {
+    "label": "Alma 11:42–44",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 2, ch. 14",
+    "note": "The universal nature of the resurrection"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Une résurrection physique pour tous",
+  "intro": "Jésus-Christ ressuscité a montré que la résurrection est réelle et physique. Les Écritures enseignent aussi qu’elle vient pour tous.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "UN CORPS DE CHAIR ET D’OS",
+    "text": "Jésus-Christ a dit à ses disciples : « Touchez-moi et voyez : un esprit n’a ni chair ni os, comme vous voyez que j’en ai. » Puis il a mangé devant eux."
+   },
+   {
+    "label": "POUR CHACUN",
+    "text": "Paul a écrit que, comme tous meurent en Adam, tous revivront en Christ. Jésus-Christ a dit que tous ceux qui sont dans les tombeaux entendront sa voix et en sortiront."
+   },
+   {
+    "label": "POURQUOI C’EST JUSTE",
+    "text": "Joseph Fielding Smith a enseigné que personne n’a choisi la mort, donc personne n’en est tenu responsable. La justice exige que tous en soient rachetés."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Luc 24:36–43",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Jean 5:28–29",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "1 Corinthiens 15:21–22",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Alma 11:42–44",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 2, ch. 14",
+    "note": "Le caractère universel de la résurrection"
+   }
+  ]
+ }
+}

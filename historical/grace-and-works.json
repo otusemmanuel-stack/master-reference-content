@@ -1,0 +1,93 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Grace and works together",
+  "intro": "Paul and James did not disagree. Joseph Fielding Smith taught that they looked at the same truth from different sides.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "SAVED BY GRACE",
+    "text": "Paul wrote, “By grace are ye saved through faith; and that not of yourselves: it is the gift of God.” Joseph Fielding Smith taught that no one can redeem himself, so all salvation comes by the grace of Jesus Christ."
+   },
+   {
+    "label": "FAITH THAT ACTS",
+    "text": "James wrote that faith without works is dead. Jesus Christ said not everyone who says “Lord, Lord” will enter the kingdom, but he that doeth the will of the Father."
+   },
+   {
+    "label": "JUDGED BY WORKS",
+    "text": "John saw the dead judged according to their works. Joseph Fielding Smith taught that each person is judged by works, opportunities and the intent of the heart."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Ephesians 2:8–9",
+    "note": "New Testament"
+   },
+   {
+    "label": "2 Nephi 25:23",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "James 2:14–26",
+    "note": "New Testament"
+   },
+   {
+    "label": "Matthew 7:21",
+    "note": "New Testament"
+   },
+   {
+    "label": "Revelation 20:12",
+    "note": "New Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 2, ch. 16",
+    "note": "Grace and works unite to bring salvation"
+   }
+  ]
+ },
+ "fr": {
+  "title": "La grâce et les œuvres ensemble",
+  "intro": "Paul et Jacques ne se contredisent pas. Joseph Fielding Smith a enseigné qu’ils regardaient la même vérité sous des angles différents.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "SAUVÉS PAR LA GRÂCE",
+    "text": "Paul a écrit : « C’est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c’est le don de Dieu. » Joseph Fielding Smith a enseigné que personne ne peut se racheter lui-même, donc tout salut vient de la grâce de Jésus-Christ."
+   },
+   {
+    "label": "UNE FOI QUI AGIT",
+    "text": "Jacques a écrit que la foi sans les œuvres est morte. Jésus-Christ a dit que ce n’est pas celui qui dit « Seigneur, Seigneur » qui entrera dans le royaume, mais celui qui fait la volonté du Père."
+   },
+   {
+    "label": "JUGÉS SELON LES ŒUVRES",
+    "text": "Jean a vu les morts jugés selon leurs œuvres. Joseph Fielding Smith a enseigné que chacun est jugé selon ses œuvres, ses occasions et l’intention de son cœur."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Éphésiens 2:8–9",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "2 Néphi 25:23",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Jacques 2:14–26",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Matthieu 7:21",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Apocalypse 20:12",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 2, ch. 16",
+    "note": "La grâce et les œuvres s’unissent pour amener le salut"
+   }
+  ]
+ }
+}

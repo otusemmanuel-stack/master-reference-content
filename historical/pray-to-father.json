@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Pray to the Father in the name of Jesus Christ",
+  "intro": "Jesus Christ taught His disciples how to pray. He directed their prayers to the Father, and He gave His own name as the way.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "TO THE FATHER",
+    "text": "Jesus Christ said, “After this manner therefore pray ye: Our Father which art in heaven.” He told the Nephites they must always pray unto the Father in His name."
+   },
+   {
+    "label": "IN HIS NAME",
+    "text": "Jesus Christ said, “Whatsoever ye shall ask the Father in my name, he will give it you.” Joseph Fielding Smith taught that we end our prayers by saying they are offered in the name of Jesus Christ."
+   },
+   {
+    "label": "FOR OUR SAKE",
+    "text": "Joseph Fielding Smith taught that we pray for our own sake. The Redeemer has already done all that is essential for our salvation, and we cannot do without Him."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthew 6:9",
+    "note": "New Testament"
+   },
+   {
+    "label": "John 16:23",
+    "note": "New Testament"
+   },
+   {
+    "label": "3 Nephi 18:19–20",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Moses 5:8",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 1",
+    "note": "Pray in the name of Christ"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Prier le Père au nom de Jésus-Christ",
+  "intro": "Jésus-Christ a enseigné à ses disciples comment prier. Il a adressé leurs prières au Père et a donné son propre nom comme chemin.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "AU PÈRE",
+    "text": "Jésus-Christ a dit : « Voici donc comment vous devez prier : Notre Père qui es aux cieux. » Il a dit aux Néphites qu’ils doivent toujours prier le Père en son nom."
+   },
+   {
+    "label": "EN SON NOM",
+    "text": "Jésus-Christ a dit : « Tout ce que vous demanderez au Père en mon nom, il vous le donnera. » Joseph Fielding Smith a enseigné que nous terminons nos prières en disant qu’elles sont faites au nom de Jésus-Christ."
+   },
+   {
+    "label": "POUR NOTRE BIEN",
+    "text": "Joseph Fielding Smith a enseigné que nous prions pour notre propre bien. Le Rédempteur a déjà fait tout ce qui est essentiel à notre salut, et nous ne pouvons pas nous passer de lui."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Matthieu 6:9",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Jean 16:23",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "3 Néphi 18:19–20",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Moïse 5:8",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 1",
+    "note": "Prier au nom du Christ"
+   }
+  ]
+ }
+}

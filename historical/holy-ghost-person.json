@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "en": {
+  "title": "The Holy Ghost is a personage of spirit",
+  "intro": "The Holy Ghost is the third member of the Godhead. Revelation to Joseph Smith teaches what makes Him different from the Father and the Son.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "A PERSONAGE OF SPIRIT",
+    "text": "The Lord revealed that the Father and the Son have bodies of flesh and bones, and that the Holy Ghost is a personage of Spirit. Joseph Fielding Smith taught that He has a spirit body only."
+   },
+   {
+    "label": "MORE THAN AN INFLUENCE",
+    "text": "At the baptism of Jesus Christ the Holy Ghost descended in the form of a dove, while the Son stood in the water and the Father spoke. Joseph Fielding Smith taught that He has size and dimensions."
+   },
+   {
+    "label": "HIS WORK",
+    "text": "Jesus Christ said the Comforter would teach all things and bring all things to remembrance. Joseph Fielding Smith taught that His mission is to bear witness of the Father, the Son and all truth."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine and Covenants 130:22",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Matthew 3:16–17",
+    "note": "New Testament"
+   },
+   {
+    "label": "John 14:26",
+    "note": "New Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 3",
+    "note": "The Holy Ghost, a personage of Spirit"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Le Saint-Esprit est un personnage d’esprit",
+  "intro": "Le Saint-Esprit est le troisième membre de la Divinité. La révélation donnée à Joseph Smith enseigne ce qui le distingue du Père et du Fils.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "UN PERSONNAGE D’ESPRIT",
+    "text": "Le Seigneur a révélé que le Père et le Fils ont un corps de chair et d’os, et que le Saint-Esprit est un personnage d’Esprit. Joseph Fielding Smith a enseigné qu’il a seulement un corps d’esprit."
+   },
+   {
+    "label": "PLUS QU’UNE INFLUENCE",
+    "text": "Au baptême de Jésus-Christ, le Saint-Esprit est descendu sous la forme d’une colombe, pendant que le Fils était dans l’eau et que le Père parlait. Joseph Fielding Smith a enseigné qu’il a une taille et des dimensions."
+   },
+   {
+    "label": "SON ŒUVRE",
+    "text": "Jésus-Christ a dit que le Consolateur enseignerait toutes choses et rappellerait toutes choses. Joseph Fielding Smith a enseigné que sa mission est de rendre témoignage du Père, du Fils et de toute vérité."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Doctrine et Alliances 130:22",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Matthieu 3:16–17",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Jean 14:26",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 3",
+    "note": "Le Saint-Esprit, personnage d’Esprit"
+   }
+  ]
+ }
+}

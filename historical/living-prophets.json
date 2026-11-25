@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Prophets and apostles today",
+  "intro": "Scripture shows that God has always led His people through prophets. Apostles and prophets were given to the Church for as long as it needs them.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "GOD REVEALS TO PROPHETS",
+    "text": "Amos wrote, “Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets.” Solomon wrote, “Where there is no vision, the people perish.”"
+   },
+   {
+    "label": "GIVEN UNTIL WE ARE UNITED",
+    "text": "Paul wrote that Christ gave apostles and prophets for the perfecting of the saints, until we all come in the unity of the faith, that we be no more tossed about by every wind of doctrine."
+   },
+   {
+    "label": "ONE VOICE FOR THE CHURCH",
+    "text": "Joseph Fielding Smith taught that one man at a time holds the keys and the right to receive revelation for the Church, the President. The Lord said that His servants’ voice is the same as His own."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Amos 3:7",
+    "note": "Old Testament"
+   },
+   {
+    "label": "Proverbs 29:18",
+    "note": "Old Testament"
+   },
+   {
+    "label": "Ephesians 4:11–14",
+    "note": "New Testament"
+   },
+   {
+    "label": "Doctrine and Covenants 1:38",
+    "note": "Doctrine and Covenants"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 16",
+    "note": "The President: sole source of revelation for the Church"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Prophètes et apôtres aujourd’hui",
+  "intro": "Les Écritures montrent que Dieu a toujours conduit son peuple par des prophètes. Des apôtres et des prophètes ont été donnés à l’Église aussi longtemps qu’elle en a besoin.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "DIEU RÉVÈLE À SES PROPHÈTES",
+    "text": "Amos a écrit que le Seigneur ne fait rien sans avoir révélé son secret à ses serviteurs les prophètes. Salomon a écrit que, sans vision, le peuple périt."
+   },
+   {
+    "label": "DONNÉS JUSQU’À CE QUE NOUS SOYONS UNIS",
+    "text": "Paul a écrit que le Christ a donné des apôtres et des prophètes pour le perfectionnement des saints, jusqu’à ce que nous parvenions tous à l’unité de la foi, afin de ne plus être emportés à tout vent de doctrine."
+   },
+   {
+    "label": "UNE SEULE VOIX POUR L’ÉGLISE",
+    "text": "Joseph Fielding Smith a enseigné qu’un seul homme à la fois détient les clés et le droit de recevoir la révélation pour l’Église : le président. Le Seigneur a dit que la voix de ses serviteurs est la même que la sienne."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Amos 3:7",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "Proverbes 29:18",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "Éphésiens 4:11–14",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Doctrine et Alliances 1:38",
+    "note": "Doctrine et Alliances"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 16",
+    "note": "Le président : seule source de révélation pour l’Église"
+   }
+  ]
+ }
+}

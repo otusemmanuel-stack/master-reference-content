@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "A testimony of your own",
+  "intro": "Every person is invited to ask God and receive an answer. Joseph Fielding Smith taught that no one needs to be without it.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "ASK GOD",
+    "text": "James wrote, “If any of you lack wisdom, let him ask of God, that giveth to all men liberally.” Joseph Smith acted on this verse, and the Father and the Son appeared to him."
+   },
+   {
+    "label": "HUMBLE AND DOING",
+    "text": "Jesus Christ said, “If any man will do his will, he shall know of the doctrine.” Joseph Fielding Smith taught that anyone who seeks in humility and faith will find the truth."
+   },
+   {
+    "label": "KEPT ALIVE",
+    "text": "Joseph Fielding Smith taught that guidance of the Holy Ghost is renewed day after day if the person lives worthy of it. A man may sin, and the Spirit withdraws."
+   }
+  ],
+  "chips": [
+   {
+    "label": "James 1:5",
+    "note": "New Testament"
+   },
+   {
+    "label": "John 7:17",
+    "note": "New Testament"
+   },
+   {
+    "label": "Moroni 10:4–5",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Joseph Smith—History 1:11–20",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 17",
+    "note": "How to gain a testimony"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Un témoignage personnel",
+  "intro": "Chacun est invité à demander à Dieu et à recevoir une réponse. Joseph Fielding Smith a enseigné que personne n’a besoin d’en être privé.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "DEMANDER À DIEU",
+    "text": "Jacques a écrit : « Si quelqu’un d’entre vous manque de sagesse, qu’il la demande à Dieu, qui donne à tous simplement. » Joseph Smith a agi selon ce verset, et le Père et le Fils lui sont apparus."
+   },
+   {
+    "label": "HUMBLE ET AGISSANT",
+    "text": "Jésus-Christ a dit : « Si quelqu’un veut faire sa volonté, il connaîtra si ma doctrine est de Dieu. » Joseph Fielding Smith a enseigné que quiconque cherche avec humilité et foi trouvera la vérité."
+   },
+   {
+    "label": "ENTRETENU",
+    "text": "Joseph Fielding Smith a enseigné que la direction du Saint-Esprit est renouvelée jour après jour si la personne vit de manière à en être digne. Si un homme pèche, l’Esprit se retire."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Jacques 1:5",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Jean 7:17",
+    "note": "Nouveau Testament"
+   },
+   {
+    "label": "Moroni 10:4–5",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Joseph Smith, Histoire 1:11–20",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 1, ch. 17",
+    "note": "Comment acquérir un témoignage"
+   }
+  ]
+ }
+}

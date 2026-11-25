@@ -1,0 +1,77 @@
+{
+ "v": 1,
+ "en": {
+  "title": "The Bible and what was lost",
+  "intro": "The Bible is the word of God as far as it is translated correctly. Nephi saw that plain and precious parts would be taken away before it went to the Gentiles.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "WHAT NEPHI SAW",
+    "text": "Nephi saw that after the book left the Jews, many plain and precious things were taken away. Because of this, he said, many stumble."
+   },
+   {
+    "label": "TRANSLATION AND CARE",
+    "text": "Joseph Fielding Smith taught that errors came from faulty translation, yet the hand of the Lord has been over the book. It has come down to us in remarkable condition."
+   },
+   {
+    "label": "A CHECK AGAINST OTHER SCRIPTURE",
+    "text": "He taught that, guided by the Book of Mormon, the Doctrine and Covenants and the Spirit of the Lord, it is not hard to see where errors lie. The Church uses the King James Version."
+   }
+  ],
+  "chips": [
+   {
+    "label": "1 Nephi 13:24–29",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Articles of Faith 1:8",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "2 Nephi 29:3–6",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 3, ch. 10",
+    "note": "Books the Lord approves"
+   }
+  ]
+ },
+ "fr": {
+  "title": "La Bible et ce qui a été perdu",
+  "intro": "La Bible est la parole de Dieu dans la mesure où elle est traduite correctement. Néphi a vu que des parties claires et précieuses en seraient retranchées avant qu’elle parvienne aux Gentils.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "CE QUE NÉPHI A VU",
+    "text": "Néphi a vu qu’après avoir quitté les Juifs, le livre a perdu beaucoup de choses claires et précieuses. À cause de cela, a-t-il dit, beaucoup trébuchent."
+   },
+   {
+    "label": "TRADUCTION ET PROTECTION",
+    "text": "Joseph Fielding Smith a enseigné que les erreurs viennent de traductions défectueuses, mais que la main du Seigneur a été sur ce livre. Il nous est parvenu dans un état remarquable."
+   },
+   {
+    "label": "UN REPÈRE AVEC LES AUTRES ÉCRITURES",
+    "text": "Il a enseigné que, guidé par le Livre de Mormon, Doctrine et Alliances et l’Esprit du Seigneur, il n’est pas difficile de voir où se trouvent les erreurs. L’Église utilise la version du roi Jacques."
+   }
+  ],
+  "chips": [
+   {
+    "label": "1 Néphi 13:24–29",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Articles de foi 1:8",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "2 Néphi 29:3–6",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 3, ch. 10",
+    "note": "Les livres que le Seigneur approuve"
+   }
+  ]
+ }
+}

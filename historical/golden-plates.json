@@ -1,0 +1,85 @@
+{
+ "v": 1,
+ "en": {
+  "title": "Why the plates were returned",
+  "intro": "Joseph Smith returned the plates to the angel, as he was commanded. They were never meant to be the proof of the Book of Mormon.",
+  "pointsLabel": "KEY POINTS",
+  "points": [
+   {
+    "label": "RETURNED AS COMMANDED",
+    "text": "Joseph Smith wrote that he delivered the plates to the messenger, who has them in his charge to this day. Joseph Fielding Smith taught that Moroni has been their guardian."
+   },
+   {
+    "label": "GOD’S WAYS ARE HIGHER",
+    "text": "The Lord said, “My thoughts are not your thoughts, neither are your ways my ways.” Joseph Fielding Smith taught that public display would have led to endless disputes, not faith."
+   },
+   {
+    "label": "THE WITNESS GOD GIVES",
+    "text": "Moroni promised that anyone can ask God if the book is true. Ether taught that people receive no witness until after the trial of their faith."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Joseph Smith—History 1:59–60",
+    "note": "Pearl of Great Price"
+   },
+   {
+    "label": "Isaiah 55:8–9",
+    "note": "Old Testament"
+   },
+   {
+    "label": "Moroni 10:4–5",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Ether 12:6",
+    "note": "Book of Mormon"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 3, ch. 12",
+    "note": "Why the plates were returned to Moroni"
+   }
+  ]
+ },
+ "fr": {
+  "title": "Pourquoi les plaques ont été rendues",
+  "intro": "Joseph Smith a rendu les plaques à l’ange, comme il en avait reçu le commandement. Elles n’ont jamais été destinées à être la preuve du Livre de Mormon.",
+  "pointsLabel": "POINTS CLÉS",
+  "points": [
+   {
+    "label": "RENDUES COMME COMMANDÉ",
+    "text": "Joseph Smith a écrit qu’il a remis les plaques au messager, qui les a sous sa garde jusqu’à ce jour. Joseph Fielding Smith a enseigné que Moroni en a été le gardien."
+   },
+   {
+    "label": "LES VOIES DE DIEU SONT PLUS HAUTES",
+    "text": "Le Seigneur a dit : « Mes pensées ne sont pas vos pensées, et vos voies ne sont pas mes voies. » Joseph Fielding Smith a enseigné qu’une exposition publique aurait causé d’interminables disputes, non la foi."
+   },
+   {
+    "label": "LE TÉMOIGNAGE QUE DIEU DONNE",
+    "text": "Moroni a promis que chacun peut demander à Dieu si le livre est vrai. Éther a enseigné qu’on ne reçoit aucun témoignage avant d’avoir mis sa foi à l’épreuve."
+   }
+  ],
+  "chips": [
+   {
+    "label": "Joseph Smith, Histoire 1:59–60",
+    "note": "Perle de Grand Prix"
+   },
+   {
+    "label": "Ésaïe 55:8–9",
+    "note": "Ancien Testament"
+   },
+   {
+    "label": "Moroni 10:4–5",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Éther 12:6",
+    "note": "Livre de Mormon"
+   },
+   {
+    "label": "Joseph Fielding Smith, Doctrines of Salvation, vol. 3, ch. 12",
+    "note": "Pourquoi les plaques ont été rendues à Moroni"
+   }
+  ]
+ }
+}
