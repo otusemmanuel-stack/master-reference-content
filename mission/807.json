@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  806,
+  619
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about errors in the Bible?",
+   "Does that change how you feel about the Bible's message?",
+   "What would help you trust the testimony of Jesus Christ?"
+  ],
+  "why": [
+   "Paul lists the witnesses of the risen Lord.",
+   "The Lord says that scripture is of no private interpretation."
+  ],
+  "follow": "Next visit, ask what they felt about scripture and faith. Then teach about the Book of Mormon.",
+  "simple": "The Bible was copied and translated by people over many centuries, so differences between manuscripts exist. Scholars study them carefully. The central message of the life, death and Resurrection of Jesus Christ is clear. The eighth Article of Faith says we believe the Bible as far as it is translated correctly.",
+  "explain": "Honest questions about the Bible do not weaken faith in Jesus Christ. We read the Bible with the Book of Mormon and the guidance of living prophets."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur des erreurs dans la Bible ?",
+   "Cela change-t-il votre sentiment sur le message de la Bible ?",
+   "Qu'est-ce qui vous aiderait à faire confiance au témoignage de Jésus-Christ ?"
+  ],
+  "why": [
+   "Paul énumère les témoins du Seigneur ressuscité.",
+   "Le Seigneur dit qu'aucune prophétie de l'Écriture ne peut être un objet d'interprétation particulière."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des Écritures et de la foi. Puis enseignez le Livre de Mormon.",
+  "simple": "La Bible a été copiée et traduite par des personnes au fil des siècles, il existe donc des différences entre les manuscrits. Les spécialistes les étudient attentivement. Le message central de la vie, de la mort et de la Résurrection de Jésus-Christ est clair. Le huitième article de foi dit que nous croyons à la Bible, pour autant qu'elle soit traduite correctement.",
+  "explain": "Les questions honnêtes sur la Bible n'affaiblissent pas la foi en Jésus-Christ. Nous lisons la Bible avec le Livre de Mormon et sous la conduite des prophètes vivants."
+ }
+}

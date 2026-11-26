@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  140,
+  99
+ ],
+ "en": {
+  "ask": [
+   "What do you know about the New Jerusalem in the Bible?",
+   "Why might God build a city of peace?",
+   "How would you want to prepare for the last days?"
+  ],
+  "why": [
+   "John saw the holy city, New Jerusalem, coming down from God out of heaven.",
+   "Moroni wrote that a New Jerusalem would be built on the American continent."
+  ],
+  "follow": "Next visit, ask what they felt about Zion. Then teach about the gathering of Israel.",
+  "simple": "John saw a New Jerusalem coming down from heaven. The Book of Mormon says another New Jerusalem will be built in the Americas. It says the old Jerusalem will also be rebuilt. We believe both will be centers of God's work in the last days."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de la Nouvelle Jérusalem dans la Bible ?",
+   "Pourquoi Dieu bâtirait-Il une cité de paix ?",
+   "Comment voudriez-vous vous préparer pour les derniers jours ?"
+  ],
+  "why": [
+   "Jean a vu la ville sainte, la Nouvelle Jérusalem, descendre du ciel d'auprès de Dieu.",
+   "Moroni a écrit qu'une Nouvelle Jérusalem serait bâtie sur le continent américain."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de Sion. Puis enseignez le rassemblement d'Israël.",
+  "simple": "Jean a vu une Nouvelle Jérusalem descendre du ciel. Le Livre de Mormon dit qu'une autre Nouvelle Jérusalem sera bâtie dans les Amériques. Il dit que l'ancienne Jérusalem sera aussi rebâtie. Nous croyons que les deux seront des centres de l'œuvre de Dieu dans les derniers jours."
+ }
+}

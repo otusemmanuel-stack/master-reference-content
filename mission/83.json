@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  36,
+  203
+ ],
+ "en": {
+  "ask": [
+   "What have you been taught about marriage and forgiveness?",
+   "How do you feel about the idea that marriage is a covenant?",
+   "What would give you hope after a painful divorce?"
+  ],
+  "why": [
+   "Jesus Christ taught that marriage is a covenant and that divorce was allowed because of hardness of hearts.",
+   "The Lord revealed that marriage sealed by His authority is a covenant that lasts."
+  ],
+  "follow": "Next visit, ask what they felt about covenants and hope. Then teach about repentance and forgiveness.",
+  "simple": "The Church does allow divorce. We teach that marriage is sacred and should be protected. Divorced members are welcome, and they can marry again. A temple sealing can be cancelled by the First Presidency in some cases. God is merciful to all who repent.",
+  "explain": "Jesus Christ taught that marriage is a covenant and warned against casual divorce. We take that seriously. We also know that some marriages end through no fault of one spouse, and we welcome and love everyone."
+ },
+ "fr": {
+  "ask": [
+   "Qu'a-t-on enseigné sur le mariage et le pardon ?",
+   "Que ressentez-vous à l'idée que le mariage est une alliance ?",
+   "Qu'est-ce qui vous donnerait de l'espoir après un divorce douloureux ?"
+  ],
+  "why": [
+   "Jésus-Christ a enseigné que le mariage est une alliance et que le divorce a été permis à cause de la dureté des cœurs.",
+   "Le Seigneur a révélé que le mariage scellé par Son autorité est une alliance qui dure."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des alliances et de l'espoir. Puis enseignez le repentir et le pardon.",
+  "simple": "L'Église permet le divorce. Nous enseignons que le mariage est sacré et doit être protégé. Les membres divorcés sont les bienvenus et peuvent se remarier. Un scellement du temple peut être annulé par la Première Présidence dans certains cas. Dieu est miséricordieux envers tous ceux qui se repentent.",
+  "explain": "Jésus-Christ a enseigné que le mariage est une alliance et a mis en garde contre le divorce à la légère. Nous prenons cela au sérieux. Nous savons aussi que certains mariages prennent fin sans que ce soit la faute d'un des conjoints, et nous accueillons et aimons chacun."
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "v": 2,
+ "related": [
+  77,
+  57,
+  59
+ ],
+ "en": {
+  "ask": [
+   "What do you know about the sacrament or the Lord's Supper?",
+   "Why do you think Jesus Christ asked His disciples to remember Him?",
+   "What would a weekly reminder of Him mean to you?"
+  ],
+  "why": [
+   "Paul says that each time we eat the bread and drink the cup, we remember the Lord's death.",
+   "Jesus Christ taught the Nephites to partake of the sacrament in remembrance of His body."
+  ],
+  "follow": "Next visit, ask what they felt as they thought about remembering Jesus Christ each week. Then invite them to a sacrament meeting."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de la Sainte-Cène ?",
+   "Pourquoi pensez-vous que Jésus-Christ a demandé à Ses disciples de se souvenir de Lui ?",
+   "Que signifierait pour vous un rappel hebdomadaire de Lui ?"
+  ],
+  "why": [
+   "Paul dit que chaque fois que nous mangeons le pain et buvons la coupe, nous nous souvenons de la mort du Seigneur.",
+   "Jésus-Christ a enseigné aux Néphites à prendre la Sainte-Cène en souvenir de Son corps."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en pensant à se souvenir de Jésus-Christ chaque semaine. Puis invitez-les à une réunion de Sainte-Cène."
+ }
+}

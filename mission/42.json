@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  51,
+  103
+ ],
+ "en": {
+  "ask": [
+   "What do you think Paul meant by a 'falling away'?",
+   "What do you think happened after the apostles died?",
+   "How would you feel about a restoration that God promised?"
+  ],
+  "why": [
+   "Paul says that the day of Christ will not come until there is a falling away first.",
+   "Nephi saw that plain and precious parts would be removed from the Bible."
+  ],
+  "follow": "Next visit, ask what they felt about God's promise to restore. Then teach about the Restoration.",
+  "simple": "Jesus Christ promised that the gates of hell would not prevail against His Church. We believe that promise was kept when He restored His Church. Paul, Peter and John warned that a falling away would come before the Second Coming."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que Paul voulait dire par « apostasie » ?",
+   "Que pensez-vous qu'il s'est passé après la mort des apôtres ?",
+   "Que ressentiriez-vous à propos d'un rétablissement que Dieu avait promis ?"
+  ],
+  "why": [
+   "Paul dit que le jour du Christ ne viendra pas avant que l'apostasie soit arrivée.",
+   "Néphi a vu que des parties claires et précieuses seraient ôtées de la Bible."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la promesse de Dieu de rétablir. Puis enseignez le Rétablissement.",
+  "simple": "Jésus-Christ a promis que les portes de l'enfer ne prévaudraient pas contre Son Église. Nous croyons que cette promesse a été tenue lorsqu'Il a rétabli Son Église. Paul, Pierre et Jean ont averti qu'une apostasie viendrait avant la Seconde Venue."
+ }
+}

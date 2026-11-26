@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  62,
+  41
+ ],
+ "en": {
+  "ask": [
+   "Who do you turn to in hard times?",
+   "What kinds of help do you think a person needs after a hard experience?",
+   "What would you like to know about how the Church helps people who are suffering?"
+  ],
+  "why": [
+   "James teaches the sick to call for the elders of the Church, who anoint and pray.",
+   "Moroni teaches that the Church meets together often to speak one with another about the welfare of their souls."
+  ],
+  "follow": "Next visit, ask what they learned about care in the Church. Then teach about the Savior's power to heal."
+ },
+ "fr": {
+  "ask": [
+   "Vers qui vous tournez-vous dans les moments difficiles ?",
+   "Quels types d'aide pensez-vous qu'une personne a besoin après une dure épreuve ?",
+   "Qu'aimeriez-vous savoir sur la façon dont l'Église aide ceux qui souffrent ?"
+  ],
+  "why": [
+   "Jacques enseigne que les malades doivent appeler les anciens de l'Église, qui oignent et prient.",
+   "Moroni enseigne que l'Église se réunit souvent pour s'entretenir du bien-être de leur âme."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur les soins dans l'Église. Puis enseignez le pouvoir de guérison du Sauveur."
+ }
+}

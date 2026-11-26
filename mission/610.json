@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  604,
+  609
+ ],
+ "en": {
+  "ask": [
+   "How do you pray?",
+   "What do you think Paul meant by one mediator?",
+   "What would you like to ask God in prayer?"
+  ],
+  "why": [
+   "Jesus Christ taught that whatever we ask in His name, He will do.",
+   "Paul says there is one God and one mediator, the man Christ Jesus."
+  ],
+  "follow": "Next visit, ask what they felt as they prayed. Then teach about prayer.",
+  "simple": "Latter-day Saints pray to Heavenly Father in the name of Jesus Christ. We honour the saints and are grateful for their examples. We do not pray to saints or ask them to pray for us. Many Christians ask saints to intercede, and we respect that faith.",
+  "matters": "Heavenly Father hears and answers every prayer. You can speak to Him directly, in your own words."
+ },
+ "fr": {
+  "ask": [
+   "Comment priez-vous ?",
+   "Que pensez-vous que Paul voulait dire par un seul médiateur ?",
+   "Que voudriez-vous demander à Dieu dans la prière ?"
+  ],
+  "why": [
+   "Jésus-Christ a enseigné que tout ce que nous demandons en Son nom, Il le fera.",
+   "Paul dit qu'il y a un seul Dieu et un seul médiateur, l'homme Jésus-Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant. Puis enseignez la prière.",
+  "simple": "Les saints des derniers jours prient notre Père céleste au nom de Jésus-Christ. Nous honorons les saints et sommes reconnaissants pour leurs exemples. Nous ne prions pas les saints et ne leur demandons pas de prier pour nous. Beaucoup de chrétiens demandent aux saints d'intercéder, et nous respectons cette foi.",
+  "matters": "Notre Père céleste entend et exauce chaque prière. Vous pouvez Lui parler directement, avec vos propres mots."
+ }
+}

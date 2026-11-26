@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  109,
+  133
+ ],
+ "en": {
+  "ask": [
+   "What do you think Jesus Christ's resurrected body was like?",
+   "Why do you think He let the disciples touch Him?",
+   "How does it feel to know your body will rise again?"
+  ],
+  "why": [
+   "Jesus Christ said a spirit does not have flesh and bones as He has.",
+   "Alma teaches that the spirit and body will be restored to perfect form."
+  ],
+  "follow": "Next visit, ask what they felt about the Resurrection. Then teach about the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Comment pensez-vous qu'était le corps ressuscité de Jésus-Christ ?",
+   "Pourquoi pensez-vous qu'Il a laissé les disciples Le toucher ?",
+   "Que ressentez-vous en sachant que votre corps ressuscitera ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit qu'un esprit n'a ni chair ni os comme Il en a.",
+   "Alma enseigne que l'esprit et le corps seront rendus à leur forme parfaite."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la Résurrection. Puis enseignez l'expiation."
+ }
+}

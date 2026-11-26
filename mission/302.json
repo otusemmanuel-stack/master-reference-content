@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  300,
+  301
+ ],
+ "en": {
+  "ask": [
+   "Have you spoken with your bishop about serving?",
+   "What questions do you have about the process?",
+   "What would help you take the next step?"
+  ],
+  "why": [
+   "The Lord's servant is told to go and do, as Nephi did.",
+   "The Lord promises that He will prepare a way for us to do what He commands."
+  ],
+  "follow": "Next visit, ask what steps they took. Then teach about preparing for a mission.",
+  "simple": "Start with a conversation with your bishop. He will help you with the online application, the medical and dental forms, and interviews with your bishop and stake president. After you submit your papers, you wait a few weeks to receive your call."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous parlé à votre évêque de servir ?",
+   "Quelles questions avez-vous sur le processus ?",
+   "Qu'est-ce qui vous aiderait à franchir l'étape suivante ?"
+  ],
+  "why": [
+   "Le serviteur du Seigneur doit aller et faire, comme Néphi l'a fait.",
+   "Le Seigneur promet qu'Il préparera la voie pour que nous fassions ce qu'Il commande."
+  ],
+  "follow": "À la prochaine visite, demandez quelles démarches ils ont faites. Puis enseignez la préparation à une mission.",
+  "simple": "Commencez par une conversation avec votre évêque. Il vous aidera pour la demande en ligne, les formulaires médicaux et dentaires, et les entretiens avec votre évêque et votre président de pieu. Après avoir soumis votre dossier, vous attendez quelques semaines pour recevoir votre appel."
+ }
+}

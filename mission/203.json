@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  36,
+  92
+ ],
+ "en": {
+  "ask": [
+   "What would it mean to you for marriage to last beyond this life?",
+   "What do you think it means to be sealed by priesthood authority?",
+   "What would you want to know about preparing for the temple?"
+  ],
+  "why": [
+   "Jesus Christ taught that what God has joined, no one should separate.",
+   "The Lord revealed the new and everlasting covenant of marriage."
+  ],
+  "follow": "Next visit, ask what they felt about eternal marriage. Then teach about temple blessings."
+ },
+ "fr": {
+  "ask": [
+   "Que signifierait pour vous que le mariage dure au-delà de cette vie ?",
+   "Que pensez-vous que signifie être scellé par l'autorité de la prêtrise ?",
+   "Que voudriez-vous savoir sur la préparation au temple ?"
+  ],
+  "why": [
+   "Jésus-Christ a enseigné que ce que Dieu a uni, l'homme ne doit pas le séparer.",
+   "Le Seigneur a révélé l'alliance nouvelle et éternelle du mariage."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du mariage éternel. Puis enseignez les bénédictions du temple."
+ }
+}

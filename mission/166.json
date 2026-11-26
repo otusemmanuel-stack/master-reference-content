@@ -1,0 +1,37 @@
+{
+ "v": 2,
+ "related": [
+  164,
+  4
+ ],
+ "en": {
+  "ask": [
+   "What do you think makes a person a prophet?",
+   "Do you think a prophet is perfect in everything he does?",
+   "What would you look for in a true prophet?"
+  ],
+  "why": [
+   "Moses taught that a prophet is known by whether what he says comes to pass.",
+   "Paul says that now we know in part, and that we see through a glass darkly."
+  ],
+  "follow": "Next visit, ask what they felt about prophets and humanity. Then teach about the Book of Mormon.",
+  "simple": "In 1843, some men claimed to have found ancient plates near Kinderhook, Illinois. They were later shown to be a hoax. Some people at the time wrote that Joseph Smith looked at them. No translation was ever published, and the Church does not teach that he translated them.",
+  "explain": "A prophet is not perfect in everything he does. The Book of Mormon was translated by the gift and power of God from plates that Joseph Smith had, and eleven witnesses saw them. The Kinderhook plates were never part of that.",
+  "matters": "We judge prophets by their fruits and by what the Lord confirms to us, not by every question that comes up."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qui fait d'une personne un prophète, selon vous ?",
+   "Pensez-vous qu'un prophète soit parfait en tout ce qu'il fait ?",
+   "Que chercheriez-vous chez un vrai prophète ?"
+  ],
+  "why": [
+   "Moïse a enseigné qu'un prophète se reconnaît à ce que ce qu'il dit arrive.",
+   "Paul dit que maintenant nous connaissons en partie et que nous voyons au travers d'un verre, obscurément."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des prophètes et de leur humanité. Puis enseignez le Livre de Mormon.",
+  "simple": "En 1843, des hommes ont affirmé avoir trouvé d'anciennes plaques près de Kinderhook, dans l'Illinois. Il fut montré plus tard qu'il s'agissait d'un canular. Certains de l'époque ont écrit que Joseph Smith les avait regardées. Aucune traduction n'a jamais été publiée, et l'Église n'enseigne pas qu'il les a traduites.",
+  "explain": "Un prophète n'est pas parfait en tout ce qu'il fait. Le Livre de Mormon a été traduit par le don et le pouvoir de Dieu à partir de plaques que Joseph Smith avait, et onze témoins les ont vues. Les plaques de Kinderhook n'ont jamais fait partie de cela.",
+  "matters": "Nous jugeons les prophètes par leurs fruits et par ce que le Seigneur nous confirme, non par chaque question qui se présente."
+ }
+}

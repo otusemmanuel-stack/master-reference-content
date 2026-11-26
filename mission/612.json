@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  47,
+  615
+ ],
+ "en": {
+  "ask": [
+   "What does Easter mean to you?",
+   "What do you think the Resurrection of Jesus Christ makes possible?",
+   "How would it feel to know you will live again?"
+  ],
+  "why": [
+   "Paul says that if Christ is not risen, our faith is in vain.",
+   "The Gospels tell how the women found the tomb empty and heard the angel's message."
+  ],
+  "follow": "Next visit, ask what they felt about the Resurrection. Then teach about the Atonement.",
+  "simple": "Easter celebrates the Resurrection of Jesus Christ. We believe He rose with a glorified body and that every person will be resurrected. The Resurrection is the heart of the gospel. The scriptures say that without it our faith would be in vain."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie Pâques pour vous ?",
+   "Que pensez-vous que la Résurrection de Jésus-Christ rend possible ?",
+   "Que ressentiriez-vous en sachant que vous vivrez de nouveau ?"
+  ],
+  "why": [
+   "Paul dit que si le Christ n'est pas ressuscité, notre foi est vaine.",
+   "Les Évangiles racontent comment les femmes ont trouvé le tombeau vide et ont entendu le message de l'ange."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la Résurrection. Puis enseignez l'expiation.",
+  "simple": "Pâques célèbre la Résurrection de Jésus-Christ. Nous croyons qu'Il est ressuscité avec un corps glorifié et que chaque personne ressuscitera. La Résurrection est au cœur de l'Évangile. Les Écritures disent que sans elle notre foi serait vaine."
+ }
+}

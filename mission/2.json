@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  1,
+  4
+ ],
+ "en": {
+  "ask": [
+   "How do you think God speaks to people today?",
+   "Why would God speak to prophets in Bible times and not now?",
+   "How would you recognize a prophet of God?"
+  ],
+  "why": [
+   "Amos says God does nothing without revealing His secret to His servants the prophets.",
+   "Nephi taught that God will give His word to many people and will speak again."
+  ],
+  "follow": "Next visit, ask what they felt about a living prophet. Then teach about prophets and revelation.",
+  "matters": "The Bible is precious, and it testifies that God speaks to His children. Living prophets guide us today as prophets did in Bible times."
+ },
+ "fr": {
+  "ask": [
+   "Comment pensez-vous que Dieu parle aux gens aujourd'hui ?",
+   "Pourquoi Dieu parlerait-Il à des prophètes à l'époque de la Bible et pas maintenant ?",
+   "Comment reconnaîtriez-vous un prophète de Dieu ?"
+  ],
+  "why": [
+   "Amos dit que Dieu ne fait rien sans révéler Son secret à Ses serviteurs les prophètes.",
+   "Néphi a enseigné que Dieu donnera Sa parole à beaucoup de gens et qu'Il parlera de nouveau."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos d'un prophète vivant. Puis enseignez les prophètes et la révélation.",
+  "matters": "La Bible est précieuse, et elle témoigne que Dieu parle à Ses enfants. Des prophètes vivants nous guident aujourd'hui comme les prophètes le faisaient à l'époque de la Bible."
+ }
+}

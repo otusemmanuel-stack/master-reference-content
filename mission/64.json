@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  12,
+  186
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means to receive food with thanksgiving?",
+   "How do you decide what is good for your body?",
+   "What would you want to know about the Word of Wisdom?"
+  ],
+  "why": [
+   "Paul says everything God created is good when received with thanksgiving.",
+   "The Lord says flesh and fowls are ordained for the use of man, to be used sparingly."
+  ],
+  "follow": "Next visit, ask what they felt about caring for their body. Then teach about the Word of Wisdom.",
+  "simple": "The Word of Wisdom says that meat is good for people to eat, but to use it sparingly. It also says that grains, fruits and vegetables are for our use. We are asked to eat with thanksgiving and wisdom.",
+  "matters": "The Word of Wisdom is a loving guide to caring for the body God gave us."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que cela signifie de recevoir la nourriture avec reconnaissance ?",
+   "Comment décidez-vous ce qui est bon pour votre corps ?",
+   "Que voudriez-vous savoir sur la Parole de Sagesse ?"
+  ],
+  "why": [
+   "Paul dit que tout ce que Dieu a créé est bon quand on le reçoit avec reconnaissance.",
+   "Le Seigneur dit que la chair et les oiseaux sont destinés à l'usage de l'homme, pour être utilisés avec modération."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de prendre soin de leur corps. Puis enseignez la Parole de Sagesse.",
+  "simple": "La Parole de Sagesse dit que la viande est bonne à manger, mais qu'il faut en user avec modération. Elle dit aussi que les céréales, les fruits et les légumes sont pour notre usage. On nous demande de manger avec reconnaissance et sagesse.",
+  "matters": "La Parole de Sagesse est un guide plein d'amour pour prendre soin du corps que Dieu nous a donné."
+ }
+}

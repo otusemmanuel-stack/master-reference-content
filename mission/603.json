@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  2,
+  38
+ ],
+ "en": {
+  "ask": [
+   "What do you know about the apostles after Jesus Christ's death?",
+   "Why do you think they stayed faithful?",
+   "What do you think gave them such courage?"
+  ],
+  "why": [
+   "Acts records that Herod killed James, the brother of John, with the sword.",
+   "Jesus Christ told Peter how he would glorify God by his death."
+  ],
+  "follow": "Next visit, ask what they felt about the apostles' courage. Then teach about the Resurrection.",
+  "simple": "The Bible records the death of James, who was killed by the sword. Early Christian tradition says that most of the other apostles also died for their faith, though accounts vary. They remained faithful to their witness of the risen Jesus Christ."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous des apôtres après la mort de Jésus-Christ ?",
+   "Pourquoi pensez-vous qu'ils sont restés fidèles ?",
+   "Qu'est-ce qui, selon vous, leur a donné un tel courage ?"
+  ],
+  "why": [
+   "Les Actes rapportent qu'Hérode fit mourir par l'épée Jacques, frère de Jean.",
+   "Jésus-Christ a dit à Pierre par quelle mort il glorifierait Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du courage des apôtres. Puis enseignez la Résurrection.",
+  "simple": "La Bible rapporte la mort de Jacques, tué par l'épée. La tradition chrétienne ancienne dit que la plupart des autres apôtres sont aussi morts pour leur foi, bien que les récits varient. Ils sont restés fidèles à leur témoignage de Jésus-Christ ressuscité."
+ }
+}

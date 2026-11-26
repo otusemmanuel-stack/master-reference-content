@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  78,
+  118
+ ],
+ "en": {
+  "ask": [
+   "What do you know about Michael the archangel?",
+   "What do you think it means that Adam had a role before this life?",
+   "How does it feel to know God has a plan for each of us?"
+  ],
+  "why": [
+   "Daniel speaks of Michael, one of the chief princes.",
+   "The Lord revealed that Adam is Michael, the prince, the archangel."
+  ],
+  "follow": "Next visit, ask what they felt about Adam's role. Then teach about the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de Michel l'archange ?",
+   "Que pensez-vous que cela signifie qu'Adam avait un rôle avant cette vie ?",
+   "Que ressentez-vous en sachant que Dieu a un plan pour chacun de nous ?"
+  ],
+  "why": [
+   "Daniel parle de Michel, l'un des principaux chefs.",
+   "Le Seigneur a révélé qu'Adam est Michel, le prince, l'archange."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du rôle d'Adam. Puis enseignez le plan du salut."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  111,
+  109
+ ],
+ "en": {
+  "ask": [
+   "Have you ever felt completely alone in your pain?",
+   "What do you think Jesus Christ felt in Gethsemane?",
+   "How does it help to know He understands your suffering?"
+  ],
+  "why": [
+   "In Gethsemane, Jesus Christ was in agony, and His sweat was as great drops of blood.",
+   "King Benjamin was told that Jesus Christ would suffer pains, afflictions and temptations of every kind."
+  ],
+  "follow": "Next visit, ask what they felt about the Savior's love. Then teach about the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Vous êtes-vous déjà senti complètement seul dans votre douleur ?",
+   "Que pensez-vous que Jésus-Christ a ressenti à Gethsémané ?",
+   "En quoi cela vous aide-t-il de savoir qu'Il comprend vos souffrances ?"
+  ],
+  "why": [
+   "À Gethsémané, Jésus-Christ était en agonie, et Sa sueur devint comme de grosses gouttes de sang.",
+   "Il fut annoncé au roi Benjamin que Jésus-Christ souffrirait des douleurs, des afflictions et des tentations de toute espèce."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'amour du Sauveur. Puis enseignez l'expiation."
+ }
+}

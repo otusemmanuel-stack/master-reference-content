@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  260,
+  12
+ ],
+ "en": {
+  "ask": [
+   "How do you care for the health of your family?",
+   "What do you think about protecting others through vaccination?",
+   "What would you like to know about the Church's care for health?"
+  ],
+  "why": [
+   "Paul says your body is the temple of the Holy Ghost.",
+   "The Lord says to prepare every needful thing."
+  ],
+  "follow": "Next visit, ask what they felt about care for health. Then teach about the Word of Wisdom."
+ },
+ "fr": {
+  "ask": [
+   "Comment prenez-vous soin de la santé de votre famille ?",
+   "Que pensez-vous de la protection des autres par la vaccination ?",
+   "Que voudriez-vous savoir sur le soin de la santé par l'Église ?"
+  ],
+  "why": [
+   "Paul dit que votre corps est le temple du Saint-Esprit.",
+   "Le Seigneur dit de préparer tout ce qui est nécessaire."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du soin de la santé. Puis enseignez la Parole de Sagesse."
+ }
+}

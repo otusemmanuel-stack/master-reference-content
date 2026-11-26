@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  3,
+  249
+ ],
+ "en": {
+  "ask": [
+   "How do you decide whether a message is from God?",
+   "What does it mean to you that you can ask God yourself?",
+   "Would you try Moroni's promise?"
+  ],
+  "why": [
+   "Moses says a prophet is known by whether his words come to pass.",
+   "Moroni invites us to ask God with a sincere heart."
+  ],
+  "follow": "Next visit, ask what they felt as they prayed. Then teach about the Holy Ghost.",
+  "explain": "Joseph Smith recorded a revelation in 1832 that war would begin in South Carolina. It is Doctrine and Covenants 87. The Civil War began there in 1861. We invite you to read it, and to ask God for your own witness through the Holy Ghost."
+ },
+ "fr": {
+  "ask": [
+   "Comment décidez-vous si un message vient de Dieu ?",
+   "Que signifie pour vous le fait de pouvoir demander à Dieu vous-même ?",
+   "Seriez-vous prêt à essayer la promesse de Moroni ?"
+  ],
+  "why": [
+   "Moïse dit qu'un prophète se reconnaît à ce que ses paroles s'accomplissent.",
+   "Moroni nous invite à demander à Dieu avec un cœur sincère."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant. Puis enseignez le Saint-Esprit.",
+  "explain": "Joseph Smith a consigné en 1832 une révélation disant que la guerre commencerait en Caroline du Sud. C'est Doctrine et Alliances 87. La guerre de Sécession y a commencé en 1861. Nous vous invitons à la lire et à demander à Dieu votre propre témoignage par le Saint-Esprit."
+ }
+}

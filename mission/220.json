@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  9,
+  8
+ ],
+ "en": {
+  "ask": [
+   "What do you think the torn veil in Matthew 27 shows?",
+   "How does it feel to know that Jesus Christ opened the way to God?",
+   "What would you like to understand about the temple?"
+  ],
+  "why": [
+   "When Jesus Christ died, the veil of the temple was torn in two.",
+   "The Savior prayed and invited others to follow Him."
+  ],
+  "follow": "Next visit, ask what they felt about the way to God. Then teach about temple blessings.",
+  "simple": "In the Old Testament temple, a veil separated the most holy place from the rest. When Jesus Christ died, the veil was torn in two. This showed that He opened the way to God for everyone. We do not discuss temple ordinances in detail outside the temple.",
+  "explain": "The torn veil shows that the Atonement of Jesus Christ opens the way for us to return to God. The temple helps us understand and live that promise."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que le voile déchiré dans Matthieu 27 montre ?",
+   "Que ressentez-vous en sachant que Jésus-Christ a ouvert le chemin vers Dieu ?",
+   "Qu'aimeriez-vous comprendre au sujet du temple ?"
+  ],
+  "why": [
+   "Quand Jésus-Christ est mort, le voile du temple fut déchiré en deux.",
+   "Le Sauveur a prié et a invité d'autres à Le suivre."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du chemin vers Dieu. Puis enseignez les bénédictions du temple.",
+  "simple": "Dans le temple de l'Ancien Testament, un voile séparait le lieu très saint du reste. Quand Jésus-Christ est mort, le voile fut déchiré en deux. Cela montrait qu'Il a ouvert à tous le chemin vers Dieu. Nous ne discutons pas en détail des ordonnances du temple en dehors du temple.",
+  "explain": "Le voile déchiré montre que l'expiation de Jésus-Christ nous ouvre le chemin du retour vers Dieu. Le temple nous aide à comprendre et à vivre cette promesse."
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  217,
+  198
+ ],
+ "en": {
+  "ask": [
+   "What have you been taught about what happens after death?",
+   "How do you feel about the idea that people can still learn after death?",
+   "What comfort would you want for those you love?"
+  ],
+  "why": [
+   "Hebrews says it is appointed unto men once to die, and after this the judgment.",
+   "Peter says Jesus Christ preached to the spirits in prison."
+  ],
+  "follow": "Next visit, ask what they felt about life after death. Then teach about the spirit world.",
+  "simple": "Purgatory is a Catholic teaching about a state of purification after death. We do not teach it. We believe that after death, spirits live in the spirit world, where the gospel is taught and people can accept it. The Atonement of Jesus Christ is what cleanses us.",
+  "explain": "We respect Catholic belief in praying for the dead and hoping for their peace. Peter writes that the gospel was preached to the dead. We believe temple work lets those who have died receive saving ordinances."
+ },
+ "fr": {
+  "ask": [
+   "Qu'a-t-on enseigné sur ce qui se passe après la mort ?",
+   "Que ressentez-vous à l'idée que les gens peuvent encore apprendre après la mort ?",
+   "Quel réconfort voudriez-vous pour ceux que vous aimez ?"
+  ],
+  "why": [
+   "Hébreux dit qu'il est réservé aux hommes de mourir une seule fois, après quoi vient le jugement.",
+   "Pierre dit que Jésus-Christ a prêché aux esprits en prison."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la vie après la mort. Puis enseignez le monde des esprits.",
+  "simple": "Le purgatoire est un enseignement catholique sur un état de purification après la mort. Nous ne l'enseignons pas. Nous croyons qu'après la mort, les esprits vivent dans le monde des esprits, où l'Évangile est enseigné et où les gens peuvent l'accepter. C'est l'expiation de Jésus-Christ qui nous purifie.",
+  "explain": "Nous respectons la croyance catholique de prier pour les morts et d'espérer leur paix. Pierre écrit que l'Évangile a été prêché aux morts. Nous croyons que l'œuvre du temple permet à ceux qui sont décédés de recevoir les ordonnances du salut."
+ }
+}

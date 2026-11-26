@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  102,
+  109
+ ],
+ "en": {
+  "ask": [
+   "What have you been taught about children and baptism?",
+   "What do you think the scriptures say about little children?",
+   "How do you feel about knowing children are safe in God's care?"
+  ],
+  "why": [
+   "Peter says to repent and be baptised for the remission of sins.",
+   "Jesus Christ said to let the little children come to Him, for of such is the kingdom of heaven."
+  ],
+  "follow": "Next visit, ask what they felt about children and God's love. Then teach about baptism at the age of accountability.",
+  "simple": "The New Testament baptisms we read about are of people who believed and repented. Infant baptism developed in the early centuries of Christianity. We believe that little children are saved through Jesus Christ and are not accountable. The Lord revealed that accountability begins at age eight, when children are baptised.",
+  "explain": "We respect those who baptise infants out of love. We believe baptism is a covenant, which is made when a person can choose it. The Book of Mormon in Moroni 8 teaches that little children are alive in Christ."
+ },
+ "fr": {
+  "ask": [
+   "Qu'a-t-on enseigné sur les enfants et le baptême ?",
+   "Que pensez-vous que les Écritures disent des petits enfants ?",
+   "Que ressentez-vous en sachant que les enfants sont en sécurité dans les soins de Dieu ?"
+  ],
+  "why": [
+   "Pierre dit de se repentir et d'être baptisé pour la rémission des péchés.",
+   "Jésus-Christ a dit de laisser venir à Lui les petits enfants, car le royaume des cieux est à ceux qui leur ressemblent."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des enfants et de l'amour de Dieu. Puis enseignez le baptême à l'âge de responsabilité.",
+  "simple": "Les baptêmes du Nouveau Testament dont nous lisons le récit sont ceux de personnes qui ont cru et se sont repenties. Le baptême des nourrissons s'est développé dans les premiers siècles du christianisme. Nous croyons que les petits enfants sont sauvés par Jésus-Christ et ne sont pas responsables. Le Seigneur a révélé que la responsabilité commence à huit ans, âge auquel les enfants sont baptisés.",
+  "explain": "Nous respectons ceux qui baptisent les nourrissons par amour. Nous croyons que le baptême est une alliance, qui se fait quand une personne peut la choisir. Le Livre de Mormon, dans Moroni 8, enseigne que les petits enfants sont vivants dans le Christ."
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "v": 2,
+ "related": [
+  3,
+  205
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about early plural marriage in the Church?",
+   "How do you feel about learning hard history honestly?",
+   "What would you want to know before you decide about Joseph Smith?"
+  ],
+  "why": [
+   "Genesis 24 tells of Rebekah's marriage as arranged by her family.",
+   "The Lord revealed that eternal marriage and sealing are part of His plan."
+  ],
+  "follow": "Next visit, ask what questions they still have. Then teach about prayer and revelation.",
+  "simple": "The Church's own history essay on plural marriage says Helen Mar Kimball was sealed to Joseph Smith several months before her 15th birthday. It is a hard part of our history, and the Church shares it openly. Plural marriage ended in 1890.",
+  "explain": "We do not hide difficult history. Our understanding of it is limited, and we do not have all the answers. We invite honest questions and encourage people to read the Church's essay and pray about what they feel.",
+  "matters": "A hard question deserves an honest answer. The Holy Ghost can help you know about Joseph Smith and the Restoration."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur les débuts du mariage plural dans l'Église ?",
+   "Que ressentez-vous en apprenant honnêtement une histoire difficile ?",
+   "Que voudriez-vous savoir avant de vous faire une opinion sur Joseph Smith ?"
+  ],
+  "why": [
+   "Genèse 24 raconte le mariage de Rebecca, arrangé par sa famille.",
+   "Le Seigneur a révélé que le mariage éternel et le scellement font partie de Son plan."
+  ],
+  "follow": "À la prochaine visite, demandez quelles questions ils ont encore. Puis enseignez la prière et la révélation.",
+  "simple": "L'essai historique de l'Église sur le mariage plural dit que Helen Mar Kimball a été scellée à Joseph Smith quelques mois avant son quinzième anniversaire. C'est une partie difficile de notre histoire, et l'Église la partage ouvertement. Le mariage plural a pris fin en 1890.",
+  "explain": "Nous ne cachons pas l'histoire difficile. Notre compréhension est limitée, et nous n'avons pas toutes les réponses. Nous invitons les questions honnêtes et encourageons à lire l'essai de l'Église et à prier sur ce que l'on ressent.",
+  "matters": "Une question difficile mérite une réponse honnête. Le Saint-Esprit peut vous aider à savoir au sujet de Joseph Smith et du Rétablissement."
+ }
+}

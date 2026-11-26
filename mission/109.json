@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  111,
+  61
+ ],
+ "en": {
+  "ask": [
+   "What do you think happens after physical death?",
+   "What do you think spiritual death means?",
+   "How does it comfort you to know that Jesus Christ overcame both?"
+  ],
+  "why": [
+   "Paul teaches that as in Adam all die, even so in Christ shall all be made alive.",
+   "Jacob teaches that the resurrection and the Atonement deliver us from both deaths."
+  ],
+  "follow": "Next visit, ask what they felt about the Resurrection. Then teach about the Atonement of Jesus Christ."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'il se passe après la mort physique ?",
+   "Que pensez-vous que signifie la mort spirituelle ?",
+   "En quoi cela vous réconforte-t-il de savoir que Jésus-Christ a vaincu les deux ?"
+  ],
+  "why": [
+   "Paul enseigne que, comme tous meurent en Adam, de même tous revivront en Christ.",
+   "Jacob enseigne que la résurrection et l'expiation nous délivrent des deux morts."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la Résurrection. Puis enseignez l'expiation de Jésus-Christ."
+ }
+}

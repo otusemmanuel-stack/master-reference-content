@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  172,
+  214
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about race and the Church?",
+   "How do you feel about God's love for every person?",
+   "What would you like to know about what the Church teaches now?"
+  ],
+  "why": [
+   "Paul says God made of one blood all nations of men.",
+   "Nephi says the Lord invites all to come to Him, and none are denied."
+  ],
+  "follow": "Next visit, ask what they felt about God's love for all. Then teach about the Restoration.",
+  "simple": "The Church rejects the idea that any race is cursed. Those ideas were once taught by some people, and they were wrong. The Church's essay on race and the priesthood disavows them. All are alike unto God.",
+  "matters": "God loves every person equally. We acknowledge the pain these ideas caused and welcome everyone."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur la race et l'Église ?",
+   "Que ressentez-vous à propos de l'amour de Dieu pour chaque personne ?",
+   "Que voudriez-vous savoir sur ce que l'Église enseigne maintenant ?"
+  ],
+  "why": [
+   "Paul dit que Dieu a fait d'un seul sang toutes les nations des hommes.",
+   "Néphi dit que le Seigneur invite tous à venir à Lui, et que nul n'est refusé."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'amour de Dieu pour tous. Puis enseignez le Rétablissement.",
+  "simple": "L'Église rejette l'idée qu'une race soit maudite. Ces idées ont autrefois été enseignées par certaines personnes, et elles étaient fausses. L'essai de l'Église sur la race et la prêtrise les désavoue. Tous sont pareils devant Dieu.",
+  "matters": "Dieu aime chaque personne également. Nous reconnaissons la douleur que ces idées ont causée et nous accueillons tout le monde."
+ }
+}

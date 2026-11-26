@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  157,
+  616
+ ],
+ "en": {
+  "ask": [
+   "What do you picture when you think of God?",
+   "What do you notice at Jesus Christ's baptism?",
+   "How would it change your prayers to know God is a personal Father?"
+  ],
+  "why": [
+   "Jesus Christ prays to the Father and says eternal life is to know the Father and the Son.",
+   "Stephen saw the Son of Man standing on the right hand of God."
+  ],
+  "follow": "Next visit, ask what they noticed in Matthew 3. Then teach about the Godhead.",
+  "simple": "Many Christians believe in the Trinity, which says God is three persons in one being. Latter-day Saints believe the Father, the Son and the Holy Ghost are three distinct persons who are one in purpose. We honour those who hold the Trinity as part of their faith.",
+  "explain": "The Trinity was developed in the early centuries and was set out in creeds such as Nicaea in AD 325. We find our understanding in the New Testament, where Jesus Christ prays to the Father and the Father speaks at His baptism."
+ },
+ "fr": {
+  "ask": [
+   "Que voyez-vous quand vous pensez à Dieu ?",
+   "Que remarquez-vous lors du baptême de Jésus-Christ ?",
+   "En quoi vos prières changeraient-elles si vous saviez que Dieu est un Père personnel ?"
+  ],
+  "why": [
+   "Jésus-Christ prie le Père et dit que la vie éternelle est de connaître le Père et le Fils.",
+   "Étienne a vu le Fils de l'homme debout à la droite de Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué dans Matthieu 3. Puis enseignez la Divinité.",
+  "simple": "Beaucoup de chrétiens croient en la Trinité, selon laquelle Dieu est trois personnes en un seul être. Les saints des derniers jours croient que le Père, le Fils et le Saint-Esprit sont trois personnes distinctes qui sont un dans le but. Nous honorons ceux qui tiennent la Trinité pour une part de leur foi.",
+  "explain": "La Trinité s'est développée dans les premiers siècles et a été énoncée dans des credos comme celui de Nicée en 325. Nous trouvons notre compréhension dans le Nouveau Testament, où Jésus-Christ prie le Père et où le Père parle lors de Son baptême."
+ }
+}

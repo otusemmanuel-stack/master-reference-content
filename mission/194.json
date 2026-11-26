@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  60,
+  152
+ ],
+ "en": {
+  "ask": [
+   "What do you believe about the sacredness of human life?",
+   "How do you think we should treat people in hard situations?",
+   "What would you want to know about the Church's guidance?"
+  ],
+  "why": [
+   "The Lord told Jeremiah that He knew him before he was formed in the womb.",
+   "Lehi teaches that men are free to choose, and that the Lord gives us the Atonement."
+  ],
+  "follow": "Next visit, ask what they felt about life and compassion. Then teach about the plan of salvation.",
+  "simple": "The Church teaches that abortion is a serious matter. Exceptions may apply when pregnancy results from rape or incest, when the mother's health is seriously at risk, or when a doctor says the baby will not survive beyond birth. Even then, people are encouraged to counsel with their bishop and pray.",
+  "explain": "We have compassion for anyone facing this decision. The Church encourages prayer, counsel with a bishop, and trust in God's love. No one should feel alone."
+ },
+ "fr": {
+  "ask": [
+   "Que croyez-vous au sujet du caractère sacré de la vie humaine ?",
+   "Comment pensez-vous que nous devrions traiter les personnes dans des situations difficiles ?",
+   "Que voudriez-vous savoir sur les conseils de l'Église ?"
+  ],
+  "why": [
+   "Le Seigneur a dit à Jérémie qu'Il l'avait connu avant qu'il soit formé dans le ventre de sa mère.",
+   "Léhi enseigne que les hommes sont libres de choisir, et que le Seigneur nous donne l'expiation."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la vie et de la compassion. Puis enseignez le plan du salut.",
+  "simple": "L'Église enseigne que l'avortement est une question grave. Des exceptions peuvent s'appliquer lorsque la grossesse résulte d'un viol ou d'un inceste, lorsque la santé de la mère est sérieusement en danger, ou lorsqu'un médecin dit que le bébé ne survivra pas après la naissance. Même alors, les personnes sont encouragées à consulter leur évêque et à prier.",
+  "explain": "Nous avons de la compassion pour toute personne confrontée à cette décision. L'Église encourage la prière, le conseil de l'évêque et la confiance en l'amour de Dieu. Personne ne devrait se sentir seul."
+ }
+}

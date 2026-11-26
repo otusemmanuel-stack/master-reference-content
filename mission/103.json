@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  42,
+  130
+ ],
+ "en": {
+  "ask": [
+   "What do you think the difference is between fixing something and restoring it?",
+   "What do you think is needed for a church to act in God's name?",
+   "Would you be willing to learn how authority was restored?"
+  ],
+  "why": [
+   "Peter says heaven must receive Jesus Christ until the restitution of all things.",
+   "The Lord calls this 'the only true and living church' and declares it was brought forth out of obscurity."
+  ],
+  "follow": "Next visit, ask what they felt about authority from God. Then teach about the priesthood.",
+  "simple": "Reform fixes what already exists. Restoration brings back what was lost. We believe that after the apostles died, priesthood authority was taken from the earth. Joseph Smith said that John the Baptist, and Peter, James and John, restored it.",
+  "explain": "We respect reformers and what they did for scripture and faith. But Latter-day Saints believe that authority to act in God's name had to come from God again. That is why we speak of restoration."
+ },
+ "fr": {
+  "ask": [
+   "Selon vous, quelle est la différence entre réparer quelque chose et le rétablir ?",
+   "Que pensez-vous qu'il faut pour qu'une Église agisse au nom de Dieu ?",
+   "Seriez-vous prêt à découvrir comment l'autorité a été rétablie ?"
+  ],
+  "why": [
+   "Pierre dit que le ciel doit recevoir Jésus-Christ jusqu'au temps du rétablissement de toutes choses.",
+   "Le Seigneur l'appelle « la seule Église vraie et vivante » et déclare qu'elle a été tirée de l'obscurité."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'autorité venant de Dieu. Puis enseignez la prêtrise.",
+  "simple": "La réforme répare ce qui existe déjà. Le rétablissement ramène ce qui était perdu. Nous croyons qu'après la mort des apôtres, l'autorité de la prêtrise a été enlevée de la terre. Joseph Smith a dit que Jean-Baptiste, puis Pierre, Jacques et Jean, l'ont rétablie.",
+  "explain": "Nous respectons les réformateurs et ce qu'ils ont fait pour les Écritures et la foi. Mais les saints des derniers jours croient que l'autorité d'agir au nom de Dieu devait venir de nouveau de Dieu. C'est pourquoi nous parlons de rétablissement."
+ }
+}

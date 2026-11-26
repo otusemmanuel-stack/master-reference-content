@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  310,
+  312
+ ],
+ "en": {
+  "ask": [
+   "Where do you think we came from?",
+   "Why do you think we are here?",
+   "What do you hope happens after this life?"
+  ],
+  "why": [
+   "The Lord told Jeremiah that He knew him before he was born.",
+   "The Lord showed Abraham that spirits existed before the world was."
+  ],
+  "follow": "Next visit, ask what they felt about God's plan. Then teach the gospel of Jesus Christ.",
+  "explain": "Draw a simple map: life before earth, earth life, the spirit world, the resurrection and the kingdoms of glory. Invite the person to share what they believe, then explain the plan simply. Let them ask questions."
+ },
+ "fr": {
+  "ask": [
+   "D'où pensez-vous que nous venons ?",
+   "Pourquoi pensez-vous que nous sommes ici ?",
+   "Qu'espérez-vous qu'il se passe après cette vie ?"
+  ],
+  "why": [
+   "Le Seigneur a dit à Jérémie qu'Il le connaissait avant sa naissance.",
+   "Le Seigneur a montré à Abraham que des esprits existaient avant la création du monde."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du plan de Dieu. Puis enseignez l'Évangile de Jésus-Christ.",
+  "explain": "Dessinez une carte simple : la vie avant la terre, la vie sur terre, le monde des esprits, la résurrection et les royaumes de gloire. Invitez la personne à partager ce qu'elle croit, puis expliquez le plan simplement. Laissez-la poser des questions."
+ }
+}

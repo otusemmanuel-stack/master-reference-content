@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  200,
+  41
+ ],
+ "en": {
+  "ask": [
+   "What do you know about a patriarchal blessing?",
+   "Why might it help someone to receive a personal blessing?",
+   "What would you like to know about how patriarchs are called?"
+  ],
+  "why": [
+   "Paul wanted people to serve the Lord without distraction.",
+   "Timothy was taught to give his full attention to the work he was called to do."
+  ],
+  "follow": "Next visit, ask what they felt about a personal blessing. Then teach what a patriarchal blessing is.",
+  "simple": "A patriarch's calling is personal and sacred. Giving blessings takes spiritual preparation and time, so a patriarch is able to focus on this work.",
+  "explain": "Ask them: can someone give full attention to two demanding things at once? Paul said his counsel was meant to help people attend upon the Lord without distraction. The same principle helps us see why this calling needs focus."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous d'une bénédiction patriarcale ?",
+   "Pourquoi une bénédiction personnelle pourrait-elle aider quelqu'un ?",
+   "Qu'aimeriez-vous savoir sur la façon dont les patriarches sont appelés ?"
+  ],
+  "why": [
+   "Paul voulait que les gens servent le Seigneur sans distraction.",
+   "Timothée a appris à donner toute son attention à l'œuvre à laquelle il était appelé."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos d'une bénédiction personnelle. Puis enseignez ce qu'est une bénédiction patriarcale.",
+  "simple": "L'appel d'un patriarche est personnel et sacré. Donner des bénédictions demande une préparation spirituelle et du temps, afin que le patriarche puisse se concentrer sur cette œuvre.",
+  "explain": "Demandez-leur : quelqu'un peut-il donner toute son attention à deux choses exigeantes à la fois ? Paul a dit que son conseil visait à aider les gens à s'attacher au Seigneur sans distraction. Le même principe nous aide à comprendre pourquoi cet appel demande de la concentration."
+ }
+}

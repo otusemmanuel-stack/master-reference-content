@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  316,
+  312
+ ],
+ "en": {
+  "ask": [
+   "What do you know to be true?",
+   "How do you know it?",
+   "How would you share it simply?"
+  ],
+  "why": [
+   "Paul says the Spirit itself bears witness with our spirit.",
+   "Jesus Christ invited the Nephites to feel the prints in His hands and feet."
+  ],
+  "follow": "Next visit, ask what they felt as they heard the testimony. Then teach about the Holy Ghost."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous être vrai ?",
+   "Comment le savez-vous ?",
+   "Comment le partageriez-vous simplement ?"
+  ],
+  "why": [
+   "Paul dit que l'Esprit lui-même rend témoignage à notre esprit.",
+   "Jésus-Christ a invité les Néphites à toucher les marques de Ses mains et de Ses pieds."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en entendant le témoignage. Puis enseignez le Saint-Esprit."
+ }
+}

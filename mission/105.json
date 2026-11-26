@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  102,
+  111
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about sins that cannot be forgiven?",
+   "What do you think Jesus Christ was teaching in Matthew 12?",
+   "How does it feel to know the Atonement is available to those who sincerely repent?"
+  ],
+  "why": [
+   "Jesus Christ taught that blasphemy against the Holy Ghost will not be forgiven.",
+   "The Lord revealed that this applies only to those who know God's power fully and then deny it."
+  ],
+  "follow": "Next visit, ask what they felt about God's mercy. Then teach about the Atonement and repentance."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur les péchés qui ne peuvent pas être pardonnés ?",
+   "Que pensez-vous que Jésus-Christ enseignait dans Matthieu 12 ?",
+   "Que ressentez-vous en sachant que l'expiation est disponible pour ceux qui se repentent sincèrement ?"
+  ],
+  "why": [
+   "Jésus-Christ a enseigné que le blasphème contre le Saint-Esprit ne sera pas pardonné.",
+   "Le Seigneur a révélé que cela ne concerne que ceux qui connaissent pleinement la puissance de Dieu et la renient ensuite."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la miséricorde de Dieu. Puis enseignez l'expiation et le repentir."
+ }
+}

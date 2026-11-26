@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  159,
+  38
+ ],
+ "en": {
+  "ask": [
+   "What do you think the title Elder means?",
+   "How do you feel about young people serving others?",
+   "What would you like to ask the missionaries about their calling?"
+  ],
+  "why": [
+   "James says the sick should call for the elders of the Church.",
+   "The Lord revealed that those who hold the Melchizedek Priesthood are called elders."
+  ],
+  "follow": "Next visit, ask what they noticed about the missionaries. Then teach about priesthood.",
+  "explain": "Elder is the title of an office in the Melchizedek Priesthood. Young men are ordained elders before they serve as full-time missionaries. The title describes the office, not the age. Peter also called himself a fellow elder."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que le titre d'ancien signifie ?",
+   "Que ressentez-vous à propos de jeunes qui servent les autres ?",
+   "Que voudriez-vous demander aux missionnaires au sujet de leur appel ?"
+  ],
+  "why": [
+   "Jacques dit que les malades doivent appeler les anciens de l'Église.",
+   "Le Seigneur a révélé que ceux qui détiennent la Prêtrise de Melchisédek sont appelés anciens."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur les missionnaires. Puis enseignez la prêtrise.",
+  "explain": "Ancien est le titre d'un office de la Prêtrise de Melchisédek. Les jeunes hommes sont ordonnés anciens avant de servir comme missionnaires à plein temps. Le titre décrit l'office, non l'âge. Pierre s'est aussi appelé un ancien avec les anciens."
+ }
+}

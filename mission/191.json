@@ -1,0 +1,37 @@
+{
+ "v": 2,
+ "related": [
+  190,
+  165
+ ],
+ "en": {
+  "ask": [
+   "What do you think about translating ancient words into modern ones?",
+   "Have you ever seen a word change meaning over time?",
+   "Would you be willing to ask God about the book as a whole?"
+  ],
+  "why": [
+   "Ether mentions horses and elephants among the animals of that land.",
+   "The Lord says He speaks the same words to one nation as to another."
+  ],
+  "follow": "Next visit, ask what they felt about the whole book. Then teach about prayer and revelation.",
+  "simple": "Scholars have different ideas about the words for horses, steel and silk in the Book of Mormon. Some think the translation used familiar words for similar things. Some think the evidence is still being studied. These are open questions.",
+  "explain": "Translation uses the closest words available. We do not need to settle every detail to ask whether the book is from God. Moroni invites every reader to pray about it.",
+  "matters": "You can have honest questions and still ask God. Many people find peace through prayer."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous de la traduction de mots anciens en mots modernes ?",
+   "Avez-vous déjà vu un mot changer de sens avec le temps ?",
+   "Seriez-vous prêt à interroger Dieu sur le livre dans son ensemble ?"
+  ],
+  "why": [
+   "Éther mentionne des chevaux et des éléphants parmi les animaux de ce pays.",
+   "Le Seigneur dit qu'Il dit les mêmes paroles à une nation qu'à une autre."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du livre dans son ensemble. Puis enseignez la prière et la révélation.",
+  "simple": "Les spécialistes ont des idées différentes sur les mots pour chevaux, acier et soie dans le Livre de Mormon. Certains pensent que la traduction a utilisé des mots familiers pour des choses semblables. D'autres pensent que les preuves sont encore à l'étude. Ce sont des questions ouvertes.",
+  "explain": "La traduction utilise les mots les plus proches. Nous n'avons pas besoin de régler chaque détail pour demander si le livre vient de Dieu. Moroni invite chaque lecteur à prier à ce sujet.",
+  "matters": "Vous pouvez avoir des questions honnêtes et quand même interroger Dieu. Beaucoup de personnes trouvent la paix par la prière."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  71,
+  60
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about predestination?",
+   "What does it mean to you that God knows us before we are born?",
+   "How do you feel about the freedom to choose?"
+  ],
+  "why": [
+   "Paul says God foreknew and predestinated those He called.",
+   "Jeremiah says God knew him before he was formed in the womb."
+  ],
+  "follow": "Next visit, ask what they felt about agency and God's knowledge. Then teach about the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur la prédestination ?",
+   "Que signifie pour vous que Dieu nous connaît avant notre naissance ?",
+   "Que ressentez-vous à propos de la liberté de choisir ?"
+  ],
+  "why": [
+   "Paul dit que Dieu a connu d'avance et prédestiné ceux qu'Il a appelés.",
+   "Jérémie dit que Dieu l'a connu avant qu'il soit formé dans le ventre de sa mère."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du libre arbitre et de la connaissance de Dieu. Puis enseignez le plan du salut."
+ }
+}

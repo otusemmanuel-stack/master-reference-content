@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  33,
+  115
+ ],
+ "en": {
+  "ask": [
+   "What do you think the Bible says about money?",
+   "How do you feel about the idea that faith guarantees wealth?",
+   "What would help you use money well?"
+  ],
+  "why": [
+   "Jesus Christ taught to lay up treasures in heaven.",
+   "Paul says the love of money is a root of all kinds of evil."
+  ],
+  "follow": "Next visit, ask what they felt about money and faith. Then teach about tithing and self-reliance.",
+  "simple": "The scriptures teach that wealth is not the measure of faith. Jesus Christ taught to lay up treasures in heaven. The Church does not teach that being faithful will make you rich. We teach tithing, avoiding debt, saving, and giving to those in need.",
+  "explain": "Many sincere Christians hold views about money and blessings that differ from ours. We focus on stewardship and on the spiritual blessings God promises. He may also bless us temporally in His own way."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que la Bible dit sur l'argent ?",
+   "Que ressentez-vous à l'idée que la foi garantisse la richesse ?",
+   "Qu'est-ce qui vous aiderait à bien utiliser l'argent ?"
+  ],
+  "why": [
+   "Jésus-Christ a enseigné d'amasser des trésors dans le ciel.",
+   "Paul dit que l'amour de l'argent est une racine de tous les maux."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'argent et de la foi. Puis enseignez la dîme et l'autonomie.",
+  "simple": "Les Écritures enseignent que la richesse n'est pas la mesure de la foi. Jésus-Christ a enseigné d'amasser des trésors dans le ciel. L'Église n'enseigne pas qu'être fidèle vous rendra riche. Nous enseignons la dîme, l'absence de dettes, l'épargne et le don à ceux qui sont dans le besoin.",
+  "explain": "Beaucoup de chrétiens sincères ont des vues sur l'argent et les bénédictions qui diffèrent des nôtres. Nous mettons l'accent sur l'intendance et sur les bénédictions spirituelles que Dieu promet. Il peut aussi nous bénir temporellement à Sa manière."
+ }
+}

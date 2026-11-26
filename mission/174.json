@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  175,
+  213
+ ],
+ "en": {
+  "ask": [
+   "What do you know about what the Church teaches about marriage?",
+   "How do you feel about loving others while keeping standards?",
+   "What would help you feel welcome in a church?"
+  ],
+  "why": [
+   "Jesus Christ taught that God made them male and female and that marriage joins them.",
+   "Lehi teaches that men are that they might have joy."
+  ],
+  "follow": "Next visit, ask what they felt about being welcomed. Then teach about the plan of salvation.",
+  "simple": "The Church teaches that marriage is between a man and a woman and is central to God's plan. We also teach that every person is a child of God and is loved and welcome in our congregations. The Church has supported laws that protect people from unfair treatment while also protecting religious freedom."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de ce que l'Église enseigne sur le mariage ?",
+   "Que ressentez-vous à propos d'aimer les autres tout en gardant des normes ?",
+   "Qu'est-ce qui vous aiderait à vous sentir accueilli dans une Église ?"
+  ],
+  "why": [
+   "Jésus-Christ a enseigné que Dieu les a faits homme et femme et que le mariage les unit.",
+   "Léhi enseigne que les hommes existent pour avoir de la joie."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'accueil. Puis enseignez le plan du salut.",
+  "simple": "L'Église enseigne que le mariage est entre un homme et une femme et qu'il est central dans le plan de Dieu. Nous enseignons aussi que chaque personne est un enfant de Dieu, aimé et bienvenu dans nos paroisses. L'Église a soutenu des lois qui protègent les gens contre un traitement injuste tout en protégeant la liberté religieuse."
+ }
+}

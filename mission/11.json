@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  23,
+  42
+ ],
+ "en": {
+  "ask": [
+   "What do you think Paul meant by 'one Lord, one faith, one baptism'?",
+   "Why do you think there are so many churches?",
+   "What would you look for in a church that Jesus Christ established?"
+  ],
+  "why": [
+   "Paul teaches one Lord, one faith, one baptism.",
+   "Nephi saw that there are only two churches: the church of the Lamb of God and the great and abominable church."
+  ],
+  "follow": "Next visit, ask what they felt about unity. Then teach about the Apostasy and Restoration.",
+  "simple": "Many churches exist because people disagreed about what Jesus Christ taught. We believe many of them teach truth and do good. We also believe that Jesus Christ restored His Church through Joseph Smith, with priesthood authority and complete doctrine."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que Paul voulait dire par « un seul Seigneur, une seule foi, un seul baptême » ?",
+   "Pourquoi pensez-vous qu'il y a tant d'Églises ?",
+   "Que chercheriez-vous dans une Église établie par Jésus-Christ ?"
+  ],
+  "why": [
+   "Paul enseigne un seul Seigneur, une seule foi, un seul baptême.",
+   "Néphi a vu qu'il n'y a que deux Églises : l'Église de l'Agneau de Dieu et la grande et abominable Église."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'unité. Puis enseignez l'Apostasie et le Rétablissement.",
+  "simple": "Beaucoup d'Églises existent parce que des gens ont été en désaccord sur ce que Jésus-Christ a enseigné. Nous croyons que beaucoup d'entre elles enseignent des vérités et font du bien. Nous croyons aussi que Jésus-Christ a rétabli Son Église par Joseph Smith, avec l'autorité de la prêtrise et une doctrine complète."
+ }
+}

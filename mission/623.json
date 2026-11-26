@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  157,
+  615
+ ],
+ "en": {
+  "ask": [
+   "What do you know about the historical Jesus Christ?",
+   "What do you think matters most about who He is?",
+   "Would you ask God whether He is the Son of God?"
+  ],
+  "why": [
+   "Luke places the ministry of John the Baptist in the time of Pontius Pilate.",
+   "Paul lists witnesses who saw the risen Jesus Christ."
+  ],
+  "follow": "Next visit, ask what they felt about Jesus Christ. Then teach about the Atonement.",
+  "simple": "Most historians agree that Jesus of Nazareth lived. The Jewish historian Josephus and the Roman historian Tacitus both mention Him and say He was crucified under Pontius Pilate. Pliny the Younger wrote that early Christians worshipped Christ. A personal witness of who He is comes through the Holy Ghost."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous du Jésus-Christ historique ?",
+   "Qu'est-ce qui, selon vous, compte le plus à propos de qui Il est ?",
+   "Seriez-vous prêt à demander à Dieu s'Il est le Fils de Dieu ?"
+  ],
+  "why": [
+   "Luc situe le ministère de Jean-Baptiste à l'époque de Ponce Pilate.",
+   "Paul énumère des témoins qui ont vu Jésus-Christ ressuscité."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de Jésus-Christ. Puis enseignez l'expiation.",
+  "simple": "La plupart des historiens s'accordent à dire que Jésus de Nazareth a vécu. L'historien juif Josèphe et l'historien romain Tacite Le mentionnent tous deux et disent qu'Il a été crucifié sous Ponce Pilate. Pline le Jeune a écrit que les premiers chrétiens adoraient le Christ. Un témoignage personnel de qui Il est vient par le Saint-Esprit."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  17,
+  50
+ ],
+ "en": {
+  "ask": [
+   "Have you ever had a companion in a hard task?",
+   "What do you think Jesus Christ taught by sending disciples two by two?",
+   "How would a companion help you in sharing your faith?"
+  ],
+  "why": [
+   "Jesus Christ sent seventy disciples two by two into every place He would visit.",
+   "The Lord says His servants should go forth two by two."
+  ],
+  "follow": "Next visit, ask what they noticed about the missionaries serving together. Then teach about the Restoration.",
+  "explain": "Jesus Christ sent the seventy disciples two by two. Peter and John went together to the temple. Missionaries today follow that pattern. Companions also keep each other safe and strengthen each other in their work."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous déjà eu un compagnon dans une tâche difficile ?",
+   "Que pensez-vous que Jésus-Christ a enseigné en envoyant Ses disciples deux par deux ?",
+   "En quoi un compagnon vous aiderait-il à partager votre foi ?"
+  ],
+  "why": [
+   "Jésus-Christ a envoyé soixante-dix disciples deux par deux dans tous les lieux où Il devait aller.",
+   "Le Seigneur dit que Ses serviteurs doivent aller deux par deux."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur les missionnaires qui servent ensemble. Puis enseignez le Rétablissement.",
+  "explain": "Jésus-Christ a envoyé les soixante-dix disciples deux par deux. Pierre et Jean sont allés ensemble au temple. Les missionnaires d'aujourd'hui suivent ce modèle. Les compagnons se protègent aussi et se fortifient mutuellement dans leur travail."
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  2,
+  95
+ ],
+ "en": {
+  "ask": [
+   "What do you think the Holy Ghost does in our lives?",
+   "Why might the gift of the Holy Ghost be a blessing after Jesus Christ's Atonement?",
+   "Would you like to know how to receive it?"
+  ],
+  "why": [
+   "John says the Holy Ghost was not yet given because Jesus was not yet glorified.",
+   "Nephi taught that after baptism, we receive the Holy Ghost."
+  ],
+  "follow": "Next visit, ask what they felt about the gift of the Holy Ghost. Then teach about baptism and confirmation.",
+  "simple": "People in the Old Testament felt the influence of the Holy Ghost. After Jesus Christ's Resurrection, the gift of the Holy Ghost became available to confer on members of His Church. It is given by the laying on of hands after baptism.",
+  "explain": "In the Old Testament the Spirit came upon people at times. David prayed, 'Take not thy Holy Spirit from me.' After Jesus Christ's Resurrection, the gift of the Holy Ghost is conferred by the laying on of hands. It can stay with us as a constant companion when we are worthy."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que le Saint-Esprit fait dans nos vies ?",
+   "Pourquoi le don du Saint-Esprit pourrait-il être une bénédiction après l'expiation de Jésus-Christ ?",
+   "Aimeriez-vous savoir comment le recevoir ?"
+  ],
+  "why": [
+   "Jean dit que le Saint-Esprit n'avait pas encore été donné parce que Jésus n'avait pas encore été glorifié.",
+   "Néphi a enseigné qu'après le baptême, nous recevons le Saint-Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du don du Saint-Esprit. Puis enseignez le baptême et la confirmation.",
+  "simple": "Dans l'Ancien Testament, les gens ressentaient l'influence du Saint-Esprit. Après la Résurrection de Jésus-Christ, le don du Saint-Esprit est devenu disponible pour être conféré aux membres de Son Église. Il est donné par l'imposition des mains après le baptême.",
+  "explain": "Dans l'Ancien Testament, l'Esprit venait sur les gens par moments. David a prié : « Ne me retire pas ton Saint-Esprit. » Après la Résurrection de Jésus-Christ, le don du Saint-Esprit est conféré par l'imposition des mains. Il peut rester avec nous comme compagnon constant quand nous en sommes dignes."
+ }
+}

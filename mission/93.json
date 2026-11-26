@@ -1,0 +1,39 @@
+{
+ "v": 2,
+ "related": [
+  91,
+  31
+ ],
+ "en": {
+  "ask": [
+   "Which names for God do you know from the Bible?",
+   "Why do you think God has different names and titles?",
+   "What do these names teach you about the Father and the Son?"
+  ],
+  "why": [
+   "In the beginning God created the heavens and the earth.",
+   "The scriptures teach that the Father created through His Son."
+  ],
+  "follow": "Next visit, ask what they noticed about the names of God. Then teach about the Father and the Son.",
+  "scripture": "Genesis 1:1 | Moses 1:33 | Doctrine and Covenants 110:3-4",
+  "simple": "Modern revelation uses the name Elohim for God the Father and Jehovah for His Son, Jesus Christ. The Old Testament uses several names for God, and Church leaders have taught that the LORD, or Jehovah, of the Old Testament is the premortal Jesus Christ.",
+  "explain": "The scriptures teach that the Father created the earth through His Son. In April 1836 the Savior appeared in the Kirtland Temple and spoke as Jehovah. The two names help us see the Father and the Son working in perfect unity.",
+  "matters": "Understanding these names helps us see that the Father and the Son are two Beings, united in everything that matters."
+ },
+ "fr": {
+  "ask": [
+   "Quels noms de Dieu connaissez-vous dans la Bible ?",
+   "Pourquoi pensez-vous que Dieu a différents noms et titres ?",
+   "Que vous enseignent ces noms sur le Père et le Fils ?"
+  ],
+  "why": [
+   "Au commencement, Dieu créa les cieux et la terre.",
+   "Les Écritures enseignent que le Père a créé par Son Fils."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur les noms de Dieu. Puis enseignez le Père et le Fils.",
+  "scripture": "Genesis 1:1 | Moses 1:33 | Doctrine and Covenants 110:3-4",
+  "simple": "La révélation moderne emploie le nom Élohim pour Dieu le Père et Jéhovah pour Son Fils, Jésus-Christ. L'Ancien Testament emploie plusieurs noms pour Dieu, et les dirigeants de l'Église ont enseigné que l'Éternel, ou Jéhovah, de l'Ancien Testament est Jésus-Christ préterrestre.",
+  "explain": "Les Écritures enseignent que le Père a créé la terre par Son Fils. En avril 1836, le Sauveur est apparu dans le temple de Kirtland et a parlé comme Jéhovah. Les deux noms nous aident à voir le Père et le Fils agir dans une parfaite unité.",
+  "matters": "Comprendre ces noms nous aide à voir que le Père et le Fils sont deux Êtres, unis dans tout ce qui compte."
+ }
+}

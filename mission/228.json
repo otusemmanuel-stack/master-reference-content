@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  104,
+  41
+ ],
+ "en": {
+  "ask": [
+   "Why do you think caring for physical needs matters to God?",
+   "How do you think a church should use its resources?",
+   "What would you like to know about how the Church cares for the poor?"
+  ],
+  "why": [
+   "The twelve apostles asked the disciples to choose seven men to serve the widows, so the apostles could give themselves to prayer and the ministry.",
+   "The Lord commands that the Church care for the poor and the needy."
+  ],
+  "follow": "Next visit, ask what they learned about caring for others. Then teach about the law of consecration and service.",
+  "explain": "Managing the Church's funds for members around the world is a sacred stewardship. God cares how His resources are used, and the funds are used to bless people and build the kingdom."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi pensez-vous que prendre soin des besoins physiques est important pour Dieu ?",
+   "Comment pensez-vous qu'une église doit utiliser ses ressources ?",
+   "Qu'aimeriez-vous savoir sur la façon dont l'Église prend soin des pauvres ?"
+  ],
+  "why": [
+   "Les douze apôtres ont demandé aux disciples de choisir sept hommes pour servir les veuves, afin que les apôtres puissent se consacrer à la prière et au ministère.",
+   "Le Seigneur commande que l'Église prenne soin des pauvres et des nécessiteux."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur le soin des autres. Puis enseignez la loi de consécration et le service.",
+  "explain": "Gérer les fonds de l'Église pour les membres du monde entier est une intendance sacrée. Dieu se soucie de la façon dont Ses ressources sont utilisées, et les fonds servent à bénir les gens et à édifier le royaume."
+ }
+}

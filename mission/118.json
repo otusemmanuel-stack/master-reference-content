@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  201,
+  202
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means that God has always offered the same gospel?",
+   "How do you feel about the idea that Adam knew about Jesus Christ?",
+   "Would you like to read how Adam was taught?"
+  ],
+  "why": [
+   "Paul says the gospel was preached to Abraham beforehand.",
+   "Moses records that Adam and Eve were taught to repent and call upon God in the name of the Son."
+  ],
+  "follow": "Next visit, ask what they noticed about the early gospel. Then teach about the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que cela signifie que Dieu a toujours offert le même Évangile ?",
+   "Que ressentez-vous à l'idée qu'Adam connaissait Jésus-Christ ?",
+   "Aimeriez-vous lire comment Adam a été enseigné ?"
+  ],
+  "why": [
+   "Paul dit que l'Évangile a été annoncé d'avance à Abraham.",
+   "Moïse rapporte qu'Adam et Ève ont appris à se repentir et à invoquer Dieu au nom du Fils."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur l'Évangile des premiers temps. Puis enseignez le plan du salut."
+ }
+}

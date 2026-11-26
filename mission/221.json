@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  150,
+  218
+ ],
+ "en": {
+  "ask": [
+   "What would it mean to you if your children could be with you forever?",
+   "How do you feel about God's plan including everyone?",
+   "Would you like to learn how sealing works?"
+  ],
+  "why": [
+   "Paul speaks of baptism for the dead, showing God cares about those who did not have the chance.",
+   "Hebrews says the faithful of old cannot be made perfect without us."
+  ],
+  "follow": "Next visit, ask what they felt about eternal families. Then teach about the temple."
+ },
+ "fr": {
+  "ask": [
+   "Que signifierait pour vous que vos enfants puissent être avec vous pour toujours ?",
+   "Que ressentez-vous à l'idée que le plan de Dieu inclut tout le monde ?",
+   "Aimeriez-vous apprendre comment fonctionne le scellement ?"
+  ],
+  "why": [
+   "Paul parle du baptême pour les morts, montrant que Dieu se soucie de ceux qui n'ont pas eu la possibilité.",
+   "Hébreux dit que les fidèles d'autrefois ne peuvent être rendus parfaits sans nous."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des familles éternelles. Puis enseignez le temple."
+ }
+}

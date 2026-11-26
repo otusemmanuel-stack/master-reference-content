@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  116,
+  73
+ ],
+ "en": {
+  "ask": [
+   "Have you ever fasted? What was it like?",
+   "What do you think fasting has to do with caring for the poor?",
+   "What would you like to ask God if you set aside a meal to pray?"
+  ],
+  "why": [
+   "Isaiah teaches that the fast God chooses is to share our bread with the hungry and help those in need.",
+   "Omni urges us to come to Christ, continuing in fasting and prayer."
+  ],
+  "follow": "Next visit, ask what they felt as they fasted or thought about fasting. Then teach about the law of the fast."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous déjà jeûné ? Comment était-ce ?",
+   "Quel lien pensez-vous qu'il y ait entre le jeûne et l'aide aux pauvres ?",
+   "Que voudriez-vous demander à Dieu si vous mettiez de côté un repas pour prier ?"
+  ],
+  "why": [
+   "Ésaïe enseigne que le jeûne que Dieu choisit consiste à partager notre pain avec ceux qui ont faim et à aider ceux qui sont dans le besoin.",
+   "Omni nous exhorte à venir au Christ, en persévérant dans le jeûne et la prière."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en jeûnant ou en y pensant. Puis enseignez la loi du jeûne."
+ }
+}

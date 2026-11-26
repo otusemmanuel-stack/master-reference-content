@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  30,
+  53
+ ],
+ "en": {
+  "ask": [
+   "What do you think a glorified body is like?",
+   "Why do you think the resurrection is called a gift?",
+   "How do you feel about your own body and its future?"
+  ],
+  "why": [
+   "Paul teaches that Christ will change our bodies to be like His glorious body.",
+   "Alma teaches that every part of the body will be restored in the resurrection."
+  ],
+  "follow": "Next visit, ask what they felt about the resurrection. Then teach about the Atonement and the Resurrection.",
+  "simple": "God has a glorified, resurrected body, and the resurrection is the crowning gift of the Atonement. In scripture, the body is a gift, not a limitation."
+ },
+ "fr": {
+  "ask": [
+   "À quoi pensez-vous que ressemble un corps glorifié ?",
+   "Pourquoi pensez-vous que la résurrection est appelée un don ?",
+   "Que ressentez-vous à propos de votre propre corps et de son avenir ?"
+  ],
+  "why": [
+   "Paul enseigne que le Christ transformera notre corps pour le rendre semblable à Son corps glorieux.",
+   "Alma enseigne que chaque partie du corps sera rétablie dans la résurrection."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la résurrection. Puis enseignez l'expiation et la Résurrection.",
+  "simple": "Dieu a un corps glorifié et ressuscité, et la résurrection est le don suprême de l'expiation. Dans les Écritures, le corps est un don, non une limite."
+ }
+}

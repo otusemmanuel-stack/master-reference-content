@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  129,
+  103
+ ],
+ "en": {
+  "ask": [
+   "What do you know about Peter's role?",
+   "What do you think Jesus Christ meant by giving keys to Peter?",
+   "What would you want to know about authority in the Church today?"
+  ],
+  "why": [
+   "Jesus Christ told Peter that He would build His Church on this rock.",
+   "Paul says the Church is built on the foundation of apostles and prophets."
+  ],
+  "follow": "Next visit, ask what they felt about authority from God. Then teach about the Restoration of the priesthood.",
+  "simple": "Catholics believe the Pope is Peter's successor. We believe that Peter and the other apostles held priesthood keys, and that these keys were lost after the apostles died. We believe Peter, James and John restored them to Joseph Smith. We respect the Catholic faith and its history.",
+  "explain": "Matthew 16 records that Jesus Christ gave Peter keys of the kingdom. The New Testament also shows leadership shared among the apostles. We invite you to read about it and to ask God where His authority is today."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous du rôle de Pierre ?",
+   "Que pensez-vous que Jésus-Christ voulait dire en donnant des clés à Pierre ?",
+   "Que voudriez-vous savoir sur l'autorité dans l'Église aujourd'hui ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit à Pierre qu'Il bâtirait Son Église sur ce roc.",
+   "Paul dit que l'Église est bâtie sur le fondement des apôtres et des prophètes."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'autorité venant de Dieu. Puis enseignez le rétablissement de la prêtrise.",
+  "simple": "Les catholiques croient que le pape est le successeur de Pierre. Nous croyons que Pierre et les autres apôtres détenaient les clés de la prêtrise, et que ces clés ont été perdues après la mort des apôtres. Nous croyons que Pierre, Jacques et Jean les ont rétablies à Joseph Smith. Nous respectons la foi catholique et son histoire.",
+  "explain": "Matthieu 16 rapporte que Jésus-Christ a donné à Pierre les clés du royaume. Le Nouveau Testament montre aussi une direction partagée entre les apôtres. Nous vous invitons à lire à ce sujet et à demander à Dieu où se trouve Son autorité aujourd'hui."
+ }
+}

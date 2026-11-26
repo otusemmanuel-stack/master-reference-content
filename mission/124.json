@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  23,
+  11
+ ],
+ "en": {
+  "ask": [
+   "What do you know about the name of our Church?",
+   "Why do you think Jesus Christ wants His name in the Church name?",
+   "How does it feel to belong to a church that bears His name?"
+  ],
+  "why": [
+   "Jesus Christ says to build upon the rock, and the gates of hell will not prevail against His Church.",
+   "The Savior says the Church must be called in His name."
+  ],
+  "follow": "Next visit, ask what they felt about the name of the Church. Then teach about the Restoration.",
+  "simple": "The full name is The Church of Jesus Christ of Latter-day Saints. The Lord gave that name by revelation in 1838. 'Mormon' came from outsiders because of the Book of Mormon. We ask people to use the full name, or 'the Church of Jesus Christ.'"
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous du nom de notre Église ?",
+   "Pourquoi pensez-vous que Jésus-Christ veut que Son nom soit dans le nom de l'Église ?",
+   "Que ressentez-vous en appartenant à une Église qui porte Son nom ?"
+  ],
+  "why": [
+   "Jésus-Christ dit de bâtir sur le roc, et que les portes de l'enfer ne prévaudront pas contre Son Église.",
+   "Le Sauveur dit que l'Église doit être appelée de Son nom."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du nom de l'Église. Puis enseignez le Rétablissement.",
+  "simple": "Le nom complet est L'Église de Jésus-Christ des Saints des Derniers Jours. Le Seigneur a donné ce nom par révélation en 1838. « Mormon » est venu de l'extérieur, à cause du Livre de Mormon. Nous demandons aux gens d'utiliser le nom complet, ou « l'Église de Jésus-Christ »."
+ }
+}

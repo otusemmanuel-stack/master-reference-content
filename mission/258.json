@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  253,
+  223
+ ],
+ "en": {
+  "ask": [
+   "What do you hope for in building a family?",
+   "How do you pray about these decisions?",
+   "What guidance would help you most?"
+  ],
+  "why": [
+   "Hannah prayed for a child and the Lord answered.",
+   "The Lord says marriage is ordained of God."
+  ],
+  "follow": "Next visit, ask what they felt about family and prayer. Then teach about the family.",
+  "simple": "The Church teaches that couples who struggle to have children are loved. Using a husband's and wife's own genetic material in IVF is a personal decision. Using donors or a surrogate is discouraged. Couples are encouraged to pray and counsel together."
+ },
+ "fr": {
+  "ask": [
+   "Que souhaitez-vous en fondant une famille ?",
+   "Comment priez-vous au sujet de ces décisions ?",
+   "Quels conseils vous aideraient le plus ?"
+  ],
+  "why": [
+   "Anne a prié pour un enfant et l'Éternel a répondu.",
+   "Le Seigneur dit que le mariage est ordonné de Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la famille et de la prière. Puis enseignez la famille.",
+  "simple": "L'Église enseigne que les couples qui ont du mal à avoir des enfants sont aimés. Recourir à la FIV avec le matériel génétique du mari et de l'épouse est une décision personnelle. Le recours à des donneurs ou à une mère porteuse est déconseillé. Les couples sont encouragés à prier et à se consulter."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  264,
+  255
+ ],
+ "en": {
+  "ask": [
+   "How do you think faith and medicine can work together?",
+   "Have you ever received a priesthood blessing and medical care at the same time?",
+   "What would you like to know about how the Church views health care?"
+  ],
+  "why": [
+   "James says to call for the elders and anoint the sick with oil.",
+   "The Lord says to use herbs and mild food, and that He ordained them for the use of man."
+  ],
+  "follow": "Next visit, ask what they felt about faith and medicine. Then teach about priesthood blessings."
+ },
+ "fr": {
+  "ask": [
+   "Comment pensez-vous que la foi et la médecine peuvent œuvrer ensemble ?",
+   "Avez-vous déjà reçu une bénédiction de la prêtrise et des soins médicaux en même temps ?",
+   "Que voudriez-vous savoir sur la façon dont l'Église voit les soins de santé ?"
+  ],
+  "why": [
+   "Jacques dit d'appeler les anciens et d'oindre les malades d'huile.",
+   "Le Seigneur dit d'utiliser des plantes et une nourriture légère, et qu'Il les a ordonnées pour l'usage de l'homme."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la foi et de la médecine. Puis enseignez les bénédictions de la prêtrise."
+ }
+}

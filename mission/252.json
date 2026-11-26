@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  12,
+  179
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means that the body is a temple?",
+   "How do you decide what to do with your body?",
+   "What would you like to know about the Church's counsel?"
+  ],
+  "why": [
+   "Paul says your body is the temple of the Holy Ghost.",
+   "The Lord says the spirit and the body are the soul of man."
+  ],
+  "follow": "Next visit, ask what they felt about the body as a gift. Then teach about the plan of salvation.",
+  "simple": "The Church discourages tattoos and body piercing, except for one pair of earrings for women. It is counsel, not a rule for baptism. Members with tattoos are welcome. We teach that the body is a gift from God."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que cela signifie que le corps est un temple ?",
+   "Comment décidez-vous ce que vous faites de votre corps ?",
+   "Que voudriez-vous savoir sur le conseil de l'Église ?"
+  ],
+  "why": [
+   "Paul dit que votre corps est le temple du Saint-Esprit.",
+   "Le Seigneur dit que l'esprit et le corps sont l'âme de l'homme."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du corps comme don. Puis enseignez le plan du salut.",
+  "simple": "L'Église déconseille les tatouages et le perçage du corps, sauf une paire de boucles d'oreilles pour les femmes. C'est un conseil, non une règle pour le baptême. Les membres qui ont des tatouages sont les bienvenus. Nous enseignons que le corps est un don de Dieu."
+ }
+}

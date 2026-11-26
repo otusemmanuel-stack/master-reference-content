@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  167,
+  169
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about Emma Smith?",
+   "How do you feel about hard questions in Church history?",
+   "What would you want to know before deciding about Joseph Smith?"
+  ],
+  "why": [
+   "Genesis tells of Sarai's pain when Hagar was given to Abram.",
+   "Jacob says that God's people should have one wife unless the Lord commands otherwise."
+  ],
+  "follow": "Next visit, ask what questions they still have. Then teach about prayer and revelation.",
+  "simple": "Emma Smith knew about plural marriage and struggled with it. The Church's history essay says she accepted it at times and opposed it at others. It was a painful experience for her. The Church shares this history openly.",
+  "explain": "We do not hide hard parts of our history. We trust that God knows each heart. We invite people to read the Church's essay and to pray about what they feel."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur Emma Smith ?",
+   "Que ressentez-vous à propos des questions difficiles de l'histoire de l'Église ?",
+   "Que voudriez-vous savoir avant de vous faire une opinion sur Joseph Smith ?"
+  ],
+  "why": [
+   "La Genèse raconte la peine de Saraï quand Agar fut donnée à Abram.",
+   "Jacob dit que le peuple de Dieu doit avoir une seule femme, sauf si le Seigneur commande autrement."
+  ],
+  "follow": "À la prochaine visite, demandez quelles questions ils ont encore. Puis enseignez la prière et la révélation.",
+  "simple": "Emma Smith connaissait le mariage plural et a eu du mal avec cette pratique. L'essai historique de l'Église dit qu'elle l'a accepté par moments et s'y est opposée à d'autres. Ce fut une expérience douloureuse pour elle. L'Église partage cette histoire ouvertement.",
+  "explain": "Nous ne cachons pas les parties difficiles de notre histoire. Nous faisons confiance à Dieu, qui connaît chaque cœur. Nous invitons les gens à lire l'essai de l'Église et à prier sur ce qu'ils ressentent."
+ }
+}

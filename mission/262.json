@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  253,
+  223
+ ],
+ "en": {
+  "ask": [
+   "What do you think about decisions that affect family size?",
+   "How do you pray about health and family?",
+   "What would help a couple decide?"
+  ],
+  "why": [
+   "God told Adam and Eve to multiply and replenish the earth.",
+   "The Psalms say children are a heritage of the Lord."
+  ],
+  "follow": "Next visit, ask what they felt about family and prayer. Then teach about the family."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous des décisions qui touchent la taille de la famille ?",
+   "Comment priez-vous au sujet de la santé et de la famille ?",
+   "Qu'est-ce qui aiderait un couple à décider ?"
+  ],
+  "why": [
+   "Dieu a dit à Adam et Ève de multiplier et de remplir la terre.",
+   "Les Psaumes disent que les enfants sont un héritage de l'Éternel."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la famille et de la prière. Puis enseignez la famille."
+ }
+}

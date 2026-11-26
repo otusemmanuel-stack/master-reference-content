@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  11,
+  42
+ ],
+ "en": {
+  "ask": [
+   "Why do you think there are so many Christian churches?",
+   "What do you think Jesus Christ prayed for in John 17?",
+   "What would unity among Christians look like?"
+  ],
+  "why": [
+   "Paul asks believers to be perfectly joined together in the same mind.",
+   "Jesus Christ prayed that all may be one."
+  ],
+  "follow": "Next visit, ask what they felt about unity. Then teach about the Restoration.",
+  "simple": "Christianity divided over many questions, including doctrine, authority and practice. Many sincere people sought to follow Jesus Christ. We honour the reformers and the good they did. We also believe that a restoration of priesthood authority and doctrine was needed to bring unity.",
+  "explain": "Jesus Christ prayed that His followers would be one. We believe that unity comes through living prophets and the authority He restored. We invite everyone to ask God."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi pensez-vous qu'il y a tant d'Églises chrétiennes ?",
+   "Que pensez-vous que Jésus-Christ a demandé dans Jean 17 ?",
+   "À quoi ressemblerait l'unité entre chrétiens ?"
+  ],
+  "why": [
+   "Paul demande aux croyants d'être parfaitement unis dans une même pensée.",
+   "Jésus-Christ a prié pour que tous soient un."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'unité. Puis enseignez le Rétablissement.",
+  "simple": "Le christianisme s'est divisé sur de nombreuses questions, dont la doctrine, l'autorité et la pratique. Beaucoup de personnes sincères ont cherché à suivre Jésus-Christ. Nous honorons les réformateurs et le bien qu'ils ont fait. Nous croyons aussi qu'un rétablissement de l'autorité de la prêtrise et de la doctrine était nécessaire pour apporter l'unité.",
+  "explain": "Jésus-Christ a prié pour que Ses disciples soient un. Nous croyons que l'unité vient par des prophètes vivants et l'autorité qu'Il a rétablie. Nous invitons chacun à demander à Dieu."
+ }
+}

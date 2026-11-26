@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  323,
+  326
+ ],
+ "en": {
+  "ask": [
+   "When do you feel closest to God?",
+   "What do you do when you feel discouraged?",
+   "What part of the scriptures strengthens you most?"
+  ],
+  "why": [
+   "The Lord told Paul that His grace is enough, and His strength is made perfect in weakness.",
+   "Moroni says the Lord gives weakness so people can be humble, and He makes weak things strong."
+  ],
+  "follow": "Next visit, ask what strengthened their faith this week. Then teach about prayer and scripture study.",
+  "simple": "Hard days can come on a mission. Keep up daily prayer and scripture study, especially when you feel low. Talk with your companion, your leaders and your family. Faith often grows through hard things, as you keep acting on what you know."
+ },
+ "fr": {
+  "ask": [
+   "Quand vous sentez-vous le plus proche de Dieu ?",
+   "Que faites-vous quand vous êtes découragé ?",
+   "Quelle partie des Écritures vous fortifie le plus ?"
+  ],
+  "why": [
+   "Le Seigneur a dit à Paul que Sa grâce suffit, et que Sa puissance s'accomplit dans la faiblesse.",
+   "Moroni dit que le Seigneur donne la faiblesse pour que les gens soient humbles, et qu'Il rend fortes les choses faibles."
+  ],
+  "follow": "À la prochaine visite, demandez ce qui a fortifié leur foi cette semaine. Puis enseignez la prière et l'étude des Écritures.",
+  "simple": "Des jours difficiles peuvent arriver en mission. Continuez la prière et l'étude des Écritures chaque jour, surtout quand vous êtes abattu. Parlez avec votre compagnon, vos dirigeants et votre famille. La foi grandit souvent dans les épreuves, quand vous continuez à agir selon ce que vous savez."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  10,
+  126
+ ],
+ "en": {
+  "ask": [
+   "Why do you think God uses prophets to speak to many people?",
+   "How do you feel about both personal and public revelation?",
+   "What would you like to ask God for yourself?"
+  ],
+  "why": [
+   "Amos says the Lord does nothing without revealing it to His servants the prophets.",
+   "Nephi says the Holy Ghost will show you all things to do."
+  ],
+  "follow": "Next visit, ask what they felt about revelation. Then teach about revelation.",
+  "simple": "God reveals things line upon line, as we are ready. He speaks to prophets for the whole Church, and to each person for their own life. Both are part of His order. A prophet's guidance helps us stay united."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi pensez-vous que Dieu utilise des prophètes pour parler à beaucoup de gens ?",
+   "Que ressentez-vous à propos de la révélation personnelle et publique ?",
+   "Que voudriez-vous demander à Dieu pour vous-même ?"
+  ],
+  "why": [
+   "Amos dit que le Seigneur ne fait rien sans révéler Son secret à Ses serviteurs les prophètes.",
+   "Néphi dit que le Saint-Esprit vous montrera tout ce que vous devez faire."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la révélation. Puis enseignez la révélation.",
+  "simple": "Dieu révèle les choses ligne sur ligne, à mesure que nous sommes prêts. Il parle aux prophètes pour toute l'Église, et à chaque personne pour sa propre vie. Les deux font partie de Son ordre. Le conseil d'un prophète nous aide à rester unis."
+ }
+}

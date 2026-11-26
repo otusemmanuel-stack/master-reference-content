@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  10,
+  232
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about early Church leaders teaching different ideas?",
+   "How do you feel about living prophets clarifying teachings?",
+   "What do you want to know about who Adam is?"
+  ],
+  "why": [
+   "Luke calls Adam the son of God.",
+   "The Lord revealed that Adam is Michael, the archangel."
+  ],
+  "follow": "Next visit, ask what they learned about Adam. Then teach about the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur d'anciens dirigeants de l'Église qui enseignaient des idées différentes ?",
+   "Que ressentez-vous à l'idée que des prophètes vivants clarifient des enseignements ?",
+   "Que voulez-vous savoir sur qui est Adam ?"
+  ],
+  "why": [
+   "Luc appelle Adam le fils de Dieu.",
+   "Le Seigneur a révélé qu'Adam est Michel, l'archange."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur Adam. Puis enseignez le plan du salut."
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "v": 2,
+ "related": [
+  1,
+  2
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about how the Book of Mormon came to be?",
+   "What do you think it would take to produce a book like this?",
+   "Would you be willing to ask God whether it is true?"
+  ],
+  "why": [
+   "Paul teaches that every word is established by the mouth of two or three witnesses.",
+   "Moroni invites every reader to ask God, with a sincere heart and real intent, whether these things are true."
+  ],
+  "follow": "Next visit, ask what they felt as they read and prayed. Then teach about the Book of Mormon and the Restoration.",
+  "simple": "Joseph Smith said he translated the Book of Mormon by the gift and power of God from ancient records written on gold plates. The work of about 500 pages was done in a remarkably short time, with scribes writing as he dictated.",
+  "explain": "Joseph Smith had little formal schooling. Those who acted as his scribes said that he dictated without notes or manuscripts. He also had witnesses who testified that they saw the plates.",
+  "matters": "The Book of Mormon invites every person to test it through prayer, as Moroni promises."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur la manière dont le Livre de Mormon est venu au monde ?",
+   "Que pensez-vous qu'il faudrait pour produire un livre comme celui-ci ?",
+   "Seriez-vous prêt à demander à Dieu s'il est vrai ?"
+  ],
+  "why": [
+   "Paul enseigne que toute parole est établie sur la déclaration de deux ou trois témoins.",
+   "Moroni invite chaque lecteur à demander à Dieu, avec un cœur sincère et une réelle intention, si ces choses sont vraies."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en lisant et en priant. Puis enseignez le Livre de Mormon et le Rétablissement.",
+  "simple": "Joseph Smith a dit qu'il avait traduit le Livre de Mormon par le don et le pouvoir de Dieu à partir d'annales anciennes écrites sur des plaques d'or. Ce travail d'environ 500 pages a été accompli en un temps remarquablement court, avec des scribes qui écrivaient pendant qu'il dictait.",
+  "explain": "Joseph Smith avait peu d'instruction formelle. Ceux qui ont été ses scribes ont dit qu'il dictait sans notes ni manuscrits. Il y a aussi des témoins qui ont déclaré avoir vu les plaques.",
+  "matters": "Le Livre de Mormon invite chacun à l'éprouver par la prière, comme Moroni le promet."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  61,
+  81
+ ],
+ "en": {
+  "ask": [
+   "What does grace mean to you?",
+   "What do you think James means when he says faith without works is dead?",
+   "What do you feel moved to do when you feel grateful to God?"
+  ],
+  "why": [
+   "James teaches that faith without works is dead, and that real faith shows itself in action.",
+   "Nephi teaches that we are saved by grace after all we can do."
+  ],
+  "follow": "Next visit, ask what they felt about grace and effort. Then teach about faith, repentance and baptism."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie la grâce pour vous ?",
+   "Que pensez-vous que Jacques veut dire quand il dit que la foi sans les œuvres est morte ?",
+   "Qu'êtes-vous poussé à faire quand vous êtes reconnaissant envers Dieu ?"
+  ],
+  "why": [
+   "Jacques enseigne que la foi sans les œuvres est morte, et que la vraie foi se montre par les actes.",
+   "Néphi enseigne que nous sommes sauvés par la grâce, après tout ce que nous pouvons faire."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la grâce et de l'effort. Puis enseignez la foi, le repentir et le baptême."
+ }
+}

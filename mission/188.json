@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  137,
+  229
+ ],
+ "en": {
+  "ask": [
+   "What do you know about blessings in the Bible?",
+   "Why might God give a personal message of direction?",
+   "How would you prepare to receive one?"
+  ],
+  "why": [
+   "Jacob called his sons together and told them what would happen to them.",
+   "The Lord revealed that patriarchs give blessings to their posterity."
+  ],
+  "follow": "Next visit, ask what they learned about patriarchal blessings. Then teach about revelation."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous des bénédictions dans la Bible ?",
+   "Pourquoi Dieu pourrait-Il donner un message personnel d'orientation ?",
+   "Comment vous prépareriez-vous à en recevoir une ?"
+  ],
+  "why": [
+   "Jacob a appelé ses fils et leur a dit ce qui leur arriverait.",
+   "Le Seigneur a révélé que les patriarches donnent des bénédictions à leur postérité."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur les bénédictions patriarcales. Puis enseignez la révélation."
+ }
+}

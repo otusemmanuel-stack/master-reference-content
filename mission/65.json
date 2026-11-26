@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  34,
+  88
+ ],
+ "en": {
+  "ask": [
+   "What do you think we will do after this life?",
+   "Do you think people can keep learning and growing?",
+   "What would you like to become?"
+  ],
+  "why": [
+   "Peter says we can become partakers of the divine nature by adding virtues to our faith.",
+   "The Lord says whatever knowledge we gain in this life will rise with us in the resurrection."
+  ],
+  "follow": "Next visit, ask what they felt about growing in the next life. Then teach about the plan of salvation.",
+  "matters": "Life does not stop at death. God invites us to keep learning and growing, and He wants to help us become more like Him."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que nous ferons après cette vie ?",
+   "Pensez-vous que les gens peuvent continuer à apprendre et à grandir ?",
+   "Que voudriez-vous devenir ?"
+  ],
+  "why": [
+   "Pierre dit que nous pouvons devenir participants de la nature divine en ajoutant des vertus à notre foi.",
+   "Le Seigneur dit que toute connaissance que nous acquérons dans cette vie ressuscitera avec nous."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de grandir dans la vie à venir. Puis enseignez le plan du salut.",
+  "matters": "La vie ne s'arrête pas à la mort. Dieu nous invite à continuer d'apprendre et de grandir, et Il veut nous aider à devenir davantage comme Lui."
+ }
+}

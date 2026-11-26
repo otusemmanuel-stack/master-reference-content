@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  10,
+  126
+ ],
+ "en": {
+  "ask": [
+   "What do you think learning does for faith?",
+   "How have you learned something that helped you grow?",
+   "What would you like to study more?"
+  ],
+  "why": [
+   "Proverbs says wisdom is the principal thing, so get wisdom.",
+   "The Lord says to seek learning by study and also by faith."
+  ],
+  "follow": "Next visit, ask what they learned and how it felt. Then teach about learning by study and faith.",
+  "explain": "God asks us to seek learning by study and by faith. The Church encourages education, and many members study at schools and universities. Learning and faith can work together. The Spirit can teach us, and we are also asked to do our part."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que l'apprentissage apporte à la foi ?",
+   "Comment avez-vous appris quelque chose qui vous a aidé à grandir ?",
+   "Qu'aimeriez-vous étudier davantage ?"
+  ],
+  "why": [
+   "Les Proverbes disent que la sagesse est la chose principale, acquiers donc la sagesse.",
+   "Le Seigneur dit de chercher l'instruction par l'étude et aussi par la foi."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris et ce qu'ils ont ressenti. Puis enseignez l'apprentissage par l'étude et par la foi.",
+  "explain": "Dieu nous demande de chercher l'instruction par l'étude et aussi par la foi. L'Église encourage l'éducation, et beaucoup de membres étudient dans des écoles et des universités. L'apprentissage et la foi peuvent aller de pair. L'Esprit peut nous enseigner, et il nous est aussi demandé de faire notre part."
+ }
+}

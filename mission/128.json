@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  33,
+  222
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means to trust God with your income?",
+   "Have you ever seen a blessing after giving?",
+   "What would you want to know before you decide?"
+  ],
+  "why": [
+   "Malachi says to bring all the tithes into the storehouse.",
+   "The Savior repeats Malachi's words to the Nephites."
+  ],
+  "follow": "Next visit, ask what they felt about tithing. Then teach about the law of tithing.",
+  "simple": "Tithe means a tenth. Members give one tenth of their income to the Lord. Abraham gave a tenth to Melchizedek, and the Lord asked for a tenth in Malachi. We invite you to try it and see the blessings God gives."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que cela signifie de faire confiance à Dieu avec vos revenus ?",
+   "Avez-vous déjà vu une bénédiction après avoir donné ?",
+   "Que voudriez-vous savoir avant de décider ?"
+  ],
+  "why": [
+   "Malachie dit d'apporter toutes les dîmes à la maison du trésor.",
+   "Le Sauveur répète les paroles de Malachie aux Néphites."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la dîme. Puis enseignez la loi de la dîme.",
+  "simple": "Dîme signifie un dixième. Les membres donnent un dixième de leurs revenus au Seigneur. Abraham a donné un dixième à Melchisédek, et le Seigneur a demandé un dixième dans Malachie. Nous vous invitons à l'essayer et à voir les bénédictions que Dieu donne."
+ }
+}

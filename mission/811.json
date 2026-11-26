@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  58,
+  176
+ ],
+ "en": {
+  "ask": [
+   "What qualities do you look for in a church leader?",
+   "What do you think the apostle Paul's example shows?",
+   "What would you like to know about how Church leaders are chosen?"
+  ],
+  "why": [
+   "Paul says a bishop should be the husband of one wife.",
+   "Paul says he wishes all could be as he is, and notes that other apostles have wives."
+  ],
+  "follow": "Next visit, ask what they noticed about Church leaders. Then teach about Church organisation."
+ },
+ "fr": {
+  "ask": [
+   "Quelles qualités recherchez-vous chez un dirigeant d'Église ?",
+   "Que pensez-vous que l'exemple de l'apôtre Paul montre ?",
+   "Que voudriez-vous savoir sur la façon dont les dirigeants de l'Église sont choisis ?"
+  ],
+  "why": [
+   "Paul dit qu'un évêque doit être mari d'une seule femme.",
+   "Paul dit qu'il voudrait que tous soient comme lui, et note que d'autres apôtres ont des épouses."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur les dirigeants de l'Église. Puis enseignez l'organisation de l'Église."
+ }
+}

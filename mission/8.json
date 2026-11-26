@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  9,
+  36
+ ],
+ "en": {
+  "ask": [
+   "What do you know about temples in the Bible?",
+   "Why might a sacred place need preparation?",
+   "How would you prepare to enter a holy place?"
+  ],
+  "why": [
+   "In Exodus, the veil separated the Holy Place from the Most Holy Place.",
+   "The Savior prayed and taught His disciples in a sacred setting."
+  ],
+  "follow": "Next visit, ask what they felt about sacred places. Then teach about temple blessings.",
+  "simple": "Temples are sacred, so we prepare to enter them. After a new temple is built, it is open to the public for tours before it is dedicated. After that, members who are living the commandments may go in. Anyone can prepare to enter."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous des temples dans la Bible ?",
+   "Pourquoi un lieu sacré pourrait-il demander de la préparation ?",
+   "Comment vous prépareriez-vous à entrer dans un lieu saint ?"
+  ],
+  "why": [
+   "Dans l'Exode, le voile séparait le lieu saint du lieu très saint.",
+   "Le Sauveur a prié et enseigné Ses disciples dans un cadre sacré."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des lieux sacrés. Puis enseignez les bénédictions du temple.",
+  "simple": "Les temples sont sacrés, nous nous préparons donc à y entrer. Quand un nouveau temple est construit, il est ouvert au public pour des visites avant d'être consacré. Ensuite, les membres qui vivent les commandements peuvent y entrer. Chacun peut se préparer à y entrer."
+ }
+}

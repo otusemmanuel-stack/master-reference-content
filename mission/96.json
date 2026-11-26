@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  200,
+  62
+ ],
+ "en": {
+  "ask": [
+   "What roles do you see in your own church or community?",
+   "Why do you think God gives different responsibilities to different people?",
+   "What would you like to know about what these offices do?"
+  ],
+  "why": [
+   "Paul lists apostles, prophets, evangelists, pastors and teachers, each with a different work.",
+   "The Lord revealed the offices of the priesthood and their duties."
+  ],
+  "follow": "Next visit, ask what they learned about the priesthood offices. Then teach about the Aaronic and Melchizedek Priesthoods.",
+  "simple": "Each priesthood office has its own duties: deacon, teacher, priest, elder and high priest. Paul likewise listed apostles, prophets, evangelists, pastors and teachers as different roles in the Church."
+ },
+ "fr": {
+  "ask": [
+   "Quels rôles voyez-vous dans votre propre église ou communauté ?",
+   "Pourquoi pensez-vous que Dieu confie des responsabilités différentes à des personnes différentes ?",
+   "Qu'aimeriez-vous savoir sur ce que font ces offices ?"
+  ],
+  "why": [
+   "Paul énumère des apôtres, des prophètes, des évangélistes, des pasteurs et des docteurs, chacun avec une œuvre différente.",
+   "Le Seigneur a révélé les offices de la prêtrise et leurs devoirs."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur les offices de la prêtrise. Puis enseignez la Prêtrise d'Aaron et la Prêtrise de Melchisédek.",
+  "simple": "Chaque office de la prêtrise a ses propres devoirs : diacre, instructeur, prêtre, ancien et grand prêtre. Paul a de même énuméré des apôtres, des prophètes, des évangélistes, des pasteurs et des docteurs comme rôles différents dans l'Église."
+ }
+}

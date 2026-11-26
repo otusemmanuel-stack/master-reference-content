@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  37,
+  80
+ ],
+ "en": {
+  "ask": [
+   "What do you think the spirit of a person is?",
+   "What do you think happens to the spirit when the body dies?",
+   "How does this idea give you hope?"
+  ],
+  "why": [
+   "Ecclesiastes says the spirit returns to God who gave it.",
+   "Alma teaches that spirits are taken home to God after death."
+  ],
+  "follow": "Next visit, ask what they felt about the spirit and the body. Then teach about the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'est l'esprit d'une personne ?",
+   "Que pensez-vous qu'il arrive à l'esprit quand le corps meurt ?",
+   "En quoi cette idée vous donne-t-elle de l'espoir ?"
+  ],
+  "why": [
+   "L'Ecclésiaste dit que l'esprit retourne à Dieu qui l'a donné.",
+   "Alma enseigne que les esprits sont ramenés chez Dieu après la mort."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'esprit et du corps. Puis enseignez le plan du salut."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  104,
+  62
+ ],
+ "en": {
+  "ask": [
+   "How do you think God chooses people to serve?",
+   "What do you think about leaders who serve without pay?",
+   "What would you like to know about how local leaders are called?"
+  ],
+  "why": [
+   "No one takes the honour of the priesthood on himself. He is called of God, as Aaron was.",
+   "Alma teaches that priests were called and prepared from the foundation of the world, according to God's foreknowledge."
+  ],
+  "follow": "Next visit, ask what they noticed about how leaders serve. Then teach about callings in the Church."
+ },
+ "fr": {
+  "ask": [
+   "Comment pensez-vous que Dieu choisit ceux qui servent ?",
+   "Que pensez-vous des dirigeants qui servent sans être payés ?",
+   "Qu'aimeriez-vous savoir sur la façon dont les dirigeants locaux sont appelés ?"
+  ],
+  "why": [
+   "Nul ne s'attribue l'honneur de la prêtrise. Il est appelé de Dieu, comme Aaron.",
+   "Alma enseigne que les prêtres ont été appelés et préparés dès la fondation du monde, selon la préscience de Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur la façon dont les dirigeants servent. Puis enseignez les appels dans l'Église."
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  39,
+  163
+ ],
+ "en": {
+  "ask": [
+   "What would it mean to you if God spoke to a young man today?",
+   "What do you think Joseph Smith learned from that vision?",
+   "How could this event affect your life?"
+  ],
+  "why": [
+   "Peter says times of refreshing come from the Lord and that He will restore all things.",
+   "Joseph Smith says the Father introduced His Son and told him to hear Him."
+  ],
+  "follow": "Next visit, ask what they felt about the First Vision. Then teach about the Book of Mormon.",
+  "simple": "In the spring of 1820, Joseph Smith prayed in a grove of trees. He said God the Father and Jesus Christ appeared to him. We believe this began the Restoration of the gospel, and that the Book of Mormon, the priesthood and temples followed.",
+  "explain": "We do not say it is the most important event since the Resurrection of Jesus Christ. We say it opened this last dispensation, and that it shows God still speaks and answers prayer."
+ },
+ "fr": {
+  "ask": [
+   "Que signifierait pour vous que Dieu parle à un jeune homme aujourd'hui ?",
+   "Que pensez-vous que Joseph Smith a appris de cette vision ?",
+   "Comment cet événement pourrait-il influencer votre vie ?"
+  ],
+  "why": [
+   "Pierre dit que des temps de rafraîchissement viennent du Seigneur et qu'Il rétablira toutes choses.",
+   "Joseph Smith dit que le Père a présenté Son Fils et lui a dit de L'écouter."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la première vision. Puis enseignez le Livre de Mormon.",
+  "simple": "Au printemps de 1820, Joseph Smith a prié dans un bosquet. Il a dit que Dieu le Père et Jésus-Christ lui sont apparus. Nous croyons que cela a commencé le Rétablissement de l'Évangile, et que le Livre de Mormon, la prêtrise et les temples ont suivi.",
+  "explain": "Nous ne disons pas que c'est l'événement le plus important depuis la Résurrection de Jésus-Christ. Nous disons qu'il a ouvert cette dernière dispensation, et qu'il montre que Dieu parle encore et répond à la prière."
+ }
+}

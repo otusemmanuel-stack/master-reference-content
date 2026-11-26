@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  58,
+  89
+ ],
+ "en": {
+  "ask": [
+   "What do you picture when you hear 'stake of Zion'?",
+   "How do you feel about a church that calls its congregations wards?",
+   "What would you like to know about how our congregations are organised?"
+  ],
+  "why": [
+   "Isaiah says to lengthen the cords and strengthen the stakes of Zion.",
+   "The Lord says Zion must increase in beauty and holiness, and its stakes must be strengthened."
+  ],
+  "follow": "Next visit, ask what they noticed about their local ward. Then teach about Church organisation.",
+  "simple": "A stake is a group of congregations. The word comes from Isaiah, who spoke of Zion's tent being held up by stakes. A ward is a local congregation led by a bishop. These words describe how the Church is organised, and they are not copied from other churches."
+ },
+ "fr": {
+  "ask": [
+   "Que voyez-vous quand vous entendez « pieu de Sion » ?",
+   "Que ressentez-vous à propos d'une Église qui appelle ses congrégations des paroisses ?",
+   "Qu'aimeriez-vous savoir sur la façon dont nos congrégations sont organisées ?"
+  ],
+  "why": [
+   "Ésaïe dit d'allonger les cordages et d'affermir les pieux de Sion.",
+   "Le Seigneur dit que Sion doit croître en beauté et en sainteté, et que ses pieux doivent être fortifiés."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur leur paroisse locale. Puis enseignez l'organisation de l'Église.",
+  "simple": "Un pieu est un groupe de paroisses. Le mot vient d'Ésaïe, qui a parlé de la tente de Sion soutenue par des pieux. Une paroisse est une congrégation locale dirigée par un évêque. Ces mots décrivent comment l'Église est organisée, et ils ne sont pas copiés d'autres Églises."
+ }
+}

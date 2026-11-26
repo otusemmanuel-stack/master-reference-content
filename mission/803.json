@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  121,
+  619
+ ],
+ "en": {
+  "ask": [
+   "What do you think about the harder stories in the Old Testament?",
+   "How do you see God's character in Jesus Christ?",
+   "What questions would you like to ask God?"
+  ],
+  "why": [
+   "Leviticus commands us to love the stranger as ourselves.",
+   "Jesus Christ taught to love our enemies."
+  ],
+  "follow": "Next visit, ask what they felt about God's love. Then teach about Jesus Christ.",
+  "simple": "Some Old Testament passages describe violence that is hard to understand. We believe God is loving, and we see His character most fully in Jesus Christ. We also believe the Bible is the word of God as far as it is translated correctly. We do not have every answer, and we welcome honest questions.",
+  "explain": "Jesus Christ taught us to love our enemies. We read hard passages in that light. We invite you to study and pray about your questions."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous des récits les plus difficiles de l'Ancien Testament ?",
+   "Comment voyez-vous le caractère de Dieu en Jésus-Christ ?",
+   "Quelles questions voudriez-vous poser à Dieu ?"
+  ],
+  "why": [
+   "Le Lévitique commande d'aimer l'étranger comme soi-même.",
+   "Jésus-Christ a enseigné d'aimer nos ennemis."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'amour de Dieu. Puis enseignez Jésus-Christ.",
+  "simple": "Certains passages de l'Ancien Testament décrivent une violence difficile à comprendre. Nous croyons que Dieu est aimant, et nous voyons Son caractère le plus pleinement en Jésus-Christ. Nous croyons aussi que la Bible est la parole de Dieu, pour autant qu'elle soit traduite correctement. Nous n'avons pas toutes les réponses, et nous accueillons les questions honnêtes.",
+  "explain": "Jésus-Christ nous a enseigné à aimer nos ennemis. Nous lisons les passages difficiles à la lumière de cela. Nous vous invitons à étudier et à prier au sujet de vos questions."
+ }
+}

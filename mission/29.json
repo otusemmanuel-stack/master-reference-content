@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  58,
+  222
+ ],
+ "en": {
+  "ask": [
+   "What do you think about ministers being paid?",
+   "How do you feel about Church leaders who serve without pay?",
+   "What would you like to know about how the Church supports leaders?"
+  ],
+  "why": [
+   "Jesus Christ said the laborer is worthy of his hire.",
+   "The Lord says those who give their full time to the work should be supported."
+  ],
+  "follow": "Next visit, ask what they learned about Church leaders. Then teach about Church organisation.",
+  "simple": "Local leaders, including bishops, stake presidents and missionaries, serve without pay. Some full-time General Authorities receive a modest living allowance so they can serve without outside work. The Church does not pay a salary to local clergy.",
+  "explain": "Jesus Christ said the laborer is worthy of his hire, and Paul taught the same. The Church follows that pattern in a limited way for those who give their full time. Most Church service is volunteer."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous de la rémunération des ministres du culte ?",
+   "Que ressentez-vous à propos de dirigeants de l'Église qui servent sans salaire ?",
+   "Que voudriez-vous savoir sur la manière dont l'Église soutient ses dirigeants ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit que l'ouvrier mérite son salaire.",
+   "Le Seigneur dit que ceux qui consacrent tout leur temps à l'œuvre doivent être soutenus."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur les dirigeants de l'Église. Puis enseignez l'organisation de l'Église.",
+  "simple": "Les dirigeants locaux, y compris les évêques, les présidents de pieu et les missionnaires, servent sans rémunération. Certaines autorités générales à plein temps reçoivent une modeste allocation de subsistance afin de pouvoir servir sans travail extérieur. L'Église ne paie pas de salaire au clergé local.",
+  "explain": "Jésus-Christ a dit que l'ouvrier mérite son salaire, et Paul l'a enseigné aussi. L'Église suit ce modèle de façon limitée pour ceux qui donnent tout leur temps. La plupart du service dans l'Église est bénévole."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  24,
+  239
+ ],
+ "en": {
+  "ask": [
+   "What do you think Paul was teaching about worship?",
+   "What matters most to you when you come to worship?",
+   "How do you honor God in how you worship?"
+  ],
+  "why": [
+   "Paul asked the Corinthians to judge for themselves what is proper in worship.",
+   "The Lord looks on the heart, not on outward appearance."
+  ],
+  "follow": "Next visit, ask what they felt about worship that comes from the heart. Then describe a Sunday meeting.",
+  "scripture": "1 Corinthians 11:13 | 1 Samuel 16:7"
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que Paul enseignait au sujet du culte ?",
+   "Qu'est-ce qui compte le plus pour vous quand vous venez adorer ?",
+   "Comment honorez-vous Dieu dans votre façon d'adorer ?"
+  ],
+  "why": [
+   "Paul a demandé aux Corinthiens de juger par eux-mêmes ce qui convient dans le culte.",
+   "Le Seigneur regarde au cœur, non à l'apparence."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos d'un culte qui vient du cœur. Puis décrivez une réunion du dimanche.",
+  "scripture": "1 Corinthians 11:13 | 1 Samuel 16:7"
+ }
+}

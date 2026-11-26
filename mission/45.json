@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  8,
+  9
+ ],
+ "en": {
+  "ask": [
+   "Why do you think God asked for temples to be built in scripture?",
+   "How do you think we should care for the poor?",
+   "What kind of service has touched your life?"
+  ],
+  "why": [
+   "Jesus Christ taught that we will always have the poor with us and that loving worship has its place.",
+   "Nephi built a temple, and his people were industrious."
+  ],
+  "follow": "Next visit, ask what they felt about both worship and service. Then teach about fast offerings.",
+  "matters": "The Church also gives to the poor through fast offerings, welfare and humanitarian aid. Members fast and give so that others can be fed and helped."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi pensez-vous que Dieu a demandé que des temples soient construits dans les Écritures ?",
+   "Comment pensez-vous que nous devrions prendre soin des pauvres ?",
+   "Quel service a touché votre vie ?"
+  ],
+  "why": [
+   "Jésus-Christ a enseigné que nous aurons toujours des pauvres avec nous et que l'adoration aimante a sa place.",
+   "Néphi a bâti un temple, et son peuple était laborieux."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'adoration et du service. Puis enseignez les offrandes de jeûne.",
+  "matters": "L'Église donne aussi aux pauvres par les offrandes de jeûne, le bien-être et l'aide humanitaire. Les membres jeûnent et donnent afin que d'autres puissent être nourris et aidés."
+ }
+}

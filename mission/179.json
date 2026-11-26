@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  216,
+  9
+ ],
+ "en": {
+  "ask": [
+   "What do you know about special clothing in worship?",
+   "Why might a reminder worn every day be meaningful?",
+   "What would help you remember your promises to God?"
+  ],
+  "why": [
+   "God told Moses that Aaron's garments should be for glory and for beauty.",
+   "The Savior is a keeper of the gate and knows us."
+  ],
+  "follow": "Next visit, ask what they felt about reminders of covenants. Then teach about temple covenants.",
+  "simple": "Members who have made covenants in the temple wear the temple garment. It reminds them of their promises to God. It is sacred to them, much as special clothing is sacred in many faiths. We do not discuss the details outside the temple."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous des vêtements spéciaux dans le culte ?",
+   "Pourquoi un rappel porté chaque jour pourrait-il être important ?",
+   "Qu'est-ce qui vous aiderait à vous souvenir de vos promesses à Dieu ?"
+  ],
+  "why": [
+   "Dieu a dit à Moïse que les vêtements d'Aaron devaient être pour la gloire et pour l'ornement.",
+   "Le Sauveur est le gardien de la porte et nous connaît."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des rappels d'alliances. Puis enseignez les alliances du temple.",
+  "simple": "Les membres qui ont fait des alliances dans le temple portent le vêtement du temple. Il leur rappelle leurs promesses à Dieu. Il est sacré pour eux, comme les vêtements spéciaux sont sacrés dans beaucoup de religions. Nous n'en discutons pas les détails en dehors du temple."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  230,
+  102
+ ],
+ "en": {
+  "ask": [
+   "What do you do when you feel you have made a serious mistake?",
+   "How do you feel about a leader helping you through repentance?",
+   "What would give you peace?"
+  ],
+  "why": [
+   "James says to confess our faults one to another.",
+   "Alma was told that people who confess and forsake sin will be forgiven."
+  ],
+  "follow": "Next visit, ask what they felt about repentance. Then teach about the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Que faites-vous quand vous sentez avoir commis une erreur grave ?",
+   "Que ressentez-vous à l'idée qu'un dirigeant vous aide dans le repentir ?",
+   "Qu'est-ce qui vous donnerait la paix ?"
+  ],
+  "why": [
+   "Jacques dit de confesser nos fautes les uns aux autres.",
+   "Il fut dit à Alma que ceux qui confessent et délaissent leurs péchés seront pardonnés."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du repentir. Puis enseignez l'expiation."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  43,
+  74
+ ],
+ "en": {
+  "ask": [
+   "What do you think would have happened if Adam and Eve had stayed in the garden?",
+   "Why do you think we need to know both good and evil to choose?",
+   "How does the Atonement of Jesus Christ answer the Fall?"
+  ],
+  "why": [
+   "Paul teaches that sin entered the world through Adam, and that the gift came through Christ.",
+   "Lehi teaches that Adam fell that men might be, and men are that they might have joy."
+  ],
+  "follow": "Next visit, ask what they felt about the purpose of this life. Then teach the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'il serait arrivé si Adam et Ève étaient restés dans le jardin ?",
+   "Pourquoi pensez-vous que nous devons connaître le bien et le mal pour choisir ?",
+   "Comment l'expiation de Jésus-Christ répond-elle à la Chute ?"
+  ],
+  "why": [
+   "Paul enseigne que le péché est entré dans le monde par Adam, et que le don est venu par Christ.",
+   "Léhi enseigne qu'Adam est tombé pour que les hommes soient, et que les hommes sont pour avoir la joie."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du but de cette vie. Puis enseignez le plan du salut."
+ }
+}

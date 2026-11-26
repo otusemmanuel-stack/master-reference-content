@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  17,
+  50
+ ],
+ "en": {
+  "ask": [
+   "What do you think would motivate a young person to serve two years?",
+   "How do you feel about people giving their time to help others?",
+   "Would you like to speak with a returned missionary?"
+  ],
+  "why": [
+   "Paul says that woe is unto him if he does not preach the gospel.",
+   "The Lord says that if you have desires to serve God, you are called to the work."
+  ],
+  "follow": "Next visit, ask what they learned from a missionary's story. Then teach about the Restoration.",
+  "simple": "Full-time missionaries choose to serve. Young men serve for two years, and young women serve for eighteen months. Some retired couples also serve. They pay their own way, and they give their time to teach and to serve others."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qui, selon vous, motiverait un jeune à servir deux ans ?",
+   "Que ressentez-vous à propos de personnes qui donnent de leur temps pour aider les autres ?",
+   "Aimeriez-vous parler avec un missionnaire de retour ?"
+  ],
+  "why": [
+   "Paul dit que malheur à lui s'il ne prêche pas l'Évangile.",
+   "Le Seigneur dit que si vous avez le désir de servir Dieu, vous êtes appelé à l'œuvre."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris de l'histoire d'un missionnaire. Puis enseignez le Rétablissement.",
+  "simple": "Les missionnaires à plein temps choisissent de servir. Les jeunes hommes servent deux ans, et les jeunes femmes dix-huit mois. Certains couples retraités servent aussi. Ils paient eux-mêmes leur mission et donnent leur temps pour enseigner et servir les autres."
+ }
+}

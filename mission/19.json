@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  16,
+  89
+ ],
+ "en": {
+  "ask": [
+   "What helps you feel close to God in worship?",
+   "How do you feel about order in a service?",
+   "What would you like to see in a Church meeting?"
+  ],
+  "why": [
+   "Paul says everything should be done decently and in order.",
+   "The Lord revealed how meetings should be conducted by the Spirit."
+  ],
+  "follow": "Next visit, ask what they noticed at the meeting. Then teach about the sacrament."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qui vous aide à vous sentir proche de Dieu dans le culte ?",
+   "Que ressentez-vous à propos de l'ordre dans un service ?",
+   "Que voudriez-vous voir dans une réunion de l'Église ?"
+  ],
+  "why": [
+   "Paul dit que tout doit se faire avec bienséance et avec ordre.",
+   "Le Seigneur a révélé comment les réunions devraient être dirigées par l'Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué à la réunion. Puis enseignez la Sainte-Cène."
+ }
+}

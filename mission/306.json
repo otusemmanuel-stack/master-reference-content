@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  304,
+  303
+ ],
+ "en": {
+  "ask": [
+   "What do you think a missionary needs to learn?",
+   "How could a guide help you study and teach?",
+   "What would you like to practise first?"
+  ],
+  "why": [
+   "Jesus Christ read from the scriptures in the synagogue and taught from them.",
+   "The Lord says to teach the principles of His gospel by the Spirit."
+  ],
+  "follow": "Next visit, ask what they studied. Then teach about preparing for a mission.",
+  "simple": "The missionary guide is the Church's official resource for missionaries. It has five lessons, and it teaches how to study, teach and develop Christlike attributes. It is not a script. It helps missionaries teach by the Spirit."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'un missionnaire a besoin d'apprendre ?",
+   "Comment un guide pourrait-il vous aider à étudier et à enseigner ?",
+   "Que voudriez-vous pratiquer en premier ?"
+  ],
+  "why": [
+   "Jésus-Christ a lu les Écritures à la synagogue et en a enseigné.",
+   "Le Seigneur dit d'enseigner les principes de Son Évangile par l'Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont étudié. Puis enseignez la préparation à une mission.",
+  "simple": "Le guide missionnaire est la ressource officielle de l'Église pour les missionnaires. Il comprend cinq leçons, et il enseigne comment étudier, enseigner et développer des qualités semblables à celles du Christ. Ce n'est pas un script. Il aide les missionnaires à enseigner par l'Esprit."
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  121,
+  619
+ ],
+ "en": {
+  "ask": [
+   "Have you noticed notes about verses in your Bible?",
+   "What do you think about different translations?",
+   "What would help you trust God's word?"
+  ],
+  "why": [
+   "Nephi saw that many plain and precious things would be taken from the Bible.",
+   "The Lord says that many will say they have a Bible and need no more, but He will give more."
+  ],
+  "follow": "Next visit, ask what they felt about scripture and translation. Then teach about the Book of Mormon.",
+  "simple": "Some verses appear in certain Bible translations and not in others, because the oldest manuscripts do not agree. Examples include the longer ending of Mark and the account of the woman taken in adultery in John 7:53 to 8:11. Scholars study these differences carefully. We believe the Bible is the word of God as far as it is translated correctly.",
+  "explain": "Latter-day Saints believe that the Lord has given more scripture to help us. Nephi saw that plain and precious parts would be lost. We love the Bible and read it with the Book of Mormon."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous remarqué des notes sur des versets dans votre Bible ?",
+   "Que pensez-vous des différentes traductions ?",
+   "Qu'est-ce qui vous aiderait à faire confiance à la parole de Dieu ?"
+  ],
+  "why": [
+   "Néphi a vu que beaucoup de choses claires et précieuses seraient ôtées de la Bible.",
+   "Le Seigneur dit que beaucoup diront qu'ils ont une Bible et n'ont pas besoin d'autre chose, mais Il en donnera davantage."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des Écritures et de la traduction. Puis enseignez le Livre de Mormon.",
+  "simple": "Certains versets apparaissent dans certaines traductions de la Bible et pas dans d'autres, parce que les plus anciens manuscrits ne concordent pas. Parmi les exemples, la finale longue de Marc et le récit de la femme adultère dans Jean 7:53 à 8:11. Les spécialistes étudient attentivement ces différences. Nous croyons que la Bible est la parole de Dieu, pour autant qu'elle soit traduite correctement.",
+  "explain": "Les saints des derniers jours croient que le Seigneur a donné d'autres Écritures pour nous aider. Néphi a vu que des parties claires et précieuses seraient perdues. Nous aimons la Bible et la lisons avec le Livre de Mormon."
+ }
+}

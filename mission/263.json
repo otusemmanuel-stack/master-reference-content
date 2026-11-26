@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  177,
+  174
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means to be loved by God?",
+   "How do you feel about the care we should give to people in difficult circumstances?",
+   "What would help someone feel welcome at Church?"
+  ],
+  "why": [
+   "The scriptures say God created man in His own image, male and female.",
+   "Nephi says all are alike unto God."
+  ],
+  "follow": "Next visit, ask what they felt about God's love. Then teach about the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que cela signifie d'être aimé de Dieu ?",
+   "Que ressentez-vous à propos des soins que nous devrions donner aux personnes dans des circonstances difficiles ?",
+   "Qu'est-ce qui aiderait quelqu'un à se sentir accueilli à l'Église ?"
+  ],
+  "why": [
+   "Les Écritures disent que Dieu a créé l'homme à Son image, homme et femme.",
+   "Néphi dit que tous sont pareils devant Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'amour de Dieu. Puis enseignez le plan du salut."
+ }
+}

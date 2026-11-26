@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  101,
+  1
+ ],
+ "en": {
+  "ask": [
+   "What have you been taught about whether God can give more scripture?",
+   "Why do you think the Bible ends with John 21:25?",
+   "What would you like to ask God about additional scripture?"
+  ],
+  "why": [
+   "John says the world could not contain all the books if everything Jesus Christ did were written.",
+   "The Lord says that many will say, 'A Bible, we have got a Bible,' and reminds them that He speaks to all nations."
+  ],
+  "follow": "Next visit, ask what they felt about more scripture. Then teach about the Book of Mormon.",
+  "simple": "The Bible mentions books that are not in it, and God has always given more scripture through His prophets. The Book of Mormon, the Doctrine and Covenants and the Pearl of Great Price stand beside the Bible. They do not replace it.",
+  "explain": "John said that the world could not contain all the books if everything Jesus Christ did were written. God has more to say to His children. The Bible and these books both testify of Jesus Christ."
+ },
+ "fr": {
+  "ask": [
+   "Qu'a-t-on enseigné sur la possibilité que Dieu donne d'autres Écritures ?",
+   "Pourquoi pensez-vous que la Bible se termine par Jean 21:25 ?",
+   "Que voudriez-vous demander à Dieu au sujet d'Écritures supplémentaires ?"
+  ],
+  "why": [
+   "Jean dit que le monde ne pourrait contenir les livres s'ils étaient écrits tous les actes de Jésus-Christ.",
+   "Le Seigneur dit que beaucoup diront : « Une Bible, nous avons une Bible », et rappelle qu'Il parle à toutes les nations."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos d'autres Écritures. Puis enseignez le Livre de Mormon.",
+  "simple": "La Bible mentionne des livres qui n'y sont pas, et Dieu a toujours donné d'autres Écritures par Ses prophètes. Le Livre de Mormon, Doctrine et Alliances et la Perle de Grand Prix se tiennent à côté de la Bible. Ils ne la remplacent pas.",
+  "explain": "Jean a dit que le monde ne pourrait contenir tous les livres si tout ce que Jésus-Christ a fait était écrit. Dieu a davantage à dire à Ses enfants. La Bible et ces livres témoignent tous de Jésus-Christ."
+ }
+}

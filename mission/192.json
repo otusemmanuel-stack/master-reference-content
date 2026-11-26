@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  121,
+  44
+ ],
+ "en": {
+  "ask": [
+   "How do you feel about using different versions of the Bible?",
+   "What would you want a better translation to help you understand?",
+   "Would you look at one passage together to see what it adds?"
+  ],
+  "why": [
+   "Peter notes that Paul's writings are hard to understand, and that some twist them.",
+   "Nephi saw that many plain and precious things would be taken away and later restored."
+  ],
+  "follow": "Next visit, ask what they noticed in the passage. Then teach about the Restoration of truth.",
+  "simple": "The Joseph Smith Translation is an inspired revision of the Bible that Joseph Smith made. He did not finish it before his death in 1844. Many of its changes and extra passages are in the footnotes and in the Bible Dictionary of our scriptures. In English-speaking areas the Church uses the King James Version."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous de l'utilisation de différentes versions de la Bible ?",
+   "Qu'aimeriez-vous qu'une meilleure traduction vous aide à comprendre ?",
+   "Seriez-vous prêt à regarder un passage ensemble pour voir ce qu'il ajoute ?"
+  ],
+  "why": [
+   "Pierre note que les écrits de Paul sont difficiles à comprendre, et que certains les tordent.",
+   "Néphi a vu que beaucoup de choses claires et précieuses seraient ôtées puis rétablies."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué dans le passage. Puis enseignez le Rétablissement de la vérité.",
+  "simple": "La traduction de Joseph Smith est une révision inspirée de la Bible faite par Joseph Smith. Il ne l'a pas terminée avant sa mort en 1844. Beaucoup de ses changements et de ses passages ajoutés figurent dans les notes de bas de page et dans le Guide des Écritures. Dans les régions anglophones, l'Église utilise la version du roi Jacques."
+ }
+}

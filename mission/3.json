@@ -1,0 +1,37 @@
+{
+ "v": 2,
+ "related": [
+  39,
+  130
+ ],
+ "en": {
+  "ask": [
+   "What do you think of when you hear that many prophets were rejected?",
+   "What would you look for to know if a man is a prophet?",
+   "Would you be willing to ask God about Joseph Smith?"
+  ],
+  "why": [
+   "Moses taught that a true prophet's words come to pass.",
+   "Moroni told Joseph Smith that his name would be had for good and evil among all nations."
+  ],
+  "follow": "Next visit, ask what they felt about Joseph Smith. Then teach about the First Vision.",
+  "simple": "Many prophets were rejected in their day, including Jeremiah and Jesus Christ. Rejection does not prove a man is false, and acceptance does not prove he is true. We invite people to judge by the fruits and to ask God.",
+  "explain": "In 1832 Joseph Smith recorded a revelation about war beginning in South Carolina. It is now Doctrine and Covenants 87. The Civil War began there in 1861. We invite them to read it and ask God what it means.",
+  "matters": "You do not need to rely on history alone. God can confirm to you through the Holy Ghost that Joseph Smith was a prophet."
+ },
+ "fr": {
+  "ask": [
+   "À quoi pensez-vous quand vous entendez que beaucoup de prophètes ont été rejetés ?",
+   "Que chercheriez-vous pour savoir si un homme est un prophète ?",
+   "Seriez-vous prêt à interroger Dieu au sujet de Joseph Smith ?"
+  ],
+  "why": [
+   "Moïse a enseigné que les paroles d'un vrai prophète s'accomplissent.",
+   "Moroni a dit à Joseph Smith que son nom serait connu en bien et en mal parmi toutes les nations."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de Joseph Smith. Puis enseignez la première vision.",
+  "simple": "Beaucoup de prophètes ont été rejetés à leur époque, y compris Jérémie et Jésus-Christ. Le rejet ne prouve pas qu'un homme est faux, et l'acceptation ne prouve pas qu'il est vrai. Nous invitons les gens à juger par les fruits et à interroger Dieu.",
+  "explain": "En 1832, Joseph Smith a consigné une révélation sur une guerre qui commencerait en Caroline du Sud. Elle est maintenant Doctrine et Alliances 87. La guerre de Sécession a commencé là en 1861. Nous les invitons à la lire et à demander à Dieu ce qu'elle signifie.",
+  "matters": "Vous n'avez pas besoin de vous appuyer sur l'histoire seule. Dieu peut vous confirmer par le Saint-Esprit que Joseph Smith était un prophète."
+ }
+}

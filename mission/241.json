@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  24,
+  57
+ ],
+ "en": {
+  "ask": [
+   "What do you think matters most about how a missionary looks?",
+   "How can our appearance help people listen to a message?",
+   "What would you like to know about what missionaries do?"
+  ],
+  "why": [
+   "The Lord looks on the heart, not on outward appearance."
+  ],
+  "follow": "Next visit, ask what they noticed about the missionaries. Then teach what it means to represent Jesus Christ.",
+  "explain": "The Church has no doctrine about beards. Missionaries follow a standard of appearance so that nothing distracts from the message they carry. It is about the message, not the face."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qui compte le plus, selon vous, dans l'apparence d'un missionnaire ?",
+   "Comment notre apparence peut-elle aider les gens à écouter un message ?",
+   "Qu'aimeriez-vous savoir sur ce que font les missionnaires ?"
+  ],
+  "why": [
+   "Le Seigneur regarde au cœur, non à l'apparence."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué chez les missionnaires. Puis enseignez ce que signifie représenter Jésus-Christ.",
+  "explain": "L'Église n'a pas de doctrine sur la barbe. Les missionnaires suivent une norme d'apparence afin que rien ne détourne l'attention du message qu'ils portent. Il s'agit du message, pas du visage."
+ }
+}

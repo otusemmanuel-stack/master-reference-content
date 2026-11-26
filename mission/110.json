@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  89,
+  10
+ ],
+ "en": {
+  "ask": [
+   "Why do you think Paul said apostles and prophets were given to the Church?",
+   "Have you seen unity of the faith among all Christians?",
+   "What would it mean to have living apostles today?"
+  ],
+  "why": [
+   "Paul says apostles and prophets were given until we all come to the unity of the faith.",
+   "The Savior told the Nephites how He had organised His Church and called twelve disciples."
+  ],
+  "follow": "Next visit, ask what they felt about living apostles. Then teach about modern prophets.",
+  "simple": "Paul said apostles and prophets were given to the Church until we all come to the unity of the faith. Christians do not yet share that unity. So we believe apostles and prophets are still needed. We honor the good in all churches.",
+  "explain": "Paul says apostles and prophets are meant to protect us from every wind of doctrine. We believe Jesus Christ keeps this pattern today, with twelve apostles and a living prophet."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi pensez-vous que Paul a dit que des apôtres et des prophètes ont été donnés à l'Église ?",
+   "Avez-vous vu l'unité de la foi parmi tous les chrétiens ?",
+   "Que signifierait avoir des apôtres vivants aujourd'hui ?"
+  ],
+  "why": [
+   "Paul dit que des apôtres et des prophètes ont été donnés jusqu'à ce que nous parvenions tous à l'unité de la foi.",
+   "Le Sauveur a dit aux Néphites comment Il avait organisé Son Église et a appelé douze disciples."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos d'apôtres vivants. Puis enseignez les prophètes modernes.",
+  "simple": "Paul a dit que des apôtres et des prophètes ont été donnés à l'Église jusqu'à ce que nous parvenions tous à l'unité de la foi. Les chrétiens ne partagent pas encore cette unité. Nous croyons donc que des apôtres et des prophètes sont encore nécessaires. Nous honorons le bien dans toutes les Églises.",
+  "explain": "Paul dit que les apôtres et les prophètes sont destinés à nous protéger de tout vent de doctrine. Nous croyons que Jésus-Christ garde ce modèle aujourd'hui, avec douze apôtres et un prophète vivant."
+ }
+}

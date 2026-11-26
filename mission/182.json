@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  9,
+  180
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about the temple being private?",
+   "Why do you think sacred things might be kept private?",
+   "What would help you feel peaceful about asking God?"
+  ],
+  "why": [
+   "Jesus Christ said not to give what is holy to dogs, nor cast pearls before swine.",
+   "The Savior says some things are not written, so that the people are tried."
+  ],
+  "follow": "Next visit, ask what they felt about sacred things. Then teach about temple covenants.",
+  "simple": "In the temple, members make covenants with God. They promise to keep the covenants sacred and not to talk about the details outside the temple. These are promises to live a good life, and there is nothing to be ashamed of. Anyone can read about the covenants on the Church's website."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur le caractère privé du temple ?",
+   "Pourquoi pensez-vous que les choses sacrées pourraient être gardées privées ?",
+   "Qu'est-ce qui vous aiderait à être en paix en interrogeant Dieu ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit de ne pas donner ce qui est saint aux chiens ni de jeter les perles devant les pourceaux.",
+   "Le Sauveur dit que certaines choses ne sont pas écrites, afin que le peuple soit mis à l'épreuve."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des choses sacrées. Puis enseignez les alliances du temple.",
+  "simple": "Dans le temple, les membres font des alliances avec Dieu. Ils promettent de garder les alliances sacrées et de ne pas en parler en détail en dehors du temple. Ce sont des promesses de vivre une bonne vie, et il n'y a rien dont avoir honte. Chacun peut lire sur les alliances sur le site de l'Église."
+ }
+}

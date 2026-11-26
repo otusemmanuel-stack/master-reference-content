@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  96,
+  62
+ ],
+ "en": {
+  "ask": [
+   "What do you know about the Aaronic Priesthood?",
+   "What do you think a preparatory priesthood would do?",
+   "What would you like to know about how the two priesthoods work together?"
+  ],
+  "why": [
+   "The book of Hebrews explains that there was a change of priesthood in the law.",
+   "John the Baptist restored the Aaronic Priesthood, which holds the keys of the ministering of angels, the gospel of repentance and baptism."
+  ],
+  "follow": "Next visit, ask what they learned about the two priesthoods. Then teach how they were restored."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de la Prêtrise d'Aaron ?",
+   "Que ferait, selon vous, une prêtrise préparatoire ?",
+   "Qu'aimeriez-vous savoir sur la façon dont les deux prêtrises fonctionnent ensemble ?"
+  ],
+  "why": [
+   "L'épître aux Hébreux explique qu'il y a eu un changement de prêtrise dans la loi.",
+   "Jean-Baptiste a rétabli la Prêtrise d'Aaron, qui détient les clefs du ministère d'anges, de l'Évangile de repentance et du baptême."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur les deux prêtrises. Puis enseignez comment elles ont été rétablies."
+ }
+}

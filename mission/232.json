@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  2,
+  10
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means for a prophet to be human?",
+   "How would you decide if a teaching comes from God?",
+   "What would help you trust a prophet?"
+  ],
+  "why": [
+   "The Lord speaks to prophets in visions and dreams.",
+   "Moses says a prophet is known by whether his words come true."
+  ],
+  "follow": "Next visit, ask what they felt about prophets and imperfection. Then teach about revelation."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que cela signifie qu'un prophète soit humain ?",
+   "Comment décideriez-vous si un enseignement vient de Dieu ?",
+   "Qu'est-ce qui vous aiderait à faire confiance à un prophète ?"
+  ],
+  "why": [
+   "Le Seigneur parle aux prophètes dans des visions et des songes.",
+   "Moïse dit qu'un prophète se reconnaît à ce que ses paroles s'accomplissent."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des prophètes et de l'imperfection. Puis enseignez la révélation."
+ }
+}

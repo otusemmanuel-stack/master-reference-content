@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  232,
+  218
+ ],
+ "en": {
+  "ask": [
+   "What do you think a council is meant to do for a member?",
+   "How do you feel about a church helping people repent?",
+   "What would make a hard conversation feel safe?"
+  ],
+  "why": [
+   "James says to confess our faults one to another and pray for each other.",
+   "Alma was told that those who repent and confess shall be forgiven."
+  ],
+  "follow": "Next visit, ask what they felt about repentance and help. Then teach about repentance."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'un conseil est censé faire pour un membre ?",
+   "Que ressentez-vous à l'idée qu'une Église aide les gens à se repentir ?",
+   "Qu'est-ce qui rendrait une conversation difficile plus sûre ?"
+  ],
+  "why": [
+   "Jacques dit de confesser nos fautes les uns aux autres et de prier les uns pour les autres.",
+   "Il fut dit à Alma que ceux qui se repentent et confessent seront pardonnés."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du repentir et de l'aide. Puis enseignez le repentir."
+ }
+}

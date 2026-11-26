@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  301,
+  302
+ ],
+ "en": {
+  "ask": [
+   "Have you thought about serving a mission?",
+   "What would help you feel ready?",
+   "Who could you talk to about preparing?"
+  ],
+  "why": [
+   "Isaiah answers the Lord's call with, 'Here am I; send me.'",
+   "The Lord says that if you have desires to serve God, you are called to the work."
+  ],
+  "follow": "Next visit, ask what steps they took toward serving. Then teach about preparing for a mission.",
+  "simple": "Young men may serve full-time missions beginning at age 18. Young women may serve beginning at age 19. Senior couples and single sisters of any age may also serve. Missions are voluntary. Service is open to those who are worthy and willing."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous pensé à servir une mission ?",
+   "Qu'est-ce qui vous aiderait à vous sentir prêt ?",
+   "À qui pourriez-vous parler pour vous préparer ?"
+  ],
+  "why": [
+   "Ésaïe répond à l'appel du Seigneur : « Me voici, envoie-moi. »",
+   "Le Seigneur dit que si vous avez le désir de servir Dieu, vous êtes appelé à l'œuvre."
+  ],
+  "follow": "À la prochaine visite, demandez quelles démarches ils ont faites pour servir. Puis enseignez la préparation à une mission.",
+  "simple": "Les jeunes hommes peuvent servir une mission à plein temps à partir de 18 ans. Les jeunes femmes peuvent servir à partir de 19 ans. Les couples seniors et les sœurs célibataires de tout âge peuvent aussi servir. Les missions sont volontaires. Le service est ouvert à ceux qui sont dignes et désireux."
+ }
+}

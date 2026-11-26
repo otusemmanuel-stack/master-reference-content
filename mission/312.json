@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  311,
+  313
+ ],
+ "en": {
+  "ask": [
+   "What does it mean to you to have faith in Jesus Christ?",
+   "What do you think repentance can do for a person?",
+   "What would help you take the next step?"
+  ],
+  "why": [
+   "Peter says to repent and be baptised, and you will receive the gift of the Holy Ghost.",
+   "The Savior teaches that His gospel is that we repent and are baptised in His name."
+  ],
+  "follow": "Next visit, ask what they felt about baptism and the Holy Ghost. Then teach the commandments.",
+  "explain": "Invite people to baptism early, in a warm and caring way. Help them see baptism as a next step, not a pressure. Let them decide in their own time."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie pour vous avoir foi en Jésus-Christ ?",
+   "Que pensez-vous que le repentir peut faire pour une personne ?",
+   "Qu'est-ce qui vous aiderait à franchir l'étape suivante ?"
+  ],
+  "why": [
+   "Pierre dit de se repentir et d'être baptisé, et vous recevrez le don du Saint-Esprit.",
+   "Le Sauveur enseigne que Son Évangile est que nous nous repentions et soyons baptisés en Son nom."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du baptême et du Saint-Esprit. Puis enseignez les commandements.",
+  "explain": "Invitez les personnes au baptême tôt, avec chaleur et bienveillance. Aidez-les à voir le baptême comme une étape suivante, non comme une pression. Laissez-les décider à leur rythme."
+ }
+}

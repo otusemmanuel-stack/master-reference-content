@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  179,
+  216
+ ],
+ "en": {
+  "ask": [
+   "What would you want to know about covenants and medical needs?",
+   "How do you feel about God looking at the heart?",
+   "What would give you peace?"
+  ],
+  "why": [
+   "The Lord told Samuel that He looks on the heart.",
+   "Paul says the Lord knows them that are His."
+  ],
+  "follow": "Next visit, ask what they felt about God's mercy. Then teach about covenants."
+ },
+ "fr": {
+  "ask": [
+   "Que voudriez-vous savoir sur les alliances et les besoins médicaux ?",
+   "Que ressentez-vous à l'idée que Dieu regarde au cœur ?",
+   "Qu'est-ce qui vous donnerait la paix ?"
+  ],
+  "why": [
+   "Le Seigneur a dit à Samuel qu'Il regarde au cœur.",
+   "Paul dit que le Seigneur connaît ceux qui sont à Lui."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la miséricorde de Dieu. Puis enseignez les alliances."
+ }
+}

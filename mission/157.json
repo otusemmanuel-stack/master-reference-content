@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  199,
+  23
+ ],
+ "en": {
+  "ask": [
+   "Who is Jesus Christ to you?",
+   "What do you think makes Him unique?",
+   "What would you like to know about how we worship Him?"
+  ],
+  "why": [
+   "The risen Jesus Christ showed His disciples His hands and feet and said that a spirit does not have flesh and bones.",
+   "Nephi says we talk of Christ, rejoice in Christ, and preach of Christ."
+  ],
+  "follow": "Next visit, ask what they felt about Jesus Christ. Then teach about the Atonement.",
+  "simple": "We believe in Jesus Christ as the Son of God, our Savior and Redeemer. We are Christians. We worship Him and put Him at the center of our faith. Our understanding of the Godhead differs from some Christian creeds, and we respect the faith of others.",
+  "explain": "We believe Jesus Christ is separate from God the Father, as the New Testament shows when He prays to the Father. We believe He rose with a physical body. Invite them to read the New Testament and the Book of Mormon and to ask God."
+ },
+ "fr": {
+  "ask": [
+   "Qui est Jésus-Christ pour vous ?",
+   "Qu'est-ce qui, selon vous, Le rend unique ?",
+   "Que voudriez-vous savoir sur la façon dont nous L'adorons ?"
+  ],
+  "why": [
+   "Jésus-Christ ressuscité a montré à Ses disciples Ses mains et Ses pieds et a dit qu'un esprit n'a ni chair ni os.",
+   "Néphi dit que nous parlons du Christ, nous nous réjouissons dans le Christ et nous prêchons le Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de Jésus-Christ. Puis enseignez l'expiation.",
+  "simple": "Nous croyons en Jésus-Christ comme Fils de Dieu, notre Sauveur et Rédempteur. Nous sommes chrétiens. Nous L'adorons et Le plaçons au centre de notre foi. Notre compréhension de la Divinité diffère de certains credos chrétiens, et nous respectons la foi des autres.",
+  "explain": "Nous croyons que Jésus-Christ est distinct de Dieu le Père, comme le montre le Nouveau Testament lorsqu'Il prie le Père. Nous croyons qu'Il est ressuscité avec un corps physique. Invitez-les à lire le Nouveau Testament et le Livre de Mormon et à demander à Dieu."
+ }
+}

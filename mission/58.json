@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  89,
+  110
+ ],
+ "en": {
+  "ask": [
+   "What do you think a leader's title should show?",
+   "What qualities do you look for in a church leader?",
+   "What do you know about how a bishop serves?"
+  ],
+  "why": [
+   "Paul lists the qualities of a bishop.",
+   "The Lord revealed that bishops preside over the Aaronic Priesthood."
+  ],
+  "follow": "Next visit, ask what they noticed about local leaders. Then teach about Church organisation.",
+  "simple": "In the Church, a bishop leads a local congregation, called a ward, and serves without pay. 'President' is the title for those who preside over a quorum, a stake or the whole Church. The title shows the role. What matters most is the authority that comes from God."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que le titre d'un dirigeant devrait montrer ?",
+   "Quelles qualités recherchez-vous chez un dirigeant d'Église ?",
+   "Que savez-vous de la manière dont un évêque sert ?"
+  ],
+  "why": [
+   "Paul énumère les qualités d'un évêque.",
+   "Le Seigneur a révélé que les évêques président la Prêtrise d'Aaron."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur les dirigeants locaux. Puis enseignez l'organisation de l'Église.",
+  "simple": "Dans l'Église, un évêque dirige une paroisse locale, appelée paroisse, et sert sans rémunération. « Président » est le titre de ceux qui président un collège, un pieu ou toute l'Église. Le titre montre le rôle. Ce qui compte le plus, c'est l'autorité qui vient de Dieu."
+ }
+}

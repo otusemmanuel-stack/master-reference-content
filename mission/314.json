@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  313,
+  312
+ ],
+ "en": {
+  "ask": [
+   "What do you know about baptism and the sacrament?",
+   "What would you like to know about the temple?",
+   "How could these ordinances help you?"
+  ],
+  "why": [
+   "Hebrews lists baptisms and the laying on of hands as principles of the doctrine of Christ.",
+   "Nephi says the gate is repentance and baptism by water, followed by the Holy Ghost."
+  ],
+  "follow": "Next visit, ask what they felt about covenants. Then teach about the temple."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous du baptême et de la Sainte-Cène ?",
+   "Que voudriez-vous savoir sur le temple ?",
+   "Comment ces ordonnances pourraient-elles vous aider ?"
+  ],
+  "why": [
+   "Hébreux cite les baptêmes et l'imposition des mains comme des principes de la doctrine du Christ.",
+   "Néphi dit que la porte est le repentir et le baptême d'eau, suivis du Saint-Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des alliances. Puis enseignez le temple."
+ }
+}

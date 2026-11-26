@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  10,
+  20
+ ],
+ "en": {
+  "ask": [
+   "What does it mean to you to think for yourself?",
+   "Why would you trust a prophet after you pray about his message?",
+   "What would help you know it comes from God?"
+  ],
+  "why": [
+   "Jesus Christ said that whoever receives those He sends receives Him.",
+   "Samuel the Lamanite said that people believed prophets who spoke what they liked, and rejected those who spoke what was true."
+  ],
+  "follow": "Next visit, ask what they felt about following a prophet. Then teach about revelation."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie pour vous penser par vous-même ?",
+   "Pourquoi feriez-vous confiance à un prophète après avoir prié au sujet de son message ?",
+   "Qu'est-ce qui vous aiderait à savoir que cela vient de Dieu ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit que celui qui reçoit ceux qu'Il envoie Le reçoit.",
+   "Samuel le Lamanite a dit que les gens croyaient les prophètes qui disaient ce qu'ils aimaient, et rejetaient ceux qui disaient la vérité."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de suivre un prophète. Puis enseignez la révélation."
+ }
+}

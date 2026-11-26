@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  139,
+  198
+ ],
+ "en": {
+  "ask": [
+   "Have you thought about family members who have passed on?",
+   "What do you think God does for those who never heard the gospel?",
+   "How would you feel about doing something for them?"
+  ],
+  "why": [
+   "Jesus Christ gave Peter the keys to bind on earth and in heaven.",
+   "The Lord revealed that missionaries preach to the spirits in prison."
+  ],
+  "follow": "Next visit, ask what they felt about their ancestors. Then teach about family history."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous pensé à des membres de votre famille décédés ?",
+   "Que pensez-vous que Dieu fait pour ceux qui n'ont jamais entendu l'Évangile ?",
+   "Que ressentiriez-vous à l'idée de faire quelque chose pour eux ?"
+  ],
+  "why": [
+   "Jésus-Christ a donné à Pierre les clés pour lier sur la terre et dans les cieux.",
+   "Le Seigneur a révélé que des missionnaires prêchent aux esprits en prison."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de leurs ancêtres. Puis enseignez l'histoire familiale."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  60,
+  71
+ ],
+ "en": {
+  "ask": [
+   "Why do you think God lets people make wrong choices?",
+   "How have your choices shaped your life?",
+   "What would you want to choose differently?"
+  ],
+  "why": [
+   "Paul says that whatever a man sows, he will reap.",
+   "Lehi teaches that men are free to choose, and that they are free forever."
+  ],
+  "follow": "Next visit, ask what they felt about choice and consequence. Then teach about repentance."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi pensez-vous que Dieu laisse les gens faire de mauvais choix ?",
+   "Comment vos choix ont-ils façonné votre vie ?",
+   "Qu'aimeriez-vous choisir différemment ?"
+  ],
+  "why": [
+   "Paul dit que ce que l'homme aura semé, il le moissonnera aussi.",
+   "Léhi enseigne que les hommes sont libres de choisir, et qu'ils sont libres pour toujours."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du choix et de la conséquence. Puis enseignez le repentir."
+ }
+}

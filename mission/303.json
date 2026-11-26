@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  304,
+  305
+ ],
+ "en": {
+  "ask": [
+   "What would you like to learn before your mission?",
+   "How do you feel about learning a new language?",
+   "What would help you feel ready for the MTC?"
+  ],
+  "why": [
+   "Jesus Christ says He sends His disciples forth as sheep in the midst of wolves.",
+   "The Lord says to seek to obtain His word, and then His tongue shall be loosed."
+  ],
+  "follow": "Next visit, ask what they are learning. Then teach about preparing for a mission.",
+  "simple": "At the Missionary Training Center, missionaries learn how to study and teach the gospel. They practise teaching, and many begin learning a language. The time at the MTC varies by where a missionary is going. Many missionaries also train in their own homes or in their field."
+ },
+ "fr": {
+  "ask": [
+   "Qu'aimeriez-vous apprendre avant votre mission ?",
+   "Que ressentez-vous à l'idée d'apprendre une nouvelle langue ?",
+   "Qu'est-ce qui vous aiderait à vous sentir prêt pour le CFM ?"
+  ],
+  "why": [
+   "Jésus-Christ dit qu'Il envoie Ses disciples comme des brebis au milieu des loups.",
+   "Le Seigneur dit de chercher à obtenir Sa parole, et alors votre langue sera déliée."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils apprennent. Puis enseignez la préparation à une mission.",
+  "simple": "Au Centre de formation missionnaire, les missionnaires apprennent à étudier et à enseigner l'Évangile. Ils s'exercent à enseigner, et beaucoup commencent à apprendre une langue. La durée au CFM varie selon la destination du missionnaire. Beaucoup de missionnaires se forment aussi chez eux ou dans leur champ de mission."
+ }
+}

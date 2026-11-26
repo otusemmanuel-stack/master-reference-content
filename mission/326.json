@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  324,
+  323
+ ],
+ "en": {
+  "ask": [
+   "Why do you want to serve a mission?",
+   "How do you hope it will shape you?",
+   "What would help you prepare your heart?"
+  ],
+  "why": [
+   "Jeremiah says God's word was like fire in his heart, and he could not hold it in.",
+   "Ammon asks who can glory too much in the Lord."
+  ],
+  "follow": "Next visit, ask what they hope to learn. Then teach about preparing for a mission.",
+  "simple": "Expect to grow. Missionaries often describe stronger faith, deeper love for others and a closer understanding of the scriptures. Expect hard days too. Their experiences differ, but many say the mission changed them for good.",
+  "invite": "Why do you want to serve? Take time to pray about it and talk with your bishop before you decide."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi voulez-vous servir une mission ?",
+   "Comment espérez-vous qu'elle vous façonnera ?",
+   "Qu'est-ce qui vous aiderait à préparer votre cœur ?"
+  ],
+  "why": [
+   "Jérémie dit que la parole de Dieu était comme un feu dans son cœur, et qu'il ne pouvait la retenir.",
+   "Ammon demande qui peut trop se glorifier dans le Seigneur."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils espèrent apprendre. Puis enseignez la préparation à une mission.",
+  "simple": "Attendez-vous à grandir. Les missionnaires décrivent souvent une foi plus forte, un amour plus profond pour les autres et une meilleure compréhension des Écritures. Attendez-vous aussi à des jours difficiles. Leurs expériences diffèrent, mais beaucoup disent que la mission les a changés durablement.",
+  "invite": "Pourquoi voulez-vous servir ? Prenez le temps d'y réfléchir en priant et d'en parler avec votre évêque avant de décider."
+ }
+}

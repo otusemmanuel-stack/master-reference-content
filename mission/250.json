@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  12,
+  33
+ ],
+ "en": {
+  "ask": [
+   "What do you think gambling does to a person or a family?",
+   "How do you feel about earning money honestly?",
+   "What would help you build financial peace?"
+  ],
+  "why": [
+   "Paul says the love of money is a root of all kinds of evil.",
+   "The Lord says not to be idle, and to work by the sweat of your brow."
+  ],
+  "follow": "Next visit, ask what they felt about money and honesty. Then teach about financial self-reliance.",
+  "simple": "The Church teaches against gambling, including lotteries and betting. Gambling tends to bring harm to individuals and families. We encourage honest work, saving and giving.",
+  "explain": "Paul says the love of money is a root of evil. The Church counsels members to stay out of debt, save, and live within their means. Many people say this has brought them peace."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que le jeu fait à une personne ou à une famille ?",
+   "Que ressentez-vous à propos de gagner de l'argent honnêtement ?",
+   "Qu'est-ce qui vous aiderait à construire la paix financière ?"
+  ],
+  "why": [
+   "Paul dit que l'amour de l'argent est une racine de tous les maux.",
+   "Le Seigneur dit de ne pas être oisif, et de travailler à la sueur de son front."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'argent et de l'honnêteté. Puis enseignez l'autonomie financière.",
+  "simple": "L'Église enseigne à ne pas jouer aux jeux d'argent, y compris les loteries et les paris. Les jeux d'argent ont tendance à nuire aux personnes et aux familles. Nous encourageons le travail honnête, l'épargne et le don.",
+  "explain": "Paul dit que l'amour de l'argent est une racine du mal. L'Église conseille aux membres d'éviter les dettes, d'épargner et de vivre selon leurs moyens. Beaucoup de personnes disent que cela leur a apporté la paix."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  33,
+  128
+ ],
+ "en": {
+  "ask": [
+   "What do you think tithing teaches about trust?",
+   "Have you given to something and felt a blessing?",
+   "What would you want to know before you try it?"
+  ],
+  "why": [
+   "Abraham gave tithes to Melchizedek.",
+   "Malachi invites us to prove the Lord by bringing the whole tithe."
+  ],
+  "follow": "Next visit, ask what they felt about tithing. Then teach about the law of tithing."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que la dîme enseigne sur la confiance ?",
+   "Avez-vous déjà donné à quelque chose et ressenti une bénédiction ?",
+   "Que voudriez-vous savoir avant de l'essayer ?"
+  ],
+  "why": [
+   "Abraham a donné la dîme à Melchisédek.",
+   "Malachie nous invite à mettre l'Éternel à l'épreuve en apportant toute la dîme."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la dîme. Puis enseignez la loi de la dîme."
+ }
+}

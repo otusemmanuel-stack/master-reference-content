@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  129,
+  607
+ ],
+ "en": {
+  "ask": [
+   "What do you value about the Catholic faith?",
+   "What do you think authority from God looks like?",
+   "What would you like to understand about our beliefs?"
+  ],
+  "why": [
+   "The Lord told Joseph Smith that Peter, James and John would confer the priesthood.",
+   "Paul writes that God has a body, and the Father has a body of flesh and bones."
+  ],
+  "follow": "Next visit, ask what they felt about authority. Then teach about the priesthood.",
+  "simple": "Both Catholics and Latter-day Saints love Jesus Christ. The main difference is authority. Catholics believe authority passed from Peter in an unbroken line. Latter-day Saints believe it was lost and restored through Joseph Smith by heavenly messengers. We also differ on other beliefs, including temples and additional scripture.",
+  "explain": "We respect the Catholic Church and its long history of service and faith. We invite you to learn about the Restoration and to ask God what is true."
+ },
+ "fr": {
+  "ask": [
+   "Qu'appréciez-vous dans la foi catholique ?",
+   "À quoi pensez-vous que l'autorité de Dieu ressemble ?",
+   "Qu'aimeriez-vous comprendre au sujet de nos croyances ?"
+  ],
+  "why": [
+   "Le Seigneur a dit à Joseph Smith que Pierre, Jacques et Jean conféreraient la prêtrise.",
+   "Paul écrit que Dieu a un corps, et le Père a un corps de chair et d'os."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'autorité. Puis enseignez la prêtrise.",
+  "simple": "Les catholiques et les saints des derniers jours aiment tous Jésus-Christ. La principale différence est l'autorité. Les catholiques croient que l'autorité a été transmise depuis Pierre en une ligne ininterrompue. Les saints des derniers jours croient qu'elle a été perdue puis rétablie par Joseph Smith par des messagers célestes. Nous différons aussi sur d'autres croyances, y compris les temples et les Écritures additionnelles.",
+  "explain": "Nous respectons l'Église catholique et sa longue histoire de service et de foi. Nous vous invitons à découvrir le Rétablissement et à demander à Dieu ce qui est vrai."
+ }
+}

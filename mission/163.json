@@ -1,0 +1,37 @@
+{
+ "v": 2,
+ "related": [
+  39,
+  130
+ ],
+ "en": {
+  "ask": [
+   "Have you heard that there are several accounts of the First Vision?",
+   "Why might the same person tell one event differently at different times?",
+   "What do you notice that all the accounts share?"
+  ],
+  "why": [
+   "Paul's conversion is told more than once in Acts, with some differences in detail.",
+   "Joseph Smith said he knew it, and he knew that God knew it, and he could not deny it."
+  ],
+  "follow": "Next visit, ask what they felt reading 1838. Then teach about the Restoration.",
+  "simple": "Joseph Smith told of the First Vision at several times, and each account shows different details. Paul's conversion is also told more than once in Acts. The Church shares these accounts openly.",
+  "explain": "The accounts agree on the main points. He prayed, God appeared to him, he was forgiven, and he was told not to join any church. The best-known account is in Joseph Smith—History, written in 1838.",
+  "matters": "Different accounts show a real person telling a real experience. We invite you to read it and ask God."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous entendu dire qu'il existe plusieurs récits de la première vision ?",
+   "Pourquoi une même personne pourrait-elle raconter un même événement différemment à différents moments ?",
+   "Qu'est-ce que tous les récits ont en commun, selon vous ?"
+  ],
+  "why": [
+   "La conversion de Paul est racontée plus d'une fois dans les Actes, avec quelques différences de détail.",
+   "Joseph Smith a dit qu'il le savait, que Dieu le savait, et qu'il ne pouvait pas le nier."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en lisant le récit de 1838. Puis enseignez le Rétablissement.",
+  "simple": "Joseph Smith a raconté la première vision à plusieurs reprises, et chaque récit comporte des détails différents. La conversion de Paul est aussi racontée plus d'une fois dans les Actes. L'Église partage ces récits ouvertement.",
+  "explain": "Les récits concordent sur l'essentiel. Il a prié, Dieu lui est apparu, il a été pardonné, et on lui a dit de ne rejoindre aucune Église. Le récit le plus connu est dans Joseph Smith—Histoire, écrit en 1838.",
+  "matters": "Des récits différents montrent une vraie personne racontant une vraie expérience. Nous vous invitons à le lire et à interroger Dieu."
+ }
+}

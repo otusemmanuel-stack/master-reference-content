@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  131,
+  155
+ ],
+ "en": {
+  "ask": [
+   "Have you ever prayed about something important?",
+   "What would you like to ask God?",
+   "Would you be willing to act on the answer?"
+  ],
+  "why": [
+   "James says to ask God if you lack wisdom, and it will be given.",
+   "Moroni says God will show you the truth by the Holy Ghost."
+  ],
+  "follow": "Next visit, ask how they prayed and what they felt. Then teach about the Holy Ghost."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous déjà prié au sujet de quelque chose d'important ?",
+   "Que voudriez-vous demander à Dieu ?",
+   "Seriez-vous prêt à agir selon la réponse ?"
+  ],
+  "why": [
+   "Jacques dit de demander à Dieu si l'on manque de sagesse, et cela sera donné.",
+   "Moroni dit que Dieu vous montrera la vérité par le Saint-Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez comment ils ont prié et ce qu'ils ont ressenti. Puis enseignez le Saint-Esprit."
+ }
+}

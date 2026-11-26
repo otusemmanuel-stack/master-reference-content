@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  172,
+  265
+ ],
+ "en": {
+  "ask": [
+   "What do you think of when you hear that the Bible mentions slavery?",
+   "How do you feel about God's care for the oppressed?",
+   "What do you hope scripture teaches us about human worth?"
+  ],
+  "why": [
+   "Exodus tells how God freed Israel from bondage in Egypt.",
+   "Paul says there is neither bond nor free, for all are one in Christ."
+  ],
+  "follow": "Next visit, ask what they felt about human worth. Then teach about the plan of salvation.",
+  "simple": "The Bible records slavery as part of the ancient world and contains laws about it. We do not believe God approves of slavery. The scriptures teach that every person is a child of God. The Book of Mormon teaches that all are alike unto God. The Church condemns slavery.",
+  "explain": "Past misuse of the Bible to support slavery was wrong. Scripture also shows God freeing His people, and Jesus Christ came to set captives free. We read the difficult passages in that light."
+ },
+ "fr": {
+  "ask": [
+   "À quoi pensez-vous quand vous entendez que la Bible mentionne l'esclavage ?",
+   "Que ressentez-vous à propos de la sollicitude de Dieu pour les opprimés ?",
+   "Qu'espérez-vous que les Écritures nous enseignent sur la valeur humaine ?"
+  ],
+  "why": [
+   "L'Exode raconte comment Dieu a libéré Israël de l'esclavage en Égypte.",
+   "Paul dit qu'il n'y a ni esclave ni libre, car tous sont un en Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la valeur humaine. Puis enseignez le plan du salut.",
+  "simple": "La Bible rapporte l'esclavage comme faisant partie du monde antique et contient des lois à ce sujet. Nous ne croyons pas que Dieu approuve l'esclavage. Les Écritures enseignent que chaque personne est un enfant de Dieu. Le Livre de Mormon enseigne que tous sont pareils devant Dieu. L'Église condamne l'esclavage.",
+  "explain": "L'usage passé de la Bible pour soutenir l'esclavage était mauvais. Les Écritures montrent aussi Dieu libérant Son peuple, et Jésus-Christ est venu délivrer les captifs. Nous lisons les passages difficiles à la lumière de cela."
+ }
+}

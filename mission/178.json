@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  204,
+  196
+ ],
+ "en": {
+  "ask": [
+   "What do you know about how God taught Moses?",
+   "Why might older traditions share some symbols?",
+   "What would you like to understand about the temple?"
+  ],
+  "why": [
+   "God told Moses to build the tabernacle after the pattern shown on the mount.",
+   "Hebrews says the priests served a copy and shadow of heavenly things."
+  ],
+  "follow": "Next visit, ask what they felt about sacred patterns. Then teach about temples.",
+  "simple": "Joseph Smith joined the Freemasons in 1842. Some symbols are similar, and the Church acknowledges that. Latter-day Saints believe the temple ordinances came by revelation and restore ancient teachings. We do not say Joseph copied them from anyone."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de la façon dont Dieu a instruit Moïse ?",
+   "Pourquoi des traditions plus anciennes pourraient-elles partager certains symboles ?",
+   "Qu'aimeriez-vous comprendre au sujet du temple ?"
+  ],
+  "why": [
+   "Dieu a dit à Moïse de construire le tabernacle d'après le modèle montré sur la montagne.",
+   "Hébreux dit que les prêtres servaient une copie et une ombre des choses célestes."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des modèles sacrés. Puis enseignez les temples.",
+  "simple": "Joseph Smith est devenu franc-maçon en 1842. Certains symboles sont semblables, et l'Église le reconnaît. Les saints des derniers jours croient que les ordonnances du temple sont venues par révélation et rétablissent d'anciens enseignements. Nous ne disons pas que Joseph les a copiées de qui que ce soit."
+ }
+}

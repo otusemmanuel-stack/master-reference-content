@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  200,
+  62
+ ],
+ "en": {
+  "ask": [
+   "What does it mean to you to make a promise to God?",
+   "What do you think God promises to those who keep His covenants?",
+   "What would you like to know about the priesthood covenant?"
+  ],
+  "why": [
+   "The Lord swore and will not repent that Christ is a priest forever.",
+   "The Lord promises great blessings to those who receive the priesthood and magnify their calling."
+  ],
+  "follow": "Next visit, ask what they felt about covenants with God. Then teach about the blessings of the priesthood."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie pour vous faire une promesse à Dieu ?",
+   "Qu'est-ce que Dieu promet, selon vous, à ceux qui gardent Ses alliances ?",
+   "Qu'aimeriez-vous savoir sur l'alliance de la prêtrise ?"
+  ],
+  "why": [
+   "Le Seigneur a juré et ne se repentira pas que Christ est prêtre pour toujours.",
+   "Le Seigneur promet de grandes bénédictions à ceux qui reçoivent la prêtrise et glorifient leur appel."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des alliances avec Dieu. Puis enseignez les bénédictions de la prêtrise."
+ }
+}

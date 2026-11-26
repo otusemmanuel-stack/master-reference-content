@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  11,
+  606
+ ],
+ "en": {
+  "ask": [
+   "What do you know about the Crusades?",
+   "What do you think Jesus Christ taught about enemies?",
+   "How can we share our beliefs in a loving way?"
+  ],
+  "why": [
+   "Jesus Christ taught to love your enemies.",
+   "The Lord says no power or influence can be maintained except by persuasion, long-suffering and love."
+  ],
+  "follow": "Next visit, ask what they felt about sharing faith with love. Then teach about the Restoration.",
+  "simple": "The Crusades were a series of religious wars that began in the late 11th century. They caused great suffering. Jesus Christ taught us to love our enemies, and violence in His name does not follow His teaching. Latter-day Saints share their faith by invitation and love."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous des croisades ?",
+   "Que pensez-vous que Jésus-Christ a enseigné sur les ennemis ?",
+   "Comment pouvons-nous partager nos croyances avec amour ?"
+  ],
+  "why": [
+   "Jésus-Christ a enseigné d'aimer ses ennemis.",
+   "Le Seigneur dit qu'aucun pouvoir ni aucune influence ne peut se maintenir que par la persuasion, la longanimité et l'amour."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du partage de la foi avec amour. Puis enseignez le Rétablissement.",
+  "simple": "Les croisades ont été une série de guerres religieuses qui ont commencé à la fin du XIe siècle. Elles ont causé de grandes souffrances. Jésus-Christ nous a enseigné à aimer nos ennemis, et la violence en Son nom ne suit pas Son enseignement. Les saints des derniers jours partagent leur foi par l'invitation et l'amour."
+ }
+}

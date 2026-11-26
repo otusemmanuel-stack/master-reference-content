@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  102,
+  105
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about sins that cannot be forgiven?",
+   "How do you feel about God's mercy?",
+   "What would help you feel forgiven?"
+  ],
+  "why": [
+   "Jesus Christ says blasphemy against the Holy Ghost will not be forgiven.",
+   "The Lord says that if we confess our sins, He is faithful and just to forgive us."
+  ],
+  "follow": "Next visit, ask what they felt about forgiveness. Then teach about repentance and the Atonement.",
+  "matters": "If you are worried that you have done something unforgivable, you are not alone. Please talk with a bishop or a trusted leader. The Atonement of Jesus Christ is greater than we imagine."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur des péchés qui ne peuvent pas être pardonnés ?",
+   "Que ressentez-vous à propos de la miséricorde de Dieu ?",
+   "Qu'est-ce qui vous aiderait à vous sentir pardonné ?"
+  ],
+  "why": [
+   "Jésus-Christ dit que le blasphème contre le Saint-Esprit ne sera pas pardonné.",
+   "Le Seigneur dit que si nous confessons nos péchés, Il est fidèle et juste pour nous les pardonner."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du pardon. Puis enseignez le repentir et l'expiation.",
+  "matters": "Si vous craignez d'avoir fait quelque chose d'impardonnable, vous n'êtes pas seul. Parlez-en à un évêque ou à un dirigeant de confiance. L'expiation de Jésus-Christ est plus grande que nous l'imaginons."
+ }
+}

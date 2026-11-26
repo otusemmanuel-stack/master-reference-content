@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  10,
+  2
+ ],
+ "en": {
+  "ask": [
+   "What does it mean to you that God does not change?",
+   "If God spoke to prophets before, why would He stop?",
+   "How would you want God to speak to you?"
+  ],
+  "why": [
+   "Malachi says, 'I am the Lord, I change not.'",
+   "Mormon teaches that God is the same yesterday, today and forever, and a God of miracles."
+  ],
+  "follow": "Next visit, ask what they felt about a God who still speaks. Then teach about revelation."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie pour vous que Dieu ne change pas ?",
+   "Si Dieu a parlé aux prophètes autrefois, pourquoi cesserait-Il ?",
+   "Comment aimeriez-vous que Dieu vous parle ?"
+  ],
+  "why": [
+   "Malachie dit : « Je suis l'Éternel, je ne change pas. »",
+   "Mormon enseigne que Dieu est le même hier, aujourd'hui et à jamais, et un Dieu de miracles."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos d'un Dieu qui parle encore. Puis enseignez la révélation."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  303,
+  305
+ ],
+ "en": {
+  "ask": [
+   "What do you do each day to feel close to God?",
+   "How could you read the Book of Mormon each day?",
+   "What would help you build a habit of prayer?"
+  ],
+  "why": [
+   "Paul says all scripture is profitable for doctrine, for reproof, for correction.",
+   "The Lord says to study His word and then He will bless us."
+  ],
+  "follow": "Next visit, ask what they have read and prayed about. Then teach about the Book of Mormon.",
+  "simple": "Read the Book of Mormon, and pray every day. Study the missionary guide a little each week. Live the gospel with sincerity, not for show. These habits build faith and prepare you to teach by the Spirit."
+ },
+ "fr": {
+  "ask": [
+   "Que faites-vous chaque jour pour vous sentir proche de Dieu ?",
+   "Comment pourriez-vous lire le Livre de Mormon chaque jour ?",
+   "Qu'est-ce qui vous aiderait à prendre l'habitude de prier ?"
+  ],
+  "why": [
+   "Paul dit que toute Écriture est utile pour enseigner, pour convaincre, pour corriger.",
+   "Le Seigneur dit d'étudier Sa parole et qu'Il nous bénira."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont lu et prié. Puis enseignez le Livre de Mormon.",
+  "simple": "Lisez le Livre de Mormon et priez chaque jour. Étudiez le guide missionnaire un peu chaque semaine. Vivez l'Évangile avec sincérité, non pour l'apparence. Ces habitudes fortifient la foi et vous préparent à enseigner par l'Esprit."
+ }
+}

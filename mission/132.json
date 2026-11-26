@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  19,
+  89
+ ],
+ "en": {
+  "ask": [
+   "Who has cared for you in a hard time?",
+   "What do you think it means to minister to someone?",
+   "Who could you help this week?"
+  ],
+  "why": [
+   "Paul says he taught publicly and from house to house.",
+   "Moroni says believers met often to strengthen each other."
+  ],
+  "follow": "Next visit, ask what they felt about being cared for. Then teach about ministering.",
+  "simple": "Ministering is how members care for each other during the week. Members visit, help and pray for one another, as Jesus Christ taught. Sunday worship matters, and loving service completes it."
+ },
+ "fr": {
+  "ask": [
+   "Qui a pris soin de vous dans un moment difficile ?",
+   "Que pensez-vous que cela signifie de servir quelqu'un ?",
+   "Qui pourriez-vous aider cette semaine ?"
+  ],
+  "why": [
+   "Paul dit qu'il a enseigné publiquement et de maison en maison.",
+   "Moroni dit que les croyants se réunissaient souvent pour se fortifier mutuellement."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à être entourés de soins. Puis enseignez le ministère.",
+  "simple": "Le ministère est la manière dont les membres prennent soin les uns des autres pendant la semaine. Les membres se rendent visite, s'entraident et prient les uns pour les autres, comme Jésus-Christ l'a enseigné. Le culte du dimanche est important, et le service par amour le complète."
+ }
+}

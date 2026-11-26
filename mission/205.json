@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  3,
+  169
+ ],
+ "en": {
+  "ask": [
+   "What do you know about Joseph Smith's life in Nauvoo?",
+   "Why do you think someone might run for office to bring attention to ideas?",
+   "What would you like to know about his character?"
+  ],
+  "why": [
+   "Proverbs says that when the righteous rule, the people rejoice.",
+   "The Doctrine and Covenants says Joseph Smith did more for the salvation of men than any other, save Jesus Christ only."
+  ],
+  "follow": "Next visit, ask what they felt about Joseph Smith. Then teach about the Restoration.",
+  "simple": "Joseph Smith announced he was running for President in January 1844. His platform included ending slavery by compensating slave owners and other national reforms. He was killed in June 1844, about five months later.",
+  "explain": "Historians see this as a bold campaign by a man with a large following. It tells us about his views on the nation. It does not prove he was a prophet. We invite you to ask God about that."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de la vie de Joseph Smith à Nauvoo ?",
+   "Pourquoi une personne pourrait-elle se présenter à une élection pour attirer l'attention sur des idées ?",
+   "Que voudriez-vous savoir sur son caractère ?"
+  ],
+  "why": [
+   "Les Proverbes disent que quand les justes gouvernent, le peuple se réjouit.",
+   "Doctrine et Alliances dit que Joseph Smith a fait plus pour le salut des hommes que tout autre, Jésus seul excepté."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de Joseph Smith. Puis enseignez le Rétablissement.",
+  "simple": "Joseph Smith a annoncé en janvier 1844 qu'il se présentait à la présidence. Son programme comprenait la fin de l'esclavage par l'indemnisation des propriétaires d'esclaves et d'autres réformes nationales. Il a été tué en juin 1844, environ cinq mois plus tard.",
+  "explain": "Les historiens y voient une campagne audacieuse d'un homme ayant beaucoup de partisans. Cela nous renseigne sur ses opinions concernant la nation. Cela ne prouve pas qu'il était un prophète. Nous vous invitons à interroger Dieu à ce sujet."
+ }
+}

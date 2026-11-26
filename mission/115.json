@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  45,
+  33
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means to give your life to God?",
+   "How do you feel about people sharing what they have?",
+   "What could you give to help someone this week?"
+  ],
+  "why": [
+   "The early believers had all things in common, as Acts records.",
+   "The Lord says to impart of your substance to the poor."
+  ],
+  "follow": "Next visit, ask what they felt about giving. Then teach about the law of consecration."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que cela signifie de donner sa vie à Dieu ?",
+   "Que ressentez-vous à propos de personnes qui partagent ce qu'elles ont ?",
+   "Que pourriez-vous donner pour aider quelqu'un cette semaine ?"
+  ],
+  "why": [
+   "Les premiers croyants avaient tout en commun, comme le rapportent les Actes.",
+   "Le Seigneur dit de donner de votre substance aux pauvres."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du don. Puis enseignez la loi de consécration."
+ }
+}

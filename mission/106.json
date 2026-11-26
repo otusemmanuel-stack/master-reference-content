@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  88,
+  36
+ ],
+ "en": {
+  "ask": [
+   "What stands out to you in the Sermon on the Mount?",
+   "Which part would you most like to live?",
+   "What do you think it means to be a disciple?"
+  ],
+  "why": [
+   "Jesus Christ said He came not to destroy the law but to fulfil it.",
+   "In 3 Nephi 12, the Savior gives the same teachings to the people in the Americas."
+  ],
+  "follow": "Next visit, ask what they tried to live. Then teach about discipleship."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qui vous marque dans le Sermon sur la montagne ?",
+   "Quelle partie aimeriez-vous le plus vivre ?",
+   "Que pensez-vous que cela signifie d'être disciple ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit qu'Il n'était pas venu abolir la loi mais l'accomplir.",
+   "Dans 3 Néphi 12, le Sauveur donne les mêmes enseignements au peuple des Amériques."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont essayé de vivre. Puis enseignez le discipulat."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  172,
+  173
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about the Church and race?",
+   "How do you feel about a church admitting past errors?",
+   "What would you want to read to understand more?"
+  ],
+  "why": [
+   "Peter says God shows no partiality.",
+   "Nephi says all are alike unto God."
+  ],
+  "follow": "Next visit, ask what they learned from the Church's essay. Then teach about the Restoration.",
+  "simple": "In 2013 the Church published an essay called Race and the Priesthood. It disavows past theories that Black people were cursed or that skin color shows God's disfavor. It also expresses regret for the pain caused by past practices and says those ideas were not God's word."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur l'Église et la race ?",
+   "Que ressentez-vous à l'idée qu'une Église reconnaisse ses erreurs passées ?",
+   "Que voudriez-vous lire pour en comprendre davantage ?"
+  ],
+  "why": [
+   "Pierre dit que Dieu ne fait pas de favoritisme.",
+   "Néphi dit que tous sont pareils devant Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris dans l'essai de l'Église. Puis enseignez le Rétablissement.",
+  "simple": "En 2013, l'Église a publié un essai intitulé La race et la prêtrise. Il désavoue les théories passées selon lesquelles les Noirs seraient maudits ou que la couleur de peau montrerait la défaveur de Dieu. Il exprime aussi des regrets pour la douleur causée par les pratiques passées et dit que ces idées n'étaient pas la parole de Dieu."
+ }
+}

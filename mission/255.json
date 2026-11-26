@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  251,
+  256
+ ],
+ "en": {
+  "ask": [
+   "What do you think about helping others through organ donation?",
+   "How would you decide with your family?",
+   "What would you want to pray about?"
+  ],
+  "why": [
+   "Jesus Christ taught that no one has greater love than to lay down his life for his friends.",
+   "Paul says you are the temple of God."
+  ],
+  "follow": "Next visit, ask what they felt about service and love. Then teach about charity."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous de l'aide aux autres par le don d'organes ?",
+   "Comment décideriez-vous avec votre famille ?",
+   "Que voudriez-vous demander dans la prière ?"
+  ],
+  "why": [
+   "Jésus-Christ a enseigné que nul n'a un plus grand amour que de donner sa vie pour ses amis.",
+   "Paul dit que vous êtes le temple de Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du service et de l'amour. Puis enseignez la charité."
+ }
+}

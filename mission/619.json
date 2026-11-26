@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  121,
+  44
+ ],
+ "en": {
+  "ask": [
+   "What does the Bible mean to you?",
+   "How do you think God preserved His word?",
+   "What would you like to know about the Book of Mormon as another witness?"
+  ],
+  "why": [
+   "Paul says all scripture is given by inspiration of God.",
+   "Peter says prophecy came by holy men moved by the Holy Ghost."
+  ],
+  "follow": "Next visit, ask what they felt about scripture. Then teach about the Book of Mormon.",
+  "simple": "The Bible was written by many prophets and writers over many centuries, in Hebrew, Aramaic and Greek. Church councils and communities gathered the books over time. We love the Bible and believe it is the word of God as far as it is translated correctly. We also believe God has given more scripture."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie la Bible pour vous ?",
+   "Comment pensez-vous que Dieu a préservé Sa parole ?",
+   "Qu'aimeriez-vous savoir sur le Livre de Mormon comme autre témoin ?"
+  ],
+  "why": [
+   "Paul dit que toute Écriture est inspirée de Dieu.",
+   "Pierre dit que la prophétie est venue par des hommes saints poussés par le Saint-Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des Écritures. Puis enseignez le Livre de Mormon.",
+  "simple": "La Bible a été écrite par de nombreux prophètes et auteurs pendant de nombreux siècles, en hébreu, en araméen et en grec. Des conciles et des communautés de l'Église ont rassemblé les livres avec le temps. Nous aimons la Bible et croyons qu'elle est la parole de Dieu, pour autant qu'elle soit traduite correctement. Nous croyons aussi que Dieu a donné d'autres Écritures."
+ }
+}

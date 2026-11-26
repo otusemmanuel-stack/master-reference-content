@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  60,
+  32
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means that God knew you before you were born?",
+   "Do you think each person has a purpose?",
+   "What would you like God to help you do with your life?"
+  ],
+  "why": [
+   "Paul says God chose us in Christ before the foundation of the world.",
+   "Alma says priests were called and prepared from the foundation of the world."
+  ],
+  "follow": "Next visit, ask what they felt about their purpose. Then teach about the plan of salvation.",
+  "explain": "Jeremiah was told that God knew him and set him apart before he was born. Foreordination does not remove choice. People still choose whether to accept God's call. Every person is equally loved and has a divine purpose."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que cela signifie que Dieu vous a connu avant votre naissance ?",
+   "Pensez-vous que chaque personne a un but ?",
+   "Que voudriez-vous que Dieu vous aide à faire de votre vie ?"
+  ],
+  "why": [
+   "Paul dit que Dieu nous a choisis en Christ avant la fondation du monde.",
+   "Alma dit que des prêtres ont été appelés et préparés dès la fondation du monde."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de leur but. Puis enseignez le plan du salut.",
+  "explain": "Il fut dit à Jérémie que Dieu l'avait connu et mis à part avant sa naissance. La préordination ne supprime pas le choix. Les gens choisissent toujours d'accepter ou non l'appel de Dieu. Chaque personne est aimée également et a un but divin."
+ }
+}

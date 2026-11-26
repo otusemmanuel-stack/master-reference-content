@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  145,
+  704
+ ],
+ "en": {
+  "ask": [
+   "What do you think pays for our sins?",
+   "How do you feel about the idea that Jesus Christ's sacrifice is enough?",
+   "What would you want to know about how we receive forgiveness?"
+  ],
+  "why": [
+   "Amulek teaches that the Atonement is infinite and eternal.",
+   "John says the blood of Jesus Christ cleanses us from all sin."
+  ],
+  "follow": "Next visit, ask what they felt about forgiveness. Then teach about the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qui paie pour nos péchés ?",
+   "Que ressentez-vous à l'idée que le sacrifice de Jésus-Christ suffit ?",
+   "Que voudriez-vous savoir sur la façon de recevoir le pardon ?"
+  ],
+  "why": [
+   "Amulek enseigne que l'expiation est infinie et éternelle.",
+   "Jean dit que le sang de Jésus-Christ nous purifie de tout péché."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du pardon. Puis enseignez l'expiation."
+ }
+}

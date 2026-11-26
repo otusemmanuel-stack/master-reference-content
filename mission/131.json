@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  249,
+  155
+ ],
+ "en": {
+  "ask": [
+   "Why do you think God invites each person to ask Him?",
+   "How is knowing for yourself different from hearing from others?",
+   "What would you like to ask God?"
+  ],
+  "why": [
+   "James invites anyone who lacks wisdom to ask of God.",
+   "Moroni promises that the Holy Ghost will tell us the truth of all things."
+  ],
+  "follow": "Next visit, ask what they felt as they prayed. Then teach about the Holy Ghost."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi pensez-vous que Dieu invite chaque personne à Lui demander ?",
+   "En quoi savoir par soi-même est-il différent d'entendre d'autres personnes ?",
+   "Que voudriez-vous demander à Dieu ?"
+  ],
+  "why": [
+   "Jacques invite quiconque manque de sagesse à la demander à Dieu.",
+   "Moroni promet que le Saint-Esprit nous fera connaître la vérité de toutes choses."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant. Puis enseignez le Saint-Esprit."
+ }
+}

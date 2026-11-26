@@ -1,0 +1,37 @@
+{
+ "v": 2,
+ "related": [
+  148,
+  190
+ ],
+ "en": {
+  "ask": [
+   "What have you read or heard about science and the Book of Mormon?",
+   "Do you think a book can be tested only by science?",
+   "Would you try Moroni's way of testing it?"
+  ],
+  "why": [
+   "Paul taught that God made all nations of men from one blood and set the bounds of their dwelling.",
+   "Alma 3:6 is about one group in the Book of Mormon. The Church rejects any teaching that one race is better than another."
+  ],
+  "follow": "Next visit, ask what they felt as they read and prayed. Then teach about the Book of Mormon.",
+  "simple": "The Book of Mormon does not claim that Lehi's family were the only people in the Americas. Scientists continue to study ancient populations, and some questions remain open. The Book of Mormon invites us to test it through prayer.",
+  "explain": "Honest questions about science and history are welcome. The book itself gives a way to test it. Moroni invites every reader to ask God with a sincere heart and real intent.",
+  "matters": "Faith and honest questions can go together. God promised to answer a sincere prayer about this book."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous lu ou entendu dire sur la science et le Livre de Mormon ?",
+   "Pensez-vous qu'un livre puisse être éprouvé uniquement par la science ?",
+   "Seriez-vous prêt à essayer la méthode de Moroni pour l'éprouver ?"
+  ],
+  "why": [
+   "Paul a enseigné que Dieu a fait tous les peuples d'un seul sang et a fixé les limites de leur habitation.",
+   "Alma 3:6 concerne un groupe du Livre de Mormon. L'Église rejette tout enseignement selon lequel une race serait meilleure qu'une autre."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en lisant et en priant. Puis enseignez le Livre de Mormon.",
+  "simple": "Le Livre de Mormon ne prétend pas que la famille de Léhi était la seule dans les Amériques. Les scientifiques continuent d'étudier les populations anciennes, et certaines questions restent ouvertes. Le Livre de Mormon nous invite à l'éprouver par la prière.",
+  "explain": "Les questions honnêtes sur la science et l'histoire sont les bienvenues. Le livre lui-même donne une façon de l'éprouver. Moroni invite chaque lecteur à demander à Dieu avec un cœur sincère et une réelle intention.",
+  "matters": "La foi et les questions honnêtes peuvent aller ensemble. Dieu a promis de répondre à une prière sincère à propos de ce livre."
+ }
+}

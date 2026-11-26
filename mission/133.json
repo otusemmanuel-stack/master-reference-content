@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  47,
+  109
+ ],
+ "en": {
+  "ask": [
+   "What do you think Paul meant by 'in Christ shall all be made alive'?",
+   "Who do you think will be resurrected?",
+   "How does it feel to know every person will rise again?"
+  ],
+  "why": [
+   "Paul says that as in Adam all die, even so in Christ shall all be made alive.",
+   "Alma teaches that all will be restored to their perfect frame."
+  ],
+  "follow": "Next visit, ask what they felt about the Resurrection. Then teach about the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que Paul voulait dire par « en Christ tous revivront » ?",
+   "Qui pensez-vous qui sera ressuscité ?",
+   "Que ressentez-vous en sachant que chaque personne ressuscitera ?"
+  ],
+  "why": [
+   "Paul dit que comme tous meurent en Adam, de même tous revivront en Christ.",
+   "Alma enseigne que tous seront rendus à leur forme parfaite."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la Résurrection. Puis enseignez l'expiation."
+ }
+}

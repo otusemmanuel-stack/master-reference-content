@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  150,
+  198
+ ],
+ "en": {
+  "ask": [
+   "What do you think happens to people who never heard of Jesus Christ?",
+   "How does it feel to know God is fair to everyone?",
+   "Would you like to help families you love?"
+  ],
+  "why": [
+   "Isaiah says the earth will be full of the knowledge of the Lord.",
+   "The Lord revealed that we cannot be perfect without our dead, nor they without us."
+  ],
+  "follow": "Next visit, ask what they felt about God's fairness. Then teach about temple work for the dead.",
+  "simple": "We believe every person will have a chance to hear the gospel. Those who die without that chance can learn it in the spirit world. Temple ordinances are done for them by the living, and they choose whether to accept them."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'il arrive à ceux qui n'ont jamais entendu parler de Jésus-Christ ?",
+   "Que ressentez-vous en sachant que Dieu est juste envers tous ?",
+   "Aimeriez-vous aider des familles que vous aimez ?"
+  ],
+  "why": [
+   "Ésaïe dit que la terre sera remplie de la connaissance du Seigneur.",
+   "Le Seigneur a révélé que nous ne pouvons pas être rendus parfaits sans nos morts, ni eux sans nous."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la justice de Dieu. Puis enseignez l'œuvre du temple pour les morts.",
+  "simple": "Nous croyons que chaque personne aura la possibilité d'entendre l'Évangile. Ceux qui meurent sans cette possibilité peuvent l'apprendre dans le monde des esprits. Les ordonnances du temple sont accomplies pour eux par les vivants, et ils choisissent de les accepter ou non."
+ }
+}

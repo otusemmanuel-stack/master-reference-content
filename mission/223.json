@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  253,
+  258
+ ],
+ "en": {
+  "ask": [
+   "What do you think is most important in deciding about family?",
+   "How do you pray about big family decisions?",
+   "What would help a couple make these decisions with confidence?"
+  ],
+  "why": [
+   "The Psalms say children are a heritage of the Lord.",
+   "The Lord says marriage is ordained of God, and that the earth is to be filled."
+  ],
+  "follow": "Next visit, ask what they felt about family decisions and prayer. Then teach about the family."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qui, selon vous, est le plus important pour décider au sujet de la famille ?",
+   "Comment priez-vous au sujet des grandes décisions familiales ?",
+   "Qu'est-ce qui aiderait un couple à prendre ces décisions avec confiance ?"
+  ],
+  "why": [
+   "Les Psaumes disent que les enfants sont un héritage de l'Éternel.",
+   "Le Seigneur dit que le mariage est ordonné de Dieu, et que la terre doit être remplie."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des décisions familiales et de la prière. Puis enseignez la famille."
+ }
+}

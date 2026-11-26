@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  23,
+  11
+ ],
+ "en": {
+  "ask": [
+   "What do you think matters most in God's eyes?",
+   "Have you ever felt out of place because of your background?",
+   "What would you want from a congregation?"
+  ],
+  "why": [
+   "Paul says that in Christ there is neither Jew nor Greek, bond nor free.",
+   "Nephi says all are alike unto God."
+  ],
+  "follow": "Next visit, ask what they felt at the meeting. Then teach about the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qui compte le plus aux yeux de Dieu, selon vous ?",
+   "Vous êtes-vous déjà senti déplacé à cause de votre origine ?",
+   "Que voudriez-vous d'une paroisse ?"
+  ],
+  "why": [
+   "Paul dit qu'en Christ il n'y a ni Juif ni Grec, ni esclave ni libre.",
+   "Néphi dit que tous sont pareils devant Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à la réunion. Puis enseignez le plan du salut."
+ }
+}

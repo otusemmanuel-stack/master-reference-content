@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  157,
+  109
+ ],
+ "en": {
+  "ask": [
+   "Who do you say Jesus Christ is?",
+   "What do you think it means that He is the Son of God?",
+   "How has He blessed your life?"
+  ],
+  "why": [
+   "The angel told Mary that the Holy Ghost would come upon her and the Son of God would be born.",
+   "Nephi says we talk of Christ and preach of Christ that our children may know where to look for a remission of sins."
+  ],
+  "follow": "Next visit, ask what they felt about Jesus Christ as Savior. Then teach about the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Qui dites-vous que Jésus-Christ est ?",
+   "Que pensez-vous que cela signifie qu'Il est le Fils de Dieu ?",
+   "Comment vous a-t-Il béni ?"
+  ],
+  "why": [
+   "L'ange a dit à Marie que le Saint-Esprit viendrait sur elle et que le Fils de Dieu naîtrait.",
+   "Néphi dit que nous parlons du Christ et prêchons le Christ afin que nos enfants sachent à quelle source chercher la rémission de leurs péchés."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de Jésus-Christ comme Sauveur. Puis enseignez l'expiation."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  60,
+  152
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means to be judged for your own choices?",
+   "How do you feel about God's justice and mercy?",
+   "What do you hope for in your own life?"
+  ],
+  "why": [
+   "Ezekiel says the soul that sinneth, it shall die, and the son shall not bear the iniquity of the father.",
+   "Lehi teaches that men are free to choose, and that the Savior redeems them."
+  ],
+  "follow": "Next visit, ask what they felt about God's justice. Then teach about the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que cela signifie d'être jugé pour ses propres choix ?",
+   "Que ressentez-vous à propos de la justice et de la miséricorde de Dieu ?",
+   "Qu'espérez-vous pour votre propre vie ?"
+  ],
+  "why": [
+   "Ézéchiel dit que l'âme qui pèche est celle qui mourra, et que le fils ne portera pas l'iniquité du père.",
+   "Léhi enseigne que les hommes sont libres de choisir, et que le Sauveur les rachète."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la justice de Dieu. Puis enseignez l'expiation."
+ }
+}

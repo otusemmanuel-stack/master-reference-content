@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  33,
+  45
+ ],
+ "en": {
+  "ask": [
+   "What do you think tithing is used for?",
+   "Why might a church keep some savings for the future?",
+   "How would you want donations to be used?"
+  ],
+  "why": [
+   "Malachi invites people to bring tithes into the storehouse.",
+   "The Lord says to care for the poor, and that the Church should be run by the Lord's laws."
+  ],
+  "follow": "Next visit, ask what they learned about how the Church uses donations. Then teach about tithing.",
+  "simple": "The Church has said it keeps reserves for the future, much as Joseph in Egypt stored grain before the famine. Funds are used for temples, buildings, education, missionary work and humanitarian aid. The Church publishes an annual report of its giving.",
+  "explain": "Anyone can ask how donations are used. Church leaders have explained that reserves are meant for a rainy day and for long-term needs. We invite you to learn more and to ask God about it."
+ },
+ "fr": {
+  "ask": [
+   "À quoi pensez-vous que la dîme sert ?",
+   "Pourquoi une Église pourrait-elle garder des économies pour l'avenir ?",
+   "Comment voudriez-vous que les dons soient utilisés ?"
+  ],
+  "why": [
+   "Malachie invite les gens à apporter les dîmes à la maison du trésor.",
+   "Le Seigneur dit de prendre soin des pauvres, et que l'Église doit être dirigée selon les lois du Seigneur."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur l'utilisation des dons par l'Église. Puis enseignez la dîme.",
+  "simple": "L'Église a dit qu'elle garde des réserves pour l'avenir, comme Joseph en Égypte a stocké du blé avant la famine. Les fonds sont utilisés pour les temples, les bâtiments, l'éducation, l'œuvre missionnaire et l'aide humanitaire. L'Église publie un rapport annuel de ses dons.",
+  "explain": "Chacun peut demander comment les dons sont utilisés. Les dirigeants de l'Église ont expliqué que les réserves sont destinées aux temps difficiles et aux besoins à long terme. Nous vous invitons à en savoir plus et à interroger Dieu à ce sujet."
+ }
+}

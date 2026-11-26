@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  205,
+  3
+ ],
+ "en": {
+  "ask": [
+   "What do you know about the temple in ancient Israel?",
+   "How do you feel about ordinances that connect us to God and family?",
+   "What would you like to understand about the temple?"
+  ],
+  "why": [
+   "Solomon built the temple for the Lord, as 1 Kings records.",
+   "Nephi built a temple after the manner of Solomon's."
+  ],
+  "follow": "Next visit, ask what they felt about temples. Then teach about temple blessings.",
+  "simple": "Joseph Smith joined the Freemasons in March 1842. He taught the endowment to leaders in May 1842. Some symbols look alike, and historians have noticed it. Latter-day Saints believe the endowment came by revelation and restores ancient temple teachings.",
+  "explain": "The Church does not hide the similarities. We believe temple ordinances were given by God long before Freemasonry, and that Joseph Smith received them through revelation. Temple ordinances are sacred, not secret."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous du temple dans l'Israël ancien ?",
+   "Que ressentez-vous à propos d'ordonnances qui nous relient à Dieu et à la famille ?",
+   "Qu'aimeriez-vous comprendre au sujet du temple ?"
+  ],
+  "why": [
+   "Salomon a bâti le temple pour le Seigneur, comme le rapporte 1 Rois.",
+   "Néphi a bâti un temple sur le modèle de celui de Salomon."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des temples. Puis enseignez les bénédictions du temple.",
+  "simple": "Joseph Smith est devenu franc-maçon en mars 1842. Il a enseigné la dotation à des dirigeants en mai 1842. Certains symboles se ressemblent, et les historiens l'ont remarqué. Les saints des derniers jours croient que la dotation est venue par révélation et rétablit d'anciens enseignements du temple.",
+  "explain": "L'Église ne cache pas les ressemblances. Nous croyons que les ordonnances du temple ont été données par Dieu bien avant la franc-maçonnerie, et que Joseph Smith les a reçues par révélation. Les ordonnances du temple sont sacrées, non secrètes."
+ }
+}

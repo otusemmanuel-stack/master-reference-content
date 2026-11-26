@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  8,
+  36
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about what happens in temples?",
+   "Why might some things be kept sacred?",
+   "What would you like to feel in a house of the Lord?"
+  ],
+  "why": [
+   "Paul speaks of things heard that are not lawful to utter.",
+   "Nephi says the Holy One of Israel is the keeper of the gate."
+  ],
+  "follow": "Next visit, ask what they learned about the temple. Then teach about temple covenants."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur ce qui se passe dans les temples ?",
+   "Pourquoi certaines choses pourraient-elles être gardées sacrées ?",
+   "Que voudriez-vous ressentir dans une maison du Seigneur ?"
+  ],
+  "why": [
+   "Paul parle de choses entendues qu'il n'est pas permis à l'homme d'exprimer.",
+   "Néphi dit que le Saint d'Israël est le gardien de la porte."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur le temple. Puis enseignez les alliances du temple."
+ }
+}

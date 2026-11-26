@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  116,
+  31
+ ],
+ "en": {
+  "ask": [
+   "Who do you usually address when you pray?",
+   "Why do you think Jesus Christ prayed to the Father?",
+   "What would it mean to you to pray to your Father in heaven in the name of Jesus Christ?"
+  ],
+  "why": [
+   "Jesus Christ taught that whatever we ask the Father in His name, He will give us.",
+   "Nephi teaches that we should always pray to the Father in the name of Christ."
+  ],
+  "follow": "Next visit, ask how it felt to pray to Heavenly Father. Then teach the pattern of prayer."
+ },
+ "fr": {
+  "ask": [
+   "À qui vous adressez-vous habituellement quand vous priez ?",
+   "Pourquoi pensez-vous que Jésus-Christ priait le Père ?",
+   "Que signifierait pour vous prier votre Père céleste au nom de Jésus-Christ ?"
+  ],
+  "why": [
+   "Jésus-Christ a enseigné que tout ce que nous demandons au Père en Son nom, Il nous le donnera.",
+   "Néphi enseigne que nous devons toujours prier le Père au nom du Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant Dieu le Père. Puis enseignez la façon de prier."
+ }
+}

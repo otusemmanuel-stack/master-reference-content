@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  321,
+  323
+ ],
+ "en": {
+  "ask": [
+   "What do you value most in a friend you work with?",
+   "How could you handle a small disagreement kindly?",
+   "What could you do each day to support your companion?"
+  ],
+  "why": [
+   "Solomon says two are better than one, because they can help each other up.",
+   "The Lord says His servants go forth in pairs to teach by the Spirit."
+  ],
+  "follow": "Next visit, ask what they learned about working with others. Then teach about love and service.",
+  "simple": "Missionaries serve in pairs, and each companionship is assigned by inspiration through the mission president. Pray together, study together and talk early about small concerns. Listen, be patient and be kind. Good companionships grow through daily effort."
+ },
+ "fr": {
+  "ask": [
+   "Qu'appréciez-vous le plus chez un ami avec qui vous travaillez ?",
+   "Comment pourriez-vous gérer un petit désaccord avec bonté ?",
+   "Que pourriez-vous faire chaque jour pour soutenir votre compagnon ?"
+  ],
+  "why": [
+   "Salomon dit que deux valent mieux qu'un, car ils peuvent s'entraider à se relever.",
+   "Le Seigneur dit que Ses serviteurs vont deux par deux enseigner par l'Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur le travail avec les autres. Puis enseignez l'amour et le service.",
+  "simple": "Les missionnaires servent deux par deux, et chaque binôme est assigné par inspiration par le président de mission. Priez ensemble, étudiez ensemble et parlez tôt des petites préoccupations. Écoutez, soyez patient et aimable. Les bons binômes grandissent grâce à un effort quotidien."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  51,
+  42
+ ],
+ "en": {
+  "ask": [
+   "How do you feel about the warnings Paul gave to the early Church?",
+   "What do you think happened when the apostles were gone?",
+   "Would you like to see what the Restoration brings back?"
+  ],
+  "why": [
+   "Paul warned that fierce wolves would enter the flock after he left.",
+   "Nephi saw that many plain and precious things would be taken away."
+  ],
+  "follow": "Next visit, ask what they learned about the Restoration. Then teach about the Book of Mormon.",
+  "simple": "The Apostasy does not mean God is powerless. People chose to change the gospel, and God honors that choice. He promised to restore the gospel, and He did. We honor the many sincere Christians who loved Jesus Christ through those years."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous des avertissements que Paul a donnés à l'Église primitive ?",
+   "Que pensez-vous qu'il s'est passé quand les apôtres ne furent plus là ?",
+   "Aimeriez-vous voir ce que le Rétablissement ramène ?"
+  ],
+  "why": [
+   "Paul a averti que des loups cruels entreraient dans le troupeau après son départ.",
+   "Néphi a vu que beaucoup de choses claires et précieuses seraient ôtées."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur le Rétablissement. Puis enseignez le Livre de Mormon.",
+  "simple": "L'Apostasie ne signifie pas que Dieu est impuissant. Les gens ont choisi de changer l'Évangile, et Dieu respecte ce choix. Il a promis de rétablir l'Évangile, et Il l'a fait. Nous honorons les nombreux chrétiens sincères qui ont aimé Jésus-Christ pendant ces années."
+ }
+}

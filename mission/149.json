@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  30,
+  31
+ ],
+ "en": {
+  "ask": [
+   "What have you been taught about who Jesus Christ is?",
+   "What do you think 'only begotten Son' means?",
+   "Why do you think it matters that Jesus Christ is both divine and mortal?"
+  ],
+  "why": [
+   "The angel told Mary that the Holy Ghost would come upon her and the power of the Highest would overshadow her, so her Son would be called the Son of God.",
+   "Nephi prophesied that the Son of God would be born of Mary."
+  ],
+  "follow": "Next visit, ask what they felt about who Jesus Christ is. Then teach about the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Qu'a-t-on enseigné sur qui est Jésus-Christ ?",
+   "Que pensez-vous que signifie « Fils unique » ?",
+   "Pourquoi pensez-vous qu'il est important que Jésus-Christ soit à la fois divin et mortel ?"
+  ],
+  "why": [
+   "L'ange a dit à Marie que le Saint-Esprit viendrait sur elle et que la puissance du Très-Haut la couvrirait de son ombre, de sorte que son Fils serait appelé Fils de Dieu.",
+   "Néphi a prophétisé que le Fils de Dieu naîtrait de Marie."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de qui est Jésus-Christ. Puis enseignez l'expiation."
+ }
+}

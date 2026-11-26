@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  300,
+  302
+ ],
+ "en": {
+  "ask": [
+   "What does worthiness mean to you?",
+   "What would you like to talk about with your bishop?",
+   "What would help you feel at peace about serving?"
+  ],
+  "why": [
+   "Paul says that a person who purges himself of dishonourable things will be a vessel fit for the Master's use.",
+   "The Lord says that those who serve should be humble, full of love and temperate."
+  ],
+  "follow": "Next visit, ask how the visit with the bishop went. Then teach about repentance."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie la dignité pour vous ?",
+   "De quoi aimeriez-vous parler avec votre évêque ?",
+   "Qu'est-ce qui vous aiderait à être en paix à l'idée de servir ?"
+  ],
+  "why": [
+   "Paul dit que celui qui se purifie des choses déshonorantes sera un vase destiné à un usage noble.",
+   "Le Seigneur dit que ceux qui servent doivent être humbles, remplis d'amour et tempérants."
+  ],
+  "follow": "À la prochaine visite, demandez comment s'est passée la visite à l'évêque. Puis enseignez le repentir."
+ }
+}

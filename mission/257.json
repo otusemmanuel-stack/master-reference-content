@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  256,
+  144
+ ],
+ "en": {
+  "ask": [
+   "Who in your life gives you hope when things are heavy?",
+   "How does it comfort you to know Jesus Christ understands pain?",
+   "What help would you want if you or someone you love were struggling?"
+  ],
+  "why": [
+   "Paul says the Lord knows them that are His.",
+   "Alma teaches that Jesus Christ took upon Him our pains and sicknesses so He can help us."
+  ],
+  "follow": "Next visit, ask how they are doing. Then teach about hope in Jesus Christ.",
+  "simple": "Life is sacred, and we grieve deeply for those lost to suicide. Only God knows all the circumstances, including a person's mental health. He is loving and merciful. The Church supports families and encourages anyone who is struggling to seek help.",
+  "matters": "You are not alone. If you or someone you know is thinking about suicide, please call a local emergency number or a crisis line right away, and talk with a trusted person."
+ },
+ "fr": {
+  "ask": [
+   "Qui, dans votre vie, vous donne de l'espoir quand les choses sont lourdes ?",
+   "En quoi cela vous réconforte-t-il de savoir que Jésus-Christ comprend la douleur ?",
+   "Quelle aide voudriez-vous si vous ou quelqu'un que vous aimez étiez en difficulté ?"
+  ],
+  "why": [
+   "Paul dit que le Seigneur connaît ceux qui sont à Lui.",
+   "Alma enseigne que Jésus-Christ a pris sur Lui nos douleurs et nos maladies afin de pouvoir nous aider."
+  ],
+  "follow": "À la prochaine visite, demandez comment ils vont. Puis enseignez l'espérance en Jésus-Christ.",
+  "simple": "La vie est sacrée, et nous pleurons profondément ceux qui sont perdus par suicide. Seul Dieu connaît toutes les circonstances, y compris la santé mentale d'une personne. Il est aimant et miséricordieux. L'Église soutient les familles et encourage toute personne en difficulté à chercher de l'aide.",
+  "matters": "Vous n'êtes pas seul. Si vous ou quelqu'un que vous connaissez pense au suicide, appelez dès maintenant le numéro d'urgence local ou une ligne d'écoute, et parlez à une personne de confiance."
+ }
+}

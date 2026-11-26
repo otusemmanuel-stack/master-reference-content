@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  56,
+  77
+ ],
+ "en": {
+  "ask": [
+   "What does the color white mean to you?",
+   "How do you prepare yourself for sacred moments?",
+   "What would you notice in a service where everything is done with reverence?"
+  ],
+  "why": [
+   "The elders in heaven are clothed in white, a sign of purity and holiness.",
+   "Christ's atonement can make us clean through His blood, as Nephi and his brother taught."
+  ],
+  "follow": "Next visit, ask what they noticed about reverence. Then teach what the sacrament means."
+ },
+ "fr": {
+  "ask": [
+   "Que représente pour vous la couleur blanche ?",
+   "Comment vous préparez-vous pour les moments sacrés ?",
+   "Que remarqueriez-vous dans un service où tout est fait avec révérence ?"
+  ],
+  "why": [
+   "Les anciens dans le ciel sont vêtus de blanc, signe de pureté et de sainteté.",
+   "L'expiation du Christ peut nous rendre purs par Son sang, comme Néphi et son frère l'ont enseigné."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur la révérence. Puis enseignez ce que signifie la Sainte-Cène."
+ }
+}

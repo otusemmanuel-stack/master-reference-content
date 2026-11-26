@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  157,
+  606
+ ],
+ "en": {
+  "ask": [
+   "What do you honour about Mary?",
+   "What do you think the scriptures show about her faith?",
+   "What would you like to know about how we view her?"
+  ],
+  "why": [
+   "The angel said Mary was blessed among women.",
+   "Mary said that all generations shall call her blessed."
+  ],
+  "follow": "Next visit, ask what they felt about Mary's faith. Then teach about Jesus Christ.",
+  "simple": "We honour Mary as the mother of Jesus Christ, a faithful and blessed woman. We do not pray to her or through her. We pray to Heavenly Father in the name of Jesus Christ, whom Paul calls the one mediator. We respect the Catholic and other traditions of honouring Mary.",
+  "explain": "Scripture shows Mary's faith and humility. We follow Jesus Christ's example in praying to the Father. We do not teach the Immaculate Conception or Marian prayers."
+ },
+ "fr": {
+  "ask": [
+   "Qu'honorez-vous chez Marie ?",
+   "Que pensez-vous que les Écritures montrent de sa foi ?",
+   "Que voudriez-vous savoir sur la façon dont nous la voyons ?"
+  ],
+  "why": [
+   "L'ange a dit que Marie était bénie entre les femmes.",
+   "Marie a dit que toutes les générations l'appelleraient bienheureuse."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la foi de Marie. Puis enseignez Jésus-Christ.",
+  "simple": "Nous honorons Marie comme la mère de Jésus-Christ, une femme fidèle et bénie. Nous ne la prions pas et ne prions pas par elle. Nous prions notre Père céleste au nom de Jésus-Christ, que Paul appelle l'unique médiateur. Nous respectons les traditions catholique et autres d'honorer Marie.",
+  "explain": "Les Écritures montrent la foi et l'humilité de Marie. Nous suivons l'exemple de Jésus-Christ en priant le Père. Nous n'enseignons pas l'Immaculée Conception ni les prières mariales."
+ }
+}

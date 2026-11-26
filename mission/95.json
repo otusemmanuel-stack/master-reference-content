@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  2,
+  4
+ ],
+ "en": {
+  "ask": [
+   "Have you ever felt something you could not explain by emotion alone?",
+   "What do you think it means to know something by the Spirit?",
+   "Would you try Moroni's promise?"
+  ],
+  "why": [
+   "Jesus Christ told Peter that flesh and blood had not revealed it, but the Father in heaven.",
+   "Moroni invites us to ask God with a sincere heart, real intent, and faith in Christ."
+  ],
+  "follow": "Next visit, ask what they felt as they prayed. Then teach about the Holy Ghost."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous déjà ressenti quelque chose que vous ne pouviez pas expliquer par l'émotion seule ?",
+   "Que pensez-vous que cela signifie de savoir quelque chose par l'Esprit ?",
+   "Seriez-vous prêt à essayer la promesse de Moroni ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit à Pierre que ce n'était pas la chair et le sang qui le lui avaient révélé, mais le Père qui est dans les cieux.",
+   "Moroni nous invite à demander à Dieu avec un cœur sincère, une réelle intention et la foi au Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant. Puis enseignez le Saint-Esprit."
+ }
+}

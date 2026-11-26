@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  58,
+  189
+ ],
+ "en": {
+  "ask": [
+   "What titles do you hear for church leaders?",
+   "What do you think Jesus Christ meant by teaching humility?",
+   "What would you want from a leader?"
+  ],
+  "why": [
+   "Psalm 111:9 uses the word reverend of God's name.",
+   "Jesus Christ taught that the greatest among you shall be your servant."
+  ],
+  "follow": "Next visit, ask what they noticed about leaders in the Church. Then teach about Church organisation.",
+  "simple": "Our leaders serve as volunteers, so we do not use the title Reverend. We call each other Brother and Sister, and use titles like Bishop, Elder or President for the role. We follow Jesus Christ's teaching that the greatest among us is the servant of all.",
+  "explain": "We respect other faiths and their titles. In our Church, local leaders are called from among the members and serve without pay. The focus is on service, not on a title."
+ },
+ "fr": {
+  "ask": [
+   "Quels titres entendez-vous pour les dirigeants d'Église ?",
+   "Que pensez-vous que Jésus-Christ voulait dire en enseignant l'humilité ?",
+   "Que voudriez-vous d'un dirigeant ?"
+  ],
+  "why": [
+   "Le Psaume 111:9 emploie le mot révérend à propos du nom de Dieu.",
+   "Jésus-Christ a enseigné que le plus grand parmi vous sera votre serviteur."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur les dirigeants dans l'Église. Puis enseignez l'organisation de l'Église.",
+  "simple": "Nos dirigeants servent comme bénévoles, c'est pourquoi nous n'utilisons pas le titre de Révérend. Nous nous appelons frère et sœur, et nous utilisons des titres comme évêque, ancien ou président pour la fonction. Nous suivons l'enseignement de Jésus-Christ selon lequel le plus grand parmi nous est le serviteur de tous.",
+  "explain": "Nous respectons les autres confessions et leurs titres. Dans notre Église, les dirigeants locaux sont appelés parmi les membres et servent sans rémunération. L'accent est mis sur le service, non sur un titre."
+ }
+}

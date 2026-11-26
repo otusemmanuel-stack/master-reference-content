@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  157,
+  2
+ ],
+ "en": {
+  "ask": [
+   "What do you respect about Islam?",
+   "What do you think we share in our beliefs?",
+   "What would you like to know about how we see Jesus Christ?"
+  ],
+  "why": [
+   "Peter says there is salvation in no other name than Jesus Christ.",
+   "Nephi says we talk of Christ and rejoice in Christ."
+  ],
+  "follow": "Next visit, ask what they felt about Jesus Christ. Then teach about the Atonement.",
+  "simple": "Muslims and Latter-day Saints both honour Abraham, believe in one God, and value prayer, fasting and charity. Muslims honour Jesus as a prophet. Latter-day Saints believe He is the Son of God and our Savior. We respect the sincere faith of Muslims.",
+  "explain": "Respect and listening make good conversations. We invite friends of other faiths to share what they believe and to learn about what we believe."
+ },
+ "fr": {
+  "ask": [
+   "Que respectez-vous dans l'islam ?",
+   "Qu'est-ce que nous partageons dans nos croyances, selon vous ?",
+   "Que voudriez-vous savoir sur la façon dont nous voyons Jésus-Christ ?"
+  ],
+  "why": [
+   "Pierre dit qu'il n'y a de salut en aucun autre que Jésus-Christ.",
+   "Néphi dit que nous parlons du Christ et nous nous réjouissons dans le Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de Jésus-Christ. Puis enseignez l'expiation.",
+  "simple": "Les musulmans et les saints des derniers jours honorent tous deux Abraham, croient en un seul Dieu et valorisent la prière, le jeûne et la charité. Les musulmans honorent Jésus comme un prophète. Les saints des derniers jours croient qu'Il est le Fils de Dieu et notre Sauveur. Nous respectons la foi sincère des musulmans.",
+  "explain": "Le respect et l'écoute font de bonnes conversations. Nous invitons les amis d'autres confessions à partager ce qu'ils croient et à découvrir ce que nous croyons."
+ }
+}

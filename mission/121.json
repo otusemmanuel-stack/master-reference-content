@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  192,
+  44
+ ],
+ "en": {
+  "ask": [
+   "How much do you trust that the Bible has been passed down perfectly?",
+   "What do you think it means that some books are mentioned but not included?",
+   "What would you do if God gave more of His word?"
+  ],
+  "why": [
+   "Peter notes that some of Paul's writings were hard to understand and that some people twist them.",
+   "Nephi saw that many plain and precious parts would be taken from the Bible before it went to the nations."
+  ],
+  "follow": "Next visit, ask what they felt about scripture and trust. Then teach about the Book of Mormon.",
+  "simple": "We love the Bible and believe it is the word of God as far as it is translated correctly. We also believe that some plain and precious parts were lost over time, as Nephi saw. We do not say the whole Bible is corrupted."
+ },
+ "fr": {
+  "ask": [
+   "Dans quelle mesure croyez-vous que la Bible nous a été transmise parfaitement ?",
+   "Que pensez-vous que cela signifie que certains livres sont mentionnés mais ne sont pas inclus ?",
+   "Que feriez-vous si Dieu donnait davantage de Sa parole ?"
+  ],
+  "why": [
+   "Pierre note que certains écrits de Paul sont difficiles à comprendre et que certains les tordent.",
+   "Néphi a vu que beaucoup de parties claires et précieuses seraient ôtées de la Bible avant qu'elle parvienne aux nations."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des Écritures et de la confiance. Puis enseignez le Livre de Mormon.",
+  "simple": "Nous aimons la Bible et croyons qu'elle est la parole de Dieu, pour autant qu'elle soit traduite correctement. Nous croyons aussi que certaines parties claires et précieuses ont été perdues avec le temps, comme Néphi l'a vu. Nous ne disons pas que toute la Bible est corrompue."
+ }
+}

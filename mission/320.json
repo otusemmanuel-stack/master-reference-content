@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  303,
+  304
+ ],
+ "en": {
+  "ask": [
+   "What does your daily routine look like?",
+   "How do you use your time to serve others?",
+   "What habits would help you in a mission?"
+  ],
+  "why": [
+   "Ecclesiastes says to do whatever your hand finds to do with your might.",
+   "The Lord says to retire early and arise early, that your bodies and minds may be invigorated."
+  ],
+  "follow": "Next visit, ask what habits they built. Then teach about preparing for a mission.",
+  "simple": "Missionaries follow a daily schedule. They rise early, exercise, and study the gospel alone and with their companion. They spend most of the day teaching, visiting and serving, then plan and end the day with prayer. The schedule helps them use time well."
+ },
+ "fr": {
+  "ask": [
+   "À quoi ressemble votre routine quotidienne ?",
+   "Comment utilisez-vous votre temps pour servir les autres ?",
+   "Quelles habitudes vous aideraient pendant une mission ?"
+  ],
+  "why": [
+   "L'Ecclésiaste dit de faire avec force tout ce que la main trouve à faire.",
+   "Le Seigneur dit de se coucher de bonne heure et de se lever de bonne heure, afin que le corps et l'esprit soient fortifiés."
+  ],
+  "follow": "À la prochaine visite, demandez quelles habitudes ils ont construites. Puis enseignez la préparation à une mission.",
+  "simple": "Les missionnaires suivent un horaire quotidien. Ils se lèvent tôt, font de l'exercice et étudient l'Évangile seuls et avec leur compagnon. Ils passent la plus grande partie de la journée à enseigner, à rendre visite et à servir, puis planifient et terminent la journée par la prière. L'horaire les aide à bien utiliser leur temps."
+ }
+}

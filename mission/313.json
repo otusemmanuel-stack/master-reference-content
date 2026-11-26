@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  312,
+  314
+ ],
+ "en": {
+  "ask": [
+   "What do you think commandments do for us?",
+   "Which commandment do you find hardest?",
+   "What would help you live it?"
+  ],
+  "why": [
+   "James says faith without works is dead.",
+   "The Lord says that if we love Him, we keep His commandments."
+  ],
+  "follow": "Next visit, ask how living a commandment went. Then teach about laws and ordinances.",
+  "explain": "Present the commandments as a loving guide, not as a list of limits. Explain what is asked, and answer questions with kindness. Help the person see how each commandment brings blessings."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que les commandements font pour nous ?",
+   "Quel commandement trouvez-vous le plus difficile ?",
+   "Qu'est-ce qui vous aiderait à le vivre ?"
+  ],
+  "why": [
+   "Jacques dit que la foi sans les œuvres est morte.",
+   "Le Seigneur dit que si nous L'aimons, nous gardons Ses commandements."
+  ],
+  "follow": "À la prochaine visite, demandez comment s'est passée la mise en pratique d'un commandement. Puis enseignez les lois et les ordonnances.",
+  "explain": "Présentez les commandements comme un guide plein d'amour, non comme une liste de limites. Expliquez ce qui est demandé et répondez aux questions avec bienveillance. Aidez la personne à voir comment chaque commandement apporte des bénédictions."
+ }
+}

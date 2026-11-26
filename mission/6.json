@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  55,
+  56
+ ],
+ "en": {
+  "ask": [
+   "What does the symbol of the cross mean to you?",
+   "What do you think it means that Jesus Christ is alive today?",
+   "How does knowing He rose again affect the way you live?"
+  ],
+  "why": [
+   "Christ rose from the dead and dies no more. Death has no power over Him.",
+   "The risen Christ invited the people to feel the marks in His hands, feet and side. He is a living Savior."
+  ],
+  "follow": "Next visit, ask what the resurrection means to them. Then teach about the Atonement of Jesus Christ."
+ },
+ "fr": {
+  "ask": [
+   "Que représente pour vous le symbole de la croix ?",
+   "Que pensez-vous que cela signifie que Jésus-Christ est vivant aujourd'hui ?",
+   "En quoi le fait de savoir qu'Il est ressuscité change-t-il votre façon de vivre ?"
+  ],
+  "why": [
+   "Christ est ressuscité des morts et ne meurt plus. La mort n'a plus de pouvoir sur Lui.",
+   "Le Christ ressuscité a invité le peuple à sentir les marques de Ses mains, de Ses pieds et de Son côté. Il est un Sauveur vivant."
+  ],
+  "follow": "À la prochaine visite, demandez ce que la résurrection signifie pour eux. Puis enseignez l'expiation de Jésus-Christ."
+ }
+}

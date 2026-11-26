@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  312,
+  315
+ ],
+ "en": {
+  "ask": [
+   "What do you think baptism means?",
+   "How would you feel about being baptised?",
+   "What would help you prepare?"
+  ],
+  "why": [
+   "Jesus Christ commands His disciples to teach and baptise all nations.",
+   "The Savior says that those who believe and are baptised will be saved."
+  ],
+  "follow": "Next visit, ask how they feel about baptism. Then teach about baptism and confirmation.",
+  "simple": "Invite warmly and clearly. For example: 'Would you like to be baptised on this date? Will you prepare for it?' A clear date gives the person something to pray about. Respect their agency, and let them decide."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que le baptême signifie ?",
+   "Que ressentiriez-vous à l'idée d'être baptisé ?",
+   "Qu'est-ce qui vous aiderait à vous préparer ?"
+  ],
+  "why": [
+   "Jésus-Christ commande à Ses disciples d'enseigner et de baptiser toutes les nations.",
+   "Le Sauveur dit que ceux qui croient et sont baptisés seront sauvés."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils pensent du baptême. Puis enseignez le baptême et la confirmation.",
+  "simple": "Invitez avec chaleur et clarté. Par exemple : « Aimeriez-vous être baptisé à cette date ? Vous préparerez-vous pour cela ? » Une date claire donne à la personne quelque chose pour quoi prier. Respectez son libre arbitre et laissez-la décider."
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  104,
+  41
+ ],
+ "en": {
+  "ask": [
+   "What do you think about leaders who give their time without being paid?",
+   "What would make someone serve in this way?",
+   "What would you like to know about how local leaders serve?"
+  ],
+  "why": [
+   "Paul preached the gospel of Christ without charge.",
+   "Alma taught the priests to labor with their own hands and teach the people."
+  ],
+  "follow": "Next visit, ask what they noticed about people who serve freely. Then teach how callings work.",
+  "scripture": "1 Corinthians 9:18 | Mosiah 18:24-26",
+  "simple": "Because the Church follows the pattern of serving without pay. Paul preached the gospel of Christ without charge, and Alma taught the priests to labor with their own hands. Local leaders serve out of love for God and for people."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous des dirigeants qui donnent leur temps sans être payés ?",
+   "Qu'est-ce qui pousserait quelqu'un à servir ainsi ?",
+   "Qu'aimeriez-vous savoir sur la façon dont les dirigeants locaux servent ?"
+  ],
+  "why": [
+   "Paul a prêché l'Évangile du Christ gratuitement.",
+   "Alma a enseigné aux prêtres à travailler de leurs propres mains et à instruire le peuple."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué chez ceux qui servent librement. Puis enseignez comment fonctionnent les appels.",
+  "scripture": "1 Corinthians 9:18 | Mosiah 18:24-26",
+  "simple": "Parce que l'Église suit le modèle d'un service sans salaire. Paul a prêché l'Évangile du Christ gratuitement, et Alma a enseigné aux prêtres à travailler de leurs propres mains. Les dirigeants locaux servent par amour pour Dieu et pour les gens."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  156,
+  157
+ ],
+ "en": {
+  "ask": [
+   "What do you know about Jehovah's Witnesses?",
+   "What do you think makes a church different?",
+   "What would you like to know about how we see Jesus Christ?"
+  ],
+  "why": [
+   "The Lord told Moses that His work and glory is the immortality and eternal life of man.",
+   "Paul says there are different glories for the sun, the moon and the stars."
+  ],
+  "follow": "Next visit, ask what they felt about Jesus Christ. Then teach about the Restoration.",
+  "simple": "Jehovah's Witnesses began in the late 1800s. Latter-day Saints are a different church that began with Joseph Smith in 1830. We believe Jesus Christ is the divine Son of God, the Creator and our Savior. We believe He restored His Church through Joseph Smith. We respect the faith of Jehovah's Witnesses."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous des Témoins de Jéhovah ?",
+   "Qu'est-ce qui, selon vous, rend une Église différente ?",
+   "Que voudriez-vous savoir sur la façon dont nous voyons Jésus-Christ ?"
+  ],
+  "why": [
+   "Le Seigneur a dit à Moïse que Son œuvre et Sa gloire sont de réaliser l'immortalité et la vie éternelle de l'homme.",
+   "Paul dit qu'il y a des gloires différentes pour le soleil, la lune et les étoiles."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de Jésus-Christ. Puis enseignez le Rétablissement.",
+  "simple": "Les Témoins de Jéhovah sont apparus à la fin des années 1800. Les saints des derniers jours sont une Église différente qui a commencé avec Joseph Smith en 1830. Nous croyons que Jésus-Christ est le Fils divin de Dieu, le Créateur et notre Sauveur. Nous croyons qu'Il a rétabli Son Église par Joseph Smith. Nous respectons la foi des Témoins de Jéhovah."
+ }
+}

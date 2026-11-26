@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  17,
+  249
+ ],
+ "en": {
+  "ask": [
+   "What would you like to learn about God and Jesus Christ?",
+   "What questions do you hope the missionaries can answer?",
+   "How could we make our visits comfortable for you?"
+  ],
+  "why": [
+   "Jesus Christ commands His disciples to teach all nations and says He is with them always.",
+   "The Savior invites us to come to Him as a little child."
+  ],
+  "follow": "Next visit, ask what questions they still have. Then teach the next lesson.",
+  "simple": "Missionaries will teach lessons about the Restoration, the plan of salvation, the gospel of Jesus Christ, the commandments, and the laws and ordinances. They will invite you to pray, read, and come to church. They may invite you to be baptised when you are ready.",
+  "explain": "Missionaries are volunteers who want to share what has blessed their lives. You choose the pace and the questions. You can stop at any time."
+ },
+ "fr": {
+  "ask": [
+   "Que voudriez-vous apprendre sur Dieu et sur Jésus-Christ ?",
+   "À quelles questions espérez-vous que les missionnaires puissent répondre ?",
+   "Comment pourrions-nous rendre nos visites confortables pour vous ?"
+  ],
+  "why": [
+   "Jésus-Christ commande à Ses disciples d'enseigner toutes les nations et dit qu'Il est avec eux toujours.",
+   "Le Sauveur nous invite à venir à Lui comme un petit enfant."
+  ],
+  "follow": "À la prochaine visite, demandez quelles questions ils ont encore. Puis enseignez la leçon suivante.",
+  "simple": "Les missionnaires vous enseigneront des leçons sur le Rétablissement, le plan du salut, l'Évangile de Jésus-Christ, les commandements, et les lois et ordonnances. Ils vous inviteront à prier, à lire et à venir à l'Église. Ils pourront vous inviter à être baptisé quand vous serez prêt.",
+  "explain": "Les missionnaires sont des volontaires qui veulent partager ce qui a béni leur vie. Vous choisissez le rythme et les questions. Vous pouvez arrêter à tout moment."
+ }
+}

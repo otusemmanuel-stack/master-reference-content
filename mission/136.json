@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  102,
+  111
+ ],
+ "en": {
+  "ask": [
+   "Why do you think God's holiness matters?",
+   "How do you feel about the idea that God is both perfectly holy and perfectly loving?",
+   "What do you think the Atonement of Jesus Christ does for us?"
+  ],
+  "why": [
+   "Habakkuk says God cannot look upon sin with approval.",
+   "Nephi taught that no unclean thing can dwell with God, so we need a way to be made clean."
+  ],
+  "follow": "Next visit, ask what they felt about being made clean. Then teach about repentance and the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi pensez-vous que la sainteté de Dieu est importante ?",
+   "Que ressentez-vous à l'idée que Dieu est à la fois parfaitement saint et parfaitement aimant ?",
+   "Que pensez-vous que l'expiation de Jésus-Christ fait pour nous ?"
+  ],
+  "why": [
+   "Habacuc dit que Dieu ne peut pas regarder le péché avec approbation.",
+   "Néphi a enseigné que rien d'impur ne peut demeurer avec Dieu, alors nous avons besoin d'un moyen d'être rendus purs."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à l'idée d'être rendus purs. Puis enseignez le repentir et l'expiation."
+ }
+}

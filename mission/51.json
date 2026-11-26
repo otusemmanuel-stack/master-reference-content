@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  42,
+  66
+ ],
+ "en": {
+  "ask": [
+   "Why do you think God lets people choose?",
+   "What do you think happened to the Church after the apostles died?",
+   "What would you want from God in a time of confusion?"
+  ],
+  "why": [
+   "Paul says the day of Christ will not come until there is a falling away.",
+   "Nephi says many will teach with their own learning and deny the Holy Ghost."
+  ],
+  "follow": "Next visit, ask what they felt about agency. Then teach about the Restoration.",
+  "simple": "Paul said a falling away would come before the Second Coming. We believe that happened after the apostles died. God honors agency, even when people choose wrongly. He also promised to restore all things, and He did."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi pensez-vous que Dieu laisse les gens choisir ?",
+   "Que pensez-vous qu'il est arrivé à l'Église après la mort des apôtres ?",
+   "Que voudriez-vous de Dieu dans un temps de confusion ?"
+  ],
+  "why": [
+   "Paul dit que le jour du Christ ne viendra pas avant l'apostasie.",
+   "Néphi dit que beaucoup enseigneront par leur propre savoir et nieront le Saint-Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du libre arbitre. Puis enseignez le Rétablissement.",
+  "simple": "Paul a dit qu'une apostasie viendrait avant la Seconde Venue. Nous croyons que cela s'est produit après la mort des apôtres. Dieu respecte le libre arbitre, même quand les gens font de mauvais choix. Il a aussi promis de rétablir toutes choses, et Il l'a fait."
+ }
+}

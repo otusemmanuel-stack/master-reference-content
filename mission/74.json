@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  22,
+  90
+ ],
+ "en": {
+  "ask": [
+   "What do you think happens after we die?",
+   "Do you think God would judge people who never heard of Jesus Christ?",
+   "How does it feel to know God offers every person a chance?"
+  ],
+  "why": [
+   "Peter teaches that Christ preached to the spirits in prison.",
+   "Alma teaches that the righteous spirits rest in paradise while others wait."
+  ],
+  "follow": "Next visit, ask what they felt about God's fairness. Then teach about the spirit world and baptism for the dead.",
+  "scripture": "1 Peter 3:18-20 | Alma 40:11-14 | Doctrine and Covenants 138:29-30",
+  "explain": "Between His death and His Resurrection, Jesus Christ organized the work of teaching the gospel to the spirits in prison. God provided the gospel to those who never heard it in life, then judges them fairly."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'il se passe après la mort ?",
+   "Pensez-vous que Dieu jugerait ceux qui n'ont jamais entendu parler de Jésus-Christ ?",
+   "Que ressentez-vous en sachant que Dieu offre à chaque personne une chance ?"
+  ],
+  "why": [
+   "Pierre enseigne que le Christ a prêché aux esprits en prison.",
+   "Alma enseigne que les esprits des justes sont dans le paradis tandis que les autres attendent."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la justice de Dieu. Puis enseignez le monde des esprits et le baptême pour les morts.",
+  "scripture": "1 Peter 3:18-20 | Alma 40:11-14 | Doctrine and Covenants 138:29-30",
+  "explain": "Entre Sa mort et Sa Résurrection, Jésus-Christ a organisé l'œuvre d'enseignement de l'Évangile aux esprits en prison. Dieu a rendu l'Évangile disponible à ceux qui ne l'ont jamais entendu pendant leur vie, puis Il les juge avec équité."
+ }
+}

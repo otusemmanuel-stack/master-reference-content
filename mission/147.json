@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  62,
+  238
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means to hold the keys of the kingdom?",
+   "How can we know that a church has authority from God?",
+   "What would you like to know about how keys are passed on?"
+  ],
+  "why": [
+   "Jesus Christ promised Peter the keys of the kingdom of heaven.",
+   "Elijah, Moses and Elias restored keys to Joseph Smith and Oliver Cowdery in the Kirtland Temple."
+  ],
+  "follow": "Next visit, ask what they thought about priesthood keys. Then teach about the Restoration of the priesthood."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que cela signifie de détenir les clefs du royaume ?",
+   "Comment pouvons-nous savoir qu'une église a l'autorité de Dieu ?",
+   "Qu'aimeriez-vous savoir sur la manière dont les clefs sont transmises ?"
+  ],
+  "why": [
+   "Jésus-Christ a promis à Pierre les clefs du royaume des cieux.",
+   "Élie, Moïse et Élias ont rétabli des clefs à Joseph Smith et à Oliver Cowdery dans le temple de Kirtland."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont pensé des clefs de la prêtrise. Puis enseignez le rétablissement de la prêtrise."
+ }
+}

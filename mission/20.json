@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  10,
+  14
+ ],
+ "en": {
+  "ask": [
+   "Who do you think God speaks through, according to the Bible?",
+   "What does it mean to follow a prophet by faith?",
+   "Would you listen to a message from a living prophet?"
+  ],
+  "why": [
+   "Moses said that the Lord would raise up a prophet like him and that people should hear him.",
+   "Nephi quotes the same words and says they apply to Jesus Christ."
+  ],
+  "follow": "Next visit, ask what they felt about the prophet's message. Then teach about prophets and revelation."
+ },
+ "fr": {
+  "ask": [
+   "Par qui pensez-vous que Dieu parle, selon la Bible ?",
+   "Que signifie suivre un prophète par la foi ?",
+   "Seriez-vous prêt à écouter un message d'un prophète vivant ?"
+  ],
+  "why": [
+   "Moïse a dit que le Seigneur susciterait un prophète comme lui et qu'il faudrait l'écouter.",
+   "Néphi cite les mêmes paroles et dit qu'elles s'appliquent à Jésus-Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du message du prophète. Puis enseignez les prophètes et la révélation."
+ }
+}

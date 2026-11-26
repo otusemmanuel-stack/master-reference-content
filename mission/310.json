@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  311,
+  312
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about the Restoration?",
+   "What would you like to know about Joseph Smith's vision?",
+   "What do you think it means that God speaks again?"
+  ],
+  "why": [
+   "Peter speaks of the times of restitution of all things.",
+   "Joseph Smith says the Father introduced the Son and told him to hear Him."
+  ],
+  "follow": "Next visit, ask what they felt about the Restoration. Then teach the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur le Rétablissement ?",
+   "Qu'aimeriez-vous savoir sur la vision de Joseph Smith ?",
+   "Que pensez-vous que cela signifie que Dieu parle de nouveau ?"
+  ],
+  "why": [
+   "Pierre parle du temps du rétablissement de toutes choses.",
+   "Joseph Smith dit que le Père a présenté le Fils et lui a dit de L'écouter."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du Rétablissement. Puis enseignez le plan du salut."
+ }
+}

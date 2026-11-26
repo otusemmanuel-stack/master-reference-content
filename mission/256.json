@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  257,
+  194
+ ],
+ "en": {
+  "ask": [
+   "What do you think matters most in caring for someone who is dying?",
+   "How do you feel about pain relief and comfort?",
+   "What would you want for yourself at the end of life?"
+  ],
+  "why": [
+   "Job says the Lord gave and the Lord has taken away, blessed be His name.",
+   "The Lord says those who die in Him shall not taste of death."
+  ],
+  "follow": "Next visit, ask what they felt about caring for the dying. Then teach about life after death.",
+  "simple": "The Church opposes euthanasia and assisted suicide because life is sacred. Members are not required to prolong life by every possible means. It is right to give comfort and pain relief, and to allow a natural death. We trust God in this season."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qui compte le plus, selon vous, pour soigner une personne qui meurt ?",
+   "Que ressentez-vous à propos du soulagement de la douleur et du réconfort ?",
+   "Que voudriez-vous pour vous-même à la fin de la vie ?"
+  ],
+  "why": [
+   "Job dit que l'Éternel a donné et l'Éternel a ôté, que le nom de l'Éternel soit béni.",
+   "Le Seigneur dit que ceux qui meurent en Lui ne goûteront pas la mort."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du soin aux mourants. Puis enseignez la vie après la mort.",
+  "simple": "L'Église s'oppose à l'euthanasie et au suicide assisté parce que la vie est sacrée. Les membres ne sont pas tenus de prolonger la vie par tous les moyens possibles. Il est juste d'apporter du réconfort et un soulagement de la douleur, et de permettre une mort naturelle. Nous faisons confiance à Dieu dans cette période."
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  3,
+  23
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about the Church and race?",
+   "How do you feel about God's love for every person?",
+   "What would you want to know about what the Church teaches today?"
+  ],
+  "why": [
+   "Paul says God made of one blood all nations of men.",
+   "Nephi says the Lord invites all to come to Him, black and white, bond and free, male and female."
+  ],
+  "follow": "Next visit, ask what they felt about God's love for everyone. Then teach about the Restoration.",
+  "simple": "The Church disavows the theories that Black people were less valiant in premortal life, or that skin color shows God's favour. These ideas were never official doctrine. The Church's essay on race and the priesthood says they are false.",
+  "matters": "All are alike unto God. The Church is committed to loving and welcoming every person. We acknowledge past mistakes and keep working to do better."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur l'Église et la race ?",
+   "Que ressentez-vous à propos de l'amour de Dieu pour chaque personne ?",
+   "Que voudriez-vous savoir sur ce que l'Église enseigne aujourd'hui ?"
+  ],
+  "why": [
+   "Paul dit que Dieu a fait d'un seul sang toutes les nations des hommes.",
+   "Néphi dit que le Seigneur invite tous à venir à Lui, noirs et blancs, esclaves et libres, hommes et femmes."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'amour de Dieu pour tous. Puis enseignez le Rétablissement.",
+  "simple": "L'Église désavoue les théories selon lesquelles les Noirs auraient été moins valeureux dans la vie prémortelle, ou selon lesquelles la couleur de peau montre la faveur de Dieu. Ces idées n'ont jamais été une doctrine officielle. L'essai de l'Église sur la race et la prêtrise dit qu'elles sont fausses.",
+  "matters": "Tous sont pareils devant Dieu. L'Église s'engage à aimer et à accueillir chaque personne. Nous reconnaissons les erreurs du passé et continuons de nous efforcer de faire mieux."
+ }
+}

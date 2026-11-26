@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  41,
+  62
+ ],
+ "en": {
+  "ask": [
+   "What do you think about leaders who serve without pay?",
+   "Why might someone give their time to serve others?",
+   "What would you like to know about how the Church is led locally?"
+  ],
+  "why": [
+   "Paul preached the gospel without charge.",
+   "King Benjamin served his people with his own hands, so that he would not burden them."
+  ],
+  "follow": "Next visit, ask what they noticed about local leaders. Then teach how callings work.",
+  "simple": "Because the gospel is not merchandise. Paul said he preached the gospel of Christ without charge, and King Benjamin served his people with his own hands. Local leaders in the Church follow that example.",
+  "matters": "Local leaders serve out of love for God and for the people, as the early apostles did."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous des dirigeants qui servent sans être payés ?",
+   "Pourquoi quelqu'un donnerait-il son temps pour servir les autres ?",
+   "Qu'aimeriez-vous savoir sur la façon dont l'Église est dirigée localement ?"
+  ],
+  "why": [
+   "Paul a prêché l'Évangile sans rien demander.",
+   "Le roi Benjamin a servi son peuple de ses propres mains, afin de ne pas lui être à charge."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur les dirigeants locaux. Puis enseignez comment fonctionnent les appels.",
+  "simple": "Parce que l'Évangile n'est pas une marchandise. Paul a dit qu'il prêchait l'Évangile du Christ gratuitement, et le roi Benjamin a servi son peuple de ses propres mains. Les dirigeants locaux de l'Église suivent cet exemple.",
+  "matters": "Les dirigeants locaux servent par amour pour Dieu et pour les gens, comme les premiers apôtres."
+ }
+}

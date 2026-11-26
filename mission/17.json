@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  50,
+  249
+ ],
+ "en": {
+  "ask": [
+   "What do you think is the best thing you could share with someone?",
+   "How do you feel when someone shares what they love?",
+   "What would you want to know about what missionaries teach?"
+  ],
+  "why": [
+   "Jesus Christ told His apostles to go into all the world and preach the gospel.",
+   "Lehi teaches that men are free to choose, and that Jesus Christ has made a way for us to come back."
+  ],
+  "follow": "Next visit, ask what they felt about the missionaries' message. Then teach about the Restoration."
+ },
+ "fr": {
+  "ask": [
+   "Quelle est, selon vous, la meilleure chose que vous pourriez partager avec quelqu'un ?",
+   "Que ressentez-vous quand quelqu'un partage ce qu'il aime ?",
+   "Que voudriez-vous savoir sur ce que les missionnaires enseignent ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit à Ses apôtres d'aller dans le monde entier et de prêcher l'Évangile.",
+   "Léhi enseigne que les hommes sont libres de choisir, et que Jésus-Christ a ouvert un chemin pour nous ramener."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du message des missionnaires. Puis enseignez le Rétablissement."
+ }
+}

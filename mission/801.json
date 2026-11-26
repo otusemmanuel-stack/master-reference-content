@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  705,
+  704
+ ],
+ "en": {
+  "ask": [
+   "How do you read James and Paul together?",
+   "What do you think each of them wanted people to understand?",
+   "What does genuine faith look like in your life?"
+  ],
+  "why": [
+   "Paul says a person is justified by faith without the deeds of the law.",
+   "James says faith without works is dead."
+  ],
+  "follow": "Next visit, ask what they noticed about faith and works. Then teach about faith in Jesus Christ.",
+  "simple": "James and Paul do not contradict each other. Paul teaches that no one is saved by keeping the law of Moses. James teaches that faith must show itself in action. Together they describe living faith in Jesus Christ.",
+  "explain": "Many Christians have studied this question for centuries. We respect those who see it differently. We rely on the Bible, the Book of Mormon and the Holy Ghost to understand."
+ },
+ "fr": {
+  "ask": [
+   "Comment lisez-vous Jacques et Paul ensemble ?",
+   "Que pensez-vous que chacun voulait que les gens comprennent ?",
+   "À quoi ressemble une foi authentique dans votre vie ?"
+  ],
+  "why": [
+   "Paul dit que l'homme est justifié par la foi sans les œuvres de la loi.",
+   "Jacques dit que la foi sans les œuvres est morte."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur la foi et les œuvres. Puis enseignez la foi en Jésus-Christ.",
+  "simple": "Jacques et Paul ne se contredisent pas. Paul enseigne que personne n'est sauvé en observant la loi de Moïse. Jacques enseigne que la foi doit se manifester par des actes. Ensemble, ils décrivent une foi vivante en Jésus-Christ.",
+  "explain": "Beaucoup de chrétiens étudient cette question depuis des siècles. Nous respectons ceux qui la voient autrement. Nous nous appuyons sur la Bible, le Livre de Mormon et le Saint-Esprit pour comprendre."
+ }
+}

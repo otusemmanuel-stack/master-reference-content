@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  165,
+  191
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about archaeology and the Book of Mormon?",
+   "Do you think a lack of evidence settles the question?",
+   "Would you be willing to use Moroni's test as well?"
+  ],
+  "why": [
+   "Paul taught that God has determined the times and boundaries of nations.",
+   "Alma 3:6 is about one group in the Book of Mormon. The Church rejects any teaching that one race is better than another."
+  ],
+  "follow": "Next visit, ask what they felt as they read. Then teach about prayer and the Book of Mormon.",
+  "simple": "Many ancient sites in the Americas have not been studied, and much has been lost over time. Scholars still debate where Book of Mormon events took place. The Church has not taken an official position on the location.",
+  "explain": "Honest questions about archaeology are fine. Not finding evidence yet is not the same as proving something false. The book itself invites a spiritual test."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur l'archéologie et le Livre de Mormon ?",
+   "Pensez-vous qu'un manque de preuves règle la question ?",
+   "Seriez-vous prêt à utiliser aussi la méthode de Moroni ?"
+  ],
+  "why": [
+   "Paul a enseigné que Dieu a fixé les temps et les limites des nations.",
+   "Alma 3:6 concerne un groupe du Livre de Mormon. L'Église rejette tout enseignement selon lequel une race serait meilleure qu'une autre."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en lisant. Puis enseignez la prière et le Livre de Mormon.",
+  "simple": "Beaucoup de sites anciens des Amériques n'ont pas été étudiés, et beaucoup a été perdu avec le temps. Les spécialistes débattent encore de l'endroit où les événements du Livre de Mormon ont eu lieu. L'Église n'a pas pris de position officielle sur le lieu.",
+  "explain": "Les questions honnêtes sur l'archéologie sont bonnes. Ne pas encore avoir trouvé de preuves n'est pas la même chose que prouver que quelque chose est faux. Le livre lui-même invite à une épreuve spirituelle."
+ }
+}

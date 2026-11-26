@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  321,
+  322
+ ],
+ "en": {
+  "ask": [
+   "Who do you know who might enjoy hearing about the gospel?",
+   "How could you help members share it naturally?",
+   "What kind of invitation do you feel comfortable giving?"
+  ],
+  "why": [
+   "Jesus Christ sends His disciples to preach the gospel to everyone.",
+   "The Lord says everyone who has been warned should warn his neighbour."
+  ],
+  "follow": "Next visit, ask who they thought of. Then teach about friendship and sharing.",
+  "simple": "Members know people in the community and can help missionaries meet them. Ask members whom they know, and invite them to join lessons. Many people first hear about the gospel through a friend. Work with members as partners."
+ },
+ "fr": {
+  "ask": [
+   "Qui connaissez-vous qui aimerait entendre parler de l'Évangile ?",
+   "Comment pourriez-vous aider les membres à le partager naturellement ?",
+   "Quelle sorte d'invitation vous sentez-vous à l'aise de faire ?"
+  ],
+  "why": [
+   "Jésus-Christ envoie Ses disciples prêcher l'Évangile à tous.",
+   "Le Seigneur dit que chacun qui a été averti doit avertir son prochain."
+  ],
+  "follow": "À la prochaine visite, demandez à qui ils ont pensé. Puis enseignez l'amitié et le partage.",
+  "simple": "Les membres connaissent des personnes de la communauté et peuvent aider les missionnaires à les rencontrer. Demandez aux membres qui ils connaissent et invitez-les à participer aux leçons. Beaucoup de personnes entendent d'abord parler de l'Évangile par un ami. Travaillez avec les membres comme des partenaires."
+ }
+}

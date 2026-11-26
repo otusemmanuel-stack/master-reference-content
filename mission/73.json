@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  56,
+  59
+ ],
+ "en": {
+  "ask": [
+   "What does Sunday mean to you and your family?",
+   "Why do you think God asks us to set aside one day for Him?",
+   "How would a day focused on God change your week?"
+  ],
+  "why": [
+   "On the first day of the week, the disciples came together to break bread.",
+   "The Lord revealed that on the Sabbath we offer our oblations and sacraments, rest from our labors and pay our devotions.",
+   "Paul taught that the old covenant's special days were a shadow of things to come in Christ."
+  ],
+  "follow": "Next visit, ask what they did on Sunday and how it felt. Then teach about worship and the sacrament.",
+  "scripture": "Acts 20:7 | Doctrine and Covenants 59:9-12 | Colossians 2:16"
+ },
+ "fr": {
+  "ask": [
+   "Que représente le dimanche pour vous et votre famille ?",
+   "Pourquoi pensez-vous que Dieu nous demande de mettre un jour de côté pour Lui ?",
+   "En quoi une journée centrée sur Dieu changerait-elle votre semaine ?"
+  ],
+  "why": [
+   "Le premier jour de la semaine, les disciples se sont réunis pour rompre le pain.",
+   "Le Seigneur a révélé que le jour du sabbat nous offrons nos oblations et nos sacrements, nous nous reposons de nos travaux et rendons nos hommages.",
+   "Paul a enseigné que les jours spéciaux de l'ancienne alliance étaient l'ombre des choses à venir en Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont fait le dimanche et ce qu'ils ont ressenti. Puis enseignez le culte et la Sainte-Cène.",
+  "scripture": "Acts 20:7 | Doctrine and Covenants 59:9-12 | Colossians 2:16"
+ }
+}

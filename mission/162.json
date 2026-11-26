@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  17,
+  50
+ ],
+ "en": {
+  "ask": [
+   "How do you prefer to learn about faith?",
+   "What do you think Jesus Christ's way of teaching shows us?",
+   "What would make a conversation about faith comfortable for you?"
+  ],
+  "why": [
+   "Jesus Christ told His disciples to enter a house and let their peace rest on it.",
+   "The Lord says to teach by the Spirit."
+  ],
+  "follow": "Next visit, ask what they felt in the conversation. Then teach about the Restoration."
+ },
+ "fr": {
+  "ask": [
+   "Comment préférez-vous en apprendre sur la foi ?",
+   "Que pensez-vous que la manière d'enseigner de Jésus-Christ nous montre ?",
+   "Qu'est-ce qui rendrait une conversation sur la foi confortable pour vous ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit à Ses disciples d'entrer dans une maison et de laisser leur paix reposer sur elle.",
+   "Le Seigneur dit d'enseigner par l'Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti dans la conversation. Puis enseignez le Rétablissement."
+ }
+}

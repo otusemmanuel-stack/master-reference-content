@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  130,
+  163
+ ],
+ "en": {
+  "ask": [
+   "Do you believe God can appear to someone today?",
+   "What do you think Joseph Smith meant by 'a pillar of light'?",
+   "Would you read his account and tell me what you feel?"
+  ],
+  "why": [
+   "Numbers 12:6 says the Lord makes Himself known to prophets in visions.",
+   "Joseph Smith said he saw two personages, and one said, 'This is My Beloved Son. Hear Him!'"
+  ],
+  "follow": "Next visit, ask what they felt reading the First Vision. Then teach about the Restoration.",
+  "simple": "The scriptures describe God appearing to His servants. Moses and Stephen saw Him, and Paul saw Jesus Christ. Joseph Smith said that in 1820 he saw God the Father and Jesus Christ. We invite people to read his account and ask God if it is true."
+ },
+ "fr": {
+  "ask": [
+   "Croyez-vous que Dieu peut apparaître à quelqu'un aujourd'hui ?",
+   "Que pensez-vous que Joseph Smith voulait dire par « une colonne de lumière » ?",
+   "Seriez-vous prêt à lire son récit et à me dire ce que vous ressentez ?"
+  ],
+  "why": [
+   "Nombres 12:6 dit que le Seigneur se fait connaître aux prophètes dans des visions.",
+   "Joseph Smith a dit qu'il a vu deux personnages, et l'un a dit : « Celui-ci est Mon Fils bien-aimé. Écoute-Le ! »"
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en lisant la première vision. Puis enseignez le Rétablissement.",
+  "simple": "Les Écritures décrivent Dieu apparaissant à Ses serviteurs. Moïse et Étienne L'ont vu, et Paul a vu Jésus-Christ. Joseph Smith a dit qu'en 1820 il a vu Dieu le Père et Jésus-Christ. Nous invitons les gens à lire son récit et à demander à Dieu s'il est vrai."
+ }
+}

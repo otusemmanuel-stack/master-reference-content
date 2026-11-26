@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  113,
+  82
+ ],
+ "en": {
+  "ask": [
+   "What do you think about the idea that evil is real?",
+   "Why do you think Jesus Christ was tempted?",
+   "How does it feel to know you can overcome?"
+  ],
+  "why": [
+   "Peter says the devil walks about like a roaring lion seeking whom he may devour.",
+   "Lehi says there must be opposition in all things."
+  ],
+  "follow": "Next visit, ask what they felt about overcoming evil. Then teach about the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous de l'idée que le mal est réel ?",
+   "Pourquoi pensez-vous que Jésus-Christ a été tenté ?",
+   "Que ressentez-vous en sachant que vous pouvez vaincre ?"
+  ],
+  "why": [
+   "Pierre dit que le diable rôde comme un lion rugissant, cherchant qui il dévorera.",
+   "Léhi dit qu'il faut qu'il y ait une opposition en toutes choses."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de vaincre le mal. Puis enseignez l'expiation."
+ }
+}

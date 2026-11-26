@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  32,
+  78
+ ],
+ "en": {
+  "ask": [
+   "What do you think a spirit is?",
+   "What do you think Zechariah means that God forms the spirit of man within him?",
+   "How would you describe what you were before you were born?"
+  ],
+  "why": [
+   "Zechariah says the Lord forms the spirit of man within him.",
+   "The Lord showed Abraham many noble and great spirits who lived before this life."
+  ],
+  "follow": "Next visit, ask what they felt about being a child of God. Then teach about the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'est un esprit ?",
+   "Que pensez-vous que Zacharie veut dire quand il dit que Dieu forme l'esprit de l'homme au dedans de lui ?",
+   "Comment décririez-vous ce que vous étiez avant votre naissance ?"
+  ],
+  "why": [
+   "Zacharie dit que le Seigneur forme l'esprit de l'homme au dedans de lui.",
+   "Le Seigneur a montré à Abraham de nombreux esprits nobles et grands qui ont vécu avant cette vie."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos d'être un enfant de Dieu. Puis enseignez le plan du salut."
+ }
+}

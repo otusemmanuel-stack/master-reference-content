@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  12,
+  64
+ ],
+ "en": {
+  "ask": [
+   "What do you know about the Word of Wisdom?",
+   "How do you decide what to take into your body?",
+   "What would help you stay healthy in a way that honors God?"
+  ],
+  "why": [
+   "Paul says your body is the temple of the Holy Ghost.",
+   "The Lord reveals a Word of Wisdom for the benefit of His Saints."
+  ],
+  "follow": "Next visit, ask what they felt about caring for their body. Then teach about the Word of Wisdom.",
+  "simple": "The Church teaches against recreational use of marijuana and against vaping and e-cigarettes. Medical marijuana prescribed by a doctor for a medical condition is a decision for the member and the doctor. The Word of Wisdom guides us to avoid substances that harm the body."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de la Parole de Sagesse ?",
+   "Comment décidez-vous ce que vous mettez dans votre corps ?",
+   "Qu'est-ce qui vous aiderait à rester en bonne santé d'une manière qui honore Dieu ?"
+  ],
+  "why": [
+   "Paul dit que votre corps est le temple du Saint-Esprit.",
+   "Le Seigneur révèle une Parole de Sagesse pour le bien de Ses saints."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de prendre soin de leur corps. Puis enseignez la Parole de Sagesse.",
+  "simple": "L'Église enseigne à ne pas utiliser la marijuana à des fins récréatives, ni la cigarette électronique. La marijuana médicale prescrite par un médecin pour une condition médicale relève d'une décision entre le membre et son médecin. La Parole de Sagesse nous guide pour éviter les substances qui nuisent au corps."
+ }
+}

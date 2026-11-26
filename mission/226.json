@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  232,
+  208
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about Cain?",
+   "How do you decide what is true and what is just a story?",
+   "What would you want to know about how the Church decides what to teach?"
+  ],
+  "why": [
+   "The Lord set a mark upon Cain.",
+   "Moses records what Cain heard after the murder of Abel."
+  ],
+  "follow": "Next visit, ask what they learned about doctrine. Then teach about prophets.",
+  "simple": "The Church does not teach that Cain wanders the earth as Bigfoot or any creature. That is a folk story, not doctrine. Doctrine comes from the scriptures and from official statements of the First Presidency and the Quorum of the Twelve.",
+  "explain": "Some stories were passed along over time. The Church separates official doctrine from personal opinion and folklore. That is why we turn to scripture and living prophets."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur Caïn ?",
+   "Comment décidez-vous ce qui est vrai et ce qui n'est qu'une histoire ?",
+   "Que voudriez-vous savoir sur la façon dont l'Église décide de ce qu'elle enseigne ?"
+  ],
+  "why": [
+   "Le Seigneur mit un signe sur Caïn.",
+   "Moïse rapporte ce que Caïn a entendu après le meurtre d'Abel."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur la doctrine. Puis enseignez les prophètes.",
+  "simple": "L'Église n'enseigne pas que Caïn erre sur la terre sous la forme de Bigfoot ou d'une autre créature. C'est une légende populaire, non une doctrine. La doctrine vient des Écritures et des déclarations officielles de la Première Présidence et du Collège des douze apôtres.",
+  "explain": "Certaines histoires se sont transmises avec le temps. L'Église distingue la doctrine officielle des opinions personnelles et du folklore. C'est pourquoi nous nous tournons vers les Écritures et les prophètes vivants."
+ }
+}

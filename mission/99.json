@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  148,
+  101
+ ],
+ "en": {
+  "ask": [
+   "What do you know about the blessing Jacob gave to Joseph?",
+   "What do you think it means for Joseph's branch to run over the wall?",
+   "Would you read the Book of Mormon as a record of Joseph's descendants?"
+  ],
+  "why": [
+   "Jacob blessed Joseph as a fruitful bough whose branches run over the wall.",
+   "Lehi taught that Joseph in Egypt prophesied of a seer who would bring forth his people's record."
+  ],
+  "follow": "Next visit, ask what they noticed about Joseph's promise. Then teach about the Book of Mormon.",
+  "simple": "The Book of Mormon says its people came from Joseph, the son of Jacob. Genesis 49 records Jacob's blessing that Joseph's branches would run over the wall. Latter-day Saints see the Book of Mormon as part of how that promise was kept.",
+  "explain": "Jacob blessed Joseph as a fruitful bough whose branches run over the wall. Lehi, a descendant of Joseph, left Jerusalem and crossed the sea. Invite them to read the blessing and the Book of Mormon, and to ask God what they mean."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de la bénédiction que Jacob a donnée à Joseph ?",
+   "Que pensez-vous que cela signifie que la branche de Joseph s'étend par-dessus la muraille ?",
+   "Seriez-vous prêt à lire le Livre de Mormon comme le récit des descendants de Joseph ?"
+  ],
+  "why": [
+   "Jacob a béni Joseph comme un rameau fertile dont les branches s'élèvent par-dessus la muraille.",
+   "Léhi a enseigné que Joseph, en Égypte, avait prophétisé qu'un voyant ferait paraître le récit de son peuple."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur la promesse faite à Joseph. Puis enseignez le Livre de Mormon.",
+  "simple": "Le Livre de Mormon dit que son peuple descendait de Joseph, fils de Jacob. Genèse 49 rapporte la bénédiction de Jacob disant que les branches de Joseph s'élèveraient par-dessus la muraille. Les saints des derniers jours voient le Livre de Mormon comme une partie de la façon dont cette promesse a été tenue.",
+  "explain": "Jacob a béni Joseph comme un rameau fertile dont les branches s'élèvent par-dessus la muraille. Léhi, descendant de Joseph, a quitté Jérusalem et traversé la mer. Invitez-les à lire la bénédiction et le Livre de Mormon, et à demander à Dieu ce qu'ils signifient."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  303,
+  304
+ ],
+ "en": {
+  "ask": [
+   "How is your health right now?",
+   "What would you like to learn to do for yourself?",
+   "What would help you feel prepared?"
+  ],
+  "why": [
+   "Proverbs says to prepare your work outside and make it ready in the field.",
+   "The Lord says that if we are prepared, we shall not fear."
+  ],
+  "follow": "Next visit, ask what steps they took to prepare. Then teach about self-reliance."
+ },
+ "fr": {
+  "ask": [
+   "Comment va votre santé en ce moment ?",
+   "Qu'aimeriez-vous apprendre à faire par vous-même ?",
+   "Qu'est-ce qui vous aiderait à vous sentir préparé ?"
+  ],
+  "why": [
+   "Les Proverbes disent de soigner son travail au dehors et de l'achever dans son champ.",
+   "Le Seigneur dit que si nous sommes préparés, nous ne craindrons pas."
+  ],
+  "follow": "À la prochaine visite, demandez quelles démarches ils ont faites pour se préparer. Puis enseignez l'autonomie."
+ }
+}

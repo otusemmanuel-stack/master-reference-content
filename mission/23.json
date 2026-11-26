@@ -1,0 +1,37 @@
+{
+ "v": 2,
+ "related": [
+  11,
+  103
+ ],
+ "en": {
+  "ask": [
+   "What do you think makes a church true?",
+   "What did Jesus Christ mean by 'my church'?",
+   "Would you ask God if this is His Church?"
+  ],
+  "why": [
+   "Jesus Christ said, 'Upon this rock I will build my church.'",
+   "The Lord says His Church is called in His name and built upon His gospel."
+  ],
+  "follow": "Next visit, ask what they felt as they prayed. Then teach about the Restoration.",
+  "simple": "The Lord Himself called it 'the only true and living church' in Doctrine and Covenants 1:30. We say it with humility, not pride. We believe it has the priesthood authority, ordinances and doctrine of Jesus Christ's Church.",
+  "explain": "We are not saying that other people are not good or that they have no truth. We honor the good in every faith. We say that Jesus Christ's authority and fullness were restored in this Church.",
+  "matters": "Knowing which church is true matters because the saving ordinances need authority from God."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qui fait qu'une Église est vraie, selon vous ?",
+   "Que voulait dire Jésus-Christ par « mon Église » ?",
+   "Seriez-vous prêt à demander à Dieu si c'est Son Église ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit : « Sur cette pierre je bâtirai mon Église. »",
+   "Le Seigneur dit que Son Église porte Son nom et est bâtie sur Son Évangile."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant. Puis enseignez le Rétablissement.",
+  "simple": "Le Seigneur Lui-même l'a appelée « la seule Église vraie et vivante » dans Doctrine et Alliances 1:30. Nous le disons avec humilité, non avec orgueil. Nous croyons qu'elle a l'autorité de la prêtrise, les ordonnances et la doctrine de l'Église de Jésus-Christ.",
+  "explain": "Nous ne disons pas que les autres ne sont pas bons ou n'ont pas de vérité. Nous honorons le bien dans chaque foi. Nous disons que l'autorité et la plénitude de Jésus-Christ ont été rétablies dans cette Église.",
+  "matters": "Savoir quelle Église est vraie est important parce que les ordonnances de salut demandent l'autorité de Dieu."
+ }
+}

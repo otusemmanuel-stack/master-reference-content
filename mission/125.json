@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  23,
+  103
+ ],
+ "en": {
+  "ask": [
+   "What good do you see in other churches?",
+   "What do you think 'fulness of the gospel' means?",
+   "What would you want God to add to your life?"
+  ],
+  "why": [
+   "Paul says God will gather all things in one in Christ.",
+   "The Savior says that the fulness of His gospel will come forth to the gentiles."
+  ],
+  "follow": "Next visit, ask what they felt about the fulness. Then teach about ordinances and priesthood."
+ },
+ "fr": {
+  "ask": [
+   "Quel bien voyez-vous dans d'autres Églises ?",
+   "Que pensez-vous que « la plénitude de l'Évangile » signifie ?",
+   "Que voudriez-vous que Dieu ajoute à votre vie ?"
+  ],
+  "why": [
+   "Paul dit que Dieu réunira toutes choses en Christ.",
+   "Le Sauveur dit que la plénitude de Son Évangile viendra aux gentils."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la plénitude. Puis enseignez les ordonnances et la prêtrise."
+ }
+}

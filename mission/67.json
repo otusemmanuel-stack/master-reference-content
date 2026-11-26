@@ -1,0 +1,41 @@
+{
+ "v": 2,
+ "related": [
+  85,
+  140
+ ],
+ "en": {
+  "ask": [
+   "What do you know about where Adam and Eve lived?",
+   "What do you think matters most about the Garden of Eden?",
+   "Would you like to learn about Adam-ondi-Ahman?"
+  ],
+  "why": [
+   "Genesis says the Lord planted a garden eastward in Eden.",
+   "The Lord revealed that Adam-ondi-Ahman is where Adam blessed his posterity."
+  ],
+  "follow": "Next visit, ask what they felt about Adam and Eve. Then teach about the Fall.",
+  "scripture": "Genesis 2:8 | Doctrine and Covenants 116:1",
+  "simple": "The Church has not declared where the Garden of Eden was. Some early Church leaders taught that it was in what is now Missouri. The scriptures say that Adam later lived at a place called Adam-ondi-Ahman, in Missouri. Latter-day Saints do not make the location of Eden a matter of doctrine.",
+  "explain": "What matters most is the story of Adam and Eve and the Fall. We are here to learn, to choose, and to return to God through Jesus Christ. The exact location is not what the scriptures emphasise.",
+  "matters": "The Fall and the Atonement show God's plan to help us grow and return to Him.",
+  "invite": "Would you read Genesis 2 and 3 and tell me what stands out to you about God's plan?"
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de l'endroit où Adam et Ève ont vécu ?",
+   "Qu'est-ce qui, selon vous, compte le plus à propos du jardin d'Éden ?",
+   "Aimeriez-vous en savoir plus sur Adam-ondi-Ahman ?"
+  ],
+  "why": [
+   "La Genèse dit que l'Éternel planta un jardin en Éden, du côté de l'orient.",
+   "Le Seigneur a révélé qu'Adam-ondi-Ahman est le lieu où Adam a béni sa postérité."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos d'Adam et Ève. Puis enseignez la Chute.",
+  "scripture": "Genèse 2:8 | Doctrine et Alliances 116:1",
+  "simple": "L'Église n'a pas déclaré où se trouvait le jardin d'Éden. Certains dirigeants des débuts ont enseigné qu'il était dans ce qui est aujourd'hui le Missouri. Les Écritures disent qu'Adam a plus tard vécu à un endroit appelé Adam-ondi-Ahman, dans le Missouri. Les saints des derniers jours ne font pas de l'emplacement d'Éden une question de doctrine.",
+  "explain": "Ce qui compte le plus, c'est l'histoire d'Adam et Ève et la Chute. Nous sommes ici pour apprendre, choisir et retourner à Dieu par Jésus-Christ. L'emplacement exact n'est pas ce que les Écritures soulignent.",
+  "matters": "La Chute et l'expiation montrent le plan de Dieu pour nous aider à grandir et à retourner à Lui.",
+  "invite": "Seriez-vous prêt à lire Genèse 2 et 3 et à me dire ce qui vous marque dans le plan de Dieu ?"
+ }
+}

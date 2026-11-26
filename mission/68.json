@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  10,
+  14
+ ],
+ "en": {
+  "ask": [
+   "Have you ever had a dream or feeling that seemed more than chance?",
+   "What do you think Joel meant by sons and daughters prophesying?",
+   "How do you think God would speak to you?"
+  ],
+  "why": [
+   "The Lord says He speaks to prophets in visions and dreams.",
+   "Joel says God will pour out His Spirit on all flesh in the last days."
+  ],
+  "follow": "Next visit, ask what they felt about how God speaks. Then teach about prayer and revelation."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous déjà fait un rêve ou ressenti quelque chose qui semblait plus qu'un hasard ?",
+   "Que pensez-vous que Joël voulait dire par des fils et des filles qui prophétisent ?",
+   "Comment pensez-vous que Dieu vous parlerait ?"
+  ],
+  "why": [
+   "Le Seigneur dit qu'Il parle aux prophètes dans des visions et des songes.",
+   "Joël dit que Dieu répandra Son Esprit sur toute chair dans les derniers jours."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la façon dont Dieu parle. Puis enseignez la prière et la révélation."
+ }
+}

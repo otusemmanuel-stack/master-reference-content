@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  165,
+  99
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about the origins of the American Indians?",
+   "Why do you think the Book of Mormon does not say it tells the whole story of the Americas?",
+   "Would you be willing to read the Book of Mormon as a spiritual record?"
+  ],
+  "why": [
+   "Jacob blessed Joseph as a fruitful bough whose branches run over the wall.",
+   "Lehi says the Lord will not utterly destroy the seed of Joseph."
+  ],
+  "follow": "Next visit, ask what they felt about the Book of Mormon as a witness of Christ. Then teach about prayer and revelation.",
+  "simple": "The Book of Mormon tells of a small group who left Jerusalem about 600 BC. It does not say they were the only people in the Americas, and it does not tell the whole history of the continent. The Church does not take an official position on where every people came from.",
+  "explain": "Scientists are still studying ancient populations, and honest questions remain. The Book of Mormon is mainly a religious record about Jesus Christ. Invite them to read it and ask God if it is true."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur les origines des Amérindiens ?",
+   "Pourquoi pensez-vous que le Livre de Mormon ne dit pas raconter toute l'histoire des Amériques ?",
+   "Seriez-vous prêt à lire le Livre de Mormon comme un récit spirituel ?"
+  ],
+  "why": [
+   "Jacob a béni Joseph comme un rameau fertile dont les branches s'élèvent par-dessus la muraille.",
+   "Léhi dit que le Seigneur ne détruira pas entièrement la postérité de Joseph."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du Livre de Mormon comme témoin du Christ. Puis enseignez la prière et la révélation.",
+  "simple": "Le Livre de Mormon parle d'un petit groupe qui a quitté Jérusalem vers 600 av. J.-C. Il ne dit pas qu'ils étaient les seuls habitants des Amériques, et il ne raconte pas toute l'histoire du continent. L'Église ne prend pas de position officielle sur l'origine de chaque peuple.",
+  "explain": "Les scientifiques étudient encore les populations anciennes, et des questions honnêtes demeurent. Le Livre de Mormon est avant tout un récit religieux sur Jésus-Christ. Invitez-les à le lire et à demander à Dieu s'il est vrai."
+ }
+}

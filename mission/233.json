@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  230,
+  231
+ ],
+ "en": {
+  "ask": [
+   "What do you know about Mountain Meadows?",
+   "How do you think a church should respond to its own history of wrongdoing?",
+   "What would you want to know about how the Church handles hard history?"
+  ],
+  "why": [
+   "Proverbs says that whoever confesses and forsakes sin will find mercy.",
+   "Jesus Christ asked the Father to forgive those who did not know what they did."
+  ],
+  "follow": "Next visit, ask what they felt about honesty and forgiveness. Then teach about repentance.",
+  "simple": "In 2007, Elder Henry B. Eyring spoke at the site of the Mountain Meadows Massacre in a statement authorized by the First Presidency. He expressed profound regret for the tragedy. The word 'apology' was not used, but many see it as one. The Church's history essay also tells the story openly.",
+  "explain": "The massacre in 1857 was carried out by local Church members and others. The Church's history says that the ones responsible bear the blame, and that the Church acknowledges the tragedy."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de Mountain Meadows ?",
+   "Comment pensez-vous qu'une Église devrait réagir à sa propre histoire de torts ?",
+   "Que voudriez-vous savoir sur la façon dont l'Église traite l'histoire difficile ?"
+  ],
+  "why": [
+   "Les Proverbes disent que celui qui confesse et délaisse ses péchés obtiendra miséricorde.",
+   "Jésus-Christ a demandé au Père de pardonner à ceux qui ne savaient pas ce qu'ils faisaient."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'honnêteté et du pardon. Puis enseignez le repentir.",
+  "simple": "En 2007, frère Henry B. Eyring a pris la parole sur le site du massacre de Mountain Meadows dans une déclaration autorisée par la Première Présidence. Il a exprimé un profond regret pour cette tragédie. Le mot « excuses » n'a pas été utilisé, mais beaucoup y voient des excuses. L'essai historique de l'Église raconte aussi cette histoire ouvertement.",
+  "explain": "Le massacre de 1857 a été commis par des membres locaux de l'Église et d'autres. L'histoire de l'Église dit que les responsables en portent la faute, et que l'Église reconnaît cette tragédie."
+ }
+}

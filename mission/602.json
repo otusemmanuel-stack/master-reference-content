@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  1,
+  36
+ ],
+ "en": {
+  "ask": [
+   "How was baptism done in your tradition?",
+   "What do you think baptism by immersion represents?",
+   "What would you like to learn about baptism?"
+  ],
+  "why": [
+   "John baptised in Aenon because there was much water there.",
+   "Paul says we are buried with Christ by baptism and rise to walk in newness of life."
+  ],
+  "follow": "Next visit, ask what they felt about baptism. Then teach about baptism and confirmation.",
+  "simple": "The word 'baptize' comes from a Greek word that means to immerse. Jesus Christ was baptised by immersion in the Jordan River. Early Christians baptised by immersion, and over time some churches also allowed pouring or sprinkling. We baptise by immersion, which symbolises death, burial and resurrection.",
+  "explain": "We respect those who baptise in other ways and their sincerity. We believe immersion, done by someone with priesthood authority, follows the example of Jesus Christ."
+ },
+ "fr": {
+  "ask": [
+   "Comment le baptême était-il pratiqué dans votre tradition ?",
+   "Que pensez-vous que le baptême par immersion représente ?",
+   "Qu'aimeriez-vous apprendre sur le baptême ?"
+  ],
+  "why": [
+   "Jean baptisait à Énon parce qu'il y avait là beaucoup d'eau.",
+   "Paul dit que nous sommes ensevelis avec le Christ par le baptême et que nous marchons en nouveauté de vie."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du baptême. Puis enseignez le baptême et la confirmation.",
+  "simple": "Le mot « baptiser » vient d'un mot grec qui signifie immerger. Jésus-Christ a été baptisé par immersion dans le Jourdain. Les premiers chrétiens baptisaient par immersion, et avec le temps certaines Églises ont aussi permis l'aspersion ou l'infusion. Nous baptisons par immersion, qui symbolise la mort, l'ensevelissement et la résurrection.",
+  "explain": "Nous respectons ceux qui baptisent d'une autre manière, ainsi que leur sincérité. Nous croyons que l'immersion, accomplie par quelqu'un qui détient l'autorité de la prêtrise, suit l'exemple de Jésus-Christ."
+ }
+}

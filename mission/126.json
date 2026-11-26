@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  131,
+  249
+ ],
+ "en": {
+  "ask": [
+   "When have you learned something a little at a time?",
+   "What do you think line upon line means for how God teaches us?",
+   "What is one thing you feel ready to do next?"
+  ],
+  "why": [
+   "Isaiah says God teaches line upon line, here a little and there a little.",
+   "Nephi says the Lord gives to the children of men line upon line, and blesses those who hearken."
+  ],
+  "follow": "Next visit, ask what step they took. Then teach about personal revelation."
+ },
+ "fr": {
+  "ask": [
+   "Quand avez-vous appris quelque chose petit à petit ?",
+   "Que pensez-vous que ligne sur ligne signifie dans la façon dont Dieu nous enseigne ?",
+   "Quelle est une chose que vous vous sentez prêt à faire ensuite ?"
+  ],
+  "why": [
+   "Ésaïe dit que Dieu enseigne précepte sur précepte, un peu ici, un peu là.",
+   "Néphi dit que le Seigneur donne aux enfants des hommes ligne sur ligne, et bénit ceux qui écoutent."
+  ],
+  "follow": "À la prochaine visite, demandez quelle étape ils ont franchie. Puis enseignez la révélation personnelle."
+ }
+}

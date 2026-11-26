@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  260,
+  255
+ ],
+ "en": {
+  "ask": [
+   "What do you think about caring for the body after death?",
+   "How do you feel about the family deciding?",
+   "What comforts you when someone dies?"
+  ],
+  "why": [
+   "Paul says the body is the temple of the Holy Ghost.",
+   "Job says that in his flesh he shall see God."
+  ],
+  "follow": "Next visit, ask what they felt about the body and the resurrection. Then teach about the Resurrection."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous des soins du corps après la mort ?",
+   "Que ressentez-vous à l'idée que la famille décide ?",
+   "Qu'est-ce qui vous réconforte quand quelqu'un meurt ?"
+  ],
+  "why": [
+   "Paul dit que le corps est le temple du Saint-Esprit.",
+   "Job dit que dans sa chair il verra Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du corps et de la résurrection. Puis enseignez la Résurrection."
+ }
+}

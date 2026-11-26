@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  2,
+  143
+ ],
+ "en": {
+  "ask": [
+   "What do you think a miracle is?",
+   "Do you think science and faith can work together?",
+   "What would you like to understand better?"
+  ],
+  "why": [
+   "Paul says that God's invisible qualities are seen in the things that are made.",
+   "The Lord says that truth is light and knowledge."
+  ],
+  "follow": "Next visit, ask what they felt about science and faith. Then teach about learning by study and faith."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qu'un miracle, selon vous ?",
+   "Pensez-vous que la science et la foi peuvent œuvrer ensemble ?",
+   "Qu'aimeriez-vous mieux comprendre ?"
+  ],
+  "why": [
+   "Paul dit que les perfections invisibles de Dieu se voient dans les choses créées.",
+   "Le Seigneur dit que la vérité est lumière et connaissance."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la science et de la foi. Puis enseignez l'apprentissage par l'étude et par la foi."
+ }
+}

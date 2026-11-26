@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  89,
+  110
+ ],
+ "en": {
+  "ask": [
+   "What do you notice about how Jesus Christ used the word church?",
+   "Why do you think He gave Peter keys?",
+   "How would you describe what the Church is for?"
+  ],
+  "why": [
+   "Jesus Christ told His disciples to tell the church if a brother will not listen.",
+   "The Savior says He taught His disciples and organised His Church."
+  ],
+  "follow": "Next visit, ask what they noticed about the early Church. Then teach about the Restoration."
+ },
+ "fr": {
+  "ask": [
+   "Que remarquez-vous dans la façon dont Jésus-Christ utilisait le mot Église ?",
+   "Pourquoi pensez-vous qu'Il a donné des clés à Pierre ?",
+   "Comment décririez-vous le but de l'Église ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit à Ses disciples d'en parler à l'Église si un frère n'écoute pas.",
+   "Le Sauveur dit qu'Il a enseigné Ses disciples et organisé Son Église."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur l'Église primitive. Puis enseignez le Rétablissement."
+ }
+}

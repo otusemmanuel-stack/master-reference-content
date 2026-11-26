@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  150,
+  221
+ ],
+ "en": {
+  "ask": [
+   "What do you know about your family's history?",
+   "How do you feel about the idea that families are connected across generations?",
+   "Would you like to start learning about an ancestor?"
+  ],
+  "why": [
+   "Malachi says the hearts of the children will turn to their fathers.",
+   "The Lord revealed that we without our dead cannot be made perfect."
+  ],
+  "follow": "Next visit, ask what they learned about their family. Then teach about temple work."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de l'histoire de votre famille ?",
+   "Que ressentez-vous à l'idée que les familles sont liées à travers les générations ?",
+   "Aimeriez-vous commencer à en apprendre sur un ancêtre ?"
+  ],
+  "why": [
+   "Malachie dit que le cœur des enfants se tournera vers leurs pères.",
+   "Le Seigneur a révélé que sans nos morts nous ne pouvons pas être rendus parfaits."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur leur famille. Puis enseignez l'œuvre du temple."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  113,
+  32
+ ],
+ "en": {
+  "ask": [
+   "What do you think happened before this world was created?",
+   "Why do you think Job speaks of the sons of God shouting for joy?",
+   "How do you feel about choosing to follow God's plan?"
+  ],
+  "why": [
+   "Job says the morning stars sang together and the sons of God shouted for joy.",
+   "Moses records that Lucifer proposed to redeem all mankind and to destroy agency."
+  ],
+  "follow": "Next visit, ask what they felt about life before earth. Then teach about the plan of salvation.",
+  "matters": "God loves each of us and invited us to follow His plan. Choosing Jesus Christ, then and now, is how we find joy."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'il s'est passé avant que ce monde soit créé ?",
+   "Pourquoi pensez-vous que Job parle des fils de Dieu qui poussaient des cris de joie ?",
+   "Que ressentez-vous à l'idée de choisir de suivre le plan de Dieu ?"
+  ],
+  "why": [
+   "Job dit que les étoiles du matin chantaient ensemble et que tous les fils de Dieu poussaient des cris de joie.",
+   "Moïse rapporte que Lucifer proposa de racheter tous les hommes et de détruire le libre arbitre."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la vie avant la terre. Puis enseignez le plan du salut.",
+  "matters": "Dieu nous aime chacun et nous a invités à suivre Son plan. Choisir Jésus-Christ, alors comme maintenant, est la manière de trouver la joie."
+ }
+}

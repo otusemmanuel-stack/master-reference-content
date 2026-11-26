@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  10,
+  98
+ ],
+ "en": {
+  "ask": [
+   "What roles do you think women have in the Church?",
+   "How do you feel about the Church's teaching on priesthood?",
+   "What would you like to ask a woman in the Church about her service?"
+  ],
+  "why": [
+   "Peter, quoting Joel, says that sons and daughters will prophesy.",
+   "Nephi says all are alike unto God."
+  ],
+  "follow": "Next visit, ask what they learned about women in the Church. Then teach about the Relief Society.",
+  "simple": "The Church teaches that men and women are equal in worth and have divine potential. Priesthood offices are held by men. Women lead and teach, serve in councils, and give priesthood blessings of service in the temple. Many women in the Church say they feel valued and empowered.",
+  "matters": "God values every daughter and son. Women's voices and service are essential to His work."
+ },
+ "fr": {
+  "ask": [
+   "Quels rôles pensez-vous que les femmes ont dans l'Église ?",
+   "Que ressentez-vous à propos de l'enseignement de l'Église sur la prêtrise ?",
+   "Que voudriez-vous demander à une femme de l'Église sur son service ?"
+  ],
+  "why": [
+   "Pierre, citant Joël, dit que les fils et les filles prophétiseront.",
+   "Néphi dit que tous sont pareils devant Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur les femmes dans l'Église. Puis enseignez la Société de Secours.",
+  "simple": "L'Église enseigne que les hommes et les femmes sont égaux en valeur et ont un potentiel divin. Les offices de la prêtrise sont détenus par des hommes. Les femmes dirigent et enseignent, siègent dans des conseils et servent dans le temple. Beaucoup de femmes de l'Église disent se sentir valorisées et soutenues.",
+  "matters": "Dieu apprécie chaque fille et chaque fils. La voix et le service des femmes sont essentiels à Son œuvre."
+ }
+}

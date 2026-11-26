@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  179,
+  9
+ ],
+ "en": {
+  "ask": [
+   "What do you know about special clothing in worship?",
+   "How would you want to remember your promises to God?",
+   "What would you like to ask about temple covenants?"
+  ],
+  "why": [
+   "The priests' clothing in the Old Testament was set apart for sacred service.",
+   "The Savior invites us to take His name and covenant with Him."
+  ],
+  "follow": "Next visit, ask what they felt about reminders. Then teach about temple covenants.",
+  "simple": "The temple garment is sacred to members who wear it. It reminds them of their covenants with God. We do not explain its details outside the temple, out of respect. Members who wear it describe it as a source of peace and protection.",
+  "explain": "Many faiths have sacred clothing. We keep the details private out of respect, not secrecy. What matters is the covenant it reminds us of."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous des vêtements spéciaux dans le culte ?",
+   "Comment voudriez-vous vous souvenir de vos promesses à Dieu ?",
+   "Que voudriez-vous demander au sujet des alliances du temple ?"
+  ],
+  "why": [
+   "Les vêtements des prêtres dans l'Ancien Testament étaient mis à part pour un service sacré.",
+   "Le Sauveur nous invite à prendre Son nom et à faire alliance avec Lui."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des rappels. Puis enseignez les alliances du temple.",
+  "simple": "Le vêtement du temple est sacré pour les membres qui le portent. Il leur rappelle leurs alliances avec Dieu. Nous n'en expliquons pas les détails en dehors du temple, par respect. Les membres qui le portent le décrivent comme une source de paix et de protection.",
+  "explain": "Beaucoup de religions ont des vêtements sacrés. Nous gardons les détails privés par respect, non par secret. Ce qui compte, c'est l'alliance qu'il nous rappelle."
+ }
+}

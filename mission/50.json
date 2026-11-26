@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  17,
+  249
+ ],
+ "en": {
+  "ask": [
+   "How do you feel when someone shares something important with you?",
+   "What do you think respect looks like when we disagree?",
+   "What would you like to ask the missionaries?"
+  ],
+  "why": [
+   "Paul says he is debtor both to the Greeks and to the barbarians.",
+   "The Lord says that if you have desires to serve God, you are called to the work."
+  ],
+  "follow": "Next visit, ask what they felt about the missionaries. Then teach about the Restoration.",
+  "matters": "Missionaries share their message because they care about you. They respect your freedom to decide. You are never pressured, and you can ask them to stop at any time."
+ },
+ "fr": {
+  "ask": [
+   "Que ressentez-vous quand quelqu'un partage quelque chose d'important avec vous ?",
+   "À quoi pensez-vous que le respect ressemble quand nous ne sommes pas d'accord ?",
+   "Que voudriez-vous demander aux missionnaires ?"
+  ],
+  "why": [
+   "Paul dit qu'il est débiteur envers les Grecs et envers les barbares.",
+   "Le Seigneur dit que si vous avez le désir de servir Dieu, vous êtes appelé à l'œuvre."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des missionnaires. Puis enseignez le Rétablissement.",
+  "matters": "Les missionnaires partagent leur message parce qu'ils se soucient de vous. Ils respectent votre liberté de décider. Vous n'êtes jamais forcé, et vous pouvez leur demander d'arrêter à tout moment."
+ }
+}

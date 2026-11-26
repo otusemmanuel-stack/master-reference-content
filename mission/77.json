@@ -1,0 +1,37 @@
+{
+ "v": 2,
+ "related": [
+  56,
+  57
+ ],
+ "en": {
+  "ask": [
+   "What do you think matters most about the sacrament?",
+   "Why do you think the Lord left the choice of what to eat and drink open?",
+   "How would you prepare to remember Jesus Christ each week?"
+  ],
+  "why": [
+   "Paul teaches that each time we partake, we remember the Lord's death.",
+   "The Lord told Joseph Smith in 1830 that what we eat or drink for the sacrament does not matter, if we do it with an eye single to His glory."
+  ],
+  "follow": "Next visit, ask what they felt about remembering Jesus Christ. Then invite them to a sacrament meeting.",
+  "scripture": "1 Corinthians 11:26 | Doctrine and Covenants 27:2-4",
+  "simple": "The Lord revealed in 1830 that it does not matter what we eat or drink for the sacrament, if we remember the Savior with an eye single to His glory. The Church uses bread and water. What matters is the covenant, not the drink.",
+  "explain": "Jesus Christ asked us to remember His body and blood. In 1830 the Lord told Joseph Smith that the choice of what to use is not important. Bread and water are simple and can be used everywhere in the world."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce qui compte le plus, selon vous, dans la Sainte-Cène ?",
+   "Pourquoi pensez-vous que le Seigneur a laissé ouvert le choix de ce que l'on mange et boit ?",
+   "Comment vous prépareriez-vous à vous souvenir de Jésus-Christ chaque semaine ?"
+  ],
+  "why": [
+   "Paul enseigne que chaque fois que nous prenons la Sainte-Cène, nous nous souvenons de la mort du Seigneur.",
+   "Le Seigneur a dit à Joseph Smith en 1830 que ce que nous mangeons ou buvons pour la Sainte-Cène importe peu, si nous le faisons en ayant l'œil fixé uniquement sur Sa gloire."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos du souvenir de Jésus-Christ. Puis invitez-les à une réunion de Sainte-Cène.",
+  "scripture": "1 Corinthians 11:26 | Doctrine and Covenants 27:2-4",
+  "simple": "Le Seigneur a révélé en 1830 que ce que nous mangeons ou buvons pour la Sainte-Cène importe peu, si nous nous souvenons du Sauveur en ayant l'œil fixé uniquement sur Sa gloire. L'Église utilise du pain et de l'eau. Ce qui compte, c'est l'alliance, pas la boisson.",
+  "explain": "Jésus-Christ nous a demandé de nous souvenir de Son corps et de Son sang. En 1830, le Seigneur a dit à Joseph Smith que le choix de ce que l'on utilise n'est pas important. Le pain et l'eau sont simples et peuvent être utilisés partout dans le monde."
+ }
+}

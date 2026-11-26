@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  199,
+  612
+ ],
+ "en": {
+  "ask": [
+   "What does Christmas mean to you?",
+   "What do you think matters most about the birth of Jesus Christ?",
+   "How could you remember Him this season?"
+  ],
+  "why": [
+   "Luke tells of the shepherds abiding in the field on the night He was born.",
+   "Matthew says His name is Jesus, for He shall save His people from their sins."
+  ],
+  "follow": "Next visit, ask what they felt about the birth of the Savior. Then teach about Jesus Christ.",
+  "simple": "The Bible does not give the date of Jesus Christ's birth. By the fourth century, many Christians celebrated December 25. Latter-day Saints celebrate Christmas as a time to remember His birth. The date matters less than what His birth means."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie Noël pour vous ?",
+   "Qu'est-ce qui, selon vous, compte le plus dans la naissance de Jésus-Christ ?",
+   "Comment pourriez-vous vous souvenir de Lui pendant cette saison ?"
+  ],
+  "why": [
+   "Luc raconte que des bergers passaient la nuit dans les champs la nuit où Il est né.",
+   "Matthieu dit que Son nom est Jésus, car Il sauvera Son peuple de ses péchés."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la naissance du Sauveur. Puis enseignez Jésus-Christ.",
+  "simple": "La Bible ne donne pas la date de la naissance de Jésus-Christ. Au IVe siècle, beaucoup de chrétiens célébraient le 25 décembre. Les saints des derniers jours célèbrent Noël comme un temps pour se souvenir de Sa naissance. La date compte moins que ce que Sa naissance signifie."
+ }
+}

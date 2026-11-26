@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  198,
+  138
+ ],
+ "en": {
+  "ask": [
+   "What do you think happens when we die?",
+   "What do you think Ecclesiastes means when it says the spirit returns to God?",
+   "How would it comfort you to know loved ones are still living?"
+  ],
+  "why": [
+   "Ecclesiastes says the spirit returns to God who gave it.",
+   "Alma teaches that spirits of the righteous are received into a state of happiness called paradise."
+  ],
+  "follow": "Next visit, ask what they felt about life after death. Then teach about the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'il se passe quand nous mourons ?",
+   "Que pensez-vous que l'Ecclésiaste veut dire quand il dit que l'esprit retourne à Dieu ?",
+   "En quoi cela vous réconforterait-il de savoir que ceux que vous aimez vivent encore ?"
+  ],
+  "why": [
+   "L'Ecclésiaste dit que l'esprit retourne à Dieu qui l'a donné.",
+   "Alma enseigne que les esprits des justes sont reçus dans un état de bonheur appelé paradis."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la vie après la mort. Puis enseignez le plan du salut."
+ }
+}

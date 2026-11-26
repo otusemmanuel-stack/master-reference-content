@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  23,
+  11
+ ],
+ "en": {
+  "ask": [
+   "What do you know about our Church?",
+   "What differences have you noticed between churches?",
+   "What would you like to know about the Church of Jesus Christ?"
+  ],
+  "why": [
+   "Jesus Christ said He would build His Church.",
+   "The Savior says the Church is called in His name."
+  ],
+  "follow": "Next visit, ask what they learned about the Church. Then teach about the Restoration.",
+  "simple": "We are not Jehovah's Witnesses or Seventh-day Adventists. We are members of The Church of Jesus Christ of Latter-day Saints. We believe Jesus Christ restored His Church through Joseph Smith, with priesthood authority, living prophets, and temples.",
+  "explain": "We respect people of other faiths and the good they do. What sets us apart is our belief in the Restoration: Heavenly messengers gave Joseph Smith priesthood authority to act in God's name."
+ },
+ "fr": {
+  "ask": [
+   "Que savez-vous de notre Église ?",
+   "Quelles différences avez-vous remarquées entre les Églises ?",
+   "Qu'aimeriez-vous savoir sur l'Église de Jésus-Christ ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit qu'Il bâtirait Son Église.",
+   "Le Sauveur dit que l'Église porte Son nom."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur l'Église. Puis enseignez le Rétablissement.",
+  "simple": "Nous ne sommes pas des Témoins de Jéhovah ni des adventistes du septième jour. Nous sommes membres de L'Église de Jésus-Christ des Saints des Derniers Jours. Nous croyons que Jésus-Christ a rétabli Son Église par Joseph Smith, avec l'autorité de la prêtrise, des prophètes vivants et des temples.",
+  "explain": "Nous respectons les personnes d'autres confessions et le bien qu'elles font. Ce qui nous distingue, c'est notre croyance dans le Rétablissement : des messagers célestes ont donné à Joseph Smith l'autorité de la prêtrise pour agir au nom de Dieu."
+ }
+}

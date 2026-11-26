@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  46,
+  79
+ ],
+ "en": {
+  "ask": [
+   "What have you been taught about God, the Son and the Holy Ghost?",
+   "What do you notice at the baptism of Jesus Christ?",
+   "What do you think it means to be one in purpose?"
+  ],
+  "why": [
+   "Jesus Christ prayed that His disciples would be one, as He and the Father are one.",
+   "Nephi teaches that the Father, the Son and the Holy Ghost are one God."
+  ],
+  "follow": "Next visit, ask what they noticed about the Father, the Son and the Holy Ghost. Then teach about the Godhead."
+ },
+ "fr": {
+  "ask": [
+   "Qu'a-t-on enseigné au sujet de Dieu, du Fils et du Saint-Esprit ?",
+   "Que remarquez-vous lors du baptême de Jésus-Christ ?",
+   "Que pensez-vous que cela signifie d'être un dans le but ?"
+  ],
+  "why": [
+   "Jésus-Christ a prié pour que Ses disciples soient un, comme Lui et le Père sont un.",
+   "Néphi enseigne que le Père, le Fils et le Saint-Esprit sont un seul Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué sur le Père, le Fils et le Saint-Esprit. Puis enseignez la Divinité."
+ }
+}

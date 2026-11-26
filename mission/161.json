@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  158,
+  38
+ ],
+ "en": {
+  "ask": [
+   "What do you think Jesus Christ meant by signs following believers?",
+   "Have you seen someone helped by a priesthood blessing?",
+   "How do you feel about the power of Jesus Christ over evil?"
+  ],
+  "why": [
+   "Jesus Christ said that signs shall follow them that believe, including casting out devils.",
+   "Mormon teaches that miracles have not ceased among the children of men."
+  ],
+  "follow": "Next visit, ask what they felt about priesthood blessings. Then teach about the priesthood.",
+  "simple": "The Church does not have a formal ministry of exorcism. Priesthood holders give blessings to the sick and may rebuke evil in the name of Jesus Christ if needed. It is done reverently and privately. We also encourage people to seek medical or professional help when needed."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que Jésus-Christ voulait dire par des signes qui accompagnent ceux qui croient ?",
+   "Avez-vous vu quelqu'un être aidé par une bénédiction de la prêtrise ?",
+   "Que ressentez-vous à propos du pouvoir de Jésus-Christ sur le mal ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit que des signes accompagneront ceux qui auront cru, y compris chasser les démons.",
+   "Mormon enseigne que les miracles n'ont pas cessé parmi les enfants des hommes."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des bénédictions de la prêtrise. Puis enseignez la prêtrise.",
+  "simple": "L'Église n'a pas de ministère formel d'exorcisme. Les détenteurs de la prêtrise donnent des bénédictions aux malades et peuvent réprimander le mal au nom de Jésus-Christ si nécessaire. Cela se fait avec respect et en privé. Nous encourageons aussi les personnes à demander une aide médicale ou professionnelle quand c'est nécessaire."
+ }
+}

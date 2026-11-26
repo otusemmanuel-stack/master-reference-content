@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  103,
+  42
+ ],
+ "en": {
+  "ask": [
+   "What do you respect about the Catholic Church?",
+   "What do you think authority means in the Church?",
+   "Would you pray to know where God's authority is today?"
+  ],
+  "why": [
+   "Paul warns against being carried about with strange teachings.",
+   "Nephi saw that plain and precious things would be taken from the gospel."
+  ],
+  "follow": "Next visit, ask what they felt about authority. Then teach about the Restoration of the priesthood.",
+  "simple": "We respect the Catholic Church and the good it does. We believe that after the apostles died, priesthood authority was lost from the earth. This applies to all churches, not only one. We believe God restored it through Joseph Smith.",
+  "explain": "We do not say Catholic people are not sincere or good. We believe authority to act in God's name must come from God. Invite them to learn how priesthood authority was restored and to ask God."
+ },
+ "fr": {
+  "ask": [
+   "Qu'est-ce que vous respectez dans l'Église catholique ?",
+   "Que pensez-vous que l'autorité signifie dans l'Église ?",
+   "Seriez-vous prêt à prier pour savoir où est l'autorité de Dieu aujourd'hui ?"
+  ],
+  "why": [
+   "Paul met en garde contre les enseignements étranges qui nous entraînent çà et là.",
+   "Néphi a vu que des parties claires et précieuses seraient ôtées de l'Évangile."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'autorité. Puis enseignez le rétablissement de la prêtrise.",
+  "simple": "Nous respectons l'Église catholique et le bien qu'elle fait. Nous croyons qu'après la mort des apôtres, l'autorité de la prêtrise a été perdue sur la terre. Cela vaut pour toutes les Églises, pas pour une seule. Nous croyons que Dieu l'a rétablie par Joseph Smith.",
+  "explain": "Nous ne disons pas que les catholiques ne sont pas sincères ou bons. Nous croyons que l'autorité d'agir au nom de Dieu doit venir de Dieu. Invitez-les à découvrir comment l'autorité de la prêtrise a été rétablie et à interroger Dieu."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  105,
+  111
+ ],
+ "en": {
+  "ask": [
+   "What have you been taught about God's forgiveness?",
+   "What do you think the Atonement of Jesus Christ can do for a person who truly wants to change?",
+   "What would you like to ask God about your own life?"
+  ],
+  "why": [
+   "Paul warns about willful sin after receiving the knowledge of the truth.",
+   "Jesus Christ taught that no unclean thing can enter God's kingdom, but He invites all to repent and come to Him."
+  ],
+  "follow": "Next visit, ask what they felt about God's willingness to forgive. Then teach about repentance and the Atonement."
+ },
+ "fr": {
+  "ask": [
+   "Qu'a-t-on enseigné au sujet du pardon de Dieu ?",
+   "Que pensez-vous que l'expiation de Jésus-Christ peut faire pour une personne qui veut vraiment changer ?",
+   "Que voudriez-vous demander à Dieu au sujet de votre propre vie ?"
+  ],
+  "why": [
+   "Paul avertit au sujet du péché volontaire après avoir reçu la connaissance de la vérité.",
+   "Jésus-Christ a enseigné que rien d'impur ne peut entrer dans le royaume de Dieu, mais Il invite tous à se repentir et à venir à Lui."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la volonté de Dieu de pardonner. Puis enseignez le repentir et l'expiation."
+ }
+}

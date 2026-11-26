@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  149,
+  117
+ ],
+ "en": {
+  "ask": [
+   "What would you most like to know about the life of Jesus Christ?",
+   "What do you think matters most about who He is?",
+   "What does the Savior mean to you?"
+  ],
+  "why": [
+   "John says the world could not contain all the books that could be written about the works of Jesus Christ.",
+   "Paul says that now we see in part, but one day we will see clearly."
+  ],
+  "follow": "Next visit, ask what they would like to learn about Jesus Christ. Then teach about His life and mission."
+ },
+ "fr": {
+  "ask": [
+   "Qu'aimeriez-vous le plus savoir sur la vie de Jésus-Christ ?",
+   "Qu'est-ce qui compte le plus, selon vous, dans ce qu'Il est ?",
+   "Que représente le Sauveur pour vous ?"
+  ],
+  "why": [
+   "Jean dit que le monde ne pourrait pas contenir les livres que l'on écrirait sur les œuvres de Jésus-Christ.",
+   "Paul dit que maintenant nous voyons en partie, mais qu'un jour nous verrons clairement."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils aimeraient apprendre sur Jésus-Christ. Puis enseignez Sa vie et Sa mission."
+ }
+}

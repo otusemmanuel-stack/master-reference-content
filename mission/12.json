@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  16,
+  33
+ ],
+ "en": {
+  "ask": [
+   "How do you care for your body?",
+   "What do you think Paul meant when he said our body is a temple?",
+   "What would you be willing to try for the sake of your health?"
+  ],
+  "why": [
+   "Paul says our body is the temple of the Holy Ghost.",
+   "The Lord promises health and hidden treasures of knowledge to those who keep the Word of Wisdom."
+  ],
+  "follow": "Next visit, ask how living the Word of Wisdom felt. Then teach about commandments.",
+  "explain": "The Word of Wisdom, given in 1833, says that hot drinks are not good for the body. Church leaders have taught that this means coffee and tea. Paul teaches that our body is a temple. The Lord also promised health and wisdom to those who keep it."
+ },
+ "fr": {
+  "ask": [
+   "Comment prenez-vous soin de votre corps ?",
+   "Que pensez-vous que Paul voulait dire en disant que notre corps est un temple ?",
+   "Qu'est-ce que vous seriez prêt à essayer pour votre santé ?"
+  ],
+  "why": [
+   "Paul dit que notre corps est le temple du Saint-Esprit.",
+   "Le Seigneur promet la santé et des trésors cachés de connaissance à ceux qui observent la Parole de Sagesse."
+  ],
+  "follow": "À la prochaine visite, demandez comment ils ont vécu la Parole de Sagesse. Puis enseignez les commandements.",
+  "explain": "La Parole de Sagesse, donnée en 1833, dit que les boissons chaudes ne sont pas bonnes pour le corps. Les dirigeants de l'Église ont enseigné que cela signifie le café et le thé. Paul enseigne que notre corps est un temple. Le Seigneur a aussi promis la santé et la sagesse à ceux qui la respectent."
+ }
+}

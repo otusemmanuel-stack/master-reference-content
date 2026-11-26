@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  223,
+  258
+ ],
+ "en": {
+  "ask": [
+   "What do you think a child adds to a family?",
+   "How would a couple decide this together?",
+   "What would you want to ask God about your family?"
+  ],
+  "why": [
+   "God told Adam and Eve to multiply and replenish the earth.",
+   "The Lord says that marriage is ordained of God."
+  ],
+  "follow": "Next visit, ask what they felt about family and prayer. Then teach about the family."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'un enfant apporte à une famille ?",
+   "Comment un couple déciderait-il cela ensemble ?",
+   "Que voudriez-vous demander à Dieu au sujet de votre famille ?"
+  ],
+  "why": [
+   "Dieu a dit à Adam et Ève de multiplier et de remplir la terre.",
+   "Le Seigneur dit que le mariage est ordonné de Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la famille et de la prière. Puis enseignez la famille."
+ }
+}

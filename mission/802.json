@@ -1,0 +1,35 @@
+{
+ "v": 2,
+ "related": [
+  87,
+  123
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about the book of Revelation?",
+   "What do you think is its main message?",
+   "What comfort would you want in difficult times?"
+  ],
+  "why": [
+   "John says the kingdoms of this world are become the kingdoms of our Lord.",
+   "The Lord revealed keys to understanding parts of Revelation, including the book sealed with seven seals."
+  ],
+  "follow": "Next visit, ask what they felt about Christ's final victory. Then teach about the Second Coming.",
+  "simple": "Revelation is full of symbols. Its main message is that Jesus Christ will triumph over evil and that the faithful will be blessed. Doctrine and Covenants 77 gives help with several symbols. We do not try to use it to predict dates.",
+  "explain": "Many scholars think the book spoke to early Christians under pressure from Rome. Latter-day Saints also find meaning for the last days. We invite you to read it with prayer."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur le livre de l'Apocalypse ?",
+   "Quel est, selon vous, son message principal ?",
+   "Quel réconfort voudriez-vous dans les moments difficiles ?"
+  ],
+  "why": [
+   "Jean dit que les royaumes du monde sont devenus les royaumes de notre Seigneur.",
+   "Le Seigneur a révélé des clés pour comprendre certaines parties de l'Apocalypse, dont le livre scellé de sept sceaux."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la victoire finale du Christ. Puis enseignez la Seconde Venue.",
+  "simple": "L'Apocalypse est pleine de symboles. Son message principal est que Jésus-Christ triomphera du mal et que les fidèles seront bénis. Doctrine et Alliances 77 aide à comprendre plusieurs symboles. Nous n'essayons pas de l'utiliser pour prédire des dates.",
+  "explain": "Beaucoup de spécialistes pensent que le livre s'adressait aux premiers chrétiens sous la pression de Rome. Les saints des derniers jours y trouvent aussi un sens pour les derniers jours. Nous vous invitons à le lire avec prière."
+ }
+}

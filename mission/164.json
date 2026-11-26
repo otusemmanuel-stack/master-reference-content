@@ -1,0 +1,37 @@
+{
+ "v": 2,
+ "related": [
+  4,
+  166
+ ],
+ "en": {
+  "ask": [
+   "What have you heard about the gold plates?",
+   "Why do you think God gave witnesses besides Joseph Smith?",
+   "Would you read the witnesses' testimonies and ask God if they are true?"
+  ],
+  "why": [
+   "Moses taught that every matter is established by two or three witnesses.",
+   "Ether says three witnesses will see the plates by the power of God."
+  ],
+  "follow": "Next visit, ask what they felt reading the witnesses' words. Then teach about the Book of Mormon.",
+  "simple": "Joseph Smith said he returned the plates to the angel Moroni after the translation. Eleven men signed written testimonies that they saw the plates. Three said an angel showed them. Eight said they handled them. None ever denied it.",
+  "explain": "The Three Witnesses were Oliver Cowdery, David Whitmer and Martin Harris. Some of the witnesses later left the Church, but none denied what they saw. Their testimonies are printed at the front of the Book of Mormon.",
+  "matters": "Witnesses help us trust the record, but the strongest witness is the one that comes from God through prayer."
+ },
+ "fr": {
+  "ask": [
+   "Qu'avez-vous entendu dire sur les plaques d'or ?",
+   "Pourquoi pensez-vous que Dieu a donné des témoins en plus de Joseph Smith ?",
+   "Seriez-vous prêt à lire les témoignages des témoins et à demander à Dieu s'ils sont vrais ?"
+  ],
+  "why": [
+   "Moïse a enseigné que toute affaire est établie sur la déclaration de deux ou trois témoins.",
+   "Éther dit que trois témoins verront les plaques par le pouvoir de Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en lisant les paroles des témoins. Puis enseignez le Livre de Mormon.",
+  "simple": "Joseph Smith a dit qu'il avait rendu les plaques à l'ange Moroni après la traduction. Onze hommes ont signé des témoignages écrits disant qu'ils avaient vu les plaques. Trois ont dit qu'un ange les leur a montrées. Huit ont dit les avoir touchées. Aucun ne l'a jamais nié.",
+  "explain": "Les Trois Témoins étaient Oliver Cowdery, David Whitmer et Martin Harris. Certains témoins ont plus tard quitté l'Église, mais aucun n'a renié ce qu'il avait vu. Leurs témoignages sont imprimés au début du Livre de Mormon.",
+  "matters": "Les témoins nous aident à faire confiance au récit, mais le témoin le plus fort est celui qui vient de Dieu par la prière."
+ }
+}

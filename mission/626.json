@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  19,
+  16
+ ],
+ "en": {
+  "ask": [
+   "What does a day of rest mean to you?",
+   "What do you think the Sabbath is for?",
+   "How could you make a day each week more holy?"
+  ],
+  "why": [
+   "Exodus commands us to remember the Sabbath day and keep it holy.",
+   "Acts tells how the disciples met together on the first day of the week."
+  ],
+  "follow": "Next visit, ask what they felt about a holy day. Then teach about the Sabbath.",
+  "simple": "The Sabbath was a day of rest in the Old Testament, kept on the seventh day. Early Christians met on the first day of the week to honour the Resurrection of Jesus Christ. Latter-day Saints keep Sunday as the Sabbath. We respect those who keep Saturday."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie pour vous un jour de repos ?",
+   "À quoi pensez-vous que le sabbat sert ?",
+   "Comment pourriez-vous rendre un jour chaque semaine plus saint ?"
+  ],
+  "why": [
+   "L'Exode nous commande de nous souvenir du jour du sabbat pour le sanctifier.",
+   "Les Actes racontent que les disciples se réunissaient le premier jour de la semaine."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos d'un jour saint. Puis enseignez le sabbat.",
+  "simple": "Le sabbat était un jour de repos dans l'Ancien Testament, observé le septième jour. Les premiers chrétiens se réunissaient le premier jour de la semaine pour honorer la Résurrection de Jésus-Christ. Les saints des derniers jours observent le dimanche comme jour du sabbat. Nous respectons ceux qui observent le samedi."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  23,
+  89
+ ],
+ "en": {
+  "ask": [
+   "What traditions are meaningful to you?",
+   "How do you decide what to follow when traditions and scripture seem to differ?",
+   "What would you like to learn about early Christian practice?"
+  ],
+  "why": [
+   "Paul praises believers for keeping the traditions he delivered.",
+   "Paul says the day of Christ will not come until there is a falling away."
+  ],
+  "follow": "Next visit, ask what they learned about early Christians. Then teach about the Apostasy and Restoration.",
+  "simple": "We celebrate Christmas and Easter. We focus on what the scriptures teach about Jesus Christ. We respect other Christians' traditions. We believe some practices changed over time and that the Restoration brings back what Jesus Christ established."
+ },
+ "fr": {
+  "ask": [
+   "Quelles traditions ont du sens pour vous ?",
+   "Comment décidez-vous ce que vous suivez quand les traditions et les Écritures semblent différer ?",
+   "Qu'aimeriez-vous apprendre sur la pratique des premiers chrétiens ?"
+  ],
+  "why": [
+   "Paul loue les croyants de garder les traditions qu'il leur a transmises.",
+   "Paul dit que le jour du Christ ne viendra pas avant l'apostasie."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur les premiers chrétiens. Puis enseignez l'Apostasie et le Rétablissement.",
+  "simple": "Nous célébrons Noël et Pâques. Nous nous concentrons sur ce que les Écritures enseignent au sujet de Jésus-Christ. Nous respectons les traditions des autres chrétiens. Nous croyons que certaines pratiques ont changé avec le temps et que le Rétablissement ramène ce que Jésus-Christ a établi."
+ }
+}

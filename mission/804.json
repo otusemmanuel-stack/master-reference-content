@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  619,
+  807
+ ],
+ "en": {
+  "ask": [
+   "Which parts of the Bible have raised questions for you?",
+   "How do you handle differences between accounts?",
+   "What would help you trust the core message?"
+  ],
+  "why": [
+   "Paul lists the witnesses of the risen Lord.",
+   "Peter says prophecy came by holy men moved by the Holy Ghost."
+  ],
+  "follow": "Next visit, ask what they felt about scripture and honest questions. Then teach about the Book of Mormon.",
+  "simple": "Different accounts of the same events can vary in detail, as happens with honest eyewitnesses. The main message about Jesus Christ is consistent across the Gospels. The eighth Article of Faith says we believe the Bible to be the word of God as far as it is translated correctly. Honest questions are welcome."
+ },
+ "fr": {
+  "ask": [
+   "Quelles parties de la Bible ont suscité des questions pour vous ?",
+   "Comment gérez-vous les différences entre les récits ?",
+   "Qu'est-ce qui vous aiderait à faire confiance au message essentiel ?"
+  ],
+  "why": [
+   "Paul énumère les témoins du Seigneur ressuscité.",
+   "Pierre dit que la prophétie est venue par des hommes saints poussés par le Saint-Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos des Écritures et des questions honnêtes. Puis enseignez le Livre de Mormon.",
+  "simple": "Des récits différents des mêmes événements peuvent varier dans les détails, comme cela arrive avec des témoins honnêtes. Le message principal sur Jésus-Christ est cohérent dans tous les Évangiles. Le huitième article de foi dit que nous croyons que la Bible est la parole de Dieu, pour autant qu'elle soit traduite correctement. Les questions honnêtes sont les bienvenues."
+ }
+}

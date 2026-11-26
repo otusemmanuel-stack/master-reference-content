@@ -1,0 +1,33 @@
+{
+ "v": 2,
+ "related": [
+  108,
+  43
+ ],
+ "en": {
+  "ask": [
+   "Have you ever seen faith lead to a blessing in your life?",
+   "What do you think it means that miracles follow faith?",
+   "What would you like to ask God with faith?"
+  ],
+  "why": [
+   "Jesus Christ told two blind men, 'According to your faith be it unto you.'",
+   "Moroni teaches that miracles come by faith, and that faith is hope in things not seen that are true."
+  ],
+  "follow": "Next visit, ask how it felt to pray with faith. Then teach about faith in Jesus Christ.",
+  "explain": "Jesus Christ said, 'According to your faith be it unto you.' Faith is how we open ourselves to God's power and trust Him. Miracles come in His time and in His way."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous déjà vu la foi mener à une bénédiction dans votre vie ?",
+   "Que pensez-vous que cela signifie que les miracles suivent la foi ?",
+   "Que voudriez-vous demander à Dieu avec foi ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit à deux aveugles : « Qu'il vous soit fait selon votre foi. »",
+   "Moroni enseigne que les miracles viennent par la foi, et que la foi est l'espérance de choses que l'on ne voit pas mais qui sont vraies."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant avec foi. Puis enseignez la foi en Jésus-Christ.",
+  "explain": "Jésus-Christ a dit : « Qu'il vous soit fait selon votre foi. » La foi est la manière dont nous nous ouvrons à la puissance de Dieu et Lui faisons confiance. Les miracles viennent en Son temps et à Sa manière."
+ }
+}

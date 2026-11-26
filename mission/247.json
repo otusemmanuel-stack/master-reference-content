@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  73,
+  56
+ ],
+ "en": {
+  "ask": [
+   "What does it mean to you to keep a day holy?",
+   "How do you decide what is right to do on a Sunday?",
+   "What would a Sunday focused on God look like in your home?"
+  ],
+  "why": [
+   "Isaiah promises that the Sabbath is a delight when we turn from our own pleasure.",
+   "Abinadi taught the people to remember the Sabbath day and keep it holy."
+  ],
+  "follow": "Next visit, ask how they spent their Sunday. Then teach about worship, rest and service on the Sabbath."
+ },
+ "fr": {
+  "ask": [
+   "Que signifie pour vous garder un jour saint ?",
+   "Comment décidez-vous ce qui convient le dimanche ?",
+   "À quoi ressemblerait un dimanche centré sur Dieu dans votre foyer ?"
+  ],
+  "why": [
+   "Ésaïe promet que le sabbat est un délice quand nous renonçons à notre propre plaisir.",
+   "Abinadi a enseigné au peuple à se souvenir du jour du sabbat et à le garder saint."
+  ],
+  "follow": "À la prochaine visite, demandez comment ils ont passé leur dimanche. Puis enseignez le culte, le repos et le service le jour du sabbat."
+ }
+}

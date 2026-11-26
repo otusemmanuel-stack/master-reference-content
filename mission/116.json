@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  59,
+  27
+ ],
+ "en": {
+  "ask": [
+   "How do you usually pray?",
+   "What does it mean to you to talk with God as a Father?",
+   "What would you tell God tonight if you prayed in your own words?"
+  ],
+  "why": [
+   "Jesus Christ taught us not to use vain repetitions when we pray.",
+   "Nephi teaches that we should pray always, and the Spirit will tell us what to pray for."
+  ],
+  "follow": "Next visit, ask how it felt to pray in their own words. Then teach the pattern of prayer."
+ },
+ "fr": {
+  "ask": [
+   "Comment priez-vous habituellement ?",
+   "Que signifie pour vous parler à Dieu comme à un Père ?",
+   "Que diriez-vous à Dieu ce soir si vous priiez avec vos propres mots ?"
+  ],
+  "why": [
+   "Jésus-Christ nous a enseigné à ne pas multiplier de vaines paroles quand nous prions.",
+   "Néphi enseigne que nous devons toujours prier, et que l'Esprit nous dira ce que nous devons demander."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant avec leurs propres mots. Puis enseignez la façon de prier."
+ }
+}

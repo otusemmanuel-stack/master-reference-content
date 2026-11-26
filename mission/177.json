@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  174,
+  175
+ ],
+ "en": {
+  "ask": [
+   "What do you think God's love for each person means?",
+   "How do you feel about the care we should show to people in pain?",
+   "What would help someone who feels different feel welcome?"
+  ],
+  "why": [
+   "Isaiah says the Lord calls each person by name and that they are His.",
+   "Nephi says all are alike unto God."
+  ],
+  "follow": "Next visit, ask what they felt about God's love. Then teach about the plan of salvation."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que l'amour de Dieu pour chaque personne signifie ?",
+   "Que ressentez-vous à propos des soins que nous devrions manifester aux personnes qui souffrent ?",
+   "Qu'est-ce qui aiderait une personne qui se sent différente à se sentir accueillie ?"
+  ],
+  "why": [
+   "Ésaïe dit que le Seigneur appelle chacun par son nom et qu'il est à Lui.",
+   "Néphi dit que tous sont pareils devant Dieu."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'amour de Dieu. Puis enseignez le plan du salut."
+ }
+}

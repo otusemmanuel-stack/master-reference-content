@@ -1,0 +1,31 @@
+{
+ "v": 2,
+ "related": [
+  60,
+  84
+ ],
+ "en": {
+  "ask": [
+   "How do you protect yourself from false teachings?",
+   "What do you think Jesus Christ meant by warning of false prophets?",
+   "What helps you recognise truth?"
+  ],
+  "why": [
+   "Jesus Christ warned that false christs and false prophets would show signs and wonders.",
+   "He said we will know them by their fruits."
+  ],
+  "follow": "Next visit, ask what they felt about knowing truth. Then teach about the Holy Ghost."
+ },
+ "fr": {
+  "ask": [
+   "Comment vous protégez-vous des faux enseignements ?",
+   "Que pensez-vous que Jésus-Christ voulait dire en avertissant des faux prophètes ?",
+   "Qu'est-ce qui vous aide à reconnaître la vérité ?"
+  ],
+  "why": [
+   "Jésus-Christ a averti que de faux christs et de faux prophètes feraient des signes et des prodiges.",
+   "Il a dit que nous les reconnaîtrons à leurs fruits."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de connaître la vérité. Puis enseignez le Saint-Esprit."
+ }
+}
