@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   26,
   94
@@ -14,7 +14,8 @@
    "Peter and John laid their hands on the Samaritans, and they received the Holy Ghost.",
    "Nephi teaches that after baptism comes the gift of the Holy Ghost."
   ],
-  "follow": "Next visit, ask what they hope for from this gift. Then teach what the Holy Ghost does."
+  "follow": "Next visit, ask what they hope for from this gift. Then teach what the Holy Ghost does.",
+  "matters": "The Holy Ghost is your personal guide from God. The laying on of hands is how the gift is conferred, and living worthily keeps the Spirit with you."
  },
  "fr": {
   "ask": [
@@ -26,6 +27,7 @@
    "Pierre et Jean ont imposé les mains aux Samaritains, et ils ont reçu le Saint-Esprit.",
    "Néphi enseigne qu'après le baptême vient le don du Saint-Esprit."
   ],
-  "follow": "À la prochaine visite, demandez ce qu'ils espèrent de ce don. Puis enseignez ce que fait le Saint-Esprit."
+  "follow": "À la prochaine visite, demandez ce qu'ils espèrent de ce don. Puis enseignez ce que fait le Saint-Esprit.",
+  "matters": "Le Saint-Esprit est votre guide personnel venant de Dieu. L'imposition des mains est la manière dont le don est conféré, et vivre dignement garde l'Esprit avec vous."
  }
 }

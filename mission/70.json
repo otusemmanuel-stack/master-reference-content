@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   76,
   237
@@ -14,7 +14,9 @@
    "James tells the sick to call for the elders of the Church. They anoint with oil and pray.",
    "The Lord restored this same pattern. The elders lay on hands, and the sick are healed as they have faith."
   ],
-  "follow": "Next visit, ask whether they would like a blessing. Then teach who holds this authority and how it was restored."
+  "follow": "Next visit, ask whether they would like a blessing. Then teach who holds this authority and how it was restored.",
+  "simple": "Healing by the laying on of hands is real and is practiced today. James taught it, and Jesus Christ promised it. It follows the same pattern as the Church in New Testament times.",
+  "matters": "Healing blessings were part of the Savior's Church in New Testament times. They are part of it again today, as a sign of God's power and love."
  },
  "fr": {
   "ask": [
@@ -26,6 +28,8 @@
    "Jacques dit aux malades d'appeler les anciens de l'Église. Ils oignent d'huile et prient.",
    "Le Seigneur a rétabli ce même modèle. Les anciens imposent les mains, et les malades sont guéris selon leur foi."
   ],
-  "follow": "À la prochaine visite, demandez s'ils aimeraient recevoir une bénédiction. Puis enseignez qui détient cette autorité et comment elle a été rétablie."
+  "follow": "À la prochaine visite, demandez s'ils aimeraient recevoir une bénédiction. Puis enseignez qui détient cette autorité et comment elle a été rétablie.",
+  "simple": "La guérison par l'imposition des mains est réelle et se pratique aujourd'hui. Jacques l'a enseignée, et Jésus-Christ l'a promise. Elle suit le même modèle que l'Église du Nouveau Testament.",
+  "matters": "Les bénédictions de guérison faisaient partie de l'Église du Sauveur à l'époque du Nouveau Testament. Elles en font de nouveau partie aujourd'hui, comme signe de la puissance et de l'amour de Dieu."
  }
 }

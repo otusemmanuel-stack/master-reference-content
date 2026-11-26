@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   5,
   22
@@ -12,9 +12,13 @@
   ],
   "why": [
    "Jesus Christ said the kingdom of heaven belongs to little children.",
-   "Mormon teaches that little children are alive in Christ."
+   "Mormon teaches that little children are alive in Christ.",
+   "The Lord showed Joseph Smith that children who die before the age of accountability are saved in the celestial kingdom."
   ],
-  "follow": "Next visit, ask how they felt about God's mercy. Then teach about the Atonement of Jesus Christ."
+  "follow": "Next visit, ask how they felt about God's mercy. Then teach about the Atonement of Jesus Christ.",
+  "scripture": "Matthew 19:14 | Moroni 8:12 | Doctrine and Covenants 137:10",
+  "simple": "Little children who die before the age of accountability are redeemed through the Atonement of Jesus Christ. No ordinance is needed. They are saved in the celestial kingdom.",
+  "explain": "Jesus Christ said of little children, \"of such is the kingdom of heaven.\" He did not say, \"of such, once they are baptized.\" They already belong to Him."
  },
  "fr": {
   "ask": [
@@ -24,8 +28,12 @@
   ],
   "why": [
    "Jésus-Christ a dit que le royaume des cieux appartient aux petits enfants.",
-   "Mormon enseigne que les petits enfants sont vivants en Christ."
+   "Mormon enseigne que les petits enfants sont vivants en Christ.",
+   "Le Seigneur a montré à Joseph Smith que les enfants qui meurent avant l'âge de responsabilité sont sauvés dans le royaume céleste."
   ],
-  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la miséricorde de Dieu. Puis enseignez l'expiation de Jésus-Christ."
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la miséricorde de Dieu. Puis enseignez l'expiation de Jésus-Christ.",
+  "scripture": "Matthew 19:14 | Moroni 8:12 | Doctrine and Covenants 137:10",
+  "simple": "Les petits enfants qui meurent avant l'âge de responsabilité sont rachetés par l'expiation de Jésus-Christ. Aucune ordonnance n'est nécessaire. Ils sont sauvés dans le royaume céleste.",
+  "explain": "Jésus-Christ a dit des petits enfants : « le royaume des cieux est pour ceux qui leur ressemblent. » Il n'a pas dit : « pour ceux qui leur ressemblent, une fois baptisés. » Ils Lui appartiennent déjà."
  }
 }

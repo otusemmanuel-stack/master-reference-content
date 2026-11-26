@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   22,
   135
@@ -14,7 +14,8 @@
    "The gospel was preached to those who are dead, so they could live in the spirit.",
    "President Joseph F. Smith saw that the gospel is taught in the spirit world. Those who accept it may receive the ordinances."
   ],
-  "follow": "Next visit, ask what they thought about this opportunity for the dead. Then invite them to learn about their own family."
+  "follow": "Next visit, ask what they thought about this opportunity for the dead. Then invite them to learn about their own family.",
+  "matters": "No one is condemned for missing a gospel they never had the chance to hear. God offers every person the same opportunity."
  },
  "fr": {
   "ask": [
@@ -26,6 +27,7 @@
    "L'Évangile a été prêché aux morts, afin qu'ils vivent selon l'Esprit.",
    "Le président Joseph F. Smith a vu que l'Évangile est enseigné dans le monde des esprits. Ceux qui l'acceptent peuvent recevoir les ordonnances."
   ],
-  "follow": "À la prochaine visite, demandez ce qu'ils ont pensé de cette possibilité offerte aux morts. Puis invitez-les à en apprendre davantage sur leur propre famille."
+  "follow": "À la prochaine visite, demandez ce qu'ils ont pensé de cette possibilité offerte aux morts. Puis invitez-les à en apprendre davantage sur leur propre famille.",
+  "matters": "Personne n'est condamné pour avoir manqué un Évangile qu'il n'a jamais eu l'occasion d'entendre. Dieu offre à chaque personne la même possibilité."
  }
 }

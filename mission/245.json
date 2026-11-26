@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   246,
   26,
@@ -15,7 +15,8 @@
    "Peter's answer was to repent, be baptized and receive the Holy Ghost.",
    "Jesus Christ's message through Mormon is the same: repent, be baptized in His name and receive the Holy Ghost."
   ],
-  "follow": "Next visit, ask which step they would like to prepare for. Then invite them to prepare for baptism."
+  "follow": "Next visit, ask which step they would like to prepare for. Then invite them to prepare for baptism.",
+  "simple": "You meet with the missionaries, learn the restored gospel, pray about it and repent. After a baptismal interview, you are baptized by immersion by someone with proper authority. Then you are confirmed and receive the gift of the Holy Ghost."
  },
  "fr": {
   "ask": [
@@ -27,6 +28,7 @@
    "La réponse de Pierre : repentez-vous, soyez baptisés et recevez le Saint-Esprit.",
    "Le message de Jésus-Christ par Mormon est le même : repentez-vous, soyez baptisés en Son nom et recevez le Saint-Esprit."
   ],
-  "follow": "À la prochaine visite, demandez à quelle étape ils aimeraient se préparer. Puis invitez-les à se préparer au baptême."
+  "follow": "À la prochaine visite, demandez à quelle étape ils aimeraient se préparer. Puis invitez-les à se préparer au baptême.",
+  "simple": "Vous rencontrez les missionnaires, apprenez l'Évangile rétabli, priez à son sujet et vous repentez. Après un entretien baptismal, vous êtes baptisé par immersion par quelqu'un qui détient l'autorité. Ensuite vous êtes confirmé et recevez le don du Saint-Esprit."
  }
 }

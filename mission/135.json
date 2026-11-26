@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   22,
   90
@@ -12,9 +12,12 @@
   ],
   "why": [
    "The prophet Malachi promised that Elijah would be sent before the great day of the Lord.",
-   "The risen Christ repeated this promise to the Nephites, so it matters to Him."
+   "The risen Christ repeated this promise to the Nephites, so it matters to Him.",
+   "On 3 April 1836 Elijah appeared in the Kirtland Temple and committed the keys of the sealing power to Joseph Smith and Oliver Cowdery."
   ],
-  "follow": "Next visit, ask what they learned about their ancestors. Then teach about temples and families."
+  "follow": "Next visit, ask what they learned about their ancestors. Then teach about temples and families.",
+  "scripture": "Malachi 4:5-6 | 3 Nephi 25:5-6 | Doctrine and Covenants 110:13-16",
+  "simple": "John the Baptist fulfilled one part of the Elijah prophecy by preparing the way for Christ's first coming. Elijah himself fulfilled the second part. He appeared in the Kirtland Temple on 3 April 1836 and restored the sealing power before Christ's Second Coming."
  },
  "fr": {
   "ask": [
@@ -24,8 +27,11 @@
   ],
   "why": [
    "Le prophète Malachie a promis qu'Élie serait envoyé avant le grand jour du Seigneur.",
-   "Le Christ ressuscité a répété cette promesse aux Néphites, donc elle compte pour Lui."
+   "Le Christ ressuscité a répété cette promesse aux Néphites, donc elle compte pour Lui.",
+   "Le 3 avril 1836, Élie est apparu dans le temple de Kirtland et a confié les clefs du pouvoir de scellement à Joseph Smith et à Oliver Cowdery."
   ],
-  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur leurs ancêtres. Puis enseignez les temples et les familles."
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur leurs ancêtres. Puis enseignez les temples et les familles.",
+  "scripture": "Malachi 4:5-6 | 3 Nephi 25:5-6 | Doctrine and Covenants 110:13-16",
+  "simple": "Jean-Baptiste a accompli une partie de la prophétie sur Élie en préparant la voie pour la première venue du Christ. Élie lui-même a accompli la seconde partie. Il est apparu dans le temple de Kirtland le 3 avril 1836 et a rétabli le pouvoir de scellement avant la seconde venue du Christ."
  }
 }

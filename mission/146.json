@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   94,
   237,
@@ -15,7 +15,8 @@
    "The Holy Ghost touched Cornelius and his household as Peter taught. Then they were baptized.",
    "Moroni promises that the Holy Ghost will show the truth of all things to those who ask with a sincere heart and faith in Christ."
   ],
-  "follow": "Next visit, ask what they felt as they prayed. Then teach the steps toward baptism."
+  "follow": "Next visit, ask what they felt as they prayed. Then teach the steps toward baptism.",
+  "explain": "Cornelius received the Holy Ghost while Peter was still teaching, before any baptism. The Spirit can touch the heart of a sincere person first. After baptism, the gift of the Holy Ghost is conferred so the Spirit can be a constant companion."
  },
  "fr": {
   "ask": [
@@ -27,6 +28,7 @@
    "Le Saint-Esprit a touché Corneille et sa maison pendant que Pierre enseignait. Ensuite ils ont été baptisés.",
    "Moroni promet que le Saint-Esprit montrera la vérité de toutes choses à ceux qui demandent avec un cœur sincère et la foi en Christ."
   ],
-  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant. Puis enseignez les étapes qui mènent au baptême."
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant. Puis enseignez les étapes qui mènent au baptême.",
+  "explain": "Corneille a reçu le Saint-Esprit pendant que Pierre enseignait encore, avant tout baptême. L'Esprit peut d'abord toucher le cœur d'une personne sincère. Après le baptême, le don du Saint-Esprit est conféré afin que l'Esprit puisse être un compagnon constant."
  }
 }

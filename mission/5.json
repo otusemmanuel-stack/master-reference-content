@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   69,
   26,
@@ -12,10 +12,14 @@
    "What does baptism mean to you?"
   ],
   "why": [
-   "Where there is no law, there is no transgression. A child who cannot yet understand is not held accountable.",
-   "Mormon teaches that little children need no baptism. They are made whole through the Atonement of Jesus Christ."
+   "Mormon teaches that little children need no baptism. They are made whole through the Atonement of Jesus Christ.",
+   "The Lord revealed that children are to be baptized when they are eight years old, and that parents are to teach them before then.",
+   "Where there is no law, there is no transgression. A child who cannot yet understand is not held accountable."
   ],
-  "follow": "Next visit, ask how they felt about God being fair to children. Then teach what baptism is and what covenants it brings."
+  "follow": "Next visit, ask how they felt about God being fair to children. Then teach what baptism is and what covenants it brings.",
+  "scripture": "Moroni 8:8-9 | Doctrine and Covenants 68:25-27 | Romans 4:15",
+  "simple": "Baptism is for those who are accountable. God has revealed that children become accountable at age eight, and parents are to teach them before then. Little children do not need baptism. They are redeemed through the Atonement of Jesus Christ.",
+  "explain": "Ask them: Can a baby choose between right and wrong? No. Baptism is a covenant a person chooses, so it begins when a child is old enough to understand and choose. God has set that age at eight."
  },
  "fr": {
   "ask": [
@@ -24,9 +28,13 @@
    "Que signifie le baptême pour vous ?"
   ],
   "why": [
-   "Là où il n'y a pas de loi, il n'y a pas de transgression. Un enfant qui ne comprend pas encore n'est pas tenu responsable.",
-   "Mormon enseigne que les petits enfants n'ont pas besoin du baptême. Ils sont rendus entiers par l'expiation de Jésus-Christ."
+   "Mormon enseigne que les petits enfants n'ont pas besoin du baptême. Ils sont rendus entiers par l'expiation de Jésus-Christ.",
+   "Le Seigneur a révélé que les enfants doivent être baptisés à l'âge de huit ans, et que les parents doivent les instruire avant cela.",
+   "Là où il n'y a pas de loi, il n'y a pas de transgression. Un enfant qui ne comprend pas encore n'est pas tenu responsable."
   ],
-  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la justice de Dieu envers les enfants. Puis enseignez ce qu'est le baptême et les alliances qu'il apporte."
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la justice de Dieu envers les enfants. Puis enseignez ce qu'est le baptême et les alliances qu'il apporte.",
+  "scripture": "Moroni 8:8-9 | Doctrine and Covenants 68:25-27 | Romans 4:15",
+  "simple": "Le baptême est pour ceux qui sont responsables. Dieu a révélé que les enfants deviennent responsables à l'âge de huit ans, et que les parents doivent les instruire avant cela. Les petits enfants n'ont pas besoin d'être baptisés. Ils sont rachetés par l'expiation de Jésus-Christ.",
+  "explain": "Demandez-leur : Un bébé peut-il choisir entre le bien et le mal ? Non. Le baptême est une alliance que l'on choisit, donc il commence quand l'enfant est assez grand pour comprendre et choisir. Dieu a fixé cet âge à huit ans."
  }
 }

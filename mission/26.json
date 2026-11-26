@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   237,
   94,
@@ -15,7 +15,10 @@
    "The Samaritans were baptized first. Then Peter and John laid hands on them to receive the Holy Ghost.",
    "Jesus Christ gave His chosen disciples power to give the Holy Ghost."
   ],
-  "follow": "Next visit, ask what they noticed about the two steps. Then teach about the gift of the Holy Ghost and how to recognize the Spirit."
+  "follow": "Next visit, ask what they noticed about the two steps. Then teach about the gift of the Holy Ghost and how to recognize the Spirit.",
+  "simple": "Because baptism and receiving the Holy Ghost are two separate steps. Baptism by water is for the remission of sins. The gift of the Holy Ghost is conferred afterward by the laying on of hands. It gives the right to the Spirit's companionship whenever one is worthy.",
+  "explain": "When Philip baptized people in Samaria, the apostles still had to come and lay their hands on them so they could receive the Holy Ghost. Two different acts, both needed.",
+  "matters": "The Holy Ghost is God's personal guide for your life. Without this gift, you miss a blessing God wants you to have."
  },
  "fr": {
   "ask": [
@@ -27,6 +30,9 @@
    "Les Samaritains ont d'abord été baptisés. Ensuite Pierre et Jean leur ont imposé les mains pour qu'ils reçoivent le Saint-Esprit.",
    "Jésus-Christ a donné à Ses disciples choisis le pouvoir de donner le Saint-Esprit."
   ],
-  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué à propos de ces deux étapes. Puis enseignez le don du Saint-Esprit et comment reconnaître l'Esprit."
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué à propos de ces deux étapes. Puis enseignez le don du Saint-Esprit et comment reconnaître l'Esprit.",
+  "simple": "Parce que le baptême et la réception du Saint-Esprit sont deux étapes distinctes. Le baptême d'eau est pour la rémission des péchés. Le don du Saint-Esprit est conféré ensuite par l'imposition des mains. Il donne le droit à la compagnie de l'Esprit chaque fois que l'on en est digne.",
+  "explain": "Quand Philippe a baptisé des gens en Samarie, les apôtres ont encore dû venir leur imposer les mains pour qu'ils reçoivent le Saint-Esprit. Deux actes différents, tous deux nécessaires.",
+  "matters": "Le Saint-Esprit est le guide personnel que Dieu vous donne pour votre vie. Sans ce don, vous manquez une bénédiction que Dieu veut vous accorder."
  }
 }

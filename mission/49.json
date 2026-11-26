@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   76,
   236,
@@ -15,7 +15,8 @@
    "Jesus Christ taught that we know a teacher by his fruits.",
    "Mormon teaches that good fruit comes from good works. We can judge by the fruit."
   ],
-  "follow": "Next visit, ask what they found as they read about Joseph Smith. Then teach about prayer and how to ask God."
+  "follow": "Next visit, ask what they found as they read about Joseph Smith. Then teach about prayer and how to ask God.",
+  "explain": "Paul's authority was accepted across Christianity even though no committee verified it. The test is the same for Joseph Smith: what did he bring forth? The Book of Mormon, the restored Church and the restored priesthood authority."
  },
  "fr": {
   "ask": [
@@ -27,6 +28,7 @@
    "Jésus-Christ a enseigné que l'on reconnaît un enseignant à ses fruits.",
    "Mormon enseigne que le bon fruit vient des bonnes œuvres. Nous pouvons juger par le fruit."
   ],
-  "follow": "À la prochaine visite, demandez ce qu'ils ont trouvé en lisant au sujet de Joseph Smith. Puis enseignez la prière et la façon de demander à Dieu."
+  "follow": "À la prochaine visite, demandez ce qu'ils ont trouvé en lisant au sujet de Joseph Smith. Puis enseignez la prière et la façon de demander à Dieu.",
+  "explain": "L'autorité de Paul a été acceptée dans tout le christianisme même si aucun comité ne l'a vérifiée. Le test est le même pour Joseph Smith : qu'a-t-il produit ? Le Livre de Mormon, l'Église rétablie et l'autorité de la prêtrise rétablie."
  }
 }

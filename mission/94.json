@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "related": [
   237,
   26,
@@ -15,7 +15,9 @@
    "Jesus Christ promised another Comforter who would stay with His disciples for ever.",
    "Nephi teaches that after baptism by water comes the baptism of fire and of the Holy Ghost."
   ],
-  "follow": "Next visit, ask what they noticed about this promise. Then teach how to recognize the Spirit."
+  "follow": "Next visit, ask what they noticed about this promise. Then teach how to recognize the Spirit.",
+  "simple": "The gift of the Holy Ghost is conferred after baptism by the laying on of hands. It gives a person the right to the constant companionship of the Holy Ghost whenever he or she is worthy. Jesus Christ promised another Comforter who would stay with us.",
+  "explain": "John the Baptist said that he baptized with water, but that One would come who would baptize with the Holy Ghost. Both are needed: baptism by water, then the gift of the Holy Ghost, conferred by the laying on of hands."
  },
  "fr": {
   "ask": [
@@ -27,6 +29,8 @@
    "Jésus-Christ a promis un autre Consolateur qui demeurerait avec Ses disciples pour toujours.",
    "Néphi enseigne qu'après le baptême d'eau vient le baptême de feu et du Saint-Esprit."
   ],
-  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué à propos de cette promesse. Puis enseignez comment reconnaître l'Esprit."
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué à propos de cette promesse. Puis enseignez comment reconnaître l'Esprit.",
+  "simple": "Le don du Saint-Esprit est conféré après le baptême par l'imposition des mains. Il donne à une personne le droit à la compagnie constante du Saint-Esprit chaque fois qu'elle en est digne. Jésus-Christ a promis un autre Consolateur qui resterait avec nous.",
+  "explain": "Jean-Baptiste a dit qu'il baptisait d'eau, mais que Quelqu'un viendrait baptiser du Saint-Esprit. Les deux sont nécessaires : le baptême d'eau, puis le don du Saint-Esprit, conféré par l'imposition des mains."
  }
 }
