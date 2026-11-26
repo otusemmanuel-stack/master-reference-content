@@ -1,0 +1,32 @@
+{
+ "v": 1,
+ "related": [
+  69,
+  26,
+  245
+ ],
+ "en": {
+  "ask": [
+   "What do you think a child understands about right and wrong at different ages?",
+   "How do you feel about a child being held responsible before the child can choose?",
+   "What does baptism mean to you?"
+  ],
+  "why": [
+   "Where there is no law, there is no transgression. A child who cannot yet understand is not held accountable.",
+   "Mormon teaches that little children need no baptism. They are made whole through the Atonement of Jesus Christ."
+  ],
+  "follow": "Next visit, ask how they felt about God being fair to children. Then teach what baptism is and what covenants it brings."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous qu'un enfant comprend du bien et du mal selon son âge ?",
+   "Que ressentez-vous à l'idée qu'un enfant soit tenu responsable avant de pouvoir choisir ?",
+   "Que signifie le baptême pour vous ?"
+  ],
+  "why": [
+   "Là où il n'y a pas de loi, il n'y a pas de transgression. Un enfant qui ne comprend pas encore n'est pas tenu responsable.",
+   "Mormon enseigne que les petits enfants n'ont pas besoin du baptême. Ils sont rendus entiers par l'expiation de Jésus-Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la justice de Dieu envers les enfants. Puis enseignez ce qu'est le baptême et les alliances qu'il apporte."
+ }
+}

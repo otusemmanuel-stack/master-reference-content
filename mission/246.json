@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "related": [
+  245,
+  237
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means to follow Jesus Christ every day?",
+   "What helps you stay close to God?",
+   "What would you like help with after baptism?"
+  ],
+  "why": [
+   "Jesus Christ invited a man to come and follow Him. Following is a daily choice.",
+   "Nephi teaches us to press forward with steadfastness in Christ and to endure to the end."
+  ],
+  "follow": "Next visit, ask how they are keeping their commitments. Then teach about the sacrament and about serving others."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que signifie suivre Jésus-Christ chaque jour ?",
+   "Qu'est-ce qui vous aide à rester près de Dieu ?",
+   "De quoi aimeriez-vous être aidé après le baptême ?"
+  ],
+  "why": [
+   "Jésus-Christ a invité un homme à venir et à Le suivre. Suivre est un choix quotidien.",
+   "Néphi nous enseigne à avancer avec fermeté dans le Christ et à persévérer jusqu'à la fin."
+  ],
+  "follow": "À la prochaine visite, demandez comment ils tiennent leurs engagements. Puis enseignez la Sainte-Cène et le service des autres."
+ }
+}

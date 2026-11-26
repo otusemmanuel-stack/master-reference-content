@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "related": [
+  5,
+  22
+ ],
+ "en": {
+  "ask": [
+   "What have you been taught about children who die young?",
+   "How does it comfort you that Jesus Christ welcomed little children?",
+   "What do you think this shows about God's mercy?"
+  ],
+  "why": [
+   "Jesus Christ said the kingdom of heaven belongs to little children.",
+   "Mormon teaches that little children are alive in Christ."
+  ],
+  "follow": "Next visit, ask how they felt about God's mercy. Then teach about the Atonement of Jesus Christ."
+ },
+ "fr": {
+  "ask": [
+   "Qu'a-t-on enseigné aux enfants qui meurent jeunes ?",
+   "En quoi cela vous réconforte-t-il que Jésus-Christ ait accueilli les petits enfants ?",
+   "Que pensez-vous que cela montre de la miséricorde de Dieu ?"
+  ],
+  "why": [
+   "Jésus-Christ a dit que le royaume des cieux appartient aux petits enfants.",
+   "Mormon enseigne que les petits enfants sont vivants en Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de la miséricorde de Dieu. Puis enseignez l'expiation de Jésus-Christ."
+ }
+}

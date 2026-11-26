@@ -1,0 +1,32 @@
+{
+ "v": 1,
+ "related": [
+  246,
+  26,
+  236
+ ],
+ "en": {
+  "ask": [
+   "What would you like to know about becoming a member?",
+   "What did Peter tell the people when they asked what to do?",
+   "Which step feels closest for you right now?"
+  ],
+  "why": [
+   "Peter's answer was to repent, be baptized and receive the Holy Ghost.",
+   "Jesus Christ's message through Mormon is the same: repent, be baptized in His name and receive the Holy Ghost."
+  ],
+  "follow": "Next visit, ask which step they would like to prepare for. Then invite them to prepare for baptism."
+ },
+ "fr": {
+  "ask": [
+   "Qu'aimeriez-vous savoir sur le fait de devenir membre ?",
+   "Que Pierre a-t-il répondu aux gens qui lui demandaient ce qu'ils devaient faire ?",
+   "Quelle étape vous semble la plus proche en ce moment ?"
+  ],
+  "why": [
+   "La réponse de Pierre : repentez-vous, soyez baptisés et recevez le Saint-Esprit.",
+   "Le message de Jésus-Christ par Mormon est le même : repentez-vous, soyez baptisés en Son nom et recevez le Saint-Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez à quelle étape ils aimeraient se préparer. Puis invitez-les à se préparer au baptême."
+ }
+}

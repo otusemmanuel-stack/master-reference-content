@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "related": [
+  22,
+  90
+ ],
+ "en": {
+  "ask": [
+   "What do you think it means to turn the hearts of the children to their fathers?",
+   "Why do you think God promised to send Elijah?",
+   "How do you feel about your own family history?"
+  ],
+  "why": [
+   "The prophet Malachi promised that Elijah would be sent before the great day of the Lord.",
+   "The risen Christ repeated this promise to the Nephites, so it matters to Him."
+  ],
+  "follow": "Next visit, ask what they learned about their ancestors. Then teach about temples and families."
+ },
+ "fr": {
+  "ask": [
+   "Que pensez-vous que signifie tourner le cœur des enfants vers leurs pères ?",
+   "Pourquoi pensez-vous que Dieu a promis d'envoyer Élie ?",
+   "Que ressentez-vous à propos de l'histoire de votre propre famille ?"
+  ],
+  "why": [
+   "Le prophète Malachie a promis qu'Élie serait envoyé avant le grand jour du Seigneur.",
+   "Le Christ ressuscité a répété cette promesse aux Néphites, donc elle compte pour Lui."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris sur leurs ancêtres. Puis enseignez les temples et les familles."
+ }
+}

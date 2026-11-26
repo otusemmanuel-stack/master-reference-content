@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "related": [
+  25,
+  76,
+  237
+ ],
+ "en": {
+  "ask": [
+   "How do you feel about being baptized again?",
+   "Why do you think Paul baptized the Ephesian disciples again?",
+   "What would help you know that a baptism has God's authority?"
+  ],
+  "why": [
+   "Paul asked the disciples at Ephesus how they were baptized. Then he baptized them again and laid his hands on them.",
+   "Jesus Christ promised Peter the keys of the kingdom of heaven.",
+   "There is one Lord, one faith and one baptism."
+  ],
+  "follow": "Next visit, ask what they learned from Acts 19. Then teach about priesthood keys."
+ },
+ "fr": {
+  "ask": [
+   "Que ressentez-vous à l'idée d'être baptisé de nouveau ?",
+   "Pourquoi pensez-vous que Paul a baptisé de nouveau les disciples d'Éphèse ?",
+   "Qu'est-ce qui vous aiderait à savoir qu'un baptême a l'autorité de Dieu ?"
+  ],
+  "why": [
+   "Paul a demandé aux disciples d'Éphèse comment ils avaient été baptisés. Puis il les a baptisés de nouveau et leur a imposé les mains.",
+   "Jésus-Christ a promis à Pierre les clefs du royaume des cieux.",
+   "Il y a un seul Seigneur, une seule foi, un seul baptême."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont appris dans Actes 19. Puis enseignez les clefs de la prêtrise."
+ }
+}

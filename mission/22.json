@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "related": [
+  90,
+  135
+ ],
+ "en": {
+  "ask": [
+   "Have you ever wondered what happens to people who never heard of Jesus Christ?",
+   "Do you think God would leave them without a chance?",
+   "What do you think Paul meant in 1 Corinthians 15:29?"
+  ],
+  "why": [
+   "Paul speaks of people being baptized for the dead. This shows it was practiced in the early Church.",
+   "We cannot be made perfect without our ancestors, and they cannot be made perfect without us."
+  ],
+  "follow": "Next visit, ask what they felt about God's care for every person. Then talk about how families learn about their ancestors."
+ },
+ "fr": {
+  "ask": [
+   "Vous êtes-vous déjà demandé ce qui arrive à ceux qui n'ont jamais entendu parler de Jésus-Christ ?",
+   "Pensez-vous que Dieu les laisserait sans aucune chance ?",
+   "Que pensez-vous que Paul voulait dire en 1 Corinthiens 15:29 ?"
+  ],
+  "why": [
+   "Paul parle de personnes baptisées pour les morts. Cela montre que cette pratique existait dans l'Église primitive.",
+   "Nous ne pouvons pas être rendus parfaits sans nos ancêtres, et eux ne peuvent pas être rendus parfaits sans nous."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti à propos de l'attention de Dieu pour chaque personne. Puis parlez de la façon dont les familles découvrent leurs ancêtres."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "related": [
+  26,
+  94
+ ],
+ "en": {
+  "ask": [
+   "What do you think the laying on of hands is for?",
+   "What did Peter and John do for the people of Samaria?",
+   "How do you hope the Holy Ghost will help you?"
+  ],
+  "why": [
+   "Peter and John laid their hands on the Samaritans, and they received the Holy Ghost.",
+   "Nephi teaches that after baptism comes the gift of the Holy Ghost."
+  ],
+  "follow": "Next visit, ask what they hope for from this gift. Then teach what the Holy Ghost does."
+ },
+ "fr": {
+  "ask": [
+   "À quoi pensez-vous que sert l'imposition des mains ?",
+   "Qu'ont fait Pierre et Jean pour les gens de Samarie ?",
+   "Comment espérez-vous que le Saint-Esprit vous aidera ?"
+  ],
+  "why": [
+   "Pierre et Jean ont imposé les mains aux Samaritains, et ils ont reçu le Saint-Esprit.",
+   "Néphi enseigne qu'après le baptême vient le don du Saint-Esprit."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils espèrent de ce don. Puis enseignez ce que fait le Saint-Esprit."
+ }
+}

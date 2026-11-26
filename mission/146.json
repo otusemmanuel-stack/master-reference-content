@@ -1,0 +1,32 @@
+{
+ "v": 1,
+ "related": [
+  94,
+  237,
+  245
+ ],
+ "en": {
+  "ask": [
+   "Have you ever felt that God was speaking to you?",
+   "What happened to Cornelius and his family as Peter taught them?",
+   "What would you like to know about God?"
+  ],
+  "why": [
+   "The Holy Ghost touched Cornelius and his household as Peter taught. Then they were baptized.",
+   "Moroni promises that the Holy Ghost will show the truth of all things to those who ask with a sincere heart and faith in Christ."
+  ],
+  "follow": "Next visit, ask what they felt as they prayed. Then teach the steps toward baptism."
+ },
+ "fr": {
+  "ask": [
+   "Avez-vous déjà senti que Dieu vous parlait ?",
+   "Que s'est-il passé pour Corneille et sa famille pendant que Pierre les instruisait ?",
+   "Qu'aimeriez-vous savoir sur Dieu ?"
+  ],
+  "why": [
+   "Le Saint-Esprit a touché Corneille et sa maison pendant que Pierre enseignait. Ensuite ils ont été baptisés.",
+   "Moroni promet que le Saint-Esprit montrera la vérité de toutes choses à ceux qui demandent avec un cœur sincère et la foi en Christ."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont ressenti en priant. Puis enseignez les étapes qui mènent au baptême."
+ }
+}

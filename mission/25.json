@@ -1,0 +1,32 @@
+{
+ "v": 1,
+ "related": [
+  236,
+  76,
+  49
+ ],
+ "en": {
+  "ask": [
+   "Why do you think baptism matters to God?",
+   "Who do you think has the right to baptize in God's name?",
+   "What do you remember about your own baptism?"
+  ],
+  "why": [
+   "The disciples at Ephesus were baptized again in the name of the Lord Jesus.",
+   "Jesus Christ Himself gave the way to baptize and the words to use."
+  ],
+  "follow": "Next visit, ask what they noticed in Acts 19. Then teach about the priesthood and how God calls His servants."
+ },
+ "fr": {
+  "ask": [
+   "Pourquoi pensez-vous que le baptême est important pour Dieu ?",
+   "Selon vous, qui a le droit de baptiser au nom de Dieu ?",
+   "Que vous rappelez-vous de votre propre baptême ?"
+  ],
+  "why": [
+   "Les disciples d'Éphèse ont été baptisés de nouveau au nom du Seigneur Jésus.",
+   "Jésus-Christ Lui-même a donné la manière de baptiser et les paroles à employer."
+  ],
+  "follow": "À la prochaine visite, demandez ce qu'ils ont remarqué dans Actes 19. Puis enseignez la prêtrise et la manière dont Dieu appelle Ses serviteurs."
+ }
+}
