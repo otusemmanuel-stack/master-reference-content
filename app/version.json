@@ -5,20 +5,28 @@
   "minCode": 0,
   "notes": {
     "en": [
+      "Talk Assistant: prepare a talk, practise with a timer, record yourself, and read from a teleprompter",
+      "Journal of Discourses: all 26 volumes, a Controversial Topics tab, and a Study mode you open with a double tap",
+      "Questions and answers: stronger answers, 33 new Gospel Foundations questions, and a Historical page on many answers",
+      "Healing mode: a new home, a step planner with reminders, a 10-minute help screen for hard moments, and a daily check-in",
       "Mission mode: teaching on every topic, with questions to ask, scriptures explained and next-visit steps",
       "Common questions open on top of the Mission page, so you stay where you are teaching",
-      "Study mode in Talk and in the Journal of Discourses: double tap to open and close",
+      "Study mode in Talk: double tap to open and close",
       "French Bible and French standard works, with the Daily Story and Bible explanations",
-      "A lighter, faster app",
-      "Verses in Mission mode open with a tap"
+      "Verses in Mission mode open with a tap",
+      "A lighter, faster app"
     ],
     "fr": [
+      "Assistant de discours : préparez un discours, exercez-vous avec un chronomètre, enregistrez-vous et lisez avec un télésouffleur",
+      "Journal of Discourses : les 26 volumes, un onglet Sujets controversés et un mode étude qui s'ouvre d'un double toucher",
+      "Questions et réponses : des réponses renforcées, 33 nouvelles questions Fondements de l'Évangile et une page Historique sur de nombreuses réponses",
+      "Mode guérison : un nouvel accueil, un planificateur d'étapes avec rappels, un écran d'aide de 10 minutes pour les moments difficiles et un suivi quotidien",
       "Mode mission : enseignement sur chaque sujet, avec des questions à poser, des Écritures expliquées et les étapes de la prochaine visite",
       "Les questions courantes s'ouvrent par-dessus la page Mission, pour rester là où vous enseignez",
-      "Mode étude dans Discours et dans le Journal of Discourses : touchez deux fois pour ouvrir et fermer",
+      "Mode étude dans le discours : touchez deux fois pour ouvrir et fermer",
       "Bible en français et Écritures en français, avec l'Histoire du jour et les explications de la Bible",
-      "Une application plus légère et plus rapide",
-      "Les versets du mode mission s'ouvrent d'un toucher"
+      "Les versets du mode mission s'ouvrent d'un toucher",
+      "Une application plus légère et plus rapide"
     ]
   }
 }
