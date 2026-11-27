@@ -28,5 +28,89 @@
       "Les versets du mode mission s'ouvrent d'un toucher",
       "Une application plus légère et plus rapide"
     ]
-  }
+  },
+  "groups": [
+    {
+      "title": {
+        "en": "Talks",
+        "fr": "Discours"
+      },
+      "items": {
+        "en": [
+          "Talk Assistant: prepare a talk, practise with a timer, record yourself, and read from a teleprompter",
+          "Study mode in Talk: double tap to open and close"
+        ],
+        "fr": [
+          "Assistant de discours : préparez un discours, exercez-vous avec un chronomètre, enregistrez-vous et lisez avec un télésouffleur",
+          "Mode étude dans le discours : touchez deux fois pour ouvrir et fermer"
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Teaching",
+        "fr": "Enseignement"
+      },
+      "items": {
+        "en": [
+          "Mission mode: teaching on every topic, with questions to ask, scriptures explained and next-visit steps",
+          "Common questions open on top of the Mission page, so you stay where you are teaching",
+          "Verses in Mission mode open with a tap"
+        ],
+        "fr": [
+          "Mode mission : enseignement sur chaque sujet, avec des questions à poser, des Écritures expliquées et les étapes de la prochaine visite",
+          "Les questions courantes s'ouvrent par-dessus la page Mission, pour rester là où vous enseignez",
+          "Les versets du mode mission s'ouvrent d'un toucher"
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Reading and study",
+        "fr": "Lecture et étude"
+      },
+      "items": {
+        "en": [
+          "Journal of Discourses: all 26 volumes, a Controversial Topics tab, and a Study mode you open with a double tap",
+          "Questions and answers: stronger answers, 33 new Gospel Foundations questions, and a Historical page on many answers",
+          "French Bible and French standard works, with the Daily Story and Bible explanations"
+        ],
+        "fr": [
+          "Journal of Discourses : les 26 volumes, un onglet Sujets controversés et un mode étude qui s'ouvre d'un double toucher",
+          "Questions et réponses : des réponses renforcées, 33 nouvelles questions Fondements de l'Évangile et une page Historique sur de nombreuses réponses",
+          "Bible en français et Écritures en français, avec l'Histoire du jour et les explications de la Bible"
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "Healing",
+        "fr": "Guérison"
+      },
+      "items": {
+        "en": [
+          "Healing mode: a new home, a step planner with reminders, a 10-minute help screen for hard moments, and a daily check-in"
+        ],
+        "fr": [
+          "Mode guérison : un nouvel accueil, un planificateur d'étapes avec rappels, un écran d'aide de 10 minutes pour les moments difficiles et un suivi quotidien"
+        ]
+      }
+    },
+    {
+      "title": {
+        "en": "The app",
+        "fr": "L'application"
+      },
+      "items": {
+        "en": [
+          "A lighter, faster app",
+          "A notice when a new version is ready"
+        ],
+        "fr": [
+          "Une application plus légère et plus rapide",
+          "Un avis quand une nouvelle version est disponible"
+        ]
+      }
+    }
+  ]
 }
