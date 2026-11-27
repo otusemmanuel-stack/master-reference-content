@@ -1,0 +1,28 @@
+Q&A corrections (no app update needed)
+
+Put each correction as one item inside "items" in corrections.json.
+
+  "match"    the English title of the question exactly as it is in the app (required)
+  "title"    new English title (optional)
+  "answer"   new English answer (optional)
+  "titleFr"  new French title (optional)
+  "answerFr" new French answer (optional)
+
+Leave out any field you do not want to change. The answer text uses the same markup as the app,
+for example **bold** and a quote followed by its reference. Use \n\n for a blank line between
+paragraphs, and \" for a quote mark inside the text. Keep commas between items.
+
+Example:
+{
+  "v": 1,
+  "items": [
+    {
+      "match": "Articles of Faith",
+      "answer": "The corrected English answer.\n\nSecond paragraph.",
+      "answerFr": "La réponse corrigée en français."
+    }
+  ]
+}
+
+Remove an item to go back to the words stored in the app. A broken file is ignored by the app,
+so the last good version stays in use.
