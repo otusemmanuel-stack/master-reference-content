@@ -1,0 +1,92 @@
+{
+  "updated": "2026-11-27",
+  "firstPresidency": [
+    {
+      "id": "oaks",
+      "name": "Dallin H. Oaks",
+      "prefix": "President",
+      "title": "President of the Church",
+      "titleFr": "Président de l’Église",
+      "photo": ""
+    },
+    {
+      "id": "eyring",
+      "name": "Henry B. Eyring",
+      "prefix": "President",
+      "title": "First Counselor in the First Presidency",
+      "titleFr": "Premier conseiller dans la Première Présidence",
+      "photo": ""
+    },
+    {
+      "id": "christofferson",
+      "name": "D. Todd Christofferson",
+      "prefix": "President",
+      "title": "Second Counselor in the First Presidency",
+      "titleFr": "Deuxième conseiller dans la Première Présidence",
+      "photo": ""
+    }
+  ],
+  "twelve": [
+    {
+      "id": "uchtdorf",
+      "name": "Dieter F. Uchtdorf",
+      "prefix": "President",
+      "photo": ""
+    },
+    {
+      "id": "bednar",
+      "name": "David A. Bednar",
+      "photo": ""
+    },
+    {
+      "id": "cook",
+      "name": "Quentin L. Cook",
+      "photo": ""
+    },
+    {
+      "id": "andersen",
+      "name": "Neil L. Andersen",
+      "photo": ""
+    },
+    {
+      "id": "rasband",
+      "name": "Ronald A. Rasband",
+      "photo": ""
+    },
+    {
+      "id": "stevenson",
+      "name": "Gary E. Stevenson",
+      "photo": ""
+    },
+    {
+      "id": "renlund",
+      "name": "Dale G. Renlund",
+      "photo": ""
+    },
+    {
+      "id": "gong",
+      "name": "Gerrit W. Gong",
+      "photo": ""
+    },
+    {
+      "id": "soares",
+      "name": "Ulisses Soares",
+      "photo": ""
+    },
+    {
+      "id": "kearon",
+      "name": "Patrick Kearon",
+      "photo": ""
+    },
+    {
+      "id": "causse",
+      "name": "Gérald Caussé",
+      "photo": ""
+    },
+    {
+      "id": "gilbert",
+      "name": "Clark G. Gilbert",
+      "photo": ""
+    }
+  ]
+}
