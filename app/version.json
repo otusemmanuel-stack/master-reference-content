@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "name": "",
+  "required": false,
+  "minCode": 0,
+  "notes": {
+    "en": [
+      "Mission mode: teaching on every topic, with questions to ask, scriptures explained and next-visit steps",
+      "Common questions open on top of the Mission page, so you stay where you are teaching",
+      "Study mode in Talk and in the Journal of Discourses: double tap to open and close",
+      "French Bible and French standard works, with the Daily Story and Bible explanations",
+      "A lighter, faster app",
+      "Verses in Mission mode open with a tap"
+    ],
+    "fr": [
+      "Mode mission : enseignement sur chaque sujet, avec des questions à poser, des Écritures expliquées et les étapes de la prochaine visite",
+      "Les questions courantes s'ouvrent par-dessus la page Mission, pour rester là où vous enseignez",
+      "Mode étude dans Discours et dans le Journal of Discourses : touchez deux fois pour ouvrir et fermer",
+      "Bible en français et Écritures en français, avec l'Histoire du jour et les explications de la Bible",
+      "Une application plus légère et plus rapide",
+      "Les versets du mode mission s'ouvrent d'un toucher"
+    ]
+  }
+}
